@@ -83,15 +83,15 @@
   "Golden Shrine": {
     "NAME": "Altar Dorado",
     "DESCRIPTIONS": [
-      "Ante ti yace un altar complejo a un espíritu antiguo. ",
-      "Cuando tu mano toca el altar, #yoro llueve del techo ~bañándote~ ~en~ ~riquezas.~ ",
-      "¡Cada vez que golpeas al altar, #yoro sale una y otra vez! NL NL Mientras guardas tus riquezas, algo #rpesado #rse #rsienta #ren #rtu #rpecho.",
-      "Ignoras al altar."
+      "Ante ti yace el altar de un espíritu antiguo.",
+      "Cuando tu mano toca el altar, #y¡Oro #yllueve #ydel #ytecho, #y~bañándote~ #y~en~ #y~riquezas.!~",
+      "Cada vez que golpeas al altar, #y¡Oro #ycae #yuna #yy #yotra #yvez! NL NL Sin embargo, mientras guardas tus riquezas, sientes #r~un~ #r~gran~ #r~peso~ #r~en~ #r~el~ #r~pecho...~",
+      "Ignoras el altar."
     ],
     "OPTIONS": [
-      "[Rezar] #gGana #g100 #g.",
-      " #gOro.",
-      "[Profanar] #gGanas #g250 #gOro. #rMaldecirte #r- #rLamento.",
+      "[Rezar] #gGana #y",
+      " #yde #yoro.",
+      "[Profanar] #gGanas #y250 #yde #yoro; #rTe #rvuelves #rmaldito: #rLamento.",
       "[Salir]"
     ]
   },
