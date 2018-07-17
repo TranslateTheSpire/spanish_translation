@@ -1242,11 +1242,11 @@
   "Loop": {
     "NAME": "Bucle",
     "DESCRIPTION": "Al comienzo de tu turno, usa la habilidad pasiva de tu siguiente Orbe.",
-    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
+    "UPGRADE_DESCRIPTION": "Al comienzo de tu turno, usa la habilidad pasiva de tu siguiente Orbe !M! times."
   },
   "Hello World": {
     "NAME": "Hola Mundo",
-    "DESCRIPTION": "AL comienzo de tu turno, añade una carta Común aleatoria a tu mano.",
+    "DESCRIPTION": "Al comienzo de tu turno, añade una carta Común aleatoria a tu mano.",
     "UPGRADE_DESCRIPTION": "Innato. NL Al comienzo de tu turno, añade una carta Común aleatoria a tu mano."
   },
   "Primitive Tech": {
@@ -1254,11 +1254,11 @@
     "DESCRIPTION": "Cada vez que juegues una carta Común, roba !M! carta."
   },
   "Scrape": {
-    "NAME": "Scrape",
+    "NAME": "Rascar",
     "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
   },
   "Reprieve": {
-    "NAME": "Reprieve",
+    "NAME": "Indulto",
     "DESCRIPTION": "If an enemy does not intend to attack, gain !M! Focus."
   },
   "Lockon": {
@@ -1266,19 +1266,19 @@
     "DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy."
   },
   "Consume": {
-    "NAME": "Consume",
+    "NAME": "Consumir",
     "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb Slot."
   },
   "BootSequence": {
-    "NAME": "Boot Sequence",
+    "NAME": "Secuencia de arranque",
     "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
   },
   "Steam": {
-    "NAME": "Steam",
+    "NAME": "Vapor",
     "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
   },
   "Electrodynamics": {
-    "NAME": "Electrodynamics",
+    "NAME": "Electrodinámica",
     "DESCRIPTION": "Lightning now hits ALL enemies.",
     "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
   },
@@ -1287,39 +1287,55 @@
     "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
   },
   "Compile Driver": {
-    "NAME": "Compile Driver",
+    "NAME": "Compilar controlador",
     "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
   },
   "RitualDagger": {
-    "NAME": "Ritual Dagger",
+    "NAME": "Daga ritual",
     "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
   },
   "Pride": {
-    "NAME": "Pride",
+    "NAME": "Orgullo",
     "DESCRIPTION": "Innate. NL Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
   },
   "PanicButton": {
-    "NAME": "Panic Button",
+    "NAME": "Botón del pánico",
     "DESCRIPTION": "Gain !B! Block. You cannot gain Block for the next !M! turns. NL Exhaust."
   },
   "Chrysalis": {
-    "NAME": "Chrysalis",
+    "NAME": "Crisálida",
     "DESCRIPTION": "Add !M! random Skills into your Draw Pile. They cost 0 this combat. NL Exhaust."
   },
   "Metamorphosis": {
-    "NAME": "Metamorphosis",
+    "NAME": "Metamorfosis",
     "DESCRIPTION": "Add !M! random Attacks into your Draw Pile. They cost 0 this combat. NL Exhaust."
   },
   "Mayhem": {
-    "NAME": "Mayhem",
+    "NAME": "Desorden",
     "DESCRIPTION": "At the start of your turn, play the top card of your draw pile."
   },
   "Shame": {
-    "NAME": "Shame",
-    "DESCRIPTION": "Unplayable. NL At the end of your turn, gain 1 Frail."
+    "NAME": "Verguenza",
+    "DESCRIPTION": "Injugable. NL At the end of your turn, gain 1 Frail."
   },
   "HandOfGreed": {
     "NAME": "Hand Of Greed",
     "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
+  },
+  "Violence": {
+    "NAME": "Violence",
+    "DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand."
+  },
+  "Impatience": {
+    "NAME": "Impatience",
+    "DESCRIPTION": "If you have no Attack cards in your hand, draw !M! cards."
+  },
+  "Forethought": {
+    "NAME": "Forethought",
+    "DESCRIPTION": "Place a card from your hand on the bottom of your draw pile. NL It costs 0 until it is played."
+  },
+  "Discovery": {
+    "NAME": "Discovery",
+    "DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn."
   }
-}
