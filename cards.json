@@ -218,7 +218,7 @@
     "UPGRADE_DESCRIPTION": "Gana !M! espacios de Orbe."
   },
   "Carnage": {
-    "NAME": "Masacre",
+    "NAME": "Carnicería",
     "DESCRIPTION": "Eterea. NL Haz !D! de daño."
   },
   "Catalyst": {
@@ -849,12 +849,12 @@
     "UPGRADE_DESCRIPTION": "Al siguiente turno NL gana [G] [G] [G]."
   },
   "Overclock": {
-    "NAME": "Overcloquear",
+    "NAME": "Overclock",
     "DESCRIPTION": "Obsoleto.",
     "UPGRADE_DESCRIPTION": "Obsoleto."
   },
   "Pain": {
-    "NAME": "Pain",
+    "NAME": "Dolor",
     "DESCRIPTION": "Injugable. NL Mientras esté en mano, NL pierde 1 PV cuando se juegue otra carta."
   },
   "Panacea": {
@@ -862,88 +862,88 @@
     "DESCRIPTION": "Gana !M! de Artefacto. NL Agota."
   },
   "Panache": {
-    "NAME": "Panache",
+    "NAME": "Estilo",
     "DESCRIPTION": "Cada vez que que juegues 5 cartas en un solo turno, haz !M! de daño a TODOS los enemigos."
   },
   "Parasite": {
-    "NAME": "Parasite",
+    "NAME": "Parásito",
     "DESCRIPTION": "Injugable. NL Si es transformada o quitada del mazo, pierde 3 PV máximos"
   },
   "Perfected Strike": {
-    "NAME": "Perfected Golpe",
+    "NAME": "Golpe perfeccionado",
     "DESCRIPTION": "Haz !D! de daño. NL Haz 2 de daño adicional por cada 'Golpe' que tengas.",
     "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Haz 3 de daño adicional por cada 'Golpe' que tengas.";
   },
   "Phantasmal Killer": {
-    "NAME": "Phantasmal Killer",
+    "NAME": "Asesino fantasmal",
     "DESCRIPTION": "En tu siguiente turno, tu daño de Ataque se duplica."
   },
   "PiercingWail": {
-    "NAME": "Piercing Wail",
+    "NAME": "Llanto lacerante",
     "DESCRIPTION": "TODOS los enemigos pierden !M! de Fuerza por 1 turno. NL Agota."
   },
   "Poisoned Stab": {
-    "NAME": "Envenenado Stab",
+    "NAME": "Puñalada envenenada",
     "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! de Veneno."
   },
   "Pommel Strike": {
-    "NAME": "Pommel Golpe",
+    "NAME": "Golpe de empuñadura",
     "DESCRIPTION": "Haz !D! de daño. NL Roba !M! carta.",
     "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Roba !M! cartas."
   },
   "Power Through": {
-    "NAME": "Poder Through",
+    "NAME": "Avanzar a toda costa",
     "DESCRIPTION": "Añade 2 'Herida' a la mano. NL Gana !B! de Bloqueo."
   },
   "Predator": {
-    "NAME": "Predator",
+    "NAME": "Depredador",
     "DESCRIPTION": "Haz !D! de daño. NL Roba 2 o mas cartas en el siguiente turno."
   },
   "Prepared": {
-    "NAME": "Prepared",
+    "NAME": "Estar preparada",
     "DESCRIPTION": "Roba !M! carta. NL Descarta !M! carta.",
     "UPGRADE_DESCRIPTION": "Roba !M! cartas. NL Descarta !M! cartas."
   },
   "Prime": {
-    "NAME": "Prime",
+    "NAME": "Cebar",
     "DESCRIPTION": "Cada vez que Canalices un Orbe, roba !M! carta."
   },
   "Primitive Tech": {
-    "NAME": "Primitive Tech",
+    "NAME": "Tecnología primitiva",
     "DESCRIPTION": "Obsoleto."
   },
   "Pummel": {
-    "NAME": "Pummel",
+    "NAME": "Paliza",
     "DESCRIPTION": "Haz !D! de daño !M! veces. NL Agota.",
     "UPGRADE_DESCRIPTION": "Haz !D! de daño !M! veces. NL Agota."
   },
   "Purity": {
-    "NAME": "Purity",
+    "NAME": "Pureza",
     "DESCRIPTION": "Elige y Agota hasta !M! cartas en la mano. NL Agota."
   },
   "Quick Slash": {
-    "NAME": "Quick Slash",
+    "NAME": "Corte rápido",
     "DESCRIPTION": "Haz !D! de daño. NL Roba 1 carta."
   },
   "Rage": {
-    "NAME": "Rage",
+    "NAME": "Furia",
     "DESCRIPTION": "Cada vez que juegues una carta de Ataque en este turno, gana !M! de Bloqueo."
   },
   "Rainbow": {
-    "NAME": "Rainbow",
+    "NAME": "Arcoiris",
     "DESCRIPTION": "Canaliza 1 Relampago, 1 Escarcha, y 1 Oscuridad. NL Agota.",
     "UPGRADE_DESCRIPTION": "Canaliza 1 Relampago, 1 Escarcha, y 1 Oscuridad."
   },
   "Rampage": {
-    "NAME": "Rampage",
+    "NAME": "Masacre",
     "DESCRIPTION": "Haz !D! de daño. NL Cada vez que esta carta es jugada, incrementa su daño en !M! en este combate."
   },
   "Reaper": {
-    "NAME": "Reaper",
+    "NAME": "Parca",
     "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. Cura igual al daño no bloqueado causado al enemigo. NL Agota."
   },
   "Reboot": {
-    "NAME": "Reboot",
+    "NAME": "Reinicio",
     "DESCRIPTION": "Baraja todas las cartas a la pila de extracción, entonces roba !M! cartas. NL Agota."
   },
   "Rebound": {
@@ -951,19 +951,19 @@
     "DESCRIPTION": "Haz !D! de daño. NL Coloca la siguiente carta que juegues en este turno al tope de la pila de extracción."
   },
   "Reckless Charge": {
-    "NAME": "Reckless Charge",
+    "NAME": "Carga imprudente",
     "DESCRIPTION": "Haz !D! de daño. NL Baraja un 'Desorientado' en la pila de extracción."
   },
   "Recycle": {
-    "NAME": "Recycle",
+    "NAME": "Reciclar",
     "DESCRIPTION": "Agota una carta. NL Gana [B] igual a su coste."
   },
   "Redo": {
-    "NAME": "Recursion",
+    "NAME": "Rehacer",
     "DESCRIPTION": "Evoca tu siguiente Orbe. NL Canaliza el Orbe que acabas de Evocar."
   },
   "Reflex": {
-    "NAME": "Reflex",
+    "NAME": "Reflejos",
     "DESCRIPTION": "Injugable. NL Si esta carta es descartada de la mano, roba !M! carta.",
     "UPGRADE_DESCRIPTION": "Injugable. NL Si esta carta es descartada de la mano, roba !M! cartas.",
     "EXTENDED_DESCRIPTION": [
@@ -971,15 +971,15 @@
     ]
   },
   "Regret": {
-    "NAME": "Regret",
+    "NAME": "Arrepentimiento",
     "DESCRIPTION": "Injugable. NL Al final de tu turno, pierde 1 PV por cada carta en la mano."
   },
   "Reinforced Body": {
-    "NAME": "Reinforced Body",
+    "NAME": "Cuerpo reforzado",
     "DESCRIPTION": "Gana !B! de Bloqueo X veces."
   },
   "Reprieve": {
-    "NAME": "Reprieve",
+    "NAME": "Indulto",
     "DESCRIPTION": "Si un enemigo no tiene intención de atacar, gana !M! de Concentración."
   },
   "Reprogram": {

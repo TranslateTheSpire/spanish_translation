@@ -14,9 +14,9 @@
     ]
   },
   "TimeMaze": {
-    "NAME": "Mazo Temporal",
+    "NAME": "Mazo temporal",
     "DESCRIPTION": [
-      "Los enemigos tienen el poder Mazo Temporal.",
+      "Los enemigos tienen el poder Mazo temporal.",
       " cartas por turno.",
       "Solo puedes jugar hasta NL #r"
     ]
