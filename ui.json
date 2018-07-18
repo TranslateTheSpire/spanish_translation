@@ -1137,8 +1137,8 @@
   },
   "AnyCardFromDeckToHandAction": {
     "TEXT": [
-      "Elige una carta para añadir a tu mano",
-      "Elige cartas para añadir a tu mano"
+      "Elige una carta para añadir a tu mano.",
+      "Elige cartas para añadir a tu mano."
     ]
   },
   "ReprieveAction": {
