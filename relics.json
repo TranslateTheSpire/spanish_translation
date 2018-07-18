@@ -195,7 +195,8 @@
     "NAME": "Químico X",
     "FLAVOR": "ADVERTENCIA: No mezclar con azúcar, especias o nada que sepa agradable.",
     "DESCRIPTIONS": [
-      "Cada vez que juegas una carta de costo #bX sus efectos incrementan por #b"
+      "Cada vez que juegas una carta de costo #bX sus efectos incrementan por #b",
+	  ""
     ]
   },
   "Circlet": {
