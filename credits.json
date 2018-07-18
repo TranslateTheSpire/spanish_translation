@@ -46,17 +46,17 @@
     ]
   },
   "LOC_ZHS": {
-    "HEADER": "Traducción Chino (Simplificado)",
+    "HEADER": "Traducción al Chino (Simplificado)",
     "NAMES": [
       "Sound of Mystery"
     ]
   },
   "LOC_ZHT": {
-    "HEADER": "Traducción Chino (Tradicional)",
+    "HEADER": "Traducción al Chino (Tradicional)",
     "NAMES": []
   },
   "LOC_FRA": {
-    "HEADER": "Traducción Francés",
+    "HEADER": "Traducción al Francés",
     "NAMES": [
       "Xavier \"Blagatt\" Dupont",
       "Malik \"Devexia\" Leonarski",
@@ -72,7 +72,7 @@
     ]
   },
   "LOC_DEU": {
-    "HEADER": "Traducción Alemán",
+    "HEADER": "Traducción al Alemán",
     "NAMES": [
       "Joshua \"Joshipon\" Wiegand ",
       "Dustin \"Skrelpoid\" Kristen",
@@ -83,7 +83,7 @@
     ]
   },
   "LOC_ITA": {
-    "HEADER": "Traducción Italiano",
+    "HEADER": "Traducción al Italiano",
     "NAMES": [
       "Hob",
       "Mero Marco",
@@ -91,13 +91,13 @@
     ]
   },
   "LOC_JPN": {
-    "HEADER": "Traducción Japonés",
+    "HEADER": "Traducción al Japonés",
     "NAMES": [
       "Grezzz"
     ]
   },
   "LOC_KOR": {
-    "HEADER": "Traducción Koreano",
+    "HEADER": "Traducción al Koreano",
     "NAMES": [
       "Administrador de Traducción:",
       "Eteriny",
@@ -113,13 +113,13 @@
     ]
   },
   "LOC_NOR": {
-    "HEADER": "Traducción Noruego",
+    "HEADER": "Traducción al Noruego",
     "NAMES": [
       "Eystein Jarp"
     ]
   },
   "LOC_POL": {
-    "HEADER": "Traducción Polaco",
+    "HEADER": "Traducción al Polaco",
     "NAMES": [
       "Traducción y Coordinación:",
       "Stanis³aw \"ST4H\" Borkowski",
@@ -138,7 +138,7 @@
     ]
   },
   "LOC_PTB": {
-    "HEADER": "Traducción - Português do Brasil",
+    "HEADER": "Traducción al Portugués Brasil",
     "NAMES": [
       "Guilherme \"GPerego\" Perego",
       "Gustavo \"KomKlave\" Duarte",
@@ -149,7 +149,7 @@
     ]
   },
   "LOC_RUS": {
-    "HEADER": "Traducción Ruso",
+    "HEADER": "Traducción al Ruso",
     "NAMES": [
       "Traducción y coordinación:",
       "Ivan \"Ingrett\" Khoroshunenko",
@@ -169,7 +169,7 @@
     ]
   },
   "LOC_TUR": {
-    "HEADER": "Traducción Turco",
+    "HEADER": "Traducción al Turco",
     "NAMES": [
       "Erdem Gürbüz"
     ]
@@ -232,23 +232,23 @@
     "NAMES": []
   },
   "LOC_SRB": {
-    "HEADER": "Serbian Localization",
+    "HEADER": "Traducción al Serbio",
     "NAMES": [
       "Nikola \"hauzer\" Vukosavljević"
     ]
   },
   "LOC_UKR": {
-    "HEADER": "Ukrainian Localization",
+    "HEADER": "Traducción al Ucraniano",
     "NAMES": [
       "Vladyslav \"DarkXylese\" Kashtelyanov"
     ]
   },
   "LOC_CAT": {
-    "HEADER": "Catalan Localization",
+    "HEADER": "Traducción al Catalán",
     "NAMES": []
   },
   "LOC_GRE": {
-    "HEADER": "French Localization",
+    "HEADER": "Traducción al Francés",
     "NAMES": [
       "Kotsos \"Iglor\" Diamond"
     ]
