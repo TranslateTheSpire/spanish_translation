@@ -1,7 +1,7 @@
 {
   "Crowbot": {
     "NAMES": [
-      "Cuerv-bot"
+      "Cuervobot"
     ],
     "TEXT": [
       "BEEP BOOP"
@@ -9,10 +9,10 @@
   },
   "Defect": {
     "NAMES": [
-      "Defecto"
+      "El Defectuoso"
     ],
     "TEXT": [
-      "Un autómata de combate que tomo consciencia de sí mismo. NL Technologías de Los Antiguos le permite la manipulación de Orbes."
+      "Un autómata de combate que tomo consciencia de sí mismo. NL La tecnología de Los Antiguos le permite manipular los Orbes."
     ]
   },
   "Ironclad": {
@@ -20,7 +20,7 @@
       "El Blindado"
     ],
     "TEXT": [
-      "El último soldado de “los Blindados”. NL Vendió su alma para poder usar las energías demoniacas."
+      "El último soldado de 'los Blindados'. NL Vendió su alma para poder usar las energías demoniacas."
     ]
   },
   "Merchant": {
@@ -156,7 +156,7 @@
       "La Silenciosa"
     ],
     "TEXT": [
-      "Una cazadora mortal de las tierras bajas. NL Erradica sus presas con dagas y venenos."
+      "Una cazadora mortal de las tierras bajas. NL Erradica a sus presas con dagas y veneno."
     ]
   }
 }
