@@ -755,7 +755,7 @@
     "DESCRIPTION": "El enemigo pierde X de Fuerza. Aplica X Débil. NL Agota.",
     "UPGRADE_DESCRIPTION": "El enemigo pierde X+1 de Fuerza. Aplica X+1 Débil. NL Agota."
   },
-  "Master de Strategy": {
+  "Master of Strategy": {
     "NAME": "Maestro de la estrategia",
     "DESCRIPTION": "Roba !M! cartas. NL Agota."
   },
@@ -872,7 +872,7 @@
   "Perfected Strike": {
     "NAME": "Golpe perfeccionado",
     "DESCRIPTION": "Haz !D! de daño. NL Haz 2 de daño adicional por cada 'Golpe' que tengas.",
-    "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Haz 3 de daño adicional por cada 'Golpe' que tengas.";
+    "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Haz 3 de daño adicional por cada 'Golpe' que tengas."
   },
   "Phantasmal Killer": {
     "NAME": "Asesino fantasmal",
