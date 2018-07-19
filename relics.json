@@ -193,7 +193,7 @@
   },
   "Chemical X": {
     "NAME": "Químico X",
-    "FLAVOR": "ADVERTENCIA: No mezclar con azúcar, especias o nada que sepa agradable.",
+    "FLAVOR": "ADVERTENCIA: No mezclar con azúcar, especias o muchas cosas bonitas.",
     "DESCRIPTIONS": [
       "Cada vez que juegas una carta de coste #bX sus efectos incrementan por #b"
     ]
@@ -1320,7 +1320,7 @@
     ]
   },
   "OrangePellets": {
-    "NAME": "Perdigones naranja",
+    "NAME": "Gránulos naranja",
     "FLAVOR": "\"Hechos con varios hongos encontrados a lo largo de la Torre, evitarán cualquier aflicción.\"",
     "DESCRIPTIONS": [
       "Cada vez que juegas un #ypoder, #yataque y #yhabilidad en el mismo turno, elimina todos tus perjuicios."
@@ -1330,7 +1330,25 @@
     "NAME": "Cuchilla de muñeca",
     "FLAVOR": "Útil para asesinatos.",
     "DESCRIPTIONS": [
-      "Las cartas de #yataque que cuestan #b0 infligen #b4 de daño adicional."
+      "Las cartas de #yataque que cuestan #b0 infligen #b3 de daño adicional."
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunchaku",
+    "FLAVOR": "Una buena herramienta de entrenamiento. Mejora la postura y la agilidad del portador.",
+    "DESCRIPTIONS": [
+      "Cada vez que juegues #b",
+      " #yataques, gana [R] .",
+      " #yataques, gana [G] .",
+      " #yataques, gana [B] ."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Banco de maw",
+    "FLAVOR": "sorprendentemente popular, a pesar de que los ataques del maw ocurran regularmente.",
+    "DESCRIPTIONS": [
+      "Cada vez que escales un piso, gana #b",
+      " #yoro. Esta reliquia dejará de funcionar cuando gastes #yoro en la tienda."
     ]
   }
 }
