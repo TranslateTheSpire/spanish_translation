@@ -1171,12 +1171,12 @@
   },
   "ForethoughtAction": {
     "TEXT": [
-      "put on bottom of your draw pile."
+      "pon debajo de tu pila de extracción."
     ]
   },
   "GainGoldTextEffect": {
     "TEXT": [
-      " Gold"
+      " Oro"
     ]
   }
 }
