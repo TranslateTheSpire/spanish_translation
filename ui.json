@@ -66,7 +66,7 @@
     "TEXT": [
       "Desconocido",
       "Enemigo",
-      "Elite",
+      "Élite",
       "Evento",
       "Jefe",
       "Tesoro",
@@ -236,8 +236,8 @@
       "Enemigo",
       "Enemigos",
       "Enemigos hostiles aguardan en estas habitaciones.",
-      "Elite",
-      "Elites",
+      "Élite",
+      "Élites",
       "Poderosos enemigos aguardan en estas habitaciones. NL NL Derrotarlos te recompensará con una Reliquia.",
       "Leyenda"
     ]
@@ -528,14 +528,14 @@
       "Desbloqueos restantes: ",
       "Desbloqueo restante: ",
       "Enemigos abatidos",
-      "Elites abatidos",
+      "Élites abatidos",
       "Oro no gastado",
       "Bonificación por PV"
     ],
     "EXTRA_TEXT": [
-      "Elites de Exoridum derrotados",
-      "Elites de la Ciudad derrotados",
-      "Elites del Más Allá derrotados",
+      "Élites de Exoridum derrotados",
+      "Élites de la Ciudad derrotados",
+      "Élites del Más Allá derrotados",
       "Fitipaldi",
       "Velocidad de la luz",
       "Highlander",
@@ -820,14 +820,14 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Los elites aparecen más seguido.",
+      "Los élites aparecen más seguido.",
       "Los enemigos normales son más letales.",
-      "Los Elites son más letales.",
+      "Los Élites son más letales.",
       "Los Jefes son más letales.",
       "Te curas menos después de Batallas con Jefes.",
       "Empieza cada partida dañado.",
       "Los enemigos normales son más resistentes.",
-      "Los Elites son más resistentes.",
+      "Los Élites son más resistentes.",
       "Los Jefes son más resistentes.",
       "¡Parásito!",
       "Las pociones son menos potentes.",
