@@ -1,7 +1,7 @@
 {
   "Crowbot": {
     "NAMES": [
-      "Cuerv-bot"
+      "Cuer-bot"
     ],
     "TEXT": [
       "BEEP BOOP"
@@ -9,10 +9,10 @@
   },
   "Defect": {
     "NAMES": [
-      "Defecto"
+      "El Defectuoso"
     ],
     "TEXT": [
-      "Un autómata de combate que tomo consciencia de sí mismo. NL Technologías de Los Antiguos le permite la manipulación de Orbes."
+      "Un autómata de combate que tomo consciencia de sí mismo. NL La tecnología de los Antiguos le permite la manipulación de orbes."
     ]
   },
   "Ironclad": {
@@ -25,7 +25,7 @@
   },
   "Merchant": {
     "NAMES": [
-      "Continua",
+      "Continúa",
       "~¡Bienvenido!~"
     ],
     "TEXT": [
@@ -37,10 +37,10 @@
       "Tómate tu tiempo... NL ..... NL ... o no",
       "¿Te gusta esta alfombra? NL No está a la venta",
       "¡Colabora con los pequeños negocios!",
-      "Las máscaras son geniales !si lo sabré yo!",
+      "Las máscaras son geniales ¡si lo sabré yo!",
       "Hmm... NL ...hmm... NL Oh!",
       "¡Quédate un rato y escucha!",
-      "!Es peligroso ir solo! ¡Dame todo tu oro!!",
+      "!Es peligroso ir solo! ¡Dame todo tu oro!",
       "Compra algo'",
       "~*BOSTEZO*~",
       "Me encanta el oro.",
@@ -59,7 +59,7 @@
       "~Alcanza~ ~al~ ~jefe...~ NL ~para~ ~recibir~ ~mi..~ ~bendición...~",
       "~Por~ ~lo~ ~menos...~ ~confronta~ NL ~al~ ~primer~ ~jefe...~",
       "~Te~ ~traje~ ~de~ ~vuelta...~",
-      "~Elije...~",
+      "~Elige...~",
       "~Concedido...~",
       "~Riesgo...~ NL ~..recompensa....~",
       "~Hora~ ~de~ ~un~ NL ~RETO...~",
@@ -74,7 +74,7 @@
     "OPTIONS": [
       "[Continuar]",
       "[Hablar]",
-      "[Saltear]",
+      "[Saltar]",
       "[Salir]"
     ]
   },
