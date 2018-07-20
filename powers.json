@@ -13,6 +13,14 @@
       " de #yBloqueo."
     ]
   },
+  "Amplify": {
+    "NAME": "Amplificar",
+    "DESCRIPTIONS": [
+      "Durante este turno, juega tu siguiente #yPoder dos veces.",
+      "Durante este turno, juega tus siguientes",
+      " #yPoderes dos veces."
+    ]
+  },
   "Anger": {
     "NAME": "Ira",
     "DESCRIPTIONS": [
@@ -52,6 +60,20 @@
       "El #yBloqueo ya no expira al inicio del turno."
     ]
   },
+  "Berserk": {
+    "NAME": "Frenético",
+    "DESCRIPTIONS": [
+      "Si tu PV es igual o inferior a  #b50%, gana ",
+      " al comienzo de tu turno."
+    ]
+  },
+  "Bias": {
+    "NAME": "Prejuicio",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu turno, pierde #b",
+      " #yConcentración."
+    ]
+  },
   "Blur": {
     "NAME": "Difuminarse",
     "DESCRIPTIONS": [
@@ -69,6 +91,20 @@
       "Al inicio de tu turno, pierde #b",
       " PV y roba #b",
       " cartas."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Almacenar Datos",
+    "DESCRIPTIONS": [
+      "Prevén la siguiente vez que fueras a perder PV.",
+      "Prevén las siguientes #b",
+      " veces que fueras a perder PV."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "Tiempo Bala",
+    "DESCRIPTIONS": [
+      "El coste de energía de todas las cartas Verdes ahora es de #b0."
     ]
   },
   "Burst": {
@@ -100,6 +136,14 @@
       "Cada vez que robas una carta, su coste se elige al azar."
     ]
   },
+  "Conserve": {
+    "NAME": "Conservar",
+    "DESCRIPTIONS": [
+      "La #yEnergía se conserva este turno.",
+      "La #yEnergía se conserva los próximos #b",
+      " turnos."
+    ]
+  },
   "Constricted": {
     "NAME": "Oprimido",
     "DESCRIPTIONS": [
@@ -107,11 +151,27 @@
       " de daño."
     ]
   },
+  "CorpseExplosionPower": {
+    "NAME": "Corpse Explosion",
+    "DESCRIPTIONS": [
+      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
+      "When this enemy dies, deal damage to ALL enemies equal to #b",
+      " times its Max HP."
+    ]
+  },
   "Corruption": {
     "NAME": "Corrupción",
     "DESCRIPTIONS": [
       "Las Habilidades cuestan #b0. Cuando juegas una #yHabilidad, #yAgotala.",
       "Whenever you play a #yHabilidad, #yExhaust it."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "IA Creativa",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu turno, añade #b",
+      " cartas de Poder aleatorias a tu mano.",
+      " random Power cards into your hand."
     ]
   },
   "Curiosity": {
@@ -152,6 +212,13 @@
       " de #yFuerza."
     ]
   },
+  "DexLoss": {
+    "NAME": "Dexterity Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
+    ]
+  },
   "Dexterity": {
     "NAME": "Destreza",
     "DESCRIPTIONS": [
@@ -176,14 +243,6 @@
       " #yAtaques dos veces."
     ]
   },
-  "Draw Card": {
-    "NAME": "Robar Carta",
-    "DESCRIPTIONS": [
-      "Roba #b",
-      " cartas el siguiente turno.",
-      " carta el siguiente turno."
-    ]
-  },
   "Draw": {
     "NAME": "Robar",
     "DESCRIPTIONS": [
@@ -192,6 +251,14 @@
       " carta menos al comienzo de cada turno.",
       " cartas adicionales al comienzo de cada turno.",
       " cartas menos al comienzo de cada turno."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "Robar Carta",
+    "DESCRIPTIONS": [
+      "Roba #b",
+      " cartas el siguiente turno.",
+      " carta el siguiente turno."
     ]
   },
   "Draw Down": {
@@ -210,12 +277,37 @@
       " turnos."
     ]
   },
+  "Echo Form": {
+    "NAME": "Forma de Eco",
+    "DESCRIPTIONS": [
+      "La primera carta jugada cada turno se jugará #b",
+      " vez extra.",
+      " veces extra."
+    ]
+  },
+  "Electro": {
+    "NAME": "Electro",
+    "DESCRIPTIONS": [
+      "#yLightning hits ALL enemies.",
+      " NL If there is only #b1 enemy, #yLightning hits #b",
+      " times."
+    ]
+  },
   "Energized": {
     "NAME": "Energizado",
     "DESCRIPTIONS": [
       "Gana #b",
       " de  [G] adicional el siguiente turno.",
       " de  [G] adicional el siguiente turno.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Energized",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " additional [B] next turn.",
+      " additional [B] next turn.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
@@ -230,6 +322,14 @@
     "DESCRIPTIONS": [
       "Cada vez que infliges daño de un #yAtaque sin bloquear, aplica #b",
       " de #yVeneno."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
     ]
   },
   "Evolve": {
@@ -247,6 +347,22 @@
       " turnos, explota causando #b",
       " de daño.",
       "Al inicio de su turno, explota causando #b"
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "Cartas Extra",
+    "DESCRIPTIONS": [
+      "Roba #b1 carta más el siguiente turno.",
+      "Roba #b",
+      " cartas extra el siguiente turno."
+    ]
+  },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
     ]
   },
   "Feel No Pain": {
@@ -270,16 +386,25 @@
       " de daño de vuelta."
     ]
   },
+  "Flex": {
+    "NAME": "Flexionar",
+    "DESCRIPTIONS": [
+      "Al final de tu turno, pierde#b",
+      " de #yFuerza."
+    ]
+  },
   "Flight": {
     "NAME": "Vuelo",
     "DESCRIPTIONS": [
       "Reduce el daño recibido de los #yAtaques un #b50%. Se cancela si se recibe daño de #yAtaques #b3 veces en un turno."
     ]
   },
-  "Nullify Attack": {
-    "NAME": "Anular Ataque",
+  "Focus": {
+    "NAME": "Concentración",
     "DESCRIPTIONS": [
-      "#yBloquea por completo un #yAtaque cada turno."
+      "Aumenta la efectividad de los Orbes en #b",
+      "Reduce la efectividad de los Orbes en  #b",
+      "."
     ]
   },
   "Frail": {
@@ -290,13 +415,6 @@
       " turnos."
     ]
   },
-  "Shackled": {
-    "NAME": "Encadenado",
-    "DESCRIPTIONS": [
-      "Recupera #b",
-      " de #yFuerza al final de este turno."
-    ]
-  },
   "Gambit": {
     "NAME": "Apertura",
     "DESCRIPTIONS": [
@@ -304,6 +422,36 @@
       " turno, gana ",
       " turnos, gana ",
       " [B] ."
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "Al final de su turno, gana #b",
+      " de #yFuerza."
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Crecimiento",
+    "DESCRIPTIONS": [
+      "Al final del turno, gana #b",
+      " #yFuerza."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Sumidero",
+    "DESCRIPTIONS": [
+      "Cada vez que juegues un Poder, roba #b",
+      " carta.",
+      " cartas."
+    ]
+  },
+  "Hello": {
+    "NAME": "Hola",
+    "DESCRIPTIONS": [
+      "Al comeinzo de tu turno, añade #b",
+      " carta Común aleatoria a tu mano.",
+      " cartas Común aleatorias a tu mano."
     ]
   },
   "Hex": {
@@ -329,16 +477,16 @@
       " #yNavaja."
     ]
   },
-  "Bullet Time": {
-    "NAME": "Tiempo Bala",
-    "DESCRIPTIONS": [
-      "El coste de energía de todas las cartas Verdes ahora es de #b0."
-    ]
-  },
   "Intangible": {
     "NAME": "Intangible",
     "DESCRIPTIONS": [
       "Reduce TODO daño y perdida de PV a #1 en este turno. Intangible se aplica en turnos alternos"
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Intangible",
+    "DESCRIPTIONS": [
+      "Reduce TODO el daño recibido y PV perdidos a #b1."
     ]
   },
   "Inverted": {
@@ -361,11 +509,41 @@
       " cartas."
     ]
   },
-  "Flex": {
-    "NAME": "Flexionar",
+  "Life Link": {
+    "NAME": "Vínculo de Vida",
     "DESCRIPTIONS": [
-      "Al final de tu turno, pierde#b",
-      " de #yFuerza."
+      "Si otros enemigos siguen vivos, revive en #b2 turnos al #b50% de PV."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTIONS": [
+      "#yLightning and #yDark Orbs target this enemy.",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
+    ]
+  },
+  "Loop": {
+    "NAME": "Bucle",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu turno, usa la habilidad pasiva de tu siguiente Orbe.",
+      "Al comienzo de tu turno, usa la habilidad pasiva de tus siguientes #b",
+      " Orbes."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Machine Learning",
+    "DESCRIPTIONS": [
+      "Roba #b",
+      " carta adicional al comienzo de cada turno.",
+      " cartas adicionales al comienzo de cada turno."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Magnetismo",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu turno, añade #b%s carta incolora aleatoria a tu mano.",
+      "Al comienzo de tu turno, añade #b%s cartas incoloras aleatorias a tu mano."
     ]
   },
   "Malleable": {
@@ -375,6 +553,14 @@
       " de#yBloqueo. La cantidad de #yBloqueo ganada aumenta cada vez ",
       " que es activada. Se reinicia en #b",
       " al comienzo de tu turno."
+    ]
+  },
+  "Mayhem": {
+    "NAME": "Mayhem",
+    "DESCRIPTIONS": [
+      "At the start of your turn, play the top card of your draw pile.",
+      "At the start of your turn, play the top #b",
+      " cards of your draw pile."
     ]
   },
   "Metallicize": {
@@ -413,10 +599,22 @@
       " cartas a tu mano."
     ]
   },
+  "No Attack": {
+    "NAME": "Sin atacar",
+    "DESCRIPTIONS": [
+      "No puedes jugar #yAtaques este turno."
+    ]
+  },
   "No Draw": {
     "NAME": "Sin Robar",
     "DESCRIPTIONS": [
       "No puedes robar cartas hasta el final de tu turno."
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "No Block Power",
+    "DESCRIPTIONS": [
+      "You cannot gain #yBlock."
     ]
   },
   "Noxious Fumes": {
@@ -424,6 +622,18 @@
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, aplica #b",
       " de #yVeneno a TODOS los enemigos."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "Anular Ataque",
+    "DESCRIPTIONS": [
+      "#yBloquea por completo un #yAtaque cada turno."
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Puñaladas Dolorosas",
+    "DESCRIPTIONS": [
+      "Cada vez que recibas daño de este enemigo, añade una #yHerida en tu Pila de Descartes."
     ]
   },
   "Panache": {
@@ -466,11 +676,35 @@
       "Al comienzo de su turno, pierde #b"
     ]
   },
+  "Prime": {
+    "NAME": "Preparar",
+    "DESCRIPTIONS": [
+      "Cada vez que #yInvoques un Orbe, roba #b",
+      " carta.",
+      " cartas."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Primitivo",
+    "DESCRIPTIONS": [
+      "Cada vez que juegues una carta Común, roba #b",
+      " carta.",
+      " cartas."
+    ]
+  },
   "Rage": {
     "NAME": "Furia",
     "DESCRIPTIONS": [
       "Cada vez que juegas un Ataque este turno, gana #b",
       " de #yBloqueo."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Rebote",
+    "DESCRIPTIONS": [
+      "La siguiente carta que juegues este turno se colocará encima de tu pila de robado.",
+      "Las siguientes #b",
+      " cartas que juegues este turno se colocarán encima de tu pila de robado."
     ]
   },
   "Reduce Damage": {
@@ -494,10 +728,11 @@
       " turnos."
     ]
   },
-  "Life Link": {
-    "NAME": "Vínculo de Vida",
+  "Repair": {
+    "NAME": "Reparar",
     "DESCRIPTIONS": [
-      "Si otros enemigos siguen vivos, revive en #b2 turnos al #b50% de PV."
+      "Al final del combate, sana #b",
+      " PV."
     ]
   },
   "Repulse": {
@@ -537,13 +772,6 @@
       " de #yFuerza."
     ]
   },
-  "Generic Strength Up Power": {
-    "NAME": "",
-    "DESCRIPTIONS": [
-      "Al final de su turno, gana #b",
-      " de #yFuerza."
-    ]
-  },
   "Rupture": {
     "NAME": "Ruptura",
     "DESCRIPTIONS": [
@@ -564,6 +792,13 @@
       "Inmune a las #yPociones."
     ]
   },
+  "Shackled": {
+    "NAME": "Encadenado",
+    "DESCRIPTIONS": [
+      "Recupera #b",
+      " de #yFuerza al final de este turno."
+    ]
+  },
   "Sharp Hide": {
     "NAME": "Pellejo afilado",
     "DESCRIPTIONS": [
@@ -571,16 +806,17 @@
       " de daño."
     ]
   },
+  "Shifting": {
+    "NAME": "Shifting",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " takes damage, it loses that much #yStrength until the end of the turn."
+    ]
+  },
   "Shriek From Beyond": {
     "NAME": "Alarido del Más Allá",
     "DESCRIPTIONS": [
       "Cuando juegues un ataque, descarta una carta aleatoria."
-    ]
-  },
-  "Painful Stabs": {
-    "NAME": "Puñaladas Dolorosas",
-    "DESCRIPTIONS": [
-      "Cada vez que recibas daño de este enemigo, añade una #yHerida en tu Pila de Descartes."
     ]
   },
   "Skill Burn": {
@@ -622,12 +858,18 @@
       " es devuelta a tu mano."
     ]
   },
-  "Extra Cards": {
-    "NAME": "Cartas Extra",
+  "StaticDischarge": {
+    "NAME": "Descarga Estática",
     "DESCRIPTIONS": [
-      "Roba #b1 carta más el siguiente turno.",
-      "Roba #b",
-      " cartas extra el siguiente turno."
+      "Cuando recibas daño de #yAtaque, #yInvoca #b",
+      " #yRelámpago."
+    ]
+  },
+  "Storm": {
+    "NAME": "Tormenta",
+    "DESCRIPTIONS": [
+      "Cada vez que juegues un #bPoder, #yInvoca #b ",
+      " Relámpago."
     ]
   },
   "Strength": {
@@ -636,6 +878,13 @@
       "Aumenta el daño de ataque en #b",
       "Reduce el daño de ataque en #b",
       "."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "The Bomb",
+    "DESCRIPTIONS": [
+      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
+      "At the end of this turn, deal %1$s damage to ALL enemies"
     ]
   },
   "Thievery": {
@@ -659,19 +908,19 @@
       " de daño a TODOS los enemigos."
     ]
   },
-  "Berserk": {
-    "NAME": "Frenético",
-    "DESCRIPTIONS": [
-      "Si tu PV es igual o inferior a  #b50%, gana ",
-      " al comienzo de tu turno."
-    ]
-  },
   "Time Warp": {
     "NAME": "Distorsión temporal",
     "DESCRIPTIONS": [
       "Cuando juegues #b",
       " cartas, tu turno termina y el Devorador de Tiempo gana #b",
       " de #yFuerza."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Time Maze",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, your turn is ended"
     ]
   },
   "Tools Of The Trade": {
@@ -721,260 +970,11 @@
       " turnos."
     ]
   },
-  "GrowthPower": {
-    "NAME": "Crecimiento",
-    "DESCRIPTIONS": [
-      "Al final del turno, gana #b",
-      " #yFuerza."
-    ]
-  },
-  "IntangiblePlayer": {
-    "NAME": "Intangible",
-    "DESCRIPTIONS": [
-      "Reduce TODO el daño recibido y PV perdidos a #b1."
-    ]
-  },
   "Wraith Form v2": {
     "NAME": "Forma Espectral",
     "DESCRIPTIONS": [
       "Al final de tu turno, pierde #b ",
       " Destreza."
-    ]
-  },
-  "Heatsink": {
-    "NAME": "Sumidero",
-    "DESCRIPTIONS": [
-      "Cada vez que juegues un Poder, roba #b",
-      " carta.",
-      " cartas."
-    ]
-  },
-  "Repair": {
-    "NAME": "Reparar",
-    "DESCRIPTIONS": [
-      "Al final del combate, sana #b",
-      " PV."
-    ]
-  },
-  "Storm": {
-    "NAME": "Tormenta",
-    "DESCRIPTIONS": [
-      "Cada vez que juegues un #bPoder, #yInvoca #b ",
-      " Relámpago."
-    ]
-  },
-  "Focus": {
-    "NAME": "Concentración",
-    "DESCRIPTIONS": [
-      "Aumenta la efectividad de los Orbes en #b",
-      "Reduce la efectividad de los Orbes en  #b",
-      "."
-    ]
-  },
-  "Conserve": {
-    "NAME": "Conservar",
-    "DESCRIPTIONS": [
-      "La #yEnergía se conserva este turno.",
-      "La #yEnergía se conserva los próximos #b",
-      " turnos."
-    ]
-  },
-  "Magnetism": {
-    "NAME": "Magnetismo",
-    "DESCRIPTIONS": [
-      "Al comienzo de tu turno, añade #b%s carta incolora aleatoria a tu mano.",
-      "Al comienzo de tu turno, añade #b%s cartas incoloras aleatorias a tu mano."
-    ]
-  },
-  "Bias": {
-    "NAME": "Prejuicio",
-    "DESCRIPTIONS": [
-      "Al comienzo de tu turno, pierde #b",
-      " #yConcentración."
-    ]
-  },
-  "Creative AI": {
-    "NAME": "IA Creativa",
-    "DESCRIPTIONS": [
-      "Al comienzo de tu turno, añade #b",
-      " cartas de Poder aleatorias a tu mano.",
-      " random Power cards into your hand."
-    ]
-  },
-  "No Attack": {
-    "NAME": "Sin atacar",
-    "DESCRIPTIONS": [
-      "No puedes jugar #yAtaques este turno."
-    ]
-  },
-  "Amplify": {
-    "NAME": "Amplificar",
-    "DESCRIPTIONS": [
-      "Durante este turno, juega tu siguiente #yPoder dos veces.",
-      "Durante este turno, juega tus siguientes",
-      " #yPoderes dos veces."
-    ]
-  },
-  "Buffer": {
-    "NAME": "Almacenar Datos",
-    "DESCRIPTIONS": [
-      "Prevén la siguiente vez que fueras a perder PV.",
-      "Prevén las siguientes #b",
-      " veces que fueras a perder PV."
-    ]
-  },
-  "Rebound": {
-    "NAME": "Rebote",
-    "DESCRIPTIONS": [
-      "La siguiente carta que juegues este turno se colocará encima de tu pila de robado.",
-      "Las siguientes #b",
-      " cartas que juegues este turno se colocarán encima de tu pila de robado."
-    ]
-  },
-  "StaticDischarge": {
-    "NAME": "Descarga Estática",
-    "DESCRIPTIONS": [
-      "Cuando recibas daño de #yAtaque, #yInvoca #b",
-      " #yRelámpago."
-    ]
-  },
-  "Machine Learning": {
-    "NAME": "Machine Learning",
-    "DESCRIPTIONS": [
-      "Roba #b",
-      " carta adicional al comienzo de cada turno.",
-      " cartas adicionales al comienzo de cada turno."
-    ]
-  },
-  "Echo Form": {
-    "NAME": "Forma de Eco",
-    "DESCRIPTIONS": [
-      "La primera carta jugada cada turno se jugará #b",
-      " vez extra.",
-      " veces extra."
-    ]
-  },
-  "Prime": {
-    "NAME": "Preparar",
-    "DESCRIPTIONS": [
-      "Cada vez que #yInvoques un Orbe, roba #b",
-      " carta.",
-      " cartas."
-    ]
-  },
-  "Loop": {
-    "NAME": "Bucle",
-    "DESCRIPTIONS": [
-      "Al comienzo de tu turno, usa la habilidad pasiva de tu siguiente Orbe.",
-      "Al comienzo de tu turno, usa la habilidad pasiva de tus siguientes #b",
-      " Orbes."
-    ]
-  },
-  "Primitive": {
-    "NAME": "Primitivo",
-    "DESCRIPTIONS": [
-      "Cada vez que juegues una carta Común, roba #b",
-      " carta.",
-      " cartas."
-    ]
-  },
-  "Hello": {
-    "NAME": "Hola",
-    "DESCRIPTIONS": [
-      "Al comeinzo de tu turno, añade #b",
-      " carta Común aleatoria a tu mano.",
-      " cartas Común aleatorias a tu mano."
-    ]
-  },
-  "Lockon": {
-    "NAME": "Lock-On",
-    "DESCRIPTIONS": [
-      "#yLightning and #yDark Orbs target this enemy.",
-      " turns.",
-      "#yLightning and #yDark Orbs target this enemy this turn."
-    ]
-  },
-  "DexLoss": {
-    "NAME": "Dexterity Down",
-    "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yDexterity."
-    ]
-  },
-  "Electro": {
-    "NAME": "Electro",
-    "DESCRIPTIONS": [
-      "#yLightning hits ALL enemies.",
-      " NL If there is only #b1 enemy, #yLightning hits #b",
-      " times."
-    ]
-  },
-  "Equilibrium": {
-    "NAME": "Equilibrium",
-    "DESCRIPTIONS": [
-      "Retain your hand this turn.",
-      "Retain your hand for #b",
-      " turns."
-    ]
-  },
-  "Shifting": {
-    "NAME": "Shifting",
-    "DESCRIPTIONS": [
-      "Whenever ",
-      " takes damage, it loses that much #yStrength until the end of the turn."
-    ]
-  },
-  "Fading": {
-    "NAME": "Fading",
-    "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
-    ]
-  },
-  "EnergizedBlue": {
-    "NAME": "Energized",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [B] next turn.",
-      " additional [B] next turn.",
-      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
-    ]
-  },
-  "TimeMazePower": {
-    "NAME": "Time Maze",
-    "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended"
-    ]
-  },
-  "NoBlockPower": {
-    "NAME": "No Block Power",
-    "DESCRIPTIONS": [
-      "You cannot gain #yBlock."
-    ]
-  },
-  "Mayhem": {
-    "NAME": "Mayhem",
-    "DESCRIPTIONS": [
-      "At the start of your turn, play the top card of your draw pile.",
-      "At the start of your turn, play the top #b",
-      " cards of your draw pile."
-    ]
-  },
-  "TheBomb": {
-    "NAME": "The Bomb",
-    "DESCRIPTIONS": [
-      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
-      "At the end of this turn, deal %1$s damage to ALL enemies"
-    ]
-  },
-  "CorpseExplosionPower": {
-    "NAME": "Corpse Explosion",
-    "DESCRIPTIONS": [
-      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
-      "When this enemy dies, deal damage to ALL enemies equal to #b",
-      " times its Max HP."
     ]
   }
 }
