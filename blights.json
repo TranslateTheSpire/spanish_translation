@@ -52,13 +52,13 @@
     ]
   },
   "FullBelly": {
-    "NAME": "Barriga llena",
+    "NAME": "Tripa llena",
     "DESCRIPTION": [
       "Ya no puedes aumentar tus PV máximos. Toda curación se reduce a la mitad."
     ]
   },
   "GrotesqueTrophy": {
-    "NAME": "Trofeo Grotesco",
+    "NAME": "Trofeo grotesco",
     "DESCRIPTION": [
       "Al recoger, obtiene #b",
       " #rOrgullo.",
