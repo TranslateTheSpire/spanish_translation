@@ -28,10 +28,10 @@
     "TEXT": [
       "El Blindado",
       "La Silenciosa",
-      "",
+      "El Defectuoso",
       "Regresar",
       "No encontramos historias de partidas. NL ¡Ve y Derrota a la Torre!",
-      "Nivel de Ascención: ",
+      "Nivel de Ascensión: ",
       "Abatido en el Piso ",
       " por ",
       "¡Victoria!",
@@ -56,7 +56,7 @@
       "Diario",
       "Cualquier Tipo de Juego",
       "Solo Normal",
-      "Solo Ascención",
+      "Solo Ascensión",
       "Solo Reto Diario",
       "Semilla: %s",
       "Semilla Personalizada: %s"
@@ -66,7 +66,7 @@
     "TEXT": [
       "Desconocido",
       "Enemigo",
-      "Elite",
+      "Élite",
       "Evento",
       "Jefe",
       "Tesoro",
@@ -85,17 +85,17 @@
       "Obtenido %s",
       "Saltado:",
       "Falta información",
-      "+2 Max HP",
+      "+2 PV Max",
       "#bC ",
       "#bR ",
       "#bP ",
       "#bS ",
-      "#bRested",
-      "#bUpgraded %s",
-      "#bRemoved %s",
-      "#bDug",
-      "#bLifted %s/%s",
-      "#yPurchased:"
+      "#bDescansado",
+      "#bMejorado %s",
+      "#bEliminado %s",
+      "#bCavado",
+      "#bLevantado %s/%s",
+      "#yComprado:"
     ]
   },
   "LeaderboardsScreen": {
@@ -119,7 +119,7 @@
     "TEXT": [
       "El Blindado",
       "La Silenciosa",
-      "3rd Char. DO NOT TRANSLATE",
+      "El Defectuoso",
       "Piso Promedio Alcanzado (Últimos 20 Intentos)",
       "Puntuación Promedio (Últimos 20 Intentos)",
       "Mejor Racha de Victorias",
@@ -148,14 +148,14 @@
       "Turco",
       "Sueco",
       "Noruego",
-      "Tailandes",
+      "Tailandés",
       "Serbio",
       "Ucraniano",
       "Vietnamita",
       "Hungaro",
       "Serbio (Latin)",
-      "Catalan",
-      "Greek"
+      "Catalán",
+      "Griego"
     ]
   },
   "Proceed Button": {
@@ -165,8 +165,8 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Reemplazar (Gambling Chip)",
-      "Replace"
+      "Reemplazar (Ficha de Apostar)",
+      "Reemplazar"
     ]
   },
   "RetainCardsAction": {
@@ -206,7 +206,7 @@
   },
   "SkillFromDeckToHandAction": {
     "TEXT": [
-      "Escoge una Habilidad para Añadir a Tu Mano"
+      "Elige una Habilidad para Añadir a Tu Mano"
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -236,8 +236,8 @@
       "Enemigo",
       "Enemigos",
       "Enemigos hostiles aguardan en estas habitaciones.",
-      "Elite",
-      "Elites",
+      "Élite",
+      "Élites",
       "Poderosos enemigos aguardan en estas habitaciones. NL NL Derrotarlos te recompensará con una Reliquia.",
       "Leyenda"
     ]
@@ -262,9 +262,9 @@
   "Rest Option": {
     "TEXT": [
       "Descansar",
-      "Cura 20% de tu HP Máximo (",
-      " HP de ",
-      "Cura 30% de tu HP Máximo ("
+      "Cura un 20% de tus PV Máximo (",
+      " PV de ",
+      "Cura un 30% de tus PV Máximo ("
     ]
   },
   "Smith Option": {
@@ -316,9 +316,9 @@
   "AbstractPlayer": {
     "TEXT": [
       "Bloqueado",
-      "el Blindado",
-      "la Silenciosa",
-      "el Pistolero"
+      "El Blindado",
+      "La Silenciosa",
+      "El Defectuoso"
     ]
   },
   "AbstractCreature": {
@@ -328,7 +328,7 @@
       "PV Máximo +",
       "¡Aturdido!",
       "¡Interrumpido!",
-      "Relics"
+      "Reliquias"
     ]
   },
   "TopPanel": {
@@ -359,13 +359,13 @@
   },
   "StorePotion": {
     "TEXT": [
-      "No tienes espacio para esto"
+      "No tienes espacio suficiente"
     ]
   },
   "AbstractRoom": {
     "TEXT": [
       "Atracado...",
-      "Fled..."
+      "Huido..."
     ]
   },
   "SingleViewRelicPopup": {
@@ -376,7 +376,7 @@
       "Rara",
       "Tienda",
       "Evento",
-      "Basica",
+      "Básica",
       "Poco Común",
       "Bloqueada",
       "Desconocida",
@@ -405,7 +405,7 @@
   },
   "MasterDeckViewScreen": {
     "TEXT": [
-      "Comienzas cada combate con todas las cartas aqui.",
+      "Comienzas cada combate con todas las cartas aquí.",
       "Regresar"
     ]
   },
@@ -432,7 +432,7 @@
   },
   "DungeonMapScreen": {
     "TEXT": [
-      "Selecciona una Sala de Inicio",
+      "Selecciona una Sala para empezar",
       "Regresar"
     ]
   },
@@ -486,10 +486,10 @@
     "TEXT": [
       "Continuar",
       "¿Victoria?",
-      "Pisos Subidos",
-      "Jefes Abatidos",
-      "Tiempo Jugando",
-      "Tiempo Jugando",
+      "Pisos subidos",
+      "Jefes abatidos",
+      "Tiempo jugando",
+      "Tiempo jugando",
       "Puntuación",
       "Conquistados",
       "Muerte...",
@@ -498,7 +498,7 @@
       "Profanado",
       "Devastación",
       "Vencido",
-      "¡Has sido Abatido!",
+      "¡Has sido abatido!",
       "Un sentimiento familiar.",
       "Una siesta suena bien.",
       "Se cosecha lo que se siembra.",
@@ -509,7 +509,7 @@
       "Inadecuadamente preparado.",
       "¡Inconcebible!",
       "¿Es este mi verdadero potencial?",
-      "Solo mi suerte...",
+      "Qué mala suerte...",
       "Asi no...",
       "No tan cerca de la cima.",
       "La Torre consume a uno más...",
@@ -525,34 +525,34 @@
       "Reintentar",
       "Proceder",
       "Desbloquear",
-      "Desbloqueos Restantes: ",
-      "Desbloqueo Restante: ",
-      "Enemigos Abatidos",
-      "Elites Abatidos",
-      "Oro no Gastado",
+      "Desbloqueos restantes: ",
+      "Desbloqueo restante: ",
+      "Enemigos abatidos",
+      "Élites abatidos",
+      "Oro no gastado",
       "Bonificación por PV"
     ],
     "EXTRA_TEXT": [
-      "Elites de Exoridum Derrotados",
-      "Elites de la Ciudad Derrotados",
-      "Elites del Más Allá Derrotados",
+      "Élites de Exoridum derrotados",
+      "Élites de la Ciudad derrotados",
+      "Élites del Más Allá derrotados",
       "Fitipaldi",
-      "Velocidad de la Luz",
+      "Velocidad de la luz",
       "Highlander",
       "Colección",
-      "Set Completo",
+      "Set completo",
       "Indigente",
       "Bibliotecario",
       "Enciclopedia",
-      "Bien Alimentado",
+      "Bien alimentado",
       "Llenado",
       "¡Maldiciones!",
-      "En Mis Propios Terminos",
+      "En mis propios términos",
       "Campeón",
       "Perfecto",
-      "Más Que Perfecto",
+      "Más que perfecto",
       "Overkill",
-      "C-c-c-combo",
+      "¡C-c-c-combo!",
       ""
     ]
   },
@@ -586,103 +586,103 @@
   "CardRewardScreen": {
     "TEXT": [
       "Omitir",
-      "Escoge una Carta",
+      "Escoge una carta",
       "+2 PV Máximo",
       "VOTA AHORA: ",
       "s restantes.",
-      "View Upgrade"
+      "Ver mejora"
     ]
   },
   "BossRelicSelectScreen": {
     "TEXT": [
       "Confirmar",
-      "Confirma Tu Selección",
-      "Escoge una Reliquia",
+      "Confirma tu selección",
+      "Escoge una reliquia",
       "Omitir",
       "VOTA AHORA: ",
       "s restantes.",
-      "Choose a Blight"
+      "Elige una ruina"
     ]
   },
   "GridCardSelectScreen": {
     "TEXT": [
       "Confirmar",
       "Cancelar",
-      "Confirma Tu Selección",
+      "Confirma tu selección",
       "Irse"
     ]
   },
   "HandCardSelectScreen": {
     "TEXT": [
-      "Confirma Carta para ",
-      "Confirma Cartas para ",
+      "Confirma carta para ",
+      "Confirma cartas para ",
       "Escoge ",
       " Cartas para ",
-      "Escoge Cualquier Número de Cartas para ",
-      "Escoge una Carta para "
+      "Escoge cualquier número de cartas para ",
+      "Escoge una carta para "
     ]
   },
   "AbandonRunButton": {
     "TEXT": [
-      "Abandonar Partida"
+      "Abandonar partida"
     ]
   },
   "ConfirmPopup": {
     "TEXT": [
       "Regresar",
-      "Borrar Partida Guardada",
+      "Borrar partida guardada",
       "Si",
       "No"
     ]
   },
   "ExitGameButton": {
     "TEXT": [
-      "Salir del Juego"
+      "Salir del juego"
     ]
   },
   "OptionsPanel": {
     "TEXT": [
       "",
-      "Menu Principal",
+      "Menu principal",
       "Gráficos",
-      "Resolución: NL Framerate Máximo:",
-      "Pantalla Completa NL Pantalla Completa sin Bordes (recomendado) NL Sacudir Pantalla",
+      "Resolución: NL Framerate máximo:",
+      "Pantalla completa NL Pantalla completa sin bordes (recomendado) NL Sacudir Pantalla",
       "Sonido",
       "Sonido Master NL Volúmen de la Música NL Volúmen de Efectos",
       "Sonidos de Fondo",
       "Preferencias",
       "Mostrar suma de daño en dorado NL Mostrar daño bloqueado en azul NL Desactivar confirmación al escoger 1 carta",
-      "Modo Rápido",
+      "Modo rápido",
       "",
       "Misceláneas",
-      "Lenguaje:",
+      "Idioma:",
       "Cargar datos de juego #b(?)",
-      "Salir del Juego",
-      "Guardar y Salir",
+      "Salir del juego",
+      "Guardar y salir",
       "NL NL VSync",
-      "Modo de Arte de Pruebas",
-      "Mostrar Selección Rápida de Cartas",
-      "Configuración de Controles"
+      "Modo de arte de pruebas",
+      "Mostrar selección rápida de cartas",
+      "Configuración de controles"
     ]
   },
   "DailyScreen": {
     "TEXT": [
-      "Reto Diario",
-      "Conectandote al Servidor de Tiempo...",
-      "#yNOTA: Ya haz completado el reto de hoy. NL No se suben puntuaciones de intentos repetidos.",
+      "Reto diario",
+      "Conectandote al servidor de tiempo...",
+      "#yNOTA: Ya has completado el reto de hoy. NL No se suben puntuaciones de intentos repetidos.",
       "Regresar",
       "Embarcarse",
       "Personaje de hoy: ",
       "dd/MM/yyyy HH:mm:ss",
       "Tiempo Restante: ",
-      "#yPiso #yAlcanzado: NL  ",
-      " NL NL  #yMazo: NL ",
-      " NL NL  #yReliquias: NL  ",
-      " NL Reto de Hoy: NL #yClase: NL ",
+      "#yPiso #yalcanzado: NL  ",
+      " NL NL  #ymazo: NL ",
+      " NL NL  #yreliquias: NL  ",
+      " NL Reto de hoy: NL #yclase: NL ",
       " NL #yMods: ",
       "Modificadores: ",
       "Puntuación",
-      "*Los logros están desactivados para el Reto Diario."
+      "*Los logros están desactivados para el reto diario."
     ]
   },
   "SettingsScreen": {
@@ -720,19 +720,19 @@
     "TEXT": [
       "¿Que es Acceso Anticipado?",
       "¿Que es la Beta Abierta?",
-      "¡Slay the Spire aún está en desarrollo activo! NL Muchas características, cartas y enemigos aún están experimentando cambios. NL NL Si encuentras problemas o tienes alguna sugerencia, por favor haznoslo saber en nuestra página #bDiscusiónes de #bSteam. NL NL Ya has leído suficiente, tienes una torre que escalar!",
-      "¡Slay the Spire aún está en desarrollo activo! NL Por lo tanto, estas jugando la versión Beta del juego. NL NL Por favor déjanos saber de cualquier problema que tengas mientras juegas, pero no te sorprendas si ves algun arte provisional para contenidos futuros. NL NL Suficiente lectura, tienes una torre que escalar!",
+      "¡Slay the Spire aún está en desarrollo activo! NL Muchas características, cartas y enemigos aún están experimentando cambios. NL NL Si encuentras problemas o tienes alguna sugerencia, por favor háznoslo saber en nuestra página #bDiscusiones de #bSteam. NL NL Ya has leído suficiente, tienes una torre que escalar!",
+      "¡Slay the Spire aún está en desarrollo activo! NL Por lo tanto, estas jugando la versión Beta del juego. NL NL Por favor haznos saber sobre cualquier problema que tengas mientras juegas, pero no te sorprendas si ves algun arte provisional para contenidos futuros. NL NL Suficiente lectura, tienes una torre que escalar!",
       "Haz click en cualquier lugar para Comenzar",
-      "Continue"
+      "Continuar"
     ]
   },
   "MainMenuScreen": {
     "TEXT": [
-      "#yConstruir: ",
+      "#yCompilación: ",
       "Embarcar",
-      "Regresar",
+      "Atrás",
       "haz click para editar",
-      "to edit"
+      "para editar"
     ]
   },
   "MenuButton": {
@@ -757,13 +757,13 @@
   "CreditsScreen": {
     "TEXT": [
       "haz clic para salir",
-      "to exit"
+      "para salir"
     ]
   },
   "PatchNotesScreen": {
     "TEXT": [
       "Regresar",
-      "#yNotas #yParche",
+      "#yNotas #ydel #yParche",
       " NL (TEMPORAL: Usa las flechas para navegar registros anteriores)"
     ]
   },
@@ -806,11 +806,11 @@
       "Embarcar",
       "El Blindado",
       "La Silenciosa",
-      "Cuer-bot",
+      "El Defectuoso",
       "Atrás",
-      "Modo de Ascención (Nivel ",
-      ")",
-      "Modo de Ascención",
+      "Modo de Ascensión",
+      "",
+      "Modo de Ascensión",
       "Las partidas se vuelven más difíciles cuando ganas... (no afecta a tu racha de victorias)",
       "Semilla ",
       "Semilla aleatoria",
@@ -820,20 +820,20 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Los Elites aparecen más seguido.",
+      "Los élites aparecen más seguido.",
       "Los enemigos normales son más letales.",
-      "Los Elites son más letales.",
+      "Los Élites son más letales.",
       "Los Jefes son más letales.",
       "Te curas menos después de Batallas con Jefes.",
       "Empieza cada partida dañado.",
       "Los enemigos normales son más resistentes.",
-      "Los Elites son más resistentes.",
+      "Los Élites son más resistentes.",
       "Los Jefes son más resistentes.",
       "¡Parásito!",
       "Las pociones son menos potentes.",
       "Las cartas mejoradas aparecen menos seguido.",
       "Jefes pobres.",
-      "PV Máximos reducidos.",
+      "PV máximos reducidos.",
       "Eventos desfavorables."
     ]
   },
@@ -849,7 +849,7 @@
       "Este enemigo intenta usar una #yMejora y #yAtacar por #b",
       " veces.",
       "Este enemigo intenta usar una #yMejora y #yAtacar por #b",
-      "Estrategico",
+      "Estratégico",
       "Este enemigo intenta infligir un #yEfecto #yNegativo sobre ti y #yAtacar por #b",
       "Este enemigo intenta #yBloquear y #yAtacar por #b",
       "Defensivo",
@@ -866,8 +866,8 @@
       "Este enemigo intenta #yBloquear y usar una #yMejora.",
       "Este enemigo intenta #yEscapar.",
       "Este enemigo intenta usar misteriosa #yMagia en su turno.",
-      "Este enemigo esta dormido.",
-      "Este enemigo esta #yAturdido en su turno.",
+      "Este enemigo está dormido.",
+      "Este enemigo está #yAturdido en su turno.",
       "Las intenciones de este enemigo son #yDesconocidas (no va a atacar).",
       "Bloqueado"
     ]
@@ -875,7 +875,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "Proceder",
-      "Blights:"
+      "Ruinas:"
     ]
   },
   "Exordium": {
@@ -895,15 +895,15 @@
   },
   "BattleStartEffect": {
     "TEXT": [
-      "Comienzo de la Batalla",
-      "Turno del Jugador",
-      "Turno Enemigo",
+      "Comienzo de la batalla",
+      "Turno del jugador",
+      "Turno enemigo",
       " turno"
     ]
   },
   "RewardItem": {
     "TEXT": [
-      " Oro (Recuperado)",
+      " Oro (recuperado)",
       " Oro",
       "Añade una carta a tu mazo",
       "",
@@ -923,7 +923,7 @@
   },
   "CampfireSmithEffect": {
     "TEXT": [
-      "Selecciona una carta para Mejorar"
+      "Selecciona una carta para mejorar"
     ]
   },
   "CampfireSleepEffect": {
@@ -933,7 +933,7 @@
   },
   "CampfireTokeEffect": {
     "TEXT": [
-      "Selecciona una Carta para Remover."
+      "Selecciona una carta para eliminar."
     ]
   },
   "UnlockTextEffect": {
@@ -943,13 +943,13 @@
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "¡Modo de Ascención Nivel ",
-      " Desbloqueado!"
+      "¡Modo de ascensión nivel ",
+      " ¡Desbloqueado!"
     ]
   },
   "AbstractPotion": {
     "TEXT": [
-      "No puedo llevar NL más Pociones."
+      "No puedo llevar NL más pociones."
     ]
   },
   "TipHelper": {
@@ -964,7 +964,7 @@
   },
   "ExhumeAction": {
     "TEXT": [
-      "Selecciona una Carta para Colocar en tu Mano"
+      "Selecciona una carta para colocar en tu mano"
     ]
   },
   "PowerExpireTextEffect": {
@@ -974,7 +974,7 @@
   },
   "RestartForChangesEffect": {
     "TEXT": [
-      "Reinicia el juego para que los cambios al monitor tomen efecto."
+      "Reinicia el juego para que los cambios tengan efecto."
     ]
   },
   "OpeningAction": {
@@ -1009,11 +1009,11 @@
     "TEXT": [
       "Estándar",
       "",
-      "Embarcate en una misión para Vencer a la Torre.",
+      "Embarcate en una misión para vencer a la torre.",
       "Ascenso Diario",
       "",
       "Un nuevo reto está disponible una vez al día.\n\n¡Compite con otros jugadores por la mayor puntuación!",
-      "Ascención",
+      "Ascensión",
       "",
       "La torre se vuelve mas poderosa con cada victoria.\n\nPrueba los limites de tus mejores estrategias.",
       "Biblioteca de Cartas",
@@ -1046,8 +1046,8 @@
       "Desconocido",
       "",
       "Esta opción no está disponible por el momento.",
-      "Endless",
-      "Climb a Spire that never ends."
+      "Partida Personalizada",
+      "Juega una partida personalizada con los modificadores que quieras ."
     ]
   },
   "SeedPanel": {
@@ -1061,34 +1061,34 @@
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Configuración de Controles",
-      "Configuración de Juego",
+      "Configuración de controles",
+      "Configuración de juego",
       "Atrás",
       "Comandos",
       "Teclado",
-      "Mando (Aún no Disponible)",
-      "Valores Por Defecto",
+      "Mando (aún no disponible)",
+      "Valores por defecto",
       "Confirmar",
       "Cancelar / Salir",
       "Mapa",
-      "Mazo Maestro",
-      "Pila de Robado",
-      "Pila de Descarte",
-      "Pila de Agotados",
-      "Finalizar Turno",
+      "Mazo maestro",
+      "Pila de robado",
+      "Pila de descarte",
+      "Pila de agotados",
+      "Finalizar turno",
       "Izquierda",
       "Derecha",
-      "Escoge Carta #1",
-      "Escoge Carta #2",
-      "Escoge Carta #3",
-      "Escoge Carta #4",
-      "Escoge Carta #5",
-      "Escoge Carta #6",
-      "Escoge Carta #7",
-      "Escoge Carta #8",
-      "Escoge Carta #9",
-      "Escoge Carta #10",
-      "Drop Card",
+      "Escoge carta #1",
+      "Escoge carta #2",
+      "Escoge carta #3",
+      "Escoge carta #4",
+      "Escoge carta #5",
+      "Escoge carta #6",
+      "Escoge carta #7",
+      "Escoge carta #8",
+      "Escoge carta #9",
+      "Escoge carta #10",
+      "Dejar carta",
       "Up",
       "Down",
       "Select",
@@ -1115,7 +1115,7 @@
   "InputKeyNames": {
     "TEXT_DICT": {
       "Escape": "ESC",
-      "Forward Delete": "Suprimir",
+      "Forward delete": "Suprimir",
       "Delete": "Retroceso"
     }
   },
@@ -1126,47 +1126,57 @@
   },
   "CacheAction": {
     "TEXT": [
-      "Escoge una Carta para poner encima de tu Pila de Robado.",
-      "Escoge Cartas para poner encima de tu Pila de Robado."
+      "Escoge una carta para poner encima de tu pila de robado.",
+      "Escoge cartas para poner encima de tu pila de robado."
     ]
   },
   "RecycleAction": {
     "TEXT": [
-      "Exhaust"
+      "Agota"
     ]
   },
   "AnyCardFromDeckToHandAction": {
     "TEXT": [
-      "Choose a card to Add to Your Hand",
-      "Choose cards to Add to Your Hand"
+      "Elige una carta para añadir a tu mano.",
+      "Elige cartas para añadir a tu mano."
     ]
   },
   "ReprieveAction": {
     "TEXT": [
-      "That enemy intends to attack!"
+      "¡Ese enemigo intenta atacar!"
     ]
   },
   "DiscardPileToHandAction": {
     "TEXT": [
-      "Select a card to return to your hand."
+      "Elige una carta para devolver a tu mano."
     ]
   },
   "AscensionUnlockEffect": {
     "TEXT": [
-      "Ascension Unlocked!"
+      "¡Ascensión desbloquedo!"
     ]
   },
   "CustomModeScreen": {
     "TEXT": [
-      "Custom Mode",
-      "Achievements and Leaderboards are off.",
-      "Character",
-      "Ascension",
-      "Level ",
-      "Ascension Mode",
-      "Modifiers",
-      "Seed",
-      "Set Seed"
+      "Partida personalizada",
+      "Los logros y las Tablas de Puntuación están desactivadas.",
+      "Personaje",
+      "Ascensión",
+      "Nivel ",
+      "Modo ascensión",
+      "Modificadores",
+      "Semilla",
+      "Usar semilla"
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "pon debajo de tu pila de extracción."
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Oro"
     ]
   }
 }
