@@ -5,13 +5,13 @@
       ". NL #yDescargar: Causa #b",
       " de daño al enemigo con menor PV."
     ],
-    "NAME": "Oscuro"
+    "NAME": "Oscuridad"
   },
   "Empty": {
     "DESCRIPTION": [
       "Los Orbes se pueden Invocar en estos huecos."
     ],
-    "NAME": "Hueco de Orbe"
+    "NAME": "Espacio de Orbe"
   },
   "Frost": {
     "DESCRIPTION": [
