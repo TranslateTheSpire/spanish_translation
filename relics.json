@@ -1067,7 +1067,7 @@
     "FLAVOR": "Marcador",
     "DESCRIPTIONS": [
       "Al comienzo de cada turno gana #b",
-      " Carga. NL (No puede ser removida o transformada.)"
+      " Carga. NL (No puede ser eliminada o transformada.)"
     ]
   },
   "NeowsBlessing": {
@@ -1157,18 +1157,18 @@
     ]
   },
   "Boot": {
-    "NAME": "The Boot",
-    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "NAME": "La bota",
+    "FLAVOR": "Cuando te hieren, la bota crece cada vez más.",
     "DESCRIPTIONS": [
       "Cuando vayas a infligir #b",
       " o menos daño de #yAtaque sin bloquear, aumenta a #b5."
     ]
   },
   "Mark of the Bloom": {
-    "NAME": "Mark of the Bloom",
-    "FLAVOR": "In the Beyond, thoughts and reality are one.",
+    "NAME": "Marca del florecimiento",
+    "FLAVOR": "En el Más Allá, pensamientos y realidad son uno.",
     "DESCRIPTIONS": [
-      "You can no longer heal."
+      "Ya no puedes curarte."
     ]
   },
   "Busted Crown": {
