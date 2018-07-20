@@ -24,9 +24,9 @@
   "Accursed": {
     "NAME": "Maldito",
     "DESCRIPTION": [
-      "Al recoger, obtain #b",
-      " random #yCurses.",
-      "Accursed!"
+      "Al recoger, obtienes #b",
+      " #yMaldiciones al azar.",
+      "¡Maldito!"
     ]
   },
   "TwistingMind": {
@@ -34,7 +34,7 @@
     "DESCRIPTION": [
       "Al recoger, #yTransforma #b",
       " cartas.",
-      "Transformación!"
+      "¡Transformación!"
     ]
   },
   "Scatterbrain": {
@@ -42,13 +42,13 @@
     "DESCRIPTION": [
       "Al recoger, obtiene #b",
       " cartas aleatorias.",
-      "Atolondrado!"
+      "¡Atolondrado!"
     ]
   },
   "MimicInfestation": {
     "NAME": "Infestación mímica",
     "DESCRIPTION": [
-      "Salas del Tesoro en actos futuros serán reemplazados por Élites."
+      "Las salas del tesoro en actos futuros serán reemplazados por salas de élites."
     ]
   },
   "FullBelly": {
@@ -93,7 +93,7 @@
     "DESCRIPTION": [
       "Los enemigos empiezan con #b",
       " de #yArtefacto, #b",
-      " de #yArmadura #yde #yplacas, and #b",
+      " de #yArmadura #yde #yplacas, y #b",
       " #yRegenerar."
     ]
   }
