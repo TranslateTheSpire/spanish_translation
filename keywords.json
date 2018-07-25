@@ -8,8 +8,7 @@
     },
     "BLOCK": {
       "NAMES": [
-        "bloqueo",
-        "bloquea"
+        "bloqueo"
       ],
       "DESCRIPTION": "Hasta el siguiente turno, previene daño."
     },
@@ -22,10 +21,11 @@
     },
     "CHANNEL": {
       "NAMES": [
+        "invoca",
         "invocar",
         "invocado"
       ],
-      "DESCRIPTION": "Invocar un Orbo lo pone en tu primer hueco vacío. Si no tienes huecos vacíos, tu primer Orbe será #yDescargado para hacer espacio."
+      "DESCRIPTION": "Invocar un Orbe lo pone en tu primer hueco vacío. Si no tienes espacios vacíos, tu primer Orbe será #yDescargado para hacer espacio."
     },
     "CONFUSED": {
       "NAMES": [
@@ -41,16 +41,16 @@
     },
     "DARK": {
       "NAMES": [
-        "oscuro",
-        "oscuro+"
+        "oscuridad",
+        "oscuridad+"
       ],
       "DESCRIPTION": "Orbe: Aumenta el daño cada turno. Cuando sea #yDescargado, causa daño al enemigo con menos PV."
     },
     "DAZED": {
       "NAMES": [
-        "aturdido"
+        "desorientado"
       ],
-      "DESCRIPTION": "Los Aturdidos son cartas de estado injugables."
+      "DESCRIPTION": "Desorientado es una carta de estado injugable."
     },
     "DEXTERITY": {
       "NAMES": [
@@ -95,8 +95,8 @@
     },
     "FROST": {
       "NAMES": [
-        "frost",
-        "frost+"
+        "escarcha",
+        "escarcha+"
       ],
       "DESCRIPTION": "Orbe: Gana #yBloqueo."
     },
@@ -121,7 +121,7 @@
     },
     "LOCKED": {
       "NAMES": [
-        "bloqueado"
+        "bloqueada"
       ],
       "DESCRIPTION": "Esta carta aún no ha sido desbloqueada."
     },
@@ -148,14 +148,16 @@
     "RETAIN": {
       "NAMES": [
         "mantiene",
-        "mantener"
+        "mantén"
       ],
       "DESCRIPTION": "Las Cartas Mantenidas no son descartadas al final del turno."
     },
     "SHIV": {
       "NAMES": [
         "navaja",
-        "navajas"
+        "navajas",
+        "'navaja'",
+        "'navaja+'"
       ],
       "DESCRIPTION": "Las Navajas son cartas de Ataque con costo #b0 que se Agotan."
     },
@@ -173,7 +175,8 @@
     },
     "STRIKE": {
       "NAMES": [
-        "golpe"
+        "golpe",
+        "'golpe'"
       ],
       "DESCRIPTION": "Cualquier carta con la palabra \"Golpe\" en su nombre."
     },
@@ -239,6 +242,7 @@
     "WEAK": {
       "NAMES": [
         "debil",
+        "débil",
         "debilitar",
         "debilitado",
         "debilita",
