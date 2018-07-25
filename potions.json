@@ -9,7 +9,7 @@
   "AttackPotion": {
     "NAME": "Poción de Ataque",
     "DESCRIPTIONS": [
-      "Añade una carta de Ataque aleatoria a tu mano que costará #b0."
+      "Añade #b1 de #b3 cartas de Ataque a tu mano. Su coste es #b0 este turno."
     ]
   },
   "Block Potion": {
@@ -148,7 +148,7 @@
   "PowerPotion": {
     "NAME": "Poción de Poder",
     "DESCRIPTIONS": [
-      "Añade una carta de Poder aleatoria a tu mano que costará #b0."
+      "Añade #b1 de #b3 cartas de Poder aleatorias a tu mano. Su coste es #b0 este turno."
     ]
   },
   "Regen Potion": {
@@ -162,7 +162,7 @@
   "SkillPotion": {
     "NAME": "Poción de Habilidad",
     "DESCRIPTIONS": [
-      "Añade una carta de Habilidad aleatoria a tu mano que costará #b0."
+      "Añade #b1 de #b3 cartas de Habilidad aleatorias a tu mano. Su coste es #b0 este turno."
     ]
   },
   "SmokeBomb": {
@@ -174,8 +174,8 @@
   "SneckoOil": {
     "NAME": "Aceite de Serpentija",
     "DESCRIPTIONS": [
-      "Saca #b",
-      "cartas. Obtienes #yConfused.",
+      "Roba #b",
+      "cartas. Obtienes #y'Confusión'.",
       "carta."
     ]
   },

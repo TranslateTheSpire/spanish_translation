@@ -2,9 +2,9 @@
   "Accursed": {
     "NAME": "Maldito",
     "DESCRIPTION": [
-      "Al recoger, obtain #b",
-      " random #yCurses.",
-      "Accursed!"
+      "Al recoger, obtienes #b",
+      " #yMaldiciones al azar.",
+      "¡Maldito!"
     ]
   },
   "BlightedDurian": {
@@ -47,14 +47,14 @@
     "DESCRIPTION": [
       "Los enemigos empiezan con #b",
       " de #yArtefacto, #b",
-      " de #yArmadura #yde #yplacas, and #b",
+      " de #yArmadura #yde #yplacas, y #b",
       " #yRegenerar."
     ]
   },
   "MimicInfestation": {
     "NAME": "Infestación mímica",
     "DESCRIPTION": [
-      "Salas del Tesoro en actos futuros serán reemplazados por Élites."
+      "Las salas del tesoro en actos futuros serán reemplazadas por salas de élites."
     ]
   },
   "Scatterbrain": {
@@ -62,7 +62,7 @@
     "DESCRIPTION": [
       "Al recoger, obtiene #b",
       " cartas aleatorias.",
-      "Atolondrado!"
+      "¡Atolondrado!"
     ]
   },
   "TimeMaze": {
@@ -85,7 +85,7 @@
     "DESCRIPTION": [
       "Al recoger, #yTransforma #b",
       " cartas.",
-      "Transformación!"
+      "¡Transformación!"
     ]
   },
   "VoidEssence": {
