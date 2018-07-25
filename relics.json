@@ -1,7 +1,7 @@
 {
   "Anchor": {
     "NAME": "Ancla",
-    "FLAVOR": "Sujetar esta baratija diminuta te hace sentir más pesado y equilibrado.",
+    "FLAVOR": "Sujetar esta baratija diminuta te hace sentir más pesado y tener mas equilibrio.",
     "DESCRIPTIONS": [
       "Comienza cada combate con #b",
       " #yBloqueo."
@@ -59,15 +59,15 @@
     ]
   },
   "Black Blood": {
-    "NAME": "Sangre Negra",
+    "NAME": "Sangre negra",
     "FLAVOR": "La furia aumenta aún más tenebrosa.",
     "DESCRIPTIONS": [
-      "Reemplaza #rSangre #rArdiente. Al final del combate cura #b",
+      "Reemplaza #rSangre #rardiente. Al final del combate cura #b",
       " PV."
     ]
   },
   "Black Star": {
-    "NAME": "Estrella Negra",
+    "NAME": "Estrella negra",
     "FLAVOR": "Originalmente descubierta en el pueblo de la serpiente, al lado de una vela solitaria.",
     "DESCRIPTIONS": [
       "Los #yélites ahora sueltan #b2 #yReliquias cuando son abatidos."
@@ -82,7 +82,7 @@
     ]
   },
   "Bloody Idol": {
-    "NAME": "Ídolo Ensangrentado",
+    "NAME": "Ídolo ensangrentado",
     "FLAVOR": "El ídolo ahora llora sangre constantemente.",
     "DESCRIPTIONS": [
       "Cada vez que ganas #yOro, cura #b",
@@ -90,23 +90,23 @@
     ]
   },
   "Blue Candle": {
-    "NAME": "Vela Azul",
-    "FLAVOR": "La llama se enciende cuando es envuelta por las tinieblas.",
+    "NAME": "Vela azul",
+    "FLAVOR": "La llama se enciende cuando le envuelven las tinieblas.",
     "DESCRIPTIONS": [
       "Las cartas de #ymaldición ahora se pueden jugar. NL NL Jugar una #ymaldición te hará perder #b",
       " PV y la #yAgota."
     ]
   },
   "Boot": {
-    "NAME": "The Boot",
-    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "NAME": "La bota",
+    "FLAVOR": "Cuando le das cuerda, la bota se hace mas grande.",
     "DESCRIPTIONS": [
       "Cuando vayas a infligir #b",
       " o menos daño de #yAtaque sin bloquear, aumenta a #b5."
     ]
   },
   "Bottled Flame": {
-    "NAME": "Llama Embotellada",
+    "NAME": "Llama embotellada",
     "FLAVOR": "Dentro de la botella reside una llama que arde eternamente.",
     "DESCRIPTIONS": [
       "Al recoger, escoge una carta de #yataque. Al comienzo de cada combate esta carta estará en tu mano.",
@@ -116,7 +116,7 @@
     ]
   },
   "Bottled Lightning": {
-    "NAME": "Relámpago Embotellado",
+    "NAME": "Relámpago embotellado",
     "FLAVOR": "Si miras dentro del ojo del remolino, puedes ver parte de ti que te mira de vuelta.",
     "DESCRIPTIONS": [
       "Al recoger, escoge una carta de #yhabilidad. Al comienzo de cada combate esta carta estará en tu mano.",
@@ -126,7 +126,7 @@
     ]
   },
   "Bottled Tornado": {
-    "NAME": "Tornado Embotellado",
+    "NAME": "Tornado embotellado",
     "FLAVOR": "La botella silba y se revuelve suavemente.",
     "DESCRIPTIONS": [
       "Al recoger, escoge una carta de Poder. Al comienzo de cada combate esta carta estará en tu mano.",
@@ -136,7 +136,7 @@
     ]
   },
   "Bronze Scales": {
-    "NAME": "Escamas de Bronce",
+    "NAME": "Escamas de bronce",
     "FLAVOR": "Las escamas afiladas de El Guardián. Se reorganizan por sí solas para proteger a su usuario. ",
     "DESCRIPTIONS": [
       "Cada vez que recibas un ataque, inflige #b",
@@ -144,7 +144,7 @@
     ]
   },
   "Burning Blood": {
-    "NAME": "Sangre Ardiente",
+    "NAME": "Sangre ardiente",
     "FLAVOR": "La propia sangre de tu cuerpo arde con una furia imbatible.",
     "DESCRIPTIONS": [
       "Al final del combate cura #b",
@@ -153,7 +153,7 @@
   },
   "Busted Crown": {
     "NAME": "Corona quebrada",
-    "FLAVOR": "La corona del Campeón... ¿o una copia deslucida?",
+    "FLAVOR": "La corona del campeón... ¿o una simple imitación?",
     "DESCRIPTIONS": [
       "En la pantalla de recompensa de cartas, tienes #b2 #ycards menos entre las que elegir.",
       "Gana [R] al comienzo de cada turno. ",
@@ -165,7 +165,7 @@
     "NAME": "Cables recubiertos de oro",
     "FLAVOR": "\"¡Interesante! Hasta los autómatas se ven afectados por los placebos.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Tu orbe de más a la derecha activa su pasiva una vez adicional."
+      "El orbe más a la derecha activa su pasiva una vez de forma adicional."
     ]
   },
   "Calipers": {
@@ -177,7 +177,7 @@
     ]
   },
   "Calling Bell": {
-    "NAME": "Campana de Invocación",
+    "NAME": "Campana de invocación",
     "FLAVOR": "Esta campana de hierros oscuros sonó 3 veces cuando la encontraste, pero ahora se mantiene en silencio.",
     "DESCRIPTIONS": [
       "Obtén #b3 #rMaldiciones y #b3 #yReliquias.",
@@ -195,7 +195,7 @@
     ]
   },
   "Centennial Puzzle": {
-    "NAME": "Rompecabezas Centenario",
+    "NAME": "Rompecabezas centenario",
     "FLAVOR": "Tras resolver el rompecabezas sientes un poderoso calor en tu pecho.",
     "DESCRIPTIONS": [
       "La primera vez que pierdes PV cada combate roba #b",
@@ -203,14 +203,14 @@
     ]
   },
   "Chameleon Ring": {
-    "NAME": "Anillo de Camaleón",
+    "NAME": "Anillo de camaleón",
     "FLAVOR": "Obsoleto",
     "DESCRIPTIONS": [
       "Ahora puedes #yBrebar en las Áreas de Descanso."
     ]
   },
   "Champion Belt": {
-    "NAME": "Cinturón de Campeón",
+    "NAME": "Cinturón de campeón",
     "FLAVOR": "Solo los mejores podrán vestir este cinturón.",
     "DESCRIPTIONS": [
       "Cada vez que apliques #yVulnerable, también aplica #b",
@@ -218,7 +218,7 @@
     ]
   },
   "Charon's Ashes": {
-    "NAME": "Cenizas de Caronte",
+    "NAME": "Cenizas de caronte",
     "FLAVOR": "De Caronte se decia que era el dios del renacer, eternamente muriendo y reviviendo en una ráfaga de llamas.",
     "DESCRIPTIONS": [
       "Cada vez que #yAgotas una carta, haz #b",
@@ -226,10 +226,11 @@
     ]
   },
   "Chemical X": {
-    "NAME": "Químico X",
-    "FLAVOR": "ADVERTENCIA: No mezclar con azúcar, especias o muchas cosas bonitas.",
+    "NAME": "Sustancia X",
+    "FLAVOR": "ADVERTENCIA: No mezclar con azucar, especias y muchas cosas bonitas.",
     "DESCRIPTIONS": [
-      "Cada vez que juegas una carta de coste #bX sus efectos incrementan por #b"
+      "Cada vez que juegas una carta de coste #bX sus efectos incrementan por #b",
+	  "."
     ]
   },
   "Circlet": {
@@ -626,8 +627,8 @@
     ]
   },
   "MawBank": {
-    "NAME": "Banco de maw",
-    "FLAVOR": "sorprendentemente popular, a pesar de que los ataques del maw ocurran regularmente.",
+    "NAME": "Hucha de Maw",
+    "FLAVOR": "Sorprendentemente popular, aunque los ataques de Maw ocurran de forma regular.",
     "DESCRIPTIONS": [
       "Cada vez que escales un piso, gana #b",
       " #yoro. Esta reliquia dejará de funcionar cuando gastes #yoro en la tienda."
@@ -1083,6 +1084,15 @@
     "DESCRIPTIONS": [
       "Cada vez que empiezas un evento, gana #b",
       " de #yoro."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Stone Calendar",
+    "FLAVOR": "The passage of time is imperceptible in the Spire.",
+    "DESCRIPTIONS": [
+      "At the end of turn #b",
+      ", deal #b",
+      " damage to ALL enemies."
     ]
   },
   "Strange Spoon": {
