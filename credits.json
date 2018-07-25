@@ -1,42 +1,16 @@
 {
-  "DEV": {
-    "HEADER": "Desarrollo & Diseño",
-    "NAMES": [
-      "Anthony Giovannetti",
-      "Casey Yano"
-    ]
-  },
-  "OPS": {
-    "HEADER": "Operaciones & Métricas",
-    "NAMES": [
-      "Danielle Jenkins",
-      "Jake Rabinowitz"
-    ]
-  },
-  "SOUND": {
-    "HEADER": "Música y Sonidos",
-    "NAMES": [
-      "Clark Aboud"
-    ]
-  },
-  "VOICE": {
-    "HEADER": "Doblaje",
-    "NAMES": [
-      "Tamara Ryan",
-      "Michael Schwalbe"
-    ]
-  },
-  "PORTRAITS": {
-    "HEADER": "Retrato de Cartas & Arte de Eventos",
-    "NAMES": [
-      "Anailis Dorta"
-    ]
-  },
   "ANIMATION": {
     "HEADER": "Animación de Personajes",
     "NAMES": [
       "Julio Duque Montero",
       "Jon Sandler"
+    ]
+  },
+  "DEV": {
+    "HEADER": "Desarrollo & Diseño",
+    "NAMES": [
+      "Anthony Giovannetti",
+      "Casey Yano"
     ]
   },
   "ILLUSTRATION": {
@@ -45,15 +19,26 @@
       "Bruce Brenneise"
     ]
   },
-  "LOC_ZHS": {
-    "HEADER": "Traducción al Chino (Simplificado)",
+  "LOC_ADDITIONAL": {
+    "HEADER": "Traducciones Adicionales",
     "NAMES": [
-      "Sound of Mystery"
+      "MoGi Group"
     ]
   },
-  "LOC_ZHT": {
-    "HEADER": "Traducción al Chino (Tradicional)",
+  "LOC_CAT": {
+    "HEADER": "Traducción al Catalán",
     "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "Traducción al Alemán",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand ",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly",
+      "koykoy13"
+    ]
   },
   "LOC_FRA": {
     "HEADER": "Traducción al Francés",
@@ -71,15 +56,10 @@
       "Zachary \"WyvernZed\" Janisse"
     ]
   },
-  "LOC_DEU": {
-    "HEADER": "Traducción al Alemán",
+  "LOC_GRE": {
+    "HEADER": "Traducción al Francés",
     "NAMES": [
-      "Joshua \"Joshipon\" Wiegand ",
-      "Dustin \"Skrelpoid\" Kristen",
-      "Jonas Trodler",
-      "Hongkong Koma",
-      "Moly",
-      "koykoy13"
+      "Kotsos \"Iglor\" Diamond"
     ]
   },
   "LOC_ITA": {
@@ -168,16 +148,65 @@
       "Urist McFerrum"
     ]
   },
+  "LOC_SRB": {
+    "HEADER": "Traducción al Serbio",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljević"
+    ]
+  },
   "LOC_TUR": {
     "HEADER": "Traducción al Turco",
     "NAMES": [
       "Erdem Gürbüz"
     ]
   },
-  "LOC_ADDITIONAL": {
-    "HEADER": "Traducciones Adicionales",
+  "LOC_UKR": {
+    "HEADER": "Traducción al Ucraniano",
     "NAMES": [
-      "MoGi Group"
+      "Vladyslav \"DarkXylese\" Kashtelyanov"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "Traducción al Chino (Simplificado)",
+    "NAMES": [
+      "Sound of Mystery"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Traducción al Chino (Tradicional)",
+    "NAMES": []
+  },
+  "OPS": {
+    "HEADER": "Operaciones & Métricas",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Retrato de Cartas & Arte de Eventos",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Música y Sonidos",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Agradecimientos Especiales",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres",
+      "robojumper"
     ]
   },
   "TEST": {
@@ -213,44 +242,15 @@
       "David \"divadus\" Withington"
     ]
   },
-  "SPECIAL": {
-    "HEADER": "Agradecimientos Especiales",
-    "NAMES": [
-      "Harry Rabinowitz",
-      "Kevin \"Billy\" Matheson",
-      "Anthony Roybal",
-      "Lee Beckman",
-      "Sam Welch",
-      "feedbackbot",
-      "Evan Howell",
-      "Justin Myhres",
-      "robojumper"
-    ]
-  },
   "THANKS_MSG": {
     "HEADER": "...¡Y gracias a TI por jugar!",
     "NAMES": []
   },
-  "LOC_SRB": {
-    "HEADER": "Traducción al Serbio",
+  "VOICE": {
+    "HEADER": "Doblaje",
     "NAMES": [
-      "Nikola \"hauzer\" Vukosavljević"
-    ]
-  },
-  "LOC_UKR": {
-    "HEADER": "Traducción al Ucraniano",
-    "NAMES": [
-      "Vladyslav \"DarkXylese\" Kashtelyanov"
-    ]
-  },
-  "LOC_CAT": {
-    "HEADER": "Traducción al Catalán",
-    "NAMES": []
-  },
-  "LOC_GRE": {
-    "HEADER": "Traducción al Francés",
-    "NAMES": [
-      "Kotsos \"Iglor\" Diamond"
+      "Tamara Ryan",
+      "Michael Schwalbe"
     ]
   }
 }

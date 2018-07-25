@@ -1,26 +1,4 @@
 {
-  "DeadlyEnemies": {
-    "NAME": "Enemigos mortales",
-    "DESCRIPTION": [
-      "Los enemigos hacen un #b",
-      "% más de daño."
-    ]
-  },
-  "ToughEnemies": {
-    "NAME": "Enemigos duros",
-    "DESCRIPTION": [
-      "Los enemigos tienen un #b",
-      "% más de PV."
-    ]
-  },
-  "TimeMaze": {
-    "NAME": "Mazo temporal",
-    "DESCRIPTION": [
-      "Los enemigos tienen el poder Mazo temporal.",
-      " cartas por turno.",
-      "Solo puedes jugar hasta NL #r"
-    ]
-  },
   "Accursed": {
     "NAME": "Maldito",
     "DESCRIPTION": [
@@ -29,32 +7,31 @@
       "¡Maldito!"
     ]
   },
-  "TwistingMind": {
-    "NAME": "Mente retorcida",
+  "BlightedDurian": {
+    "NAME": "Durian arruinado",
     "DESCRIPTION": [
-      "Al recoger, #yTransforma #b",
-      " cartas.",
-      "¡Transformación!"
+      "Pierde #b",
+      "% de tus PV máximos."
     ]
   },
-  "Scatterbrain": {
-    "NAME": "Cabeza de chorlito",
+  "DeadlyEnemies": {
+    "NAME": "Enemigos mortales",
     "DESCRIPTION": [
-      "Al recoger, obtiene #b",
-      " cartas aleatorias.",
-      "¡Atolondrado!"
-    ]
-  },
-  "MimicInfestation": {
-    "NAME": "Infestación mímica",
-    "DESCRIPTION": [
-      "Las salas del tesoro en actos futuros serán reemplazados por salas de élites."
+      "Los enemigos hacen un #b",
+      "% más de daño."
     ]
   },
   "FullBelly": {
     "NAME": "Tripa llena",
     "DESCRIPTION": [
       "Ya no puedes aumentar tus PV máximos. Toda curación se reduce a la mitad."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Agarre de las sombras",
+    "DESCRIPTION": [
+      "Los enemigos empiezan con #b",
+      " #yIntangible."
     ]
   },
   "GrotesqueTrophy": {
@@ -65,11 +42,50 @@
       "Tu orgullo es retorcido..."
     ]
   },
-  "BlightedDurian": {
-    "NAME": "Durian arruinado",
+  "MetallicRebirth": {
+    "NAME": "Renacimiento metálico",
     "DESCRIPTION": [
-      "Pierde #b",
-      "% de tus PV máximos."
+      "Los enemigos empiezan con #b",
+      " de #yArtefacto, #b",
+      " de #yArmadura #yde #yplacas, y #b",
+      " #yRegenerar."
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Infestación mímica",
+    "DESCRIPTION": [
+      "Las salas del tesoro en actos futuros serán reemplazadas por salas de élites."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Cabeza de chorlito",
+    "DESCRIPTION": [
+      "Al recoger, obtiene #b",
+      " cartas aleatorias.",
+      "¡Atolondrado!"
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Mazo temporal",
+    "DESCRIPTION": [
+      "Los enemigos tienen el poder Mazo temporal.",
+      " cartas por turno.",
+      "Solo puedes jugar hasta NL #r"
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Enemigos duros",
+    "DESCRIPTION": [
+      "Los enemigos tienen un #b",
+      "% más de PV."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Mente retorcida",
+    "DESCRIPTION": [
+      "Al recoger, #yTransforma #b",
+      " cartas.",
+      "¡Transformación!"
     ]
   },
   "VoidEssence": {
@@ -79,22 +95,6 @@
       "Gana 1 [G] menos al inicio de cada turno.",
       "Gana 1 [B] menos al inicio de cada turno.",
       " [B] menos al inicio de cada turno."
-    ]
-  },
-  "GraspOfShadows": {
-    "NAME": "Agarre de las sombras",
-    "DESCRIPTION": [
-      "Los enemigos empiezan con #b",
-      " #yIntangible."
-    ]
-  },
-  "MetallicRebirth": {
-    "NAME": "Renacimiento metálico",
-    "DESCRIPTION": [
-      "Los enemigos empiezan con #b",
-      " de #yArtefacto, #b",
-      " de #yArmadura #yde #yplacas, y #b",
-      " #yRegenerar."
     ]
   }
 }

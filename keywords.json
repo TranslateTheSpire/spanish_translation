@@ -13,11 +13,44 @@
       ],
       "DESCRIPTION": "Hasta el siguiente turno, previene daño."
     },
+    "BURN": {
+      "NAMES": [
+        "quemadura",
+        "quemaduras"
+      ],
+      "DESCRIPTION": "Las quemaduras son cartas de estado injugable que te dañan."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "invocar",
+        "invocado"
+      ],
+      "DESCRIPTION": "Invocar un Orbo lo pone en tu primer hueco vacío. Si no tienes huecos vacíos, tu primer Orbe será #yDescargado para hacer espacio."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "confundido"
+      ],
+      "DESCRIPTION": "Cuando robes una carta, su coste es aleatorio."
+    },
     "CURSE": {
       "NAMES": [
         "maldición"
       ],
       "DESCRIPTION": "Las cartas de Maldición son cartas negativas que se quedan en tu mazo."
+    },
+    "DARK": {
+      "NAMES": [
+        "oscuro",
+        "oscuro+"
+      ],
+      "DESCRIPTION": "Orbe: Aumenta el daño cada turno. Cuando sea #yDescargado, causa daño al enemigo con menos PV."
+    },
+    "DAZED": {
+      "NAMES": [
+        "aturdido"
+      ],
+      "DESCRIPTION": "Los Aturdidos son cartas de estado injugables."
     },
     "DEXTERITY": {
       "NAMES": [
@@ -31,6 +64,13 @@
       ],
       "DESCRIPTION": "Si esta carta está en tu mano al final del turno, es agotada. Las cartas Agotadas son eliminadas de tu mazo hasta el fin del combate."
     },
+    "EVOKE": {
+      "NAMES": [
+        "descargar",
+        "descargado"
+      ],
+      "DESCRIPTION": "Consume tu Orbe de más a la derecha y usa su efecto de Descargar."
+    },
     "EXHAUST": {
       "NAMES": [
         "agotar",
@@ -41,17 +81,62 @@
       ],
       "DESCRIPTION": "Eliminada hasta el fin del combate."
     },
+    "FOCUS": {
+      "NAMES": [
+        "Concentración"
+      ],
+      "DESCRIPTION": "La Concentración aumenta la efectividad de los Orbes #yInvocados."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "fragil"
+      ],
+      "DESCRIPTION": "Mientras seas Frágil, gana #b25% menos #yBloqueo por medio de Cartas."
+    },
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "Orbe: Gana #yBloqueo."
+    },
     "INNATE": {
       "NAMES": [
         "innata"
       ],
       "DESCRIPTION": "Empieza cada combate con esta carta en tu mano."
     },
+    "INTANGIBLE": {
+      "NAMES": [
+        "intangible"
+      ],
+      "DESCRIPTION": "Reduce TODO el daño recibido y la pérdida de vida a #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "relámpago",
+        "relámpago+"
+      ],
+      "DESCRIPTION": "Orbe: Causa daño a enemigos elatorios."
+    },
     "LOCKED": {
       "NAMES": [
         "bloqueado"
       ],
       "DESCRIPTION": "Esta carta aún no ha sido desbloqueada."
+    },
+    "OPENER": {
+      "NAMES": [
+        "abridor"
+      ],
+      "DESCRIPTION": "Las Cartas Abridoras sólo pueden jugarse como la primera carta de cada turno."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orbe: Gana Energía."
     },
     "POISON": {
       "NAMES": [
@@ -86,6 +171,31 @@
       ],
       "DESCRIPTION": "La Fuerza agrega daño adicional a los ataques."
     },
+    "STRIKE": {
+      "NAMES": [
+        "golpe"
+      ],
+      "DESCRIPTION": "Cualquier carta con la palabra \"Golpe\" en su nombre."
+    },
+    "TEXT": [
+      "La Energía es usada para jugar cartas en tu mano."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
     "TRANSFORM": {
       "NAMES": [
         "transforma",
@@ -113,6 +223,13 @@
       ],
       "DESCRIPTION": "Mejorar cartas las hace mas poderosas. Las cartas solo pueden ser mejoradas una vez."
     },
+    "VOID": {
+      "NAMES": [
+        "vacío",
+        "vacíos"
+      ],
+      "DESCRIPTION": "Los Vacíos son cartas injugables que consumen energía al ser robados."
+    },
     "VULNERABLE": {
       "NAMES": [
         "vulnerable"
@@ -135,123 +252,6 @@
         "heridas"
       ],
       "DESCRIPTION": "Las Heridas son cartas de estatus injugables."
-    },
-    "FRAIL": {
-      "NAMES": [
-        "fragil"
-      ],
-      "DESCRIPTION": "Mientras seas Frágil, gana #b25% menos #yBloqueo por medio de Cartas."
-    },
-    "STRIKE": {
-      "NAMES": [
-        "golpe"
-      ],
-      "DESCRIPTION": "Cualquier carta con la palabra \"Golpe\" en su nombre."
-    },
-    "CONFUSED": {
-      "NAMES": [
-        "confundido"
-      ],
-      "DESCRIPTION": "Cuando robes una carta, su coste es aleatorio."
-    },
-    "TODO": {
-      "NAMES": [
-        "todo",
-        "JUST FOR DEVS, DONT TRANSLATE",
-        "JUST FOR DEVS, DONT TRANSLATE",
-        "JUST FOR DEVS, DONT TRANSLATE",
-        "JUST FOR DEVS, DONT TRANSLATE"
-      ],
-      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
-    },
-    "TEXT": [
-      "La Energía es usada para jugar cartas en tu mano."
-    ],
-    "INTANGIBLE": {
-      "NAMES": [
-        "intangible"
-      ],
-      "DESCRIPTION": "Reduce TODO el daño recibido y la pérdida de vida a #b1."
-    },
-    "BURN": {
-      "NAMES": [
-        "quemadura",
-        "quemaduras"
-      ],
-      "DESCRIPTION": "Las quemaduras son cartas de estado injugable que te dañan."
-    },
-    "DAZED": {
-      "NAMES": [
-        "aturdido"
-      ],
-      "DESCRIPTION": "Los Aturdidos son cartas de estado injugables."
-    },
-    "VOID": {
-      "NAMES": [
-        "vacío",
-        "vacíos"
-      ],
-      "DESCRIPTION": "Los Vacíos son cartas injugables que consumen energía al ser robados."
-    },
-    "FOCUS": {
-      "NAMES": [
-        "Concentración"
-      ],
-      "DESCRIPTION": "La Concentración aumenta la efectividad de los Orbes #yInvocados."
-    },
-    "EVOKE": {
-      "NAMES": [
-        "descargar",
-        "descargado"
-      ],
-      "DESCRIPTION": "Consume tu Orbe de más a la derecha y usa su efecto de Descargar."
-    },
-    "PLASMA": {
-      "NAMES": [
-        "plasma",
-        "plasma+"
-      ],
-      "DESCRIPTION": "Orbe: Gana Energía."
-    },
-    "CHANNEL": {
-      "NAMES": [
-        "invocar",
-        "invocado"
-      ],
-      "DESCRIPTION": "Invocar un Orbo lo pone en tu primer hueco vacío. Si no tienes huecos vacíos, tu primer Orbe será #yDescargado para hacer espacio."
-    },
-    "DARK": {
-      "NAMES": [
-        "oscuro",
-        "oscuro+"
-      ],
-      "DESCRIPTION": "Orbe: Aumenta el daño cada turno. Cuando sea #yDescargado, causa daño al enemigo con menos PV."
-    },
-    "OPENER": {
-      "NAMES": [
-        "abridor"
-      ],
-      "DESCRIPTION": "Las Cartas Abridoras sólo pueden jugarse como la primera carta de cada turno."
-    },
-    "LIGHTNING": {
-      "NAMES": [
-        "relámpago",
-        "relámpago+"
-      ],
-      "DESCRIPTION": "Orbe: Causa daño a enemigos elatorios."
-    },
-    "FROST": {
-      "NAMES": [
-        "frost",
-        "frost+"
-      ],
-      "DESCRIPTION": "Orbe: Gana #yBloqueo."
-    },
-    "THORNS": {
-      "NAMES": [
-        "thorns"
-      ],
-      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
     }
   }
 }

@@ -1,81 +1,10 @@
 {
-  "Main Tutorial": {
+  "Discard Tip": {
     "TEXT": [
-      "¡Derrota enemigos jugando cartas de tu mano! NL NL Las cartas requieren #yEnergía para jugarlas. NL Cuando se te acabe, termina tu turno. NL NL Al comienzo de tu turno, robas nuevas cartas y tu #yEnergía se reabastece.",
-      "Juega cartas defensivas para ganar #yBloqueo cuando los enemigos estén a punto de atacarte. NL NL El #yBloqueo reduce el daño de ataque entrante pero NL #rse #rexpira al comienzo de tu próximo turno.",
-      "Durante tu turno puedes observar la #yIntención de tus enemigos sobre ellos. NL NL Si un enemigo intenta atacarte, asegúrate de ganar algo de #yBloqueo!"
+      "Si tu pila de robado esta vacia, la pila de descarte se baraja dentro de la pila de robado. NL NL Haz click para ver las cartas en tu pila de descarte."
     ],
     "LABEL": [
-      "Proximo",
-      "¡Listo!",
-      "Tutorial",
-      "(Pagina ",
-      " de 3)"
-    ]
-  },
-  "FTUE Tips": {
-    "TEXT": [],
-    "LABEL": [
-      "Consejo: ",
-      "Entiendo"
-    ]
-  },
-  "Potion Tip": {
-    "TEXT": [
-      "¡Bebe o lanza pociones durante el combate! NL Las pociones te acompañan entre habitaciones."
-    ],
-    "LABEL": [
-      "Pociones"
-    ]
-  },
-  "Energy Tip": {
-    "TEXT": [
-      "¡Las cartas requieren energia para jugarlas! NL Este orbe a la parte inferior izquierda indica cuanta energia te queda para este turno."
-    ],
-    "LABEL": [
-      "Coste de energia"
-    ]
-  },
-  "Shuffle Tip": {
-    "TEXT": [
-      "NL Si no quedan cartas para robar, tu pila de descarte se baraja dentro de la pila de robado."
-    ],
-    "LABEL": [
-      "¿No te Quedan Cartas?"
-    ]
-  },
-  "Player Tips": {
-    "TEXT": [
-      "Esta carta te aplica un Poder cuando la usas. NL Los Poderes so habilidades pasivas que permanecen toda la duración del combate.",
-      "¡Las cartas requieren energia para jugarlas! NL Este orbe a la parte inferior izquierda indica cuanta energia te queda para este turno.",
-      "¡Mi #rMano #restá #rLlena!",
-      "#rMaximum Orb capacity has been met.",
-      "I have no Orb slots."
-    ],
-    "LABEL": [
-      "Cartas de Poder",
-      "Coste de Energia"
-    ]
-  },
-  "Relic Tip": {
-    "TEXT": [
-      "Las Reliquias encontradas a traves de la Torre otorgan bonificaciones únicas y permanecen durante tu partida. NL Pueden hallarse derrotando enemigos poderosos o dentro de cofres.",
-      "Esta reliquia aún no se ha visto.",
-      "Su poder ya se agotó."
-    ],
-    "LABEL": [
-      "Reliquias",
-      "Desconocida",
-      "Esta reliquia aún no ha sido desbloqueada.",
-      "Bloqueada"
-    ]
-  },
-  "Rewards Tip": {
-    "TEXT": [
-      "¡No olvides tus recompenzas! NL Simplemente hazles click para recogerlas."
-    ],
-    "LABEL": [
-      "Recompensas"
+      "Pila de Descarte"
     ]
   },
   "Draw Tip": {
@@ -88,12 +17,58 @@
       "Pila de robado"
     ]
   },
+  "End Turn Tip": {
+    "TEXT": [
+      "Presionar este botón terminará tu turno. NL NL Descartarás tu mano, los enemigos tomarán su turno, robarás ",
+      " cartas, y después será tu turno de nuevo."
+    ],
+    "LABEL": [
+      "Terminar el Turno"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Tu cantidad actual de energía. Las cartas requieren energía para jugarlas."
+    ],
+    "LABEL": [
+      "Energia"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "¡Las cartas requieren energia para jugarlas! NL Este orbe a la parte inferior izquierda indica cuanta energia te queda para este turno."
+    ],
+    "LABEL": [
+      "Coste de energia"
+    ]
+  },
   "Exhaust Tip": {
     "TEXT": [
       "Haz click para ver cartas Agotadas en este combate."
     ],
     "LABEL": [
       "Cartas Agotadas"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Consejo: ",
+      "Entiendo"
+    ]
+  },
+  "Main Tutorial": {
+    "TEXT": [
+      "¡Derrota enemigos jugando cartas de tu mano! NL NL Las cartas requieren #yEnergía para jugarlas. NL Cuando se te acabe, termina tu turno. NL NL Al comienzo de tu turno, robas nuevas cartas y tu #yEnergía se reabastece.",
+      "Juega cartas defensivas para ganar #yBloqueo cuando los enemigos estén a punto de atacarte. NL NL El #yBloqueo reduce el daño de ataque entrante pero NL #rse #rexpira al comienzo de tu próximo turno.",
+      "Durante tu turno puedes observar la #yIntención de tus enemigos sobre ellos. NL NL Si un enemigo intenta atacarte, asegúrate de ganar algo de #yBloqueo!"
+    ],
+    "LABEL": [
+      "Proximo",
+      "¡Listo!",
+      "Tutorial",
+      "(Pagina ",
+      " de 3)"
     ]
   },
   "Options Tip": {
@@ -111,38 +86,17 @@
       "Framerate Máximo"
     ]
   },
-  "Shop Tip": {
+  "Player Tips": {
     "TEXT": [
-      "Remueve una carta de tu mazo. El costo de este servicio se incrementa por #b",
-      " por el resto de esta partida."
+      "Esta carta te aplica un Poder cuando la usas. NL Los Poderes so habilidades pasivas que permanecen toda la duración del combate.",
+      "¡Las cartas requieren energia para jugarlas! NL Este orbe a la parte inferior izquierda indica cuanta energia te queda para este turno.",
+      "¡Mi #rMano #restá #rLlena!",
+      "#rMaximum Orb capacity has been met.",
+      "I have no Orb slots."
     ],
     "LABEL": [
-      "Servicio de Remover Cartas"
-    ]
-  },
-  "End Turn Tip": {
-    "TEXT": [
-      "Presionar este botón terminará tu turno. NL NL Descartarás tu mano, los enemigos tomarán su turno, robarás ",
-      " cartas, y después será tu turno de nuevo."
-    ],
-    "LABEL": [
-      "Terminar el Turno"
-    ]
-  },
-  "Discard Tip": {
-    "TEXT": [
-      "Si tu pila de robado esta vacia, la pila de descarte se baraja dentro de la pila de robado. NL NL Haz click para ver las cartas en tu pila de descarte."
-    ],
-    "LABEL": [
-      "Pila de Descarte"
-    ]
-  },
-  "Energy Panel Tip": {
-    "TEXT": [
-      "Tu cantidad actual de energía. Las cartas requieren energía para jugarlas."
-    ],
-    "LABEL": [
-      "Energia"
+      "Cartas de Poder",
+      "Coste de Energia"
     ]
   },
   "Potion Panel Tip": {
@@ -157,24 +111,12 @@
       "Descartar"
     ]
   },
-  "Top Panel Tips": {
+  "Potion Tip": {
     "TEXT": [
-      "Abre el Menu Principal. NL NL Cambia o actualiza tus preferencias de graficos, audio y jugabilidad aqui.",
-      "Mira todas las cartas en tu mazo.",
-      "Mira el mapa del calabozo actual.",
-      "Si pierdes todo tus PV, mueres.",
-      "Muestra cuánto oro llevas. Oro es la moneda dentro de la Torre.",
-      "",
-      "",
-      "Tiempo transcurrido en esta partida-"
+      "¡Bebe o lanza pociones durante el combate! NL Las pociones te acompañan entre habitaciones."
     ],
     "LABEL": [
-      "Ajustes",
-      "Mazo",
-      "Mapa",
-      "Puntos de Vida (PV)",
-      "Monedero",
-      "Temporizador de Partida"
+      "Pociones"
     ]
   },
   "Random Tips": {
@@ -217,6 +159,64 @@
     ],
     "LABEL": [
       "Puedes descartar pociones para hacer espacio para otras nuevas."
+    ]
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Las Reliquias encontradas a traves de la Torre otorgan bonificaciones únicas y permanecen durante tu partida. NL Pueden hallarse derrotando enemigos poderosos o dentro de cofres.",
+      "Esta reliquia aún no se ha visto.",
+      "Su poder ya se agotó."
+    ],
+    "LABEL": [
+      "Reliquias",
+      "Desconocida",
+      "Esta reliquia aún no ha sido desbloqueada.",
+      "Bloqueada"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "¡No olvides tus recompenzas! NL Simplemente hazles click para recogerlas."
+    ],
+    "LABEL": [
+      "Recompensas"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Remueve una carta de tu mazo. El costo de este servicio se incrementa por #b",
+      " por el resto de esta partida."
+    ],
+    "LABEL": [
+      "Servicio de Remover Cartas"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Si no quedan cartas para robar, tu pila de descarte se baraja dentro de la pila de robado."
+    ],
+    "LABEL": [
+      "¿No te Quedan Cartas?"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Abre el Menu Principal. NL NL Cambia o actualiza tus preferencias de graficos, audio y jugabilidad aqui.",
+      "Mira todas las cartas en tu mazo.",
+      "Mira el mapa del calabozo actual.",
+      "Si pierdes todo tus PV, mueres.",
+      "Muestra cuánto oro llevas. Oro es la moneda dentro de la Torre.",
+      "",
+      "",
+      "Tiempo transcurrido en esta partida-"
+    ],
+    "LABEL": [
+      "Ajustes",
+      "Mazo",
+      "Mapa",
+      "Puntos de Vida (PV)",
+      "Monedero",
+      "Temporizador de Partida"
     ]
   }
 }
