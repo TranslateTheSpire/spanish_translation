@@ -68,8 +68,8 @@
   "Potion Slot": {
     "NAME": "Bolsa de Pociones",
     "DESCRIPTIONS": [
-      "Usa pociones durante el combate para ganar #gbeneficios o #rperjudicar enemigos.",
-      "Bolsa de pociones"
+      "Usa pociones durante el combate para ganar #gbeneficios o #rperjudicar  enemigos.",
+      "Bolsa de Pociones"
     ]
   },
   "Regen Potion": {
@@ -92,7 +92,7 @@
     "DESCRIPTIONS": [
       "",
       "Roba #b",
-      " Cartas."
+      " cartas."
     ]
   },
   "Weak Potion": {
@@ -106,7 +106,7 @@
     "NAME": "Zumo de Fruta",
     "DESCRIPTIONS": [
       "Gana #b",
-      " PV Máximos."
+      " PV máximos."
     ]
   },
   "FearPotion": {
@@ -119,19 +119,19 @@
   "SkillPotion": {
     "NAME": "Poción de Habilidad",
     "DESCRIPTIONS": [
-      "Añade una carta de Habilidad aleatoria a tu mano. Su coste es #b0 este turno."
+      "Añade una carta de Habilidad aleatoria a tu mano que costará #b0."
     ]
   },
   "AttackPotion": {
     "NAME": "Poción de Ataque",
     "DESCRIPTIONS": [
-      "Añade una carta de Ataque aleatoria a tu mano. Su coste es #b0 este turno."
+      "Añade una carta de Ataque aleatoria a tu mano que costará #b0."
     ]
   },
   "PowerPotion": {
     "NAME": "Poción de Poder",
     "DESCRIPTIONS": [
-      "Añade una carta de Poder aleatoria a tu mano. Su coste es #b0 este turno."
+      "Añade una carta de Poder aleatoria a tu mano que costará #b0."
     ]
   },
   "SteroidPotion": {
@@ -168,7 +168,7 @@
     "NAME": "Aceite de Serpentija",
     "DESCRIPTIONS": [
       "Saca #b",
-      "cartas. Obtienes #y'Confusión'.",
+      "cartas. Obtienes #yConfused.",
       "carta."
     ]
   },
@@ -202,7 +202,7 @@
   "FairyPotion": {
     "NAME": "Hada Embotellada",
     "DESCRIPTIONS": [
-      "Cuando fueras a morir, cúrate un #b10% de tus PV máximos y se descarta esta poción."
+      "Cuando vayas a morir, cúrate un #b10% de tus PV máximos y se descarta esta poción."
     ]
   },
   "SmokeBomb": {
