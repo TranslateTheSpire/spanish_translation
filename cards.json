@@ -57,7 +57,7 @@
   },
   "AscendersBane": {
     "NAME": "Perdición del ascendente",
-    "DESCRIPTION": "Injugable. NL Eterea. NL No se puede eliminar del mazo."
+    "DESCRIPTION": "Injugable. NL Etérea. NL No se puede eliminar del mazo."
   },
   "Auto Shields": {
     "NAME": "Escudos automáticos",
@@ -219,7 +219,7 @@
   },
   "Carnage": {
     "NAME": "Carnicería",
-    "DESCRIPTION": "Eterea. NL Haz !D! de daño."
+    "DESCRIPTION": "Etérea. NL Haz !D! de daño."
   },
   "Catalyst": {
     "NAME": "Catalizador",
@@ -270,7 +270,7 @@
   },
   "Clumsy": {
     "NAME": "Patoso",
-    "DESCRIPTION": "Injugable. NL Eterea."
+    "DESCRIPTION": "Injugable. NL Etérea."
   },
   "Cold Snap": {
     "NAME": "Frío repentino",
@@ -350,9 +350,9 @@
     "NAME": "Correr",
     "DESCRIPTION": "Gana !B! de Bloqueo. NL Haz !D! de daño."
   },
-  "Dazed": {
     "NAME": "Desorientado",
-    "DESCRIPTION": "Injugable. NL Eterea."
+  "Dazed": {
+    "DESCRIPTION": "Injugable. NL Etérea."
   },
   "Deadly Poison": {
     "NAME": "Veneno mortal",
@@ -454,7 +454,7 @@
   },
   "Echo Form": {
     "NAME": "Forma Eco",
-    "DESCRIPTION": "La primera carta que juegues cada turno se juega dos veces. NL Eterea.",
+    "DESCRIPTION": "La primera carta que juegues cada turno se juega dos veces. NL Etérea.",
     "UPGRADE_DESCRIPTION": "La primera carta que juegues cada turno se juega dos veces."
   },
   "Electrodynamics": {
@@ -603,12 +603,12 @@
   },
   "Ghostly": {
     "NAME": "Espectral",
-    "DESCRIPTION": "Gana 1 Intangible. NL Agota. NL Eterea.",
+    "DESCRIPTION": "Gana 1 Intangible. NL Agota. NL Etérea.",
     "UPGRADE_DESCRIPTION": "Gana 1 Intangible. NL Agota."
   },
   "Ghostly Armor": {
     "NAME": "Armadura espectral",
-    "DESCRIPTION": "Eterea. NL Gana !B! de Bloqueo."
+    "DESCRIPTION": "Etérea. NL Gana !B! de Bloqueo."
   },
   "Glacier": {
     "NAME": "Glaciar",
@@ -1295,7 +1295,7 @@
   },
   "Void": {
     "NAME": "Vacío",
-    "DESCRIPTION": "Injugable. NL Cuando esta carta es robada, pierde 1 de Energía. NL Eterea."
+    "DESCRIPTION": "Injugable. NL Cuando esta carta es robada, pierde 1 de Energía. NL Etérea."
   },
   "Warcry": {
     "NAME": "Grito de guerra",
