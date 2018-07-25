@@ -119,19 +119,19 @@
   "SkillPotion": {
     "NAME": "Poción de Habilidad",
     "DESCRIPTIONS": [
-      "Elige #b1 de #b3 cartas de #yHabilidad aleatorias para añadir a tu mano, que costarán #b0 este turno."
+      "Añade una carta de Habilidad aleatoria a tu mano. Su coste es #b0 este turno."
     ]
   },
   "AttackPotion": {
-    "NAME": "Poción de ataque",
+    "NAME": "Poción de Ataque",
     "DESCRIPTIONS": [
-      "Elige #b1 de #b3 cartas de #yAtaque aleatorias para añadir a tu mano, que costarán #b0 este turno."
+      "Añade una carta de Ataque aleatoria a tu mano. Su coste es #b0 este turno."
     ]
   },
   "PowerPotion": {
-    "NAME": "Poción de poder",
+    "NAME": "Poción de Poder",
     "DESCRIPTIONS": [
-      "Elige #b1 de #b3 cartas de #yPoder aleatorias para añadir a tu mano, que costarán #b0 este turno."
+      "Añade una carta de Poder aleatoria a tu mano. Su coste es #b0 este turno."
     ]
   },
   "SteroidPotion": {
@@ -168,7 +168,7 @@
     "NAME": "Aceite de Serpentija",
     "DESCRIPTIONS": [
       "Saca #b",
-      "cartas. Obtienes #yConfusión.",
+      "cartas. Obtienes #y'Confusión'.",
       "carta."
     ]
   },
@@ -196,19 +196,19 @@
     "NAME": "Poción de Sangre",
     "DESCRIPTIONS": [
       "Cúrate un #b",
-      "% de tus PV Máximos."
+      "% de tus PV máximos."
     ]
   },
   "FairyPotion": {
     "NAME": "Hada Embotellada",
     "DESCRIPTIONS": [
-      "Cuando vayas a morir, cúrate un #b10% de tus PV Máximos y se descarta esta poción."
+      "Cuando fueras a morir, cúrate un #b10% de tus PV máximos y se descarta esta poción."
     ]
   },
   "SmokeBomb": {
     "NAME": "Bomba de Humo",
     "DESCRIPTIONS": [
-      "Escapa de un combate que no sea de jefe. No recibes recompensas."
+      "Escapa de un combate que no sea de Jefe. No recibes recompensa."
     ]
   },
   "EntropicBrew": {
