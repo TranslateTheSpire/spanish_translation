@@ -280,6 +280,10 @@
     "NAME": "Combustión",
     "DESCRIPTION": "Al final de tu turno, pierde 1 PV y haz !M! de daño a TODOS los enemigos."
   },
+  "Compile Driver": {
+    "NAME": "Compilar controlador",
+    "DESCRIPTION": "Haz !D! de daño. NL Roba !M! carta por cada Orbe unico que tengas."
+  },
   "Concentrate": {
     "NAME": "Concentración",
     "DESCRIPTION": "Descarta !M! cartas. NL Gana [G] [G]."
@@ -296,6 +300,10 @@
     "NAME": "Con la cabeza fría",
     "DESCRIPTION": "Canaliza 1 Escarcha. NL Roba !M! carta.",
     "UPGRADE_DESCRIPTION": "Canaliza 1 Escarcha. NL Roba !M! cartas."
+  },
+  "Core Surge": {
+    "NAME": "Agitación del núcleo",
+    "DESCRIPTION": "Haz !D! de daño. NL Gana !M! de Artefacto. NL Agota."
   },
   "Corpse Explosion": {
     "NAME": "Explosión de Cadaver",
@@ -390,6 +398,11 @@
   "Disarm": {
     "NAME": "Desarmar",
     "DESCRIPTION": "El enemigo pierde !M! de Fuerza. NL Agota."
+  },
+  "Discovery": {
+    "NAME": "Descubrimiento",
+    "DESCRIPTION": "Elige 1 carta de 3 al azar para añadir a la mano. Su coste es 0 en este turno. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Elige 1 carta de 3 al azar para añadir a la mano. Su coste es 0 en este turno."
   },
   "Distraction": {
     "NAME": "Distracción",
@@ -572,6 +585,10 @@
     "NAME": "Campo de fuerza",
     "DESCRIPTION": "El coste es 1 [B] menos por cada carta de Poder jugada este combate. NL Gana !B! de Bloqueo."
   },
+  "Forethought": {
+    "NAME": "Previsión",
+    "DESCRIPTION": "Coloca una carta de la mano en el fondo de la pila de extracción. NL Su coste es 0 hasta que es jugada."
+  },
   "Fusion": {
     "NAME": "Fusión",
     "DESCRIPTION": "Canaliza !M! Plasma."
@@ -614,6 +631,10 @@
     "NAME": "Gran final",
     "DESCRIPTION": "Solo puede ser jugada si no hay mas cartas en la pila de extracción. NL Haz !D! de daño a TODOS los enemigos.",
     "UPGRADE_DESCRIPTION": "La pila de extracción NL debe estar #rVacía."
+  },
+  "HandOfGreed": {
+    "NAME": "Mano avariciosa",
+    "DESCRIPTION": "Haz !D! de daño. NL Si esta carta mata un enemigo que no es súbdito, gana !M! de Oro."
   },
   "Havoc": {
     "NAME": "Confusión",
@@ -667,6 +688,10 @@
   "Immolate": {
     "NAME": "Inmolar",
     "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Añade una Quemadura a la pila de descartes."
+  },
+  "Impatience": {
+    "NAME": "Impaciencia",
+    "DESCRIPTION": "Si no tienes cartas de Ataque en la mano, roba !M! cartas."
   },
   "Impervious": {
     "NAME": "Impenetrable",
@@ -735,7 +760,7 @@
   "Loop": {
     "NAME": "Bucle",
     "DESCRIPTION": "Al inicio de tu turno, usa la habilidad pasiva de tu siguiente Orbe.",
-	"UPGRADE_DESCRIPTION": "Al inicio de tu turno, usa la habilidad pasiva de tu siguiente Orbe !M! veces."
+    "UPGRADE_DESCRIPTION": "Al inicio de tu turno, usa la habilidad pasiva de tu siguiente Orbe !M! veces."
   },
   "Machine Learning": {
     "NAME": "Machine Learning",
@@ -822,7 +847,7 @@
       " cartas per turno.",
       " cartas per turno. NL Has jugado ",
       " carta este turno.",
-	  " cartas este turno."
+      " cartas este turno."
     ]
   },
   "Nova": {
@@ -865,6 +890,10 @@
     "NAME": "Estilo",
     "DESCRIPTION": "Cada vez que que juegues 5 cartas en un solo turno, haz !M! de daño a TODOS los enemigos."
   },
+  "PanicButton": {
+    "NAME": "Botón del pánico",
+    "DESCRIPTION": "Gana !B! de Bloqueo. No puedes ganar Bloqueo de cartas durante !M! turnos. NL Agota."
+  },
   "Parasite": {
     "NAME": "Parásito",
     "DESCRIPTION": "Injugable. NL Si es transformada o quitada del mazo, pierde 3 PV máximos"
@@ -903,6 +932,10 @@
     "NAME": "Estar preparada",
     "DESCRIPTION": "Roba !M! carta. NL Descarta !M! carta.",
     "UPGRADE_DESCRIPTION": "Roba !M! cartas. NL Descarta !M! cartas."
+  },
+  "Pride": {
+    "NAME": "Orgullo",
+    "DESCRIPTION": "Innata. Agota. NL Al final de tu turno, coloca una copia de esta carta al tope de la pila de extracción."
   },
   "Prime": {
     "NAME": "Cebar",
@@ -994,6 +1027,10 @@
   "Rip and Tear": {
     "NAME": "Rasgar y desgarrar",
     "DESCRIPTION": "Haz !D! de daño a un enemigo al azar !M! veces."
+  },
+  "RitualDagger": {
+    "NAME": "Daga ritual",
+    "DESCRIPTION": "Haz !D! de daño. Si esta carta mata a un enemigo, incrementa permanentemente el daño de esta carta en !M!. Agota."
   },
   "Rupture": {
     "NAME": "Ruptura",
@@ -1252,6 +1289,10 @@
     "NAME": "Alquimia",
     "DESCRIPTION": "Obtén una poción al azar. NL Agota."
   },
+  "Violence": {
+    "NAME": "Violencia",
+    "DESCRIPTION": "Coloca !M! cartas de Ataque al azar de la pila de extracción a la mano."
+  },
   "Void": {
     "NAME": "Vacío",
     "DESCRIPTION": "Injugable. NL Cuando esta carta es robada, pierde 1 de Energía. NL Eterea."
@@ -1297,47 +1338,5 @@
   "Zap": {
     "NAME": "Calambrazo",
     "DESCRIPTION": "Canaliza !M! Relampago."
-  },
-  "Core Surge": {
-    "NAME": "Agitación del núcleo",
-    "DESCRIPTION": "Haz !D! de daño. NL Gana !M! de Artefacto. NL Agota."
-  },
-  "Compile Driver": {
-    "NAME": "Compilar controlador",
-    "DESCRIPTION": "Haz !D! de daño. NL Roba !M! carta por cada Orbe unico que tengas."
-  },
-  "RitualDagger": {
-    "NAME": "Daga ritual",
-    "DESCRIPTION": "Haz !D! de daño. Si esta carta mata a un enemigo, incrementa permanentemente el daño de esta carta en !M!. Agota."
-  },
-  "Pride": {
-    "NAME": "Orgullo",
-    "DESCRIPTION": "Innata. Agota. NL Al final de tu turno, coloca una copia de esta carta al tope de la pila de extracción."
-  },
-  "PanicButton": {
-    "NAME": "Botón del pánico",
-    "DESCRIPTION": "Gana !B! de Bloqueo. No puedes ganar Bloqueo de cartas durante !M! turnos. NL Agota."
-  },
-  "HandOfGreed": {
-    "NAME": "Mano avariciosa",
-    "DESCRIPTION": "Haz !D! de daño. NL Si esta carta mata un enemigo que no es súbdito, gana !M! de Oro."
-  },
-  "Violence": {
-    "NAME": "Violencia",
-    "DESCRIPTION": "Coloca !M! cartas de Ataque al azar de la pila de extracción a la mano."
-  },
-  "Impatience": {
-    "NAME": "Impaciencia",
-    "DESCRIPTION": "Si no tienes cartas de Ataque en la mano, roba !M! cartas."
-  },
-  "Forethought": {
-    "NAME": "Previsión",
-    "DESCRIPTION": "Coloca una carta de la mano en el fondo de la pila de extracción. NL Su coste es 0 hasta que es jugada."
-  },
-  "Discovery": {
-    "NAME": "Descubrimiento",
-    "DESCRIPTION": "Elige 1 carta de 3 al azar para añadir a la mano. Su coste es 0 en este turno. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Elige 1 carta de 3 al azar para añadir a la mano. Su coste es 0 en este turno."
-
   }
 }
