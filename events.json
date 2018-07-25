@@ -14,7 +14,7 @@
       "[Hurgar] #gObtener #guna #gReliquia. #r75%: #rMaldecirte #r- #rNormalidad.",
       "[Salir]",
       "Elige una Carta a Mejorar",
-      "[Bloqueado] Requiere: Cartas Mejorables"
+      "[Bloqueado] Necesitas: Cartas Mejorables"
     ]
   },
   "Addict": {
@@ -27,10 +27,10 @@
     "OPTIONS": [
       "[Ofrecer Oro] #y",
       " #yOro: #gRecibe #guna #gReliquia.",
-      "[Bloqueado] Requiere: ",
+      "[Bloqueado] Necesitas: ",
       " Oro.",
       "[Dar JAX] #gRecibe #guna #gReliquia. #rPiede #rJ.A.X.",
-      "[Bloqueado] Requiere: J.A.X.",
+      "[Bloqueado] Necesitas: J.A.X.",
       "[Salir] Ignore the addict.",
       "[Salir]"
     ]
@@ -60,7 +60,7 @@
     "OPTIONS": [
       "[Ofrecer] #y",
       " #yOro: #gElimina #guna #gcarta #gde #gtu #gmazo.",
-      "[Bloqueado] Requiere: ",
+      "[Bloqueado] Necesitas: ",
       " Oro.",
       "[Continuar]",
       "[Salir]",
@@ -161,7 +161,7 @@
     "OPTIONS": [
       "[Pagar] #y",
       " #yOro: #gPonerse #gJAXXED.",
-      "[Bloqueado] Requiere: ",
+      "[Bloqueado] Necesitas: ",
       " Oro.",
       "[Salir]",
       "[Declinar]"
@@ -211,11 +211,11 @@
     "OPTIONS": [
       "[Continuar]",
       "[Aterrizar] #rPierde ",
-      "[Bloqueado] Requiere: Carta de Habilidad",
+      "[Bloqueado] Necesitas: Carta de Habilidad",
       "[Canalizar] #rPierde ",
-      "[Bloqueado] Requiere: Carta de Poder",
+      "[Bloqueado] Necesitas: Carta de Poder",
       "[Golpear] #rPierde ",
-      "[Bloqueado] Requiere: Carta de Ataque",
+      "[Bloqueado] Necesitas: Carta de Ataque",
       "[Salir]",
       "[Land] "
     ]
@@ -230,11 +230,11 @@
     ],
     "OPTIONS": [
       "[Ofrendar: Ídolo Dorado] #gRecibe #guna #gReliquia #gespecial. #rPierde #rÍdolo #rDorado.",
-      "[Bloqueado] Requiere: Ídolo Dorado.",
+      "[Bloqueado] Necesitas: Ídolo Dorado.",
       "[Sacrifica] #gGana #g",
       " #gPV #gMáximos. #rPierde #r",
       " #rPV.",
-      "[Bloqueado] Requiere: Humanidad.",
+      "[Bloqueado] Necesitas: Humanidad.",
       "[Profanar] #rMaldecirte #r- #rDescomposición."
     ]
   },
@@ -317,7 +317,7 @@
       "[Destruir] #gGana #g",
       " #g- #g",
       " #gOro.",
-      "[Bloqueado] Requiere: Carta con ",
+      "[Bloqueado] Necesitas: Carta con ",
       " o más de daño.",
       "[Salir]",
       "[Continuar]",
@@ -387,7 +387,7 @@
       "Selecciona una Carta a Transformar.",
       "Selecciona una Carta a Mejorar.",
       "[Salir]",
-      "[Bloqueado] Requiere: Cartas Mejorables"
+      "[Bloqueado] Necesitas: Cartas Mejorables"
     ]
   },
   "Masked Bandits": {
@@ -490,7 +490,7 @@
       "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
       ".",
       "[Smash and Grab] #gObtain #g150 #gGold.",
-      "[Locked] Requires: Upgraded Card.",
+      "[Locked] Necesitas: Upgraded Card.",
       "[Leave]",
       "[Continue]"
     ]
@@ -524,7 +524,7 @@
     "OPTIONS": [
       "[Alcanzar Interior] #rPierde #r",
       " #rPV. #g",
-      "%: #gEncuentra #gunaa #gReliquia.",
+      "%: #gEncuentra #guna #gReliquia.",
       "[Salir]",
       "[Más Profundo] #rPierde #r"
     ]
@@ -570,7 +570,7 @@
       "[Entrar] #gMejora #g2 #gcartas #gal #gazar. #rPierde #r",
       " #rPV.",
       "[Salir]",
-      "[Bloqueado] Requiere: Cartas Mejorables"
+      "[Bloqueado] Necesitas: Cartas Mejorables"
     ]
   },
   "Spire Heart": {
@@ -604,11 +604,11 @@
     ],
     "OPTIONS": [
       "[Curar] #y35 #yOro: #gCurar #g",
-      "[Bloqueado] Requiere: ",
+      "[Bloqueado] Necesitas: ",
       " Oro.",
       "[Purificar] #y",
       " #yOro: #gEliminar #guna #gcarta #gde #gtu #gmazo.",
-      "[Bloqueado] Requiere: 50 Oro.",
+      "[Bloqueado] Necesitas: 50 Oro.",
       "[Salir]",
       "Selecciona una Carta a Eliminar.",
       " #PV."
@@ -681,7 +681,7 @@
       "[Saltar Adentro] #gCurar #gtodos #gtus #gPV. #rPierde #r",
       " #rPV #rMáximo.",
       "[Ofrendar: Ídolo Dorado] #gRecibe #g333 #gOro. #rPierde #rÍdolo #rDorado.",
-      "[Bloqueado] Requiere: Ídolo Dorado.",
+      "[Bloqueado] Necesitas: Ídolo Dorado.",
       "[Salir]"
     ]
   },
@@ -725,7 +725,7 @@
     ],
     "OPTIONS": [
       "[Ponte la Máscara Roja] #gGana #g222 #gOro.",
-      "[Bloqueado] Requiere: Máscara Roja.",
+      "[Bloqueado] Necesitas: Máscara Roja.",
       "[Ofrendar: ",
       " Oro] #rPierde #rtodo #rOro. #gGana #guna #gReliquia.",
       "[Salir]"
@@ -755,7 +755,7 @@
       "[Rezar] #gMejorar #guna #gcarta.",
       "[Salir]",
       "Selecciona una Carta a Mejorar.",
-      "[Bloqueado] Requiere: Cartas Mejorables"
+      "[Bloqueado] Necesitas: Cartas Mejorables"
     ]
   },
   "Vampires": {
@@ -833,6 +833,46 @@
       "[Dejarlo] #rPierde #r",
       " #rOro.",
       "[Salir]"
+    ]
+  }
+  "NoteForYourself": {
+    "NAME": "Una nota para mí mismo",
+    "DESCRIPTIONS": [
+      "Encuentras un ladrillo suelto en un pilar que te llama la atención.",
+      "You find a folded note and a #ycard inside. It reads, NL \"The Heart awaits.\" NL NL This is your handwriting.",
+      "Te encuentras una nota doblada, y una #ycarta dentro. La carta dice: NL \"El Corazón espera.\" NL NL Es tu letra.",
+      "Elige una carta para guardar.",
+      "¿Pero que pasa?"
+    ],
+    "OPTIONS": [
+      "[Continúa]",
+      "[Dar y Recibir] #gRecibe ",
+      " #gy #gguarda #guna #gcarta.",
+      "[Ignorar]",
+      "[Salir]"
+    ]
+  },
+  "WeMeetAgain": {
+    "NAME": "¡Nos volvemos a ver!",
+    "DESCRIPTIONS": [
+      "\"¡Nos volvemos a ver!\" NL Un tipo alegre y despeinado se acerca a ti alegremente. No conoces a este hombre. NL NL \"¡Soy yo, #yRanwid! ¿Tienes buena mercancía para mi? ¿Lo de siempre? Un tipo como yo no puede hacerlo por sí solo, ¿sabes?\" NL Le miras de forma dudosa y consideras tus opciones...",
+      "\"¡Exquisito! Tenía la garganta seca.\" NL #b~Glu,~ #b~Glu,~ #b~Glu...~ NL NL Se bebe la poción de una y deja salir un @eructo@ de satisfacción.",
+      "\"¡Magnífico! Esto me será muy útil si me encuentro a esos #rmatones #rcon #rmáscara de nuevo.\"",
+      "\"¡Ejemplar! Lo estudiaré más a fondo en mis aposentos.\"",
+      "\"@¡¡Au!!@ ¡Que grosero eres a veces!\" NL Sale corriendo.",
+      "NL NL Hurga sus bolsillos en busca de algo... NL \"¡Eh, mira lo que tengo hoy para ti! ¡Toma, toma!\""
+    ],
+    "OPTIONS": [
+      "[Dar poción] #rPierde ",
+      "[Bloqueado] Necesitas: Poción.",
+      "[Dar oro] #rPierde #r",
+      "[Bloqueado] Necesitas: Por lo menos 50 de Oro.",
+      "[Dar carta] #rPierde ",
+      "[Bloqueado] Necesitas: Carta.",
+      ". #gRecibe #guna #gReliquia.",
+      "[Atacar]",
+      "[Salir]",
+      " #rOro"
     ]
   }
 }
