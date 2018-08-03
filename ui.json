@@ -588,7 +588,7 @@
   "InputKeyNames": {
     "TEXT_DICT": {
       "Escape": "ESC",
-      "Forward delete": "Suprimir",
+      "Forward Delete": "Suprimir",
       "Delete": "Retroceso"
     }
   },
@@ -670,7 +670,8 @@
       "Hungaro",
       "Serbio (Latin)",
       "Catalán",
-      "Griego"
+      "Griego",
+	  "Indonesio"
     ]
   },
   "LeaderboardFilters": {
