@@ -7,20 +7,20 @@
     ]
   },
   "DEV": {
-    "HEADER": "Desarrollo & Diseño",
+    "HEADER": "Diseño y Desarrollo",
     "NAMES": [
       "Anthony Giovannetti",
       "Casey Yano"
     ]
   },
   "ILLUSTRATION": {
-    "HEADER": "Promo & Ilustración de Fondos",
+    "HEADER": "Ilustrador de fondos y promos",
     "NAMES": [
       "Bruce Brenneise"
     ]
   },
   "LOC_ADDITIONAL": {
-    "HEADER": "Traducciones Adicionales",
+    "HEADER": "Traducciones adicionales",
     "NAMES": [
       "MoGi Group"
     ]
@@ -38,7 +38,8 @@
       "Jonas Trodler",
       "Hongkong Koma",
       "Moly",
-      "koykoy13"
+      "koykoy13",
+      "Magnus Upmann"
     ]
   },
   "LOC_FRA": {
@@ -63,6 +64,14 @@
       "Kotsos \"Iglor\" Diamond"
     ]
   },
+    "LOC_IND": {
+    "HEADER": "Indonesian Localization",
+    "NAMES": [
+      "Aditya \"RiSQ.\" Arifin",
+      "Daryan \"Samus\" Ramadhany",
+      "Haveiszal \"Szaal\" Faroqie"
+    ]
+  },
   "LOC_ITA": {
     "HEADER": "Traducción al Italiano",
     "NAMES": [
@@ -80,16 +89,16 @@
   "LOC_KOR": {
     "HEADER": "Traducción al Koreano",
     "NAMES": [
-      "Administrador de Traducción:",
+      "Coordinador de Traducción:",
       "Eteriny",
-      "Translation:",
+      "Traducción:",
       "Simcoding",
       "DesFrog",
+      "Fissh",
       "insight",
       "K4lium",
       "hina",
-      "Traducción de Página en Steam:",
-      "GyeRyak",
+      "Traducción de la Página en Steam:",
       "GyeRyak"
     ]
   },
@@ -102,14 +111,14 @@
   "LOC_POL": {
     "HEADER": "Traducción al Polaco",
     "NAMES": [
-      "Traducción y Coordinación:",
+      "Traducción y coordinación:",
       "Stanis³aw \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
-      "Traducciones Adicionales:",
+      "Traducciones adicionales:",
       "Adrian \"xeros\" Rolka",
-      "Proofreading:",
+      "Corrección de textos:",
       "Oskar \"volf3n\" Nowak",
-      "Sugerencias y Retroalimentación:",
+      "Comentarios y sugerencias:",
       "Kasper \"Awokado\" Beræ",
       "Pawe³ \"BASTIL\" Kaleta",
       "Grzegorz \"GregPL\" Bogus³awski",
@@ -119,7 +128,7 @@
     ]
   },
   "LOC_PTB": {
-    "HEADER": "Traducción al Portugués Brasil",
+    "HEADER": "Traducción al Portugués de Brasil",
     "NAMES": [
       "Guilherme \"GPerego\" Perego",
       "Gustavo \"KomKlave\" Duarte",
@@ -132,11 +141,11 @@
   "LOC_RUS": {
     "HEADER": "Traducción al Ruso",
     "NAMES": [
-      "Traducción y coordinación:",
+      "Traducción:",
       "Ivan \"Ingrett\" Khoroshunenko",
-      "Traducción y repositorio:",
       "Vladislav \"Vlad-00003\" Bolshakov",
-      "Sugerencias y retroalimentación:",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Comentarios y sugerencias:",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
       "Sergey \"lol10801lol\" K.",
@@ -144,8 +153,7 @@
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
       "Alexandr \"LiaNdrY\" Mazistov",
-      "Dmitry \"Regallion\" Zhiryakov",
-      "Shop Asset Translation:",
+      "Traducción de elementos de la tienda:",
       "Urist McFerrum"
     ]
   },
@@ -189,13 +197,13 @@
     ]
   },
   "PORTRAITS": {
-    "HEADER": "Retrato de Cartas & Arte de Eventos",
+    "HEADER": "Retratos de cartas & Arte de los eventos",
     "NAMES": [
       "Anailis Dorta"
     ]
   },
   "SOUND": {
-    "HEADER": "Música y Sonidos",
+    "HEADER": "Música y sonidos",
     "NAMES": [
       "Clark Aboud"
     ]

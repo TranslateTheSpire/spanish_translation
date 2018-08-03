@@ -152,10 +152,10 @@
     ]
   },
   "Busted Crown": {
-    "NAME": "Corona quebrada",
+    "NAME": "Corona reventada",
     "FLAVOR": "La corona del campeón... ¿o una simple imitación?",
     "DESCRIPTIONS": [
-      "En la pantalla de recompensa de cartas, tienes #b2 #ycards menos entre las que elegir.",
+      "En la pantalla de recompensa de cartas, tienes #b2 #ycartas menos entre las que elegir.",
       "Gana [R] al comienzo de cada turno. ",
       "Gana [G] al comienzo de cada turno. ",
       "Gana [B] al comienzo de cada turno. "

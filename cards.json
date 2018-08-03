@@ -350,8 +350,8 @@
     "NAME": "Correr",
     "DESCRIPTION": "Gana !B! de Bloqueo. NL Haz !D! de daño."
   },
-    "NAME": "Desorientado",
   "Dazed": {
+    "NAME": "Desorientado",
     "DESCRIPTION": "Injugable. NL Etérea."
   },
   "Deadly Poison": {
