@@ -306,10 +306,10 @@
   "Golden Wing": {
     "NAME": "Ala dorada",
     "DESCRIPTIONS": [
-      "Entres todas las piedras, te das cuenta de un estatua azul y compleja que se asemeja a una ala. NL Encuentras #yoro saliendo de sus grietas. Tal vez hay más adentro...",
-      "Alguien alguna vez te contó sobre un culto que adoraba a una ave gigante. Cuando te arrodillas a rezar, empiezas a ~sentir~ ... ~mareos~ . NL NL Despiertas algun tiempo después, extrañamente más veloz.",
-      "Con todas tus fuerzas, empiezas a atacar a la estatua. NL No tarda nada en @desmoronarse,@ revelando un #ymontón #yde #yoro. Tomas tanto como puedes y continuas tu camino.",
-      "La estatua es ~inquietante.~ Sigues caminando, pasandola, y continuas."
+      "Entre las piedras, te das cuenta de una estatua azul compleja con forma de ala. NL Encuentras #y~oro~ saliendo de sus grietas. Tal vez hay más dentro...",
+      "Alguien en el pasado te contó sobre un culto que adoraba a una ave gigante. Cuando te arrodillas a rezar, empiezas a ~sentir~ ~mareos...~  NL NL Te despiertas mas tarde, sintiéndote extrañamente más ligero.",
+      "Con todas tus fuerzas, empiezas a atacar a la estatua. NL No tarda nada en @desmoronarse,@ revelando un #ymontón #yde #yoro. Coges tanto como puedes y continuas tu camino.",
+      "La estatua te hace sentir ~nervioso.~ Pasas de largo y sigues tu camino."
     ],
     "OPTIONS": [
       "[Rezar] #gElimina #guna #gcarta #gde #gtu #gmazo. #rPierde #r",
