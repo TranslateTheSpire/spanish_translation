@@ -57,7 +57,7 @@
   },
   "AscendersBane": {
     "NAME": "Perdición del ascendente",
-    "DESCRIPTION": "Injugable. NL Eterea. NL No se puede eliminar del mazo."
+    "DESCRIPTION": "Injugable. NL Etérea. NL No se puede eliminar del mazo."
   },
   "Auto Shields": {
     "NAME": "Escudos automáticos",
@@ -65,7 +65,7 @@
   },
   "Axe Kick": {
     "NAME": "Patada vertical",
-    "DESCRIPTION": "Haz !D! de daño. NL Evoca tu siguiente Orbe."
+    "DESCRIPTION": "Haz !D! de daño. NL Descarga tu siguiente Orbe."
   },
   "Backflip": {
     "NAME": "Voltereta hacia atrás",
@@ -77,7 +77,7 @@
   },
   "Ball Lightning": {
     "NAME": "Bola relámpago",
-    "DESCRIPTION": "Haz !D! de daño. Canaliza !M! Relampago."
+    "DESCRIPTION": "Haz !D! de daño. Invoca !M! Relámpago."
   },
   "Bandage Up": {
     "NAME": "Vendarse",
@@ -89,7 +89,7 @@
   },
   "Barrage": {
     "NAME": "Bombardeo",
-    "DESCRIPTION": "Haz !D! de daño por cada Orbe Canalizado."
+    "DESCRIPTION": "Haz !D! de daño por cada Orbe invocado."
   },
   "Barricade": {
     "NAME": "Barricada",
@@ -125,7 +125,7 @@
   },
   "Blaster": {
     "NAME": "Bláster",
-    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Gana [B] por cada Orbe Canalizado. NL Agota."
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Gana [B] por cada Orbe invocado. NL Agota."
   },
   "Blind": {
     "NAME": "Cegar",
@@ -219,7 +219,7 @@
   },
   "Carnage": {
     "NAME": "Carnicería",
-    "DESCRIPTION": "Eterea. NL Haz !D! de daño."
+    "DESCRIPTION": "Etérea. NL Haz !D! de daño."
   },
   "Catalyst": {
     "NAME": "Catalizador",
@@ -232,13 +232,13 @@
   },
   "Chaos": {
     "NAME": "Caos",
-    "DESCRIPTION": "Canaliza !M! Orbe al azar.",
-    "UPGRADE_DESCRIPTION": "Canaliza !M! Orbes al azar."
+    "DESCRIPTION": "Invoca !M! Orbe al azar.",
+    "UPGRADE_DESCRIPTION": "Invoca !M! Orbes al azar."
   },
   "Chill": {
     "NAME": "Enfriar",
-    "DESCRIPTION": "Canaliza !M! Escarcha por cada enemigo en combate. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Canaliza !M! Escarcha por cada enemigo en combate. NL Agota."
+    "DESCRIPTION": "Invoca !M! Escarcha por cada enemigo en combate. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Invoca !M! Escarcha por cada enemigo en combate. NL Agota."
   },
   "Choke": {
     "NAME": "Estrangular",
@@ -270,11 +270,11 @@
   },
   "Clumsy": {
     "NAME": "Patoso",
-    "DESCRIPTION": "Injugable. NL Eterea."
+    "DESCRIPTION": "Injugable. NL Etérea."
   },
   "Cold Snap": {
     "NAME": "Frío repentino",
-    "DESCRIPTION": "Haz !D! de daño. Canaliza !M! Escarcha."
+    "DESCRIPTION": "Haz !D! de daño. Invoca !M! Escarcha."
   },
   "Combust": {
     "NAME": "Combustión",
@@ -298,8 +298,8 @@
   },
   "Coolheaded": {
     "NAME": "Con la cabeza fría",
-    "DESCRIPTION": "Canaliza 1 Escarcha. NL Roba !M! carta.",
-    "UPGRADE_DESCRIPTION": "Canaliza 1 Escarcha. NL Roba !M! cartas."
+    "DESCRIPTION": "Invoca 1 Escarcha. NL Roba !M! carta.",
+    "UPGRADE_DESCRIPTION": "Invoca 1 Escarcha. NL Roba !M! cartas."
   },
   "Core Surge": {
     "NAME": "Agitación del núcleo",
@@ -343,16 +343,16 @@
   },
   "Darkness": {
     "NAME": "Oscuridad",
-    "DESCRIPTION": "Canaliza !M! Oscuridad.",
-    "UPGRADE_DESCRIPTION": "Canaliza !M! Oscuridad."
+    "DESCRIPTION": "Invoca !M! Oscuridad.",
+    "UPGRADE_DESCRIPTION": "Invoca !M! Oscuridad."
   },
   "Dash": {
     "NAME": "Correr",
     "DESCRIPTION": "Gana !B! de Bloqueo. NL Haz !D! de daño."
   },
-  "Dazed": {
     "NAME": "Desorientado",
-    "DESCRIPTION": "Injugable. NL Eterea."
+  "Dazed": {
+    "DESCRIPTION": "Injugable. NL Etérea."
   },
   "Deadly Poison": {
     "NAME": "Veneno mortal",
@@ -414,7 +414,7 @@
   },
   "Doom and Gloom": {
     "NAME": "Muerte y desolación",
-    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Canaliza !M! Oscuridad."
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Invoca !M! Oscuridad."
   },
   "Doppelganger": {
     "NAME": "Doppelganger",
@@ -450,16 +450,16 @@
   },
   "Dualcast": {
     "NAME": "Jugada doble",
-    "DESCRIPTION": "Evoca tu siguiente Orbe 2 veces."
+    "DESCRIPTION": "Descarga tu siguiente Orbe 2 veces."
   },
   "Echo Form": {
     "NAME": "Forma Eco",
-    "DESCRIPTION": "La primera carta que juegues cada turno se juega dos veces. NL Eterea.",
+    "DESCRIPTION": "La primera carta que juegues cada turno se juega dos veces. NL Etérea.",
     "UPGRADE_DESCRIPTION": "La primera carta que juegues cada turno se juega dos veces."
   },
   "Electrodynamics": {
     "NAME": "Electrodinamica",
-    "DESCRIPTION": "Relampago ahora daña a TODOS los enemigos. NL Canaliza !M! Relampago.",
+    "DESCRIPTION": "Relámpago ahora daña a TODOS los enemigos. NL Invoca !M! Relámpago.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Endless Agony": {
@@ -546,7 +546,7 @@
   },
   "Fission": {
     "NAME": "Fisión",
-    "DESCRIPTION": "Evoca todos tus Orbes. Gana un espacio de Orbe por cada Orbe Evocado. NL Agota."
+    "DESCRIPTION": "Descarga todos tus Orbes. Gana un espacio de Orbe por cada Orbe Evocado. NL Agota."
   },
   "Flame Barrier": {
     "NAME": "Barrera de llamas",
@@ -571,7 +571,7 @@
   },
   "Flux Capacitor": {
     "NAME": "Condensador de fluzo ",
-    "DESCRIPTION": "Obsoleto. Reemplaza todos los Orbes Canalizados por Plasma. NL Agota."
+    "DESCRIPTION": "Obsoleto. Reemplaza todos los Orbes invocados por Plasma. NL Agota."
   },
   "Flying Knee": {
     "NAME": "Rodillazo",
@@ -591,7 +591,7 @@
   },
   "Fusion": {
     "NAME": "Fusión",
-    "DESCRIPTION": "Canaliza !M! Plasma."
+    "DESCRIPTION": "Invoca !M! Plasma."
   },
   "Gash": {
     "NAME": "Tajo",
@@ -603,17 +603,17 @@
   },
   "Ghostly": {
     "NAME": "Espectral",
-    "DESCRIPTION": "Gana 1 Intangible. NL Agota. NL Eterea.",
+    "DESCRIPTION": "Gana 1 Intangible. NL Agota. NL Etérea.",
     "UPGRADE_DESCRIPTION": "Gana 1 Intangible. NL Agota."
   },
   "Ghostly Armor": {
     "NAME": "Armadura espectral",
-    "DESCRIPTION": "Eterea. NL Gana !B! de Bloqueo."
+    "DESCRIPTION": "Etérea. NL Gana !B! de Bloqueo."
   },
   "Glacier": {
     "NAME": "Glaciar",
-    "DESCRIPTION": "Gana !B! de Bloqueo. NL Canaliza !M! Escarcha.",
-    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Canaliza !M! Escarcha."
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Invoca !M! Escarcha.",
+    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Invoca !M! Escarcha."
   },
   "Glass Knife": {
     "NAME": "Cuchillo de cristal",
@@ -699,8 +699,8 @@
   },
   "Impulse": {
     "NAME": "Impulso",
-    "DESCRIPTION": "Usa el efecto pasivo de todos tus Orbes Canalizados. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Usa el efecto pasivo de todos tus Orbes Canalizados."
+    "DESCRIPTION": "Usa el efecto pasivo de todos tus Orbes invocados. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Usa el efecto pasivo de todos tus Orbes invocados."
   },
   "Infernal Blade": {
     "NAME": "Espada infernal",
@@ -755,7 +755,7 @@
   },
   "Lockon": {
     "NAME": "Bloquear objetivo",
-    "DESCRIPTION": "Haz !D! de daño. NL Durante los siguientes !M! turnos, Relampago y Oscuridad tienen como objetivo al enemigo elegido."
+    "DESCRIPTION": "Haz !D! de daño. NL Durante los siguientes !M! turnos, Relámpago y Oscuridad tienen como objetivo al enemigo elegido."
   },
   "Loop": {
     "NAME": "Bucle",
@@ -807,7 +807,7 @@
   },
   "Meteor Strike": {
     "NAME": "Golpe meteoro",
-    "DESCRIPTION": "Haz !D! de daño. NL Canaliza !M! Plasma."
+    "DESCRIPTION": "Haz !D! de daño. NL Invoca !M! Plasma."
   },
   "Mind Blast": {
     "NAME": "Mind Blast",
@@ -819,8 +819,8 @@
   },
   "Multi-Cast": {
     "NAME": "Multilanzamiento",
-    "DESCRIPTION": "Evoca tu siguiente Orbe X veces.",
-    "UPGRADE_DESCRIPTION": "Evoca tu siguiente Orbe X+1 veces."
+    "DESCRIPTION": "Descarga tu siguiente Orbe X veces.",
+    "UPGRADE_DESCRIPTION": "Descarga tu siguiente Orbe X+1 veces."
   },
   "Necronomicurse": {
     "NAME": "Necronomaldición",
@@ -964,8 +964,8 @@
   },
   "Rainbow": {
     "NAME": "Arcoiris",
-    "DESCRIPTION": "Canaliza 1 Relampago, 1 Escarcha, y 1 Oscuridad. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Canaliza 1 Relampago, 1 Escarcha, y 1 Oscuridad."
+    "DESCRIPTION": "Invoca 1 Relámpago, 1 Escarcha, y 1 Oscuridad. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Invoca 1 Relámpago, 1 Escarcha, y 1 Oscuridad."
   },
   "Rampage": {
     "NAME": "Masacre",
@@ -993,7 +993,7 @@
   },
   "Redo": {
     "NAME": "Rehacer",
-    "DESCRIPTION": "Evoca tu siguiente Orbe. NL Canaliza el Orbe que acabas de Evocar."
+    "DESCRIPTION": "Descarga tu siguiente Orbe. NL Invoca el Orbe que acabas de Descargar."
   },
   "Reflex": {
     "NAME": "Reflejos",
@@ -1140,8 +1140,8 @@
   },
   "Static Discharge": {
     "NAME": "Descarga estática",
-    "DESCRIPTION": "Cada vez que recibas daño de ataque, Canaliza !M! Relampago.",
-    "UPGRADE_DESCRIPTION": "Cada vez que recibas daño de ataque, Canaliza !M! Relampago."
+    "DESCRIPTION": "Cada vez que recibas daño de ataque, Invoca !M! Relámpago.",
+    "UPGRADE_DESCRIPTION": "Cada vez que recibas daño de ataque, Invoca !M! Relámpago."
   },
   "Steam": {
     "NAME": "Barrera de vapor",
@@ -1153,8 +1153,8 @@
   },
   "Storm": {
     "NAME": "Tormenta",
-    "DESCRIPTION": "Cada vez que juegues una carta de Poder, Canaliza 1 Relampago.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Cada vez que juegues una carta de Poder, Canaliza 1 Relampago."
+    "DESCRIPTION": "Cada vez que juegues una carta de Poder, Invoca 1 Relámpago.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Cada vez que juegues una carta de Poder, Invoca 1 Relámpago."
   },
   "Storm of Steel": {
     "NAME": "Tormenta de acero",
@@ -1211,8 +1211,8 @@
   },
   "Tempest": {
     "NAME": "Tempestad",
-    "DESCRIPTION": "Canaliza X Relampago. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Canaliza X+1 Relampago. NL Agota."
+    "DESCRIPTION": "Invoca X Relámpago. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Invoca X+1 Relámpago. NL Agota."
   },
   "Terror": {
     "NAME": "Terror",
@@ -1229,9 +1229,9 @@
   },
   "Thunder Strike": {
     "NAME": "Impacto de trueno",
-    "DESCRIPTION": "Haz !D! de daño a un enemigo al azar por cada Relampago Canalizado en este combate.",
+    "DESCRIPTION": "Haz !D! de daño a un enemigo al azar por cada Relámpago invocado en este combate.",
     "EXTENDED_DESCRIPTION": [
-      " (He canalizado !M! Relampago(s))"
+      " (He invocado !M! Relámpago(s))"
     ]
   },
   "Thunderclap": {
@@ -1295,7 +1295,7 @@
   },
   "Void": {
     "NAME": "Vacío",
-    "DESCRIPTION": "Injugable. NL Cuando esta carta es robada, pierde 1 de Energía. NL Eterea."
+    "DESCRIPTION": "Injugable. NL Cuando esta carta es robada, pierde 1 de Energía. NL Etérea."
   },
   "Warcry": {
     "NAME": "Grito de guerra",
@@ -1304,8 +1304,8 @@
   },
   "Well Laid Plans": {
     "NAME": "Planes bien fundados",
-    "DESCRIPTION": "Al final de tu turno, Quedate hasta !M! carta en la mano.",
-    "UPGRADE_DESCRIPTION": "Al final de tu turno, Quedate hasta !M! cartas en la mano."
+    "DESCRIPTION": "Al final de tu turno, Mantén hasta !M! carta en la mano.",
+    "UPGRADE_DESCRIPTION": "Al final de tu turno, Mantén hasta !M! cartas en la mano."
   },
   "Whirlwind": {
     "NAME": "Torbellino",
@@ -1337,6 +1337,6 @@
   },
   "Zap": {
     "NAME": "Calambrazo",
-    "DESCRIPTION": "Canaliza !M! Relampago."
+    "DESCRIPTION": "Invoca !M! Relámpago."
   }
 }
