@@ -1,7 +1,7 @@
 {
   "Allstar": {
     "NAME": "Toda una Estrella",
-    "DESCRIPTION": "Empieza con 2 cartas incoloras."
+    "DESCRIPTION": "Empieza con 5 cartas incoloras."
   },
   "Binary": {
     "NAME": "Binario",
@@ -9,15 +9,15 @@
   },
   "Blight Chests": {
     "NAME": "Blight Chests",
-    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
+    "DESCRIPTION": "Los cofres de los jefes contienen plagas tras vencer el Acto 3 en Endless."
   },
   "Brewmaster": {
-    "NAME": "Brewmaster",
-    "DESCRIPTION": "Start with 5 copies of Alchemize, Toy Ornithopter and White Beast Statue."
+    "NAME": "Maestro alquimista",
+    "DESCRIPTION": "Empieza con 5 copias de la carta 'Alquimia' y la reliquia 'Estatua de la Bestia Blanca'."
   },
   "Cursed Run": {
     "NAME": "Partida Maldita",
-    "DESCRIPTION": "Cuando derrotes a un Jefe, te Maldices. Tu reliquia inicial es reemplazada por Llave Maldita, Amuleto de Darkstone, y Muñeco de Du-Vu"
+    "DESCRIPTION": "Cuando derrotes a un Jefe, ganas una Maldición. Tu reliquia inicial es reemplazada por 'Llave Maldita', 'Amuleto de Piedraoscura', y 'Muñeco de Du-Vu'"
   },
   "Diverse": {
     "NAME": "Diversidad",
@@ -33,7 +33,7 @@
   },
   "Endless": {
     "NAME": "Endless",
-    "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
+    "DESCRIPTION": "Ganar te devolverá al Acto 1 con el mismo mazo. Pero cuidado, la plaga lo consume todo..."
   },
   "Heirloom": {
     "NAME": "Reliquia Familiar",
@@ -68,8 +68,8 @@
     "DESCRIPTION": "Decansar en Áreas de Descanso te cura 100% de tus PV pero te cuesta 5 PV Máximos"
   },
   "One Hit Wonder": {
-    "NAME": "One Hit Wonder",
-    "DESCRIPTION": "Start the game with 1 max HP."
+    "NAME": "Un golpe mata",
+    "DESCRIPTION": "Empieza la partida con 1 PV máximo."
   },
   "Praise Snecko": {
     "NAME": "Praise Snecko",
@@ -80,16 +80,16 @@
     "DESCRIPTION": "Empieza con 1 carta Rara."
   },
   "Specialized": {
-    "NAME": "Specialized",
-    "DESCRIPTION": "Start with 5 copies of a single rare card."
+    "NAME": "Especialista",
+    "DESCRIPTION": "Empieza con 5 copias de una carta rara al azar."
   },
   "Starter Deck": {
-    "NAME": "Starter Deck",
+    "NAME": "Mazo para principiantes",
     "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
   },
   "Terminal": {
     "NAME": "Terminal",
-    "DESCRIPTION": "Cuando entras a un nuevo cuarto, pierde 1 PV Máximo. Comienza cada combate con 5 de Armadura Blindada."
+    "DESCRIPTION": "Cuando entras a un nuevo cuarto, pierde 1 PV máximo. Comienza cada combate con 5x 'Armadura de Placas'."
   },
   "Time Dilation": {
     "NAME": "Dilatación Temporal",
@@ -102,5 +102,25 @@
   "Vintage": {
     "NAME": "Clásico",
     "DESCRIPTION": "Los enemigos normales dejan reliquias en vez de cartas"
+  },
+    "Red Cards": {
+    "NAME": "Cartas rojas",
+    "DESCRIPTION": "Las cartas rojas aparecen en tiendas y recompensas."
+  },
+  "Green Cards": {
+    "NAME": "Cartas verdes",
+    "DESCRIPTION": "Las cartas verdes aparecen en tiendas y recompensas."
+  },
+  "Blue Cards": {
+    "NAME": "Cartas azules",
+    "DESCRIPTION": "Las cartas azules aparecen en tiendas y recompensas."
+  },
+  "Colorless Cards": {
+    "NAME": "Cartas incoloras",
+    "DESCRIPTION": "Las cartas incoloras aparecen mas a menudo."
+  },
+    "Stunted Growth": {
+    "NAME": "Crecimiento atrofiado",
+    "DESCRIPTION": "Los enemigos ya no sueltan cartas como recompensa después de superar el Acto 3 en Endless."
   }
 }
