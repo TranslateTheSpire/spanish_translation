@@ -183,16 +183,16 @@
   "FaceTrader": {
     "NAME": "Face Trader",
     "DESCRIPTIONS": [
-      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
-      "ENJOY YOUR NEW FACE!",
-      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
-      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
-      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
+      "¡PARECES SER ALGUIEN QUE PODRÍA TENER UNA CARA NUEVA!",
+      "¡DISFRUTA DE TU NUEVA CARA!",
+      "~\"¿Compensación?~ ~Compensación.\"~ NL Mecanicamente, se saca una pila de monedas de #yoro y las mete en tu bolsillo. NL NL ~\"Pero~ ~que~ ~buena~ ~cara.~ ~Buena~ ~cara.\"~ NL Mientras te toca la cara, ¡empiezas a sentir que te absorbe la vida! NL Mientras tanto, su mascara se cae y estalla en mil pedazos. Gritando, se cubre la cara con sus seis brazos, ¡dejando caer mas mascaras! De entre los gritos y llantos, escapas. NL NL Su cara se tornó completamente blanca.",
+      "~\"¿Para~ ~mi?~ @¿PARA@ @MI?@ ~Oh~ ~si...~ ~Si,~ ~Si...~ ~mmm...\"~ NL NL Ves como agita su brazo rapidamente, ¡y tiene tu cara en la mano! Tu cara ha sido reemplazada. NL NL ~\"Buena~ ~cara.~ ~Buena~ ~cara.\"~",
+      "~\"Para.~ ~Para.~ ~Para.~ ~PARA~ ~¡PARA!\"~ NL NL Probablemente fué la mejor decisión..."
     ],
     "OPTIONS": [
-      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
-      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
-      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+      "[Máscara de N'Loth] Reliquia: Cada vez que juegues una carta rara, gana #gBloqueo.",
+      "[Cabeza de ssserpiente] Reliquia: Cada vez que empiezas un evento, gana 50 de #yoro.",
+      "[Cara del Clérigo] Reliquia: Aumenta tus PV máximos en #b1 después de cada combate.",
       "[Leave]",
       "[Continue]",
       " #rHP, #ggain #g"
@@ -299,7 +299,7 @@
     "OPTIONS": [
       "[Rezar] #gGana #y",
       " #yde #yoro.",
-      "[Profanar] #gGanas #y250 #yde #yoro; #rTe #rvuelves #rmaldito: #rLamento.",
+      "[Profanar] #gGanas #y250 #yde #yoro; #rRecibe #rMaldición: #rLamento.",
       "[Salir]"
     ]
   },
@@ -658,14 +658,14 @@
   "The Mausoleum": {
     "NAME": "El Mausoleo",
     "DESCRIPTIONS": [
-      "Aventurándote a través de una serie de tumbas, te encuentras con un gran sarcófago ~incrustado~ ~con~ ~gemas~ en el centro de un cuarto circular. NL No puedes leer la escritura en el cofre, sin embargo, te das cuenta que hay #p~niebla~ #p~negra~ saliendo de los lados.",
-      "Abres el cofre. ¡Al hacerlo, #p~niebla~ #p~negra~ sales de este y llena todo el cuarto! Adentro, no encuentras un cuerpo, sólo una #y~reliquia.~ La tomas y continuas, #r@tosiendo@ #r@violentamente.@",
-      "Abres el cofre. La niebla se disipa sin daño alguno. Adentro, encuentras los restos mortales de un soldado condecorado que sujeta una vieja #yreliquia. La robas y continuas.",
+      "Aventurándote a través de una serie de tumbas, te encuentras con un gran sarcófago ~incrustado~ ~con~ ~gemas~ en el centro de un cuarto circular. NL No puedes leer la escritura del cofre, sin embargo, te das cuenta que hay #p~niebla~ #p~negra~ saliendo de dentro.",
+      "Abres el cofre. ¡Al hacerlo, #p~niebla~ #p~negra~ emana de este y llena todo el cuarto! Dentro, no encuentras un cuerpo, sólo una #y~reliquia.~ La coges y te vas, #r@tosiendo@ #r@violentamente.@",
+      "Abres el cofre. La niebla se disipa sin efecto alguno. Dentro, encuentras los restos mortales de un soldado condecorado que sujeta una vieja #yreliquia. Se la robas y continuas.",
       "Continuas tu camino, dejando a los muertos olvidados y sin molestar."
     ],
     "OPTIONS": [
-      "[Abrir Cofre] #gRecibe #guna #gReliquia. #r",
-      "%: #rMaldecirte #r- #rRetorcimiento.",
+      "[Abrir Cofre] #gRecibe #guna #gReliquia, #r",
+      "% de #rrecibir #rmaldición #rRetorcimiento.",
       "[Salir]"
     ]
   },
