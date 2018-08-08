@@ -358,11 +358,11 @@
     ]
   },
   "Fading": {
-    "NAME": "Fading",
+    "NAME": "Desapareciendo",
     "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
+      "Muere en #b",
+      " turnos.",
+      "Muere este turno."
     ]
   },
   "Feel No Pain": {
@@ -807,7 +807,7 @@
     ]
   },
   "Shifting": {
-    "NAME": "Shifting",
+    "NAME": "Escurridizo",
     "DESCRIPTIONS": [
       "Whenever ",
       " takes damage, it loses that much #yStrength until the end of the turn."
@@ -859,7 +859,7 @@
     ]
   },
   "StaticDischarge": {
-    "NAME": "Descarga Estática",
+    "NAME": "Descarga electroestática",
     "DESCRIPTIONS": [
       "Cuando recibas daño de #yAtaque, #yInvoca #b",
       " #yRelámpago."
@@ -881,7 +881,7 @@
     ]
   },
   "TheBomb": {
-    "NAME": "The Bomb",
+    "NAME": "La bomba",
     "DESCRIPTIONS": [
       "At the end of %1$s turns, deal %2$s damage to ALL enemies",
       "At the end of this turn, deal %1$s damage to ALL enemies"
