@@ -120,7 +120,7 @@
     "DESCRIPTION": "Haz !D! de daño. NL Cura !M! PV."
   },
   "Blade Dance": {
-    "NAME": "Danza de Espadas",
+    "NAME": "Danza de las navajas",
     "DESCRIPTION": "Añade !M! Navajas a la mano."
   },
   "Blaster": {
@@ -810,7 +810,7 @@
     "DESCRIPTION": "Haz !D! de daño. NL Invoca !M! Plasma."
   },
   "Mind Blast": {
-    "NAME": "Mind Blast",
+    "NAME": "Haz Mental",
     "DESCRIPTION": "Innata. NL Haz de daño igual al numero de cartas en la pila de extracción.",
     "UPGRADE_DESCRIPTION": "Innata. NL Haz de daño igual al numero de cartas en la pila de extracción",
     "EXTENDED_DESCRIPTION": [
