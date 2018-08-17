@@ -40,7 +40,8 @@
       "Neón",
       "La energía está sobrevalorada",
       "Mi dia de suerte",
-      "El Transitorio"
+      "El Transitorio",
+      "Asciende 20"
     ],
     "TEXT": [
       "Gana una batalla con solo 1 PV.",
@@ -73,7 +74,7 @@
       "Gana una partida con una sola reliquia",
       "Gana una partida en menos de 20 minutos",
       "Desbloquea el modo Ascensión",
-      "Commpleta el nivel 10 de Ascensión",
+      "Completa el nivel 10 de Ascensión",
       "Gana una partida con un mazo de 5 cartas o menos",
       "Derrota a Donu con 'Alimentarse'",
       "Gana una partida con El Defectuoso.",
@@ -82,7 +83,8 @@
       "Canaliza 9 Plasma en un solo turno.",
       "Juega 10 o mas cartas de coste 0 en un solo turno.",
       "Gana un Ascenso Diario.",
-      "Derrota a El Transitorio antes de que se desvanezca."
+      "Derrota a El Transitorio antes de que se desvanezca.",
+      "Completa el nivel 20 de Ascensión."
     ]
   },
   "CharStat": {
