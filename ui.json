@@ -120,7 +120,12 @@
       "Las cartas mejoradas aparecen menos seguido.",
       "Jefes pobres.",
       "PV máximos reducidos.",
-      "Eventos desfavorables."
+      "Eventos desfavorables.",
+      "Las tiendas son más caras. ",
+      "Los enemigos normales tienen movimientos y habilidades más desafiantes. ",
+      "Los Élites tienen movimientos y habilidades más desafiantes. ",
+      "Los Jefes tienen movimientos y habilidades más desafiantes. ",
+      "(Nivel Máximo) Jefe Doble"
     ]
   },
   "AscensionTextEffect": {
@@ -679,7 +684,8 @@
       "Serbio (Latin)",
       "Catalán",
       "Griego",
-      "Indonesio"
+      "Indonesio",
+      "Esperanto"
     ]
   },
   "LeaderboardFilters": {

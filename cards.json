@@ -120,7 +120,7 @@
     "DESCRIPTION": "Haz !D! de daño. NL Cura !M! PV."
   },
   "Blade Dance": {
-    "NAME": "Danza de las navajas",
+    "NAME": "Danza de las Navajas",
     "DESCRIPTION": "Añade !M! Navajas a la mano."
   },
   "Blaster": {
@@ -866,8 +866,8 @@
   },
   "Offering": {
     "NAME": "Ofrenda",
-    "DESCRIPTION": "Pierde 5 PV. NL Gana [R] [R]. NL Roba !M! cartas. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Pierde 5 PV. NL Gana [R] [R]. NL Roba !M! cartas. NL Agota."
+    "DESCRIPTION": "Pierde 6 PV. NL Gana [R] [R]. NL Roba !M! cartas. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Pierde 6 PV. NL Gana [R] [R]. NL Roba !M! cartas. NL Agota."
   },
   "Outmaneuver": {
     "NAME": "Aventajar",
@@ -1088,7 +1088,7 @@
     "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Si esta carta es Agotada, NL gana [R] [R] [R]."
   },
   "Setup": {
-    "NAME": "Instalar",
+    "NAME": "Configurar",
     "DESCRIPTION": "Coloca una carta de la mano al tope de la pila de extracción. NL Su coste es 0 hasta que es jugada."
   },
   "Sever Soul": {
