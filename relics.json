@@ -736,8 +736,8 @@
     ]
   },
   "Nloth's Gift": {
-    "NAME": "Regalo de Nloth",
-    "FLAVOR": "El extraño regalo de N'loth. Cada vez que intentas abrirlo, otra caja envuelta del mismo tamaño es todo su contenido.",
+    "NAME": "Regalo de N'Loth",
+    "FLAVOR": "El extraño regalo de N'Loth. Cada vez que intentas abrirlo, otra caja envuelta del mismo tamaño es todo su contenido.",
     "DESCRIPTIONS": [
       "#bTriplica la posibilidad de recibir cartas raras como recompensa de monstruos."
     ]
