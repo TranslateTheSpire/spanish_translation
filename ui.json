@@ -427,6 +427,14 @@
       " Desbloqueado!"
     ]
   },
+  "DeletePopup": {
+    "TEXT": [
+      "¿Borrar este guardado?",
+      "Si",
+      "No",
+      "¡CUIDADO! Esta acción no se puede deshacer."
+    ]
+  },
   "Dig Option": {
     "TEXT": [
       "Excavar",
