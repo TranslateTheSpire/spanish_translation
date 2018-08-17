@@ -211,7 +211,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Explotante",
+    "NAME": "Explosivo",
     "DIALOG": [
       ""
     ]
@@ -275,7 +275,7 @@
   },
   "GremlinFat": {
     "MOVES": [
-      "Smash"
+      "Golpetazo"
     ],
     "NAME": "Gremlin obeso",
     "DIALOG": [
@@ -286,7 +286,7 @@
   },
   "GremlinLeader": {
     "MOVES": [
-      "¡Reúnanse!"
+      "¡Reagrupaos!"
     ],
     "NAME": "Líder Gremlin",
     "DIALOG": [
@@ -302,7 +302,7 @@
       "Golpe al cráneo",
       "Carga de embestida"
     ],
-    "NAME": "Gremlin Idiota",
+    "NAME": "Gremlin idiota",
     "DIALOG": [
       "@¡¡RRrroohrrRGHHhhh!!@"
     ]
@@ -311,7 +311,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Gremlin Silencioso",
+    "NAME": "Gremlin ladrón",
     "DIALOG": [
       "",
       "@Traeré@ @un poco@ NL @más de@ @ayuda@ ",
@@ -323,7 +323,7 @@
       "Proteger",
       "Golpe con escudo"
     ],
-    "NAME": "Gremlin Escudero",
+    "NAME": "Gremlin reservado",
     "DIALOG": [
       "",
       "~Hasta~ ~Luego...~",
@@ -334,7 +334,7 @@
     "MOVES": [
       "Garra"
     ],
-    "NAME": "Gremlin Loco",
+    "NAME": "Gremlin guerrero",
     "DIALOG": [
       "",
       "@¡Voy@ @a@ NL @buscar@ @ayuda!@",
@@ -346,7 +346,7 @@
       "Cargando",
       "Golpe Final"
     ],
-    "NAME": "Mago Gremlin",
+    "NAME": "Mago gremlin",
     "DIALOG": [
       "",
       "¡Cargando!",
@@ -359,7 +359,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Místico",
+    "NAME": "Curandero",
     "DIALOG": [
       ""
     ]
@@ -469,7 +469,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Reptomancer",
+    "NAME": "Vibora vidente",
     "DIALOG": [
       ""
     ]
@@ -505,7 +505,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Parásito con Caparazón",
+    "NAME": "Parásito con caparazón",
     "DIALOG": [
       ""
     ]
@@ -545,7 +545,7 @@
       "Dividirse",
       "Chorro de baba"
     ],
-    "NAME": "Jefe Baba",
+    "NAME": "Rey Babosa",
     "DIALOG": [
       "~Baba...~ NL #r~¡¡¡APLASTA!!!~",
       ""
@@ -555,7 +555,7 @@
     "MOVES": [
       "Esporas debilitantes"
     ],
-    "NAME": "Lengua de Tigre",
+    "NAME": "Lengua de tigre",
     "DIALOG": [
       ""
     ]
@@ -610,7 +610,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Picudo",
+    "NAME": "Punzante",
     "DIALOG": [
       ""
     ]
@@ -661,7 +661,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Cabeza de Antorcha",
+    "NAME": "Cabeza Antorcha",
     "DIALOG": [
       ""
     ]
@@ -670,7 +670,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Transient",
+    "NAME": "Transeunte",
     "DIALOG": [
       ""
     ]

@@ -27,8 +27,7 @@
   },
   "LOC_CAT": {
     "HEADER": "Traducción al Catalán",
-    "NAMES": [
-	]
+    "NAMES": []
   },
   "LOC_DEU": {
     "HEADER": "Traducción al Alemán",
@@ -64,7 +63,7 @@
       "Kotsos \"Iglor\" Diamond"
     ]
   },
-    "LOC_IND": {
+  "LOC_IND": {
     "HEADER": "Indonesian Localization",
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
@@ -157,6 +156,17 @@
       "Urist McFerrum"
     ]
   },
+  "LOC_SPA": {
+    "HEADER": "Traducción al Español",
+    "NAMES": [
+      "Traducción y Coordinación:",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "Traducción:",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Skiddome",
+      "Juanjo \"ajuanjojjj\" Martinez"
+    ]
+  },
   "LOC_SRB": {
     "HEADER": "Traducción al Serbio",
     "NAMES": [
@@ -183,7 +193,7 @@
   },
   "LOC_ZHT": {
     "HEADER": "Traducción al Chino (Tradicional)",
-        "NAMES": [
+    "NAMES": [
       "professor",
       "bowans",
       "Angryfox"

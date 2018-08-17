@@ -120,7 +120,7 @@
     "DESCRIPTION": "Haz !D! de daño. NL Cura !M! PV."
   },
   "Blade Dance": {
-    "NAME": "Danza de Espadas",
+    "NAME": "Danza de las navajas",
     "DESCRIPTION": "Añade !M! Navajas a la mano."
   },
   "Blaster": {
@@ -587,7 +587,8 @@
   },
   "Forethought": {
     "NAME": "Previsión",
-    "DESCRIPTION": "Coloca una carta de la mano en el fondo de la pila de extracción. NL Su coste es 0 hasta que es jugada."
+    "DESCRIPTION": "Coloca una carta de la mano en el fondo de la pila de extracción. NL Su coste es 0 hasta que es jugada.",
+    "UPGRADE_DESCRIPTION": "Coloca cualquier número de cartas de la mano en el fondo de la pila de extracción. NL Su coste es 0 hasta que es jugada."
   },
   "Fusion": {
     "NAME": "Fusión",
@@ -810,7 +811,7 @@
     "DESCRIPTION": "Haz !D! de daño. NL Invoca !M! Plasma."
   },
   "Mind Blast": {
-    "NAME": "Mind Blast",
+    "NAME": "Haz Mental",
     "DESCRIPTION": "Innata. NL Haz de daño igual al numero de cartas en la pila de extracción.",
     "UPGRADE_DESCRIPTION": "Innata. NL Haz de daño igual al numero de cartas en la pila de extracción",
     "EXTENDED_DESCRIPTION": [
@@ -865,8 +866,8 @@
   },
   "Offering": {
     "NAME": "Ofrenda",
-    "DESCRIPTION": "Pierde 4 PV. NL Gana [R] [R]. NL Roba !M! cartas. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Pierde 4 PV. NL Gana [R] [R]. NL Roba !M! cartas. NL Agota."
+    "DESCRIPTION": "Pierde 5 PV. NL Gana [R] [R]. NL Roba !M! cartas. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Pierde 5 PV. NL Gana [R] [R]. NL Roba !M! cartas. NL Agota."
   },
   "Outmaneuver": {
     "NAME": "Aventajar",
@@ -1244,8 +1245,8 @@
   },
   "Transmutation": {
     "NAME": "Transmutación",
-    "DESCRIPTION": "Añade X cartas incoloras al azar a la mano. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Añade X cartas incoloras mejoradas al azar a la mano. NL Agota."
+    "DESCRIPTION": "Añade X cartas incoloras al azar a la mano. Su coste es 0 en este turno. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Añade X cartas incoloras mejoradas al azar a la mano. Su coste es 0 en este turno. NL Agota."
   },
   "Trip": {
     "NAME": "Zancadilla",

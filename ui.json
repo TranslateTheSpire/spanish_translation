@@ -254,7 +254,7 @@
       "El Defectuoso",
       "Atrás",
       "Modo de Ascensión",
-      "",
+      "Nivel ",
       "Modo de Ascensión",
       "Las partidas se vuelven más difíciles cuando ganas... (no afecta a tu racha de victorias)",
       "Semilla ",
@@ -420,6 +420,14 @@
     "TEXT": [
       "¡Modo de Ascensión Nivel ",
       " Desbloqueado!"
+    ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "¿Borrar este guardado?",
+      "Si",
+      "No",
+      "¡CUIDADO! Esta acción no se puede deshacer."
     ]
   },
   "Dig Option": {
@@ -671,7 +679,7 @@
       "Serbio (Latin)",
       "Catalán",
       "Griego",
-	  "Indonesio"
+      "Indonesio"
     ]
   },
   "LeaderboardFilters": {
@@ -1025,6 +1033,19 @@
       "Solo Reto Diario",
       "Semilla: %s",
       "Semilla Personalizada: %s"
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Tiempo de juego ",
+      "Ranura vacía"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Elije una ranura de guardado",
+      "Renombrar",
+      "Borrar este guardado"
     ]
   },
   "SeedPanel": {
