@@ -157,13 +157,14 @@
     ]
   },
   "LOC_SPA": {
-    "HEADER": "Spanish Localization",
+    "HEADER": "Traducción al Español",
     "NAMES": [
       "Traducción y Coordinación:",
       "Pedro Luis \"PerikiyoXD\" Valadés Viera",
       "Traducción:",
       "Xavier \"xabad98\" Abad Salinas",
-      "Skiddome"
+      "Skiddome",
+      "Juanjo \"ajuanjojjj\" Martinez"
     ]
   },
   "LOC_SRB": {
