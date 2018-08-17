@@ -120,7 +120,12 @@
       "Las cartas mejoradas aparecen menos seguido.",
       "Jefes pobres.",
       "PV máximos reducidos.",
-      "Eventos desfavorables."
+      "Eventos desfavorables.",
+      "Las tiendas son más caras. ",
+      "Los enemigos normales tienen movimientos y habilidades más desafiantes. ",
+      "Los Élites tienen movimientos y habilidades más desafiantes. ",
+      "Los Jefes tienen movimientos y habilidades más desafiantes. ",
+      "(Nivel Máximo) Jefe Doble"
     ]
   },
   "AscensionTextEffect": {
@@ -254,7 +259,7 @@
       "El Defectuoso",
       "Atrás",
       "Modo de Ascensión",
-      "Nivel ",
+      "",
       "Modo de Ascensión",
       "Las partidas se vuelven más difíciles cuando ganas... (no afecta a tu racha de victorias)",
       "Semilla ",
@@ -420,14 +425,6 @@
     "TEXT": [
       "¡Modo de Ascensión Nivel ",
       " Desbloqueado!"
-    ]
-  },
-  "DeletePopup": {
-    "TEXT": [
-      "¿Borrar este guardado?",
-      "Si",
-      "No",
-      "¡CUIDADO! Esta acción no se puede deshacer."
     ]
   },
   "Dig Option": {
@@ -679,7 +676,8 @@
       "Serbio (Latin)",
       "Catalán",
       "Griego",
-      "Indonesio"
+      "Indonesio",
+      "Esperanto"
     ]
   },
   "LeaderboardFilters": {
@@ -1035,19 +1033,6 @@
       "Semilla Personalizada: %s"
     ]
   },
-  "SaveSlot": {
-    "TEXT": [
-      "Tiempo de juego ",
-      "Ranura vacía"
-    ]
-  },
-  "SaveSlotScreen": {
-    "TEXT": [
-      "Elije una ranura de guardado",
-      "Renombrar",
-      "Borrar este guardado"
-    ]
-  },
   "SeedPanel": {
     "TEXT": [
       "0000000000",
@@ -1199,6 +1184,27 @@
   "UnlockTextEffect": {
     "TEXT": [
       "¡Nuevo desbloqueo!"
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Playtime ",
+      "Empty Slot"
+    ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "Delete this save?",
+      "Yes",
+      "No",
+      "WARNING: This action cannot be undone."
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Choose a Save Slot",
+      "Rename",
+      "Delete this Save"
     ]
   }
 }
