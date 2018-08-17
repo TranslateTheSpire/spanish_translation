@@ -586,8 +586,8 @@
     "DESCRIPTION": "El coste es 1 [B] menos por cada carta de Poder jugada este combate. NL Gana !B! de Bloqueo."
   },
   "Forethought": {	
-    "NAME": "Previsión",	    "NAME": "Previsión",
-    "DESCRIPTION": "Coloca una carta de la mano en el fondo de la pila de extracción. NL Su coste es 0 hasta que es jugada.",	    "DESCRIPTION": "Coloca una carta de la mano en el fondo de la pila de extracción. NL Su coste es 0 hasta que es jugada."
+    "NAME": "Previsión",	 
+    "DESCRIPTION": "Coloca una carta de la mano en el fondo de la pila de extracción. NL Su coste es 0 hasta que es jugada.",	   
     "UPGRADE_DESCRIPTION": "Coloca cualquier número de cartas de la mano en el fondo de la pila de extracción. NL Su coste es 0 hasta que es jugada."	
   },,
   "Fusion": {
