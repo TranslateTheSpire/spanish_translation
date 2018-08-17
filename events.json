@@ -190,9 +190,9 @@
       "~\"Para.~ ~Para.~ ~Para.~ ~PARA~ ~¡PARA!\"~ NL NL Probablemente fué la mejor decisión..."
     ],
     "OPTIONS": [
-      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
-      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
-      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+      "[Máscara de N'Loth] Reliquia: Cada vez que juegues una carta rara, gana #gBloqueo.",
+      "[Cabeza de ssserpiente] Reliquia: Cada vez que empiezas un evento, gana 50 de #yoro.",
+      "[Cara del Clérigo] Reliquia: Aumenta tus PV máximos en #b1 después de cada combate.",
       "[Leave]",
       "[Continue]",
       " #rHP, #ggain #g"
@@ -664,8 +664,8 @@
       "Continuas tu camino, dejando a los muertos olvidados y sin molestar."
     ],
     "OPTIONS": [
-      "[Abrir Cofre] #gRecibe #guna #gReliquia. #r",
-      "%: #rMaldecirte #r- #rRetorcimiento.",
+      "[Abrir Cofre] #gRecibe #guna #gReliquia, #r",
+      "% de #rrecibir #rmaldición #rRetorcimiento.",
       "[Salir]"
     ]
   },
