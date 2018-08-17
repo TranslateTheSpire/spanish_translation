@@ -230,7 +230,7 @@
     "FLAVOR": "ADVERTENCIA: No mezclar con azucar, especias y muchas cosas bonitas.",
     "DESCRIPTIONS": [
       "Cada vez que juegas una carta de coste #bX sus efectos incrementan por #b",
-	  "."
+      "."
     ]
   },
   "Circlet": {
@@ -522,7 +522,7 @@
     "NAME": "Incensario",
     "FLAVOR": "Un incensario de hace mucho tiempo. Quemar madera preciosa parece inimaginable.",
     "DESCRIPTIONS": [
-      "Cada #b5 turnos, gana #b1 #yintangible."
+      "Cada #b6 turnos, gana #b1 #yintangible."
     ]
   },
   "Inserter": {
@@ -736,8 +736,8 @@
     ]
   },
   "Nloth's Gift": {
-    "NAME": "Regalo de N'Loth",
-    "FLAVOR": "El extraño regalo de N'Loth. Cada vez que intentas abrirlo, otra caja envuelta del mismo tamaño es todo su contenido.",
+    "NAME": "Regalo de Nloth",
+    "FLAVOR": "El extraño regalo de N'loth. Cada vez que intentas abrirlo, otra caja envuelta del mismo tamaño es todo su contenido.",
     "DESCRIPTIONS": [
       "#bTriplica la posibilidad de recibir cartas raras como recompensa de monstruos."
     ]
@@ -856,7 +856,7 @@
     "NAME": "Grulla de Papel",
     "FLAVOR": "Un origami de una criatura de épocas pasadas.",
     "DESCRIPTIONS": [
-      "Enemigos con #ydébil infligen #b50% menos daño en vez de #b25%."
+      "Enemigos con #ydébil infligen #b40% menos daño en vez de #b25%."
     ]
   },
   "Paper Frog": {
