@@ -876,32 +876,32 @@
     ]
   },
   "Designer": {
-    "NAME": "Designer In-Spire",
+    "NAME": "Diseñador En-Spire",
     "DESCRIPTIONS": [
-      "You discover a #g~colorful~ shop with the banner \"IN-SPIRE\" and walk in to see what's inside. NL \"No, no way. Nope. Can't let you in!\" NL NL A man with ridiculous clothing appears at the entrance to bar you.",
-      "\"This will not do, no no. What is this style? @Disgusting!@ Are you #rbleeeeding? #p~Groooss.~ @Business??@ You a customer? Fine. ~Whaaatever.\"~ NL He lets out an exaggerated sigh and points at a list of services. NL NL The services seem fine, but you would rather punch this smug man in his smug face.",
-      "\"Okay, bye bye now.\" NL NL ...should've punched him.",
-      "You punch him so hard your fist hurts. NL \"My @FACE!!@ Now I'll have to-\" NL NL He fainted. Who's #p~groooss~ and #rbleeeeding now?"
+      "Descubres una #g~colorida~ tienda con el banner \"EN-SPIRE\" y entras para ver que hay dentro. NL \"No, de ningun modo. Nope. No te puedo dejar entrar!\" NL NL Un hombre con ropa ridicula aparece en la entrada para impedirte entrar.",
+      "\"Esto no servirá, no, no. ¿Qué es este estilo? @Desagradable!@ Estás #rsangrandooo? #p~Asqueroooso.~ @Negocio??@ Eres un cliente? Bien. ~Lo que sea.\"~ NL Suspira de forma exagerada y señala la lista de servicios. NL NL Los servicios estan bien, pero preferirias golpear a este presumido hombre en su presumida cara.",
+      "\"Okey, adiós adiós.\" NL NL ...tendria que haberle golpeado.",
+      "Le golpeas tan fuerte que te duele el puño. NL \"Mi @CARA!!@ Ahora tendre que-\" NL NL Se desmaya. Quien es #p~Asqueroooso~ y está #rsangrandooo now?"
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Adjustments] #rLose #r",
-      "[Clean Up] #rLose #r",
-      "[Full Service] #rLose #r",
-      "[Punch] #rLose #r",
-      " #rHP.",
-      " #rGold. ",
-      "#gUpgrade #g",
-      " #grandom #gcards.",
-      "#gUpgrade #ga #gcard.",
-      "#gRemove #ga #gcard.",
-      "#gTransform #g",
-      " #gcards.",
-      "#gRemove #ga #gcard #gand #gupgrade #ga #grandom #gcard.",
-      "[Leave]",
-      "Choose a Card to Upgrade",
-      "Choose 2 Cards to Transform",
-      "Choose a Card to Remove"
+      "[Continuar]",
+      "[Ajustar] #rPierde #r",
+      "[Limpiar] #rPierde #r",
+      "[Servicio Completo] #rPierde #r",
+      "[Golpear] #rPierde #r",
+      " #rPV.",
+      " #rOro. ",
+      "#gMejora #g",
+      " #gcartas #galeatorias.",
+      "#gMejora #guna #gcarta.",
+      "#gElimina #guna #gcarta.",
+      "#Transforma #g",
+      " #gcartas.",
+      "#gElimina #guna #gcarta #gy #gmejora #guna #gcarta #galeatoria.",
+      "[Salir]",
+      "Elije una Carta a Mejorar",
+      "Elije 2 Cartas a Transformar",
+      "Elije una Carta a Eliminar"
     ]
   }
 }
