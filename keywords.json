@@ -125,6 +125,12 @@
       ],
       "DESCRIPTION": "Esta carta aún no ha sido desbloqueada."
     },
+    "LOCK_ON": {
+      "NAMES": [
+        "bloquear objetivo"
+      ],
+      "DESCRIPTION": "Los enemigos marcados con Bloquear Objetivo reciben #b50% más de daño de Orbes."
+    },
     "OPENER": {
       "NAMES": [
         "abridor"

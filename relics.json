@@ -1086,6 +1086,14 @@
       " de #yoro."
     ]
   },
+  "MutagenicStrength": {
+    "NAME": "Fuerza Mutágena",
+    "FLAVOR": "\"Los resultados parecen fugaces, activandose cuando el sujeto esta en peligro.\" - Desconocido",
+    "DESCRIPTIONS": [
+      "Empieza cada conbate con #b",
+      " #yFuerza que se pierde al final del turno."
+    ]
+  },
   "StoneCalendar": {
     "NAME": "Stone Calendar",
     "FLAVOR": "The passage of time is imperceptible in the Spire.",
