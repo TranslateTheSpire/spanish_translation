@@ -878,10 +878,16 @@
     "NAME": "El Coliseo",
     "DESCRIPTIONS": [
       "@Thwack!!!@ NL .. NL ...... NL ... NL ~Perdistes~ ~el~ ~conocimiento...~",
-      "~Atontado~ y con la @palpitante@ cabeza, te despiertas y te encuentras en el centro de un masivo coliseo con una audiencia desbordante de #bEsclavistas, #pFieles, y otros habitantes de la ciudad! NL ",
-      " NL Un gigante blindado con una #ycorona #ydorada ruge por encima tuyo, NL @\"NOSOTROS@ @AHORA@ @EMPEZAMOS@ @EL@ @",
-      "TH@ @COMBATE!!!!\"@ NL Una puerta al otro lado se abre...",
-      "@\"BIEN@ @ECHO,@ @DEBILUCHO!\"@ NL El gigante se burla aplaudiendo mientras irrita a la multitud con gestos exagerados. NL #y~Oro~ ~y~ #y~confetti~ ~te~ ~llueve!~ NL @\"ES LA HORA@ @PARA@ @EL@ @VERDADERO@ @DESAFIO!!\"@ NL NL La ultima batalla deja una pequeña salida en la pared del coliseo, puedes escapar facilmente mientras todo el mundo esta distraido. NL Quedarse y pelear?"
+      "~Atontado~ y con la cabeza @palpitando@, te despiertas y te encuentras en el centro de un masivo coliseo con una audiencia desbordante de #bEsclavistas, #pFieles, y otros habitantes de la ciudad! NL ",
+      " NL Un gigante blindado con una #ycorona #ydorada ruge por encima tuyo, NL @\"AHORA@ @EMPIEZA@ @EL@ @",
+      "E@ @COMBATE!!!!\"@ NL Una puerta al otro lado se abre...",
+      "@\"BIEN@ @HECHO,@ @DEBILUCHO!\"@ NL El gigante se burla aplaudiendo mientras irrita a la multitud con gestos exagerados. NL #y~Te~ ~llueve~ #y~Oro~ ~y~ ~confeti!~ NL @\"ES@ @LA@ @HORA@ @PARA@ @EL@ @VERDADERO@ @DESAFIO!!\"@ NL NL La última batalla deja una pequeña salida en la pared del coliseo, puedes escapar facilmente mientras todo el mundo está distraido. NL ¿Quedarse y pelear?"
+    ],
+    "OPTIONS": [
+      "[Continuar]",
+      "[Luchar]",
+      "[COBARDE] Escapar.",
+      "[VICTORIA] Una poderosa batalla con muchas recompensas."
     ]
   }
 }
