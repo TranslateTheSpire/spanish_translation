@@ -93,7 +93,7 @@
     "NAME": "Vela azul",
     "FLAVOR": "La llama se enciende cuando le envuelven las tinieblas.",
     "DESCRIPTIONS": [
-      "Las cartas de #ymaldición ahora se pueden jugar. NL NL Jugar una #ymaldición te hará perder #b",
+      "Las cartas de #ymaldición injugables ahora se pueden jugar. NL NL Jugar una #ymaldición te hará perder #b",
       " PV y la #yAgota."
     ]
   },
@@ -653,14 +653,14 @@
     "NAME": "Kit Médico",
     "FLAVOR": "\"¡Tiene todo lo que necesitas! ¡Anti-picaduras, anti-quemaduras, anti-venenos, y más!\"",
     "DESCRIPTIONS": [
-      "Las cartas de #yestado ahora se pueden jugar. Jugar un #yestado #yagotará la carta."
+      "Las cartas de #yestado injugables ahora se pueden jugar. Jugar un #yestado #yagotará la carta."
     ]
   },
   "Membership Card": {
     "NAME": "Carné de socio",
     "FLAVOR": "\"¡Descuento de socio para mis clientes más valiosos!\"",
     "DESCRIPTIONS": [
-      "En niveles futuros las tiendas aparecerán un #b50% más a menudo. #yBONIFICACIÓN: ¡#b20% de descuento en todos los productos!"
+      "En niveles futuros las tiendas aparecerán un #b50% más a menudo. #yBONIFICACIÓN: ¡#b50% de descuento en todos los productos!"
     ]
   },
   "Mercury Hourglass": {

@@ -10,8 +10,8 @@
       "No parece haber nada útil. Sales por donde entraste, las llamas del horno proyectando #p~inquietantes~ #p~sombras~ en las paredes dentro de la choza..."
     ],
     "OPTIONS": [
-      "[Forjar] #gMejora #guna #gcarta. #r25%: #rMaldecirte #r- #rLesión.",
-      "[Hurgar] #gObtener #guna #gReliquia. #r75%: #rMaldecirte #r- #rNormalidad.",
+      "[Forjar] #gMejora #guna #gcarta.",
+      "[Hurgar] #gObtener #guna #gReliquia. #rMaldecirte #r- #rNormalidad.",
       "[Salir]",
       "Elige una Carta a Mejorar",
       "[Bloqueado] Necesitas: Cartas Mejorables"
@@ -806,10 +806,11 @@
   "Winding Halls": {
     "NAME": "Corredores Serpenteantes",
     "DESCRIPTIONS": [
-      "Mientras subes lentamente las vías retorcidas, te encuentras constantemente perdiendo tu camino, ya que las paredes y el piso parecen moverse inexplicadamente antes tus ojos. Las constantes voces susurrantes en tu cabeza no ayudan mucho tampoco.",
-      "Pasando frente a una estructura la cual sin ninguna duda ya habías visto te empiezas a cuestionar si estás perdiendo la cabeza, o si la geografía imposible de este lugar está empezando a afectarte. Necesitas cambiar algo, y pronto. Eso es lo que dicen las voces, y ¿por qué mentirían?",
-      "Algo en ti se rompe. Sólo alguien completamente fuera de quicio puede entender un lugar como este, asi que te dejas llevar por las voces y continuas con una \"nueva\" perspectiva. Las cosas parecen tener mucho más sentido ahora.",
-      "Al tomar un momento para parar y observar detenidamente el panorama ondulatorio a tu alrededor, un patrón empieza a emerger dentro del caos. Cuando los ruidos dementes empiezan a interrumpir tus pensamientos, te esfuerzas para aguantar el dolor mental e ignorarlo. NL NL Eventualmente logras encontrar un camino satisfactoriamente, y continuar, ahora resistente a la naturaleza nefasta de este lugar alienígena."
+      "Mientras subes lentamente las vías retorcidas, te encuentras constantemente perdiendo tu camino, ya que las paredes y el suelo parecen moverse inexplicadamente antes tus ojos. NL NL Las constantes #p~voces~ #p~susurrantes~ en tu cabeza tampoco ayudan mucho.", 
+      "Pasando frente a una estructura la cual sin ninguna duda ya habías visto te empiezas a cuestionar si estás perdiendo la cabeza, o si la geografía imposible de este lugar está empezando a afectarte. Necesitas cambiar algo, y pronto. NL NL Eso es lo que dicen las #p~voces~, ¿Y por qué mentirían?",
+      "Algo en ti se rompe. NL NL Sólo alguien completamente fuera de quicio puede entender un lugar como este, asi que te dejas llevar por las voces y continuas con una #p~\"nueva\"~ perspectiva. Las cosas parecen tener mucho más sentido ahora.",
+      "Al tomar un momento para parar y observar detenidamente el panorama ondulatorio a tu alrededor, un patrón empieza a emerger dentro del caos. Cuando los ruidos dementes empiezan a interrumpir tus pensamientos, te esfuerzas para aguantar el dolor mental e ignorarlo. NL NL Eventualmente logras encontrar un camino satisfactoriamente, y continuar, ahora resistente a la naturaleza nefasta de este lugar alienígena.",
+	  "Pasas lo que parece una eternidad perdido en el laberinto. Poco a poco, puedes volver sobre tus pasos, reorientarte y salir de los pasajes tortuosos. NL NL Te sientes #r~agotado~ de la experiencia."
     ],
     "OPTIONS": [
       "...",
@@ -817,7 +818,9 @@
       " #rPV.",
       "[Enfocar] #rMaldecirte #r- #rRetorcimiento. #gCura #g",
       "[Salir]",
-      " #gPV."
+      " #gPV.",
+      "[Volver sobre tus pasos] #rPierde #r",
+	  " #rPV #rmaxi."
     ]
   },
   "World of Goop": {
@@ -902,6 +905,22 @@
       "Elije una Carta a Mejorar",
       "Elije 2 Cartas a Transformar",
       "Elije una Carta a Eliminar"
+    ]
+  },
+  "Colosseum": {
+    "NAME": "El Coliseo",
+    "DESCRIPTIONS": [
+      "@Thwack!!!@ NL .. NL ...... NL ... NL ~Perdistes~ ~el~ ~conocimiento...~",
+      "~Atontado~ y con la cabeza @palpitando@, te despiertas y te encuentras en el centro de un masivo coliseo con una audiencia desbordante de #bEsclavistas, #pFieles, y otros habitantes de la ciudad! NL ",
+      " NL Un gigante blindado con una #ycorona #ydorada ruge por encima tuyo, NL @\"AHORA@ @EMPIEZA@ @EL@ @",
+      "°@ @COMBATE!!!!\"@ NL Una puerta al otro lado se abre...",
+      "@\"BIEN@ @HECHO,@ @DEBILUCHO!\"@ NL El gigante se burla aplaudiendo mientras irrita a la multitud con gestos exagerados. NL #y~Te~ ~llueve~ #y~Oro~ ~y~ ~confeti!~ NL @\"ES@ @LA@ @HORA@ @PARA@ @EL@ @VERDADERO@ @DESAFIO!!\"@ NL NL La última batalla deja una pequeña salida en la pared del coliseo, puedes escapar facilmente mientras todo el mundo está distraido. NL ¿Quedarse y pelear?"
+    ],
+    "OPTIONS": [
+      "[Continuar]",
+      "[Luchar]",
+      "[COBARDE] Escapar.",
+      "[VICTORIA] Una poderosa batalla con muchas recompensas."
     ]
   }
 }

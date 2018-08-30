@@ -344,7 +344,7 @@
   "Darkness": {
     "NAME": "Oscuridad",
     "DESCRIPTION": "Invoca !M! Oscuridad.",
-    "UPGRADE_DESCRIPTION": "Invoca !M! Oscuridad."
+    "UPGRADE_DESCRIPTION": "Invoca !M! Oscuridad. NL Activa la habilidad pasiva de todos tus orbes de Oscuridad."
   },
   "Dash": {
     "NAME": "Correr",
@@ -978,7 +978,7 @@
   },
   "Reboot": {
     "NAME": "Reinicio",
-    "DESCRIPTION": "Baraja todas las cartas a la pila de extracción, entonces roba !M! cartas. NL Agota."
+    "DESCRIPTION": "Baraja todas las cartas a la pila de extracción. NL Roba !M! cartas. NL Agota."
   },
   "Rebound": {
     "NAME": "Rebound",
