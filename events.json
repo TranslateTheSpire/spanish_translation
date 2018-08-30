@@ -18,21 +18,21 @@
     ]
   },
   "Addict": {
-    "NAME": "Adicto",
+    "NAME": "Vagabundo Mendigo",
     "DESCRIPTIONS": [
-      "Cuando intentas pasar desapercibido ante unas figuras encapuchadas un hombre, rojo de piel y desnudo, se acerca a ti. NL \"¿Tienes algo de #yJ.A.X., camarada? ¡Tengo esos @temblores@ y son fuertes! Por favor... tal vez algunas #yMonedas?\" NL Se ve delirante, pero inofensivo.",
-      "\"Oh si, ~¡si!~ Ten, ten, ¡un trato justo!\"",
-      "El adicto tira un berrinche, gritando y maldiciéndote. NL Escapas antes de llamar atención innecesaria."
+      "Mientras te escabulles frente a un grupo de figuras envueltas en la penumbra, una se te acerca. NL \"Tienes algo para mi amigo? Por favor... tal vez alguna #yMoneda?\" NL \"Solo nevesito un sitio para quedarme, tengo tesoros para intercambiar...\" NL Parece desilusionado, pero inofensivo.",
+      "\"¡Oh si, ~si!~ ¡Aqui tienes, un intercambio justo!\"",
+      "Le arrancas la preciada #yReliquia de sus manos y te vas. NL Desde detras escuchas, NL \"No sientes vergüenza? ~NO~ ~SIENTES~ ~VERGÜENZAAAAA?!\"~ NL Sientes algo de #pvergüenza."
     ],
     "OPTIONS": [
-      "[Ofrecer Oro] #y",
+      "[Ofrecer oro] #y",
       " #yOro: #gRecibe #guna #gReliquia.",
-      "[Bloqueado] Necesitas: ",
+      "[Bloqueado] Requiere: ",
       " Oro.",
-      "[Dar JAX] #gRecibe #guna #gReliquia. #rPiede #rJ.A.X.",
-      "[Bloqueado] Necesitas: J.A.X.",
-      "[Salir] Ignore the addict.",
-      "[Salir]"
+      "[Robar] #gRecibe #guna #gReliquia. #rTe #rvuelves #rmaldito: #rVergüenza.",
+      "[Salir]",
+	  "",
+	  ""
     ]
   },
   "Back to Basics": {
@@ -140,7 +140,7 @@
       "NL Aunque algunas de sus #yposesiones #ysiguen #yintactas, no tienes el menor interés en averiguar que paso aquí...",
       "¡Has encontrado algo de #yoro! NL ¿Seguir buscando?",
       "Hmm, no pudiste encontrar nada... NL ¿Seguir buscando?",
-      "¡Has encontrado una #yreliquia! ¿Seguir buscando?",
+      "¡Has encontrado una #yreliquia! NL ¿Seguir buscando?",
       "¡Parece que revisaste todas sus pertenencias sin problemas!"
     ],
     "OPTIONS": [
@@ -154,17 +154,18 @@
   "Drug Dealer": {
     "NAME": "Vendedor de J.A.X.",
     "DESCRIPTIONS": [
-      "Un hombre con un parche en el ojo y una sonrisa endiablada se acerca casualmente a ti. NL \"Hey extraño. ¿Interesado en algo de #yJ.A.X.? Te hará más fuerte que cualquier entrenamiento o bendición. Lo necesitaras si buscas sobrevivir hasta encontrar la gloria. NL ¿Qué dices? ¿Quieres ponerte bien #yJAXXED?\" NL ",
+      "Un hombre con un parche en el ojo y una sonrisa endiablada se acerca a ti. NL \"Hey extraño. ¿Interesado en avanzar la ciencia? Te puedo hacer más fuerte que cualquier entrenamiento o bendición. Lo necesitaras si eres uno de esos heroes con deseo de muerte. NL ¿Qué me dices?",
       "~\"Excelente.\"~ NL El hombre te da una jeringa aparentemente peligrosa, llena de líquido brillante, antes de escabullirse a un callejón en las sombras.",
-      "\"No importa, otros vendrán después...\" NL El hombre se retira."
+      "~\"Magnifico.\"~ NL El hombre te inyecta tres sustancias desconocidas y saca un bloc de notas. Mientras compienzas a marearte, el empieza a escribir notas frenéticamente. NL Pierdes el sentido del tiempo, y para cuando recuperas el sentido, el turbio personaje ha desaparecido.",
+      "~\"Maravilloso.\"~ NL Te tragas la misteriosa sustancia. Inmediatamente, te sientes fortalecido y sientes tus musculos @contraerse.@"
     ],
     "OPTIONS": [
-      "[Pagar] #y",
-      " #yOro: #gPonerse #gJAXXED.",
-      "[Bloqueado] Necesitas: ",
-      " Oro.",
-      "[Salir]",
-      "[Declinar]"
+      "[Probar J.A.X.] #gPonerse #gJAXXED.",
+	  "[Convertirte en sujeto de prueba] #gTransforma #g3 #gcartas #galeatorias.",
+	  "[Ingerir mutágenos] #gGana #guna #greliquia #gespecial.",
+	  "[Salir]",
+	  "[Bloqueado] Requiere: 3 o más cartas en el mazo.",
+	  ""
     ]
   },
   "Duplicator": {
@@ -873,7 +874,37 @@
       "[Salir]",
       " #rOro"
     ]
-},
+  },
+  "Designer": {
+    "NAME": "Diseñador En-Spire",
+    "DESCRIPTIONS": [
+      "Descubres una #g~colorida~ tienda con el banner \"EN-SPIRE\" y entras para ver que hay dentro. NL \"No, de ningun modo. Nope. No te puedo dejar entrar!\" NL NL Un hombre con ropa ridicula aparece en la entrada para impedirte entrar.",
+      "\"Esto no servirá, no, no. ¿Qué es este estilo? @Desagradable!@ Estás #rsangrandooo? #p~Asqueroooso.~ @Negocio??@ Eres un cliente? Bien. ~Lo que sea.\"~ NL Suspira de forma exagerada y señala la lista de servicios. NL NL Los servicios estan bien, pero preferirias golpear a este presumido hombre en su presumida cara.",
+      "\"Okey, adiós adiós.\" NL NL ...tendria que haberle golpeado.",
+      "Le golpeas tan fuerte que te duele el puño. NL \"Mi @CARA!!@ Ahora tendre que-\" NL NL Se desmaya. Quien es #p~Asqueroooso~ y está #rsangrandooo now?"
+    ],
+    "OPTIONS": [
+      "[Continuar]",
+      "[Ajustar] #rPierde #r",
+      "[Limpiar] #rPierde #r",
+      "[Servicio Completo] #rPierde #r",
+      "[Golpear] #rPierde #r",
+      " #rPV.",
+      " #rOro. ",
+      "#gMejora #g",
+      " #gcartas #galeatorias.",
+      "#gMejora #guna #gcarta.",
+      "#gElimina #guna #gcarta.",
+      "#Transforma #g",
+      " #gcartas.",
+      "#gElimina #guna #gcarta #gy #gmejora #guna #gcarta #galeatoria.",
+      "[Salir]",
+      "Elije una Carta a Mejorar",
+      "Elije 2 Cartas a Transformar",
+      "Elije una Carta a Eliminar"
+    ]
+  };
+	},
   "Colosseum": {
     "NAME": "El Coliseo",
     "DESCRIPTIONS": [
