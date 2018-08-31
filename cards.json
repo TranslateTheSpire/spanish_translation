@@ -76,7 +76,7 @@
     "DESCRIPTION": "Haz !D! de daño. NL Innata. NL Agota."
   },
   "Ball Lightning": {
-    "NAME": "Bola relámpago",
+    "NAME": "Bola Relámpago",
     "DESCRIPTION": "Haz !D! de daño. Invoca !M! Relámpago."
   },
   "Bandage Up": {
@@ -289,7 +289,7 @@
     "DESCRIPTION": "Descarta !M! cartas. NL Gana [G] [G]."
   },
   "Conserve Battery": {
-    "NAME": "Cargar batería",
+    "NAME": "Cargar Batería",
     "DESCRIPTION": "Gana !B! de Bloqueo. NL Al siguiente turno gana [B]."
   },
   "Consume": {
@@ -764,7 +764,7 @@
     "UPGRADE_DESCRIPTION": "Al inicio de tu turno, usa la habilidad pasiva de tu siguiente Orbe !M! veces."
   },
   "Machine Learning": {
-    "NAME": "Machine Learning",
+    "NAME": "Aprendizaje Automático",
     "DESCRIPTION": "Roba !M! carta adicional al inicio de cada turno.",
     "UPGRADE_DESCRIPTION": "Innata. NL Roba !M! carta adicional al inicio de cada turno."
   },
@@ -1074,7 +1074,7 @@
     "DESCRIPTION": "Gana [R] [R]. NL Agota."
   },
   "Seek": {
-    "NAME": "Seek",
+    "NAME": "Buscar",
     "DESCRIPTION": "Elige !M! carta de la pila de extracción y colocala en la mano. NL Agota.",
     "UPGRADE_DESCRIPTION": "Elige !M! cartas de la pila de extracción y colocalas en la mano. NL Agota."
   },
