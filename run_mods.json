@@ -8,7 +8,7 @@
     "DESCRIPTION": "Las recompensas de cartas solo contienen 2 cartas."
   },
   "Blight Chests": {
-    "NAME": "Blight Chests",
+    "NAME": "Cofres de Plaga",
     "DESCRIPTION": "Los cofres de los jefes contienen plagas tras vencer el Acto 3 en Endless."
   },
   "Brewmaster": {
@@ -32,7 +32,7 @@
     "DESCRIPTION": "Enemigos Elite estan invadiendo la Torre y dejan mejores recompensas"
   },
   "Endless": {
-    "NAME": "Endless",
+    "NAME": "Sin fin",
     "DESCRIPTION": "Ganar te devolverá al Acto 1 con el mismo mazo. Pero cuidado, la plaga lo consume todo..."
   },
   "Heirloom": {
@@ -44,8 +44,8 @@
     "DESCRIPTION": "Cuando añades una carta a tu mazo, agrega dos copias adicionales. Ya no puedes remover cartas de tu mazo con el Vendedor."
   },
   "Inception": {
-    "NAME": "Inception",
-    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
+    "NAME": "Comienzo",
+    "DESCRIPTION": "Reemplaza tu reliquia inicial con Peonza Incesante."
   },
   "Insanity": {
     "NAME": "Locura",
@@ -60,8 +60,8 @@
     "DESCRIPTION": "Los enemigos tiran 200% más de oro, pero ya no puedes mejorar cartas en Áreas de Descanso."
   },
   "My True Form": {
-    "NAME": "My True Form",
-    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
+    "NAME": "Mi verdadera forma",
+    "DESCRIPTION": "Empieza con una copia de Forma Demoníaca, Forma Espectral y Forma Eco."
   },
   "Night Terrors": {
     "NAME": "Terrores Nocturnos",
@@ -72,8 +72,8 @@
     "DESCRIPTION": "Empieza la partida con 1 PV máximo."
   },
   "Praise Snecko": {
-    "NAME": "Praise Snecko",
-    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
+    "NAME": "Alabad a Snecko",
+    "DESCRIPTION": "Reemplaza tu reliquia inicial con el Ojo de Snecko."
   },
   "Shiny": {
     "NAME": "Brillante",
@@ -84,8 +84,8 @@
     "DESCRIPTION": "Empieza con 5 copias de una carta rara al azar."
   },
   "Starter Deck": {
-    "NAME": "Mazo para principiantes",
-    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
+    "NAME": "Mazo Inicial",
+    "DESCRIPTION": "Empieza con Corona Reventada y Binario, por lo que los enemigos ya no sueltan cartas."
   },
   "Terminal": {
     "NAME": "Terminal",
