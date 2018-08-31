@@ -26,7 +26,7 @@
     "DESCRIPTION": "Gana [B] por cada !M! cartas en la pila de extracción."
   },
   "All For One": {
-    "NAME": "Todos para uno",
+    "NAME": "Todos para Uno",
     "DESCRIPTION": "Haz !D! de daño. Pon todas las cartas de coste 0 de la pila de descartes en la mano."
   },
   "All Out Attack": {
@@ -302,7 +302,7 @@
     "UPGRADE_DESCRIPTION": "Invoca 1 Escarcha. NL Roba !M! cartas."
   },
   "Core Surge": {
-    "NAME": "Agitación del núcleo",
+    "NAME": "Agitación del Núcleo",
     "DESCRIPTION": "Haz !D! de daño. NL Gana !M! de Artefacto. NL Agota."
   },
   "Corpse Explosion": {
@@ -503,11 +503,11 @@
     "DESCRIPTION": "Coloca una carta agotada en la mano. NL Agota."
   },
   "Expertise": {
-    "NAME": "Experiencia",
+    "NAME": "Pericia",
     "DESCRIPTION": "Roba cartas hasta que tengas !M! cartas en mano."
   },
   "FTL": {
-    "NAME": "Velocidad de la luz",
+    "NAME": "Velocidad de la Luz",
     "DESCRIPTION": "Haz !D! de daño. Si has jugado menos de !M! cartas este turno, roba 1 carta.",
     "EXTENDED_DESCRIPTION": [
       " NL (",
@@ -1229,7 +1229,7 @@
     "UPGRADE_DESCRIPTION": "Roba 2 cartas. NL Coloca una carta de la mano al tope de la pila de extracción."
   },
   "Thunder Strike": {
-    "NAME": "Impacto de trueno",
+    "NAME": "Impacto de Trueno",
     "DESCRIPTION": "Haz !D! de daño a un enemigo al azar por cada Relámpago invocado en este combate.",
     "EXTENDED_DESCRIPTION": [
       " (He invocado !M! Relámpago(s))"
