@@ -1145,7 +1145,7 @@
     "UPGRADE_DESCRIPTION": "Cada vez que recibas daño de ataque, Invoca !M! Relámpago."
   },
   "Steam": {
-    "NAME": "Barrera de vapor",
+    "NAME": "Barrera de Vapor",
     "DESCRIPTION": "Gana !B! de Bloqueo. El Bloqueo de esta carta se reduce en 1 en este combate."
   },
   "Steam Power": {
@@ -1191,7 +1191,7 @@
     "DESCRIPTION": "Gana !B! de Bloqueo. NL Descarta una carta."
   },
   "Sweeping Beam": {
-    "NAME": "Barrido de haz",
+    "NAME": "Barrido de Haz",
     "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Roba !M! carta."
   },
   "Swift Strike": {
