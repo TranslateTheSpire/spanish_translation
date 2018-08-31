@@ -41,6 +41,12 @@
       "Magnus Upmann"
     ]
   },
+  "LOC_EPO": {
+    "HEADER": "Traducción al Esperanto",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos"
+    ]
+  },
   "LOC_FRA": {
     "HEADER": "Traducción al Francés",
     "NAMES": [
@@ -64,7 +70,7 @@
     ]
   },
   "LOC_IND": {
-    "HEADER": "Indonesian Localization",
+    "HEADER": "Traducción al Indonesio",
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
@@ -163,7 +169,7 @@
       "Pedro Luis \"PerikiyoXD\" Valadés Viera",
       "Traducción:",
       "Xavier \"xabad98\" Abad Salinas",
-      "Skiddome",
+      "Sergio \"Skiddome\" Malagón",
       "Juanjo \"ajuanjojjj\" Martinez"
     ]
   },

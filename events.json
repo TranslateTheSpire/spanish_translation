@@ -10,29 +10,29 @@
       "No parece haber nada útil. Sales por donde entraste, las llamas del horno proyectando #p~inquietantes~ #p~sombras~ en las paredes dentro de la choza..."
     ],
     "OPTIONS": [
-      "[Forjar] #gMejora #guna #gcarta. #r25%: #rMaldecirte #r- #rLesión.",
-      "[Hurgar] #gObtener #guna #gReliquia. #r75%: #rMaldecirte #r- #rNormalidad.",
+      "[Forjar] #gMejora #guna #gcarta.",
+      "[Hurgar] #gObtener #guna #gReliquia. #rMaldecirte #r- #rNormalidad.",
       "[Salir]",
       "Elige una Carta a Mejorar",
       "[Bloqueado] Necesitas: Cartas Mejorables"
     ]
   },
   "Addict": {
-    "NAME": "Adicto",
+    "NAME": "Vagabundo Mendigo",
     "DESCRIPTIONS": [
-      "Cuando intentas pasar desapercibido ante unas figuras encapuchadas un hombre, rojo de piel y desnudo, se acerca a ti. NL \"¿Tienes algo de #yJ.A.X., camarada? ¡Tengo esos @temblores@ y son fuertes! Por favor... tal vez algunas #yMonedas?\" NL Se ve delirante, pero inofensivo.",
-      "\"Oh si, ~¡si!~ Ten, ten, ¡un trato justo!\"",
-      "El adicto tira un berrinche, gritando y maldiciéndote. NL Escapas antes de llamar atención innecesaria."
+      "Mientras te escabulles frente a un grupo de figuras envueltas en la penumbra, una se te acerca. NL \"Tienes algo para mi amigo? Por favor... tal vez alguna #yMoneda?\" NL \"Solo nevesito un sitio para quedarme, tengo tesoros para intercambiar...\" NL Parece desilusionado, pero inofensivo.",
+      "\"¡Oh si, ~si!~ ¡Aqui tienes, un intercambio justo!\"",
+      "Le arrancas la preciada #yReliquia de sus manos y te vas. NL Desde detras escuchas, NL \"No sientes vergüenza? ~NO~ ~SIENTES~ ~VERGÜENZAAAAA?!\"~ NL Sientes algo de #pvergüenza."
     ],
     "OPTIONS": [
-      "[Ofrecer Oro] #y",
+      "[Ofrecer oro] #y",
       " #yOro: #gRecibe #guna #gReliquia.",
-      "[Bloqueado] Necesitas: ",
+      "[Bloqueado] Requiere: ",
       " Oro.",
-      "[Dar JAX] #gRecibe #guna #gReliquia. #rPiede #rJ.A.X.",
-      "[Bloqueado] Necesitas: J.A.X.",
-      "[Salir] Ignore the addict.",
-      "[Salir]"
+      "[Robar] #gRecibe #guna #gReliquia. #rTe #rvuelves #rmaldito: #rVergüenza.",
+      "[Salir]",
+	  "",
+	  ""
     ]
   },
   "Back to Basics": {
@@ -140,7 +140,7 @@
       "NL Aunque algunas de sus #yposesiones #ysiguen #yintactas, no tienes el menor interés en averiguar que paso aquí...",
       "¡Has encontrado algo de #yoro! NL ¿Seguir buscando?",
       "Hmm, no pudiste encontrar nada... NL ¿Seguir buscando?",
-      "¡Has encontrado una #yreliquia! ¿Seguir buscando?",
+      "¡Has encontrado una #yreliquia! NL ¿Seguir buscando?",
       "¡Parece que revisaste todas sus pertenencias sin problemas!"
     ],
     "OPTIONS": [
@@ -154,17 +154,18 @@
   "Drug Dealer": {
     "NAME": "Vendedor de J.A.X.",
     "DESCRIPTIONS": [
-      "Un hombre con un parche en el ojo y una sonrisa endiablada se acerca casualmente a ti. NL \"Hey extraño. ¿Interesado en algo de #yJ.A.X.? Te hará más fuerte que cualquier entrenamiento o bendición. Lo necesitaras si buscas sobrevivir hasta encontrar la gloria. NL ¿Qué dices? ¿Quieres ponerte bien #yJAXXED?\" NL ",
+      "Un hombre con un parche en el ojo y una sonrisa endiablada se acerca a ti. NL \"Hey extraño. ¿Interesado en avanzar la ciencia? Te puedo hacer más fuerte que cualquier entrenamiento o bendición. Lo necesitaras si eres uno de esos heroes con deseo de muerte. NL ¿Qué me dices?",
       "~\"Excelente.\"~ NL El hombre te da una jeringa aparentemente peligrosa, llena de líquido brillante, antes de escabullirse a un callejón en las sombras.",
-      "\"No importa, otros vendrán después...\" NL El hombre se retira."
+      "~\"Magnifico.\"~ NL El hombre te inyecta tres sustancias desconocidas y saca un bloc de notas. Mientras compienzas a marearte, el empieza a escribir notas frenéticamente. NL Pierdes el sentido del tiempo, y para cuando recuperas el sentido, el turbio personaje ha desaparecido.",
+      "~\"Maravilloso.\"~ NL Te tragas la misteriosa sustancia. Inmediatamente, te sientes fortalecido y sientes tus musculos @contraerse.@"
     ],
     "OPTIONS": [
-      "[Pagar] #y",
-      " #yOro: #gPonerse #gJAXXED.",
-      "[Bloqueado] Necesitas: ",
-      " Oro.",
-      "[Salir]",
-      "[Declinar]"
+      "[Probar J.A.X.] #gPonerse #gJAXXED.",
+	  "[Convertirte en sujeto de prueba] #gTransforma #g3 #gcartas #galeatorias.",
+	  "[Ingerir mutágenos] #gGana #guna #greliquia #gespecial.",
+	  "[Salir]",
+	  "[Bloqueado] Requiere: 3 o más cartas en el mazo.",
+	  ""
     ]
   },
   "Duplicator": {
@@ -805,10 +806,11 @@
   "Winding Halls": {
     "NAME": "Corredores Serpenteantes",
     "DESCRIPTIONS": [
-      "Mientras subes lentamente las vías retorcidas, te encuentras constantemente perdiendo tu camino, ya que las paredes y el piso parecen moverse inexplicadamente antes tus ojos. Las constantes voces susurrantes en tu cabeza no ayudan mucho tampoco.",
-      "Pasando frente a una estructura la cual sin ninguna duda ya habías visto te empiezas a cuestionar si estás perdiendo la cabeza, o si la geografía imposible de este lugar está empezando a afectarte. Necesitas cambiar algo, y pronto. Eso es lo que dicen las voces, y ¿por qué mentirían?",
-      "Algo en ti se rompe. Sólo alguien completamente fuera de quicio puede entender un lugar como este, asi que te dejas llevar por las voces y continuas con una \"nueva\" perspectiva. Las cosas parecen tener mucho más sentido ahora.",
-      "Al tomar un momento para parar y observar detenidamente el panorama ondulatorio a tu alrededor, un patrón empieza a emerger dentro del caos. Cuando los ruidos dementes empiezan a interrumpir tus pensamientos, te esfuerzas para aguantar el dolor mental e ignorarlo. NL NL Eventualmente logras encontrar un camino satisfactoriamente, y continuar, ahora resistente a la naturaleza nefasta de este lugar alienígena."
+      "Mientras subes lentamente las vías retorcidas, te encuentras constantemente perdiendo tu camino, ya que las paredes y el suelo parecen moverse inexplicadamente antes tus ojos. NL NL Las constantes #p~voces~ #p~susurrantes~ en tu cabeza tampoco ayudan mucho.", 
+      "Pasando frente a una estructura la cual sin ninguna duda ya habías visto te empiezas a cuestionar si estás perdiendo la cabeza, o si la geografía imposible de este lugar está empezando a afectarte. Necesitas cambiar algo, y pronto. NL NL Eso es lo que dicen las #p~voces~, ¿Y por qué mentirían?",
+      "Algo en ti se rompe. NL NL Sólo alguien completamente fuera de quicio puede entender un lugar como este, asi que te dejas llevar por las voces y continuas con una #p~\"nueva\"~ perspectiva. Las cosas parecen tener mucho más sentido ahora.",
+      "Al tomar un momento para parar y observar detenidamente el panorama ondulatorio a tu alrededor, un patrón empieza a emerger dentro del caos. Cuando los ruidos dementes empiezan a interrumpir tus pensamientos, te esfuerzas para aguantar el dolor mental e ignorarlo. NL NL Eventualmente logras encontrar un camino satisfactoriamente, y continuar, ahora resistente a la naturaleza nefasta de este lugar alienígena.",
+	  "Pasas lo que parece una eternidad perdido en el laberinto. Poco a poco, puedes volver sobre tus pasos, reorientarte y salir de los pasajes tortuosos. NL NL Te sientes #r~agotado~ de la experiencia."
     ],
     "OPTIONS": [
       "...",
@@ -816,7 +818,9 @@
       " #rPV.",
       "[Enfocar] #rMaldecirte #r- #rRetorcimiento. #gCura #g",
       "[Salir]",
-      " #gPV."
+      " #gPV.",
+      "[Volver sobre tus pasos] #rPierde #r",
+	  " #rPV #rmaxi."
     ]
   },
   "World of Goop": {
@@ -872,6 +876,51 @@
       "[Atacar]",
       "[Salir]",
       " #rOro"
+    ]
+  },
+  "Designer": {
+    "NAME": "Diseñador En-Spire",
+    "DESCRIPTIONS": [
+      "Descubres una #g~colorida~ tienda con el banner \"EN-SPIRE\" y entras para ver que hay dentro. NL \"No, de ningun modo. Nope. No te puedo dejar entrar!\" NL NL Un hombre con ropa ridicula aparece en la entrada para impedirte entrar.",
+      "\"Esto no servirá, no, no. ¿Qué es este estilo? @Desagradable!@ Estás #rsangrandooo? #p~Asqueroooso.~ @Negocio??@ Eres un cliente? Bien. ~Lo que sea.\"~ NL Suspira de forma exagerada y señala la lista de servicios. NL NL Los servicios estan bien, pero preferirias golpear a este presumido hombre en su presumida cara.",
+      "\"Okey, adiós adiós.\" NL NL ...tendria que haberle golpeado.",
+      "Le golpeas tan fuerte que te duele el puño. NL \"Mi @CARA!!@ Ahora tendre que-\" NL NL Se desmaya. Quien es #p~Asqueroooso~ y está #rsangrandooo now?"
+    ],
+    "OPTIONS": [
+      "[Continuar]",
+      "[Ajustar] #rPierde #r",
+      "[Limpiar] #rPierde #r",
+      "[Servicio Completo] #rPierde #r",
+      "[Golpear] #rPierde #r",
+      " #rPV.",
+      " #rOro. ",
+      "#gMejora #g",
+      " #gcartas #galeatorias.",
+      "#gMejora #guna #gcarta.",
+      "#gElimina #guna #gcarta.",
+      "#Transforma #g",
+      " #gcartas.",
+      "#gElimina #guna #gcarta #gy #gmejora #guna #gcarta #galeatoria.",
+      "[Salir]",
+      "Elije una Carta a Mejorar",
+      "Elije 2 Cartas a Transformar",
+      "Elije una Carta a Eliminar"
+    ]
+  },
+  "Colosseum": {
+    "NAME": "El Coliseo",
+    "DESCRIPTIONS": [
+      "@Thwack!!!@ NL .. NL ...... NL ... NL ~Perdistes~ ~el~ ~conocimiento...~",
+      "~Atontado~ y con la cabeza @palpitando@, te despiertas y te encuentras en el centro de un masivo coliseo con una audiencia desbordante de #bEsclavistas, #pFieles, y otros habitantes de la ciudad! NL ",
+      " NL Un gigante blindado con una #ycorona #ydorada ruge por encima tuyo, NL @\"AHORA@ @EMPIEZA@ @EL@ @",
+      "°@ @COMBATE!!!!\"@ NL Una puerta al otro lado se abre...",
+      "@\"BIEN@ @HECHO,@ @DEBILUCHO!\"@ NL El gigante se burla aplaudiendo mientras irrita a la multitud con gestos exagerados. NL #y~Te~ ~llueve~ #y~Oro~ ~y~ ~confeti!~ NL @\"ES@ @LA@ @HORA@ @PARA@ @EL@ @VERDADERO@ @DESAFIO!!\"@ NL NL La última batalla deja una pequeña salida en la pared del coliseo, puedes escapar facilmente mientras todo el mundo está distraido. NL ¿Quedarse y pelear?"
+    ],
+    "OPTIONS": [
+      "[Continuar]",
+      "[Luchar]",
+      "[COBARDE] Escapar.",
+      "[VICTORIA] Una poderosa batalla con muchas recompensas."
     ]
   }
 }

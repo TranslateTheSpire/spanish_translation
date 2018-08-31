@@ -344,7 +344,7 @@
   "Darkness": {
     "NAME": "Oscuridad",
     "DESCRIPTION": "Invoca !M! Oscuridad.",
-    "UPGRADE_DESCRIPTION": "Invoca !M! Oscuridad."
+    "UPGRADE_DESCRIPTION": "Invoca !M! Oscuridad. NL Activa la habilidad pasiva de todos tus orbes de Oscuridad."
   },
   "Dash": {
     "NAME": "Correr",
@@ -546,7 +546,7 @@
   },
   "Fission": {
     "NAME": "Fisión",
-    "DESCRIPTION": "Descarga todos tus Orbes. Gana un espacio de Orbe por cada Orbe Evocado. NL Agota."
+    "DESCRIPTION": "Elimina todos tus Orbes, gana [B] y roba !M! cartas por cada orbe eliminado. NL Agota."
   },
   "Flame Barrier": {
     "NAME": "Barrera de llamas",
@@ -730,7 +730,7 @@
   },
   "J.A.X.": {
     "NAME": "J.A.X.",
-    "DESCRIPTION": "Pierde 3 PV. NL Gana !M! de Fuerza. NL Agota."
+    "DESCRIPTION": "Pierde 3 PV. NL Gana !M! de Fuerza."
   },
   "Jack Of All Trades": {
     "NAME": "Hábil en todo",
@@ -755,8 +755,8 @@
     "UPGRADE_DESCRIPTION": "Duplica tu Fuerza."
   },
   "Lockon": {
-    "NAME": "Bloquear objetivo",
-    "DESCRIPTION": "Haz !D! de daño. NL Durante los siguientes !M! turnos, Relámpago y Oscuridad tienen como objetivo al enemigo elegido."
+    "NAME": "Diana",
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! bloquear objetivo."
   },
   "Loop": {
     "NAME": "Bucle",
@@ -787,8 +787,8 @@
   },
   "Masterful Stab": {
     "NAME": "Puñalada maestra",
-    "DESCRIPTION": "Solo puede ser jugada si no hay otras cartas en la mano. NL Haz !D! de daño.",
-    "UPGRADE_DESCRIPTION": "Esta tiene que ser NL mi unica carta."
+    "DESCRIPTION": "Haz !D! de daño. NL Cada vez que recibas daño, aumenta el coste de esta carta en 1. ",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Mayhem": {
     "NAME": "Revuelta",
@@ -978,7 +978,7 @@
   },
   "Reboot": {
     "NAME": "Reinicio",
-    "DESCRIPTION": "Baraja todas las cartas a la pila de extracción, entonces roba !M! cartas. NL Agota."
+    "DESCRIPTION": "Baraja todas las cartas a la pila de extracción. NL Roba !M! cartas. NL Agota."
   },
   "Rebound": {
     "NAME": "Rebound",

@@ -344,8 +344,8 @@
       " NL #yMods: ",
       "Modificadores: ",
       "Puntuación",
-      "*Los logros están desactivados para el reto diario."
-    ]
+      "*Los logros están desactivados para el reto diario.",
+	  "  [MODO DESCONECTADO]"    ]
   },
   "DeathScreen": {
     "TEXT": [
