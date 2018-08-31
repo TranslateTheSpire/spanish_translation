@@ -981,7 +981,7 @@
     "DESCRIPTION": "Baraja todas las cartas a la pila de extracción. NL Roba !M! cartas. NL Agota."
   },
   "Rebound": {
-    "NAME": "Rebound",
+    "NAME": "Rebote",
     "DESCRIPTION": "Haz !D! de daño. NL Coloca la siguiente carta que juegues en este turno al tope de la pila de extracción."
   },
   "Reckless Charge": {
