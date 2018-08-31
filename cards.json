@@ -60,7 +60,7 @@
     "DESCRIPTION": "Injugable. NL Etérea. NL No se puede eliminar del mazo."
   },
   "Auto Shields": {
-    "NAME": "Escudos automáticos",
+    "NAME": "Escudos Automáticos",
     "DESCRIPTION": "Si tienes 0 de Bloqueo, gana !B! de Bloqueo."
   },
   "Axe Kick": {
@@ -120,7 +120,7 @@
     "DESCRIPTION": "Haz !D! de daño. NL Cura !M! PV."
   },
   "Blade Dance": {
-    "NAME": "Danza de las Navajas",
+    "NAME": "Danza de Navajas",
     "DESCRIPTION": "Añade !M! Navajas a la mano."
   },
   "Blaster": {
@@ -273,7 +273,7 @@
     "DESCRIPTION": "Injugable. NL Etérea."
   },
   "Cold Snap": {
-    "NAME": "Frío repentino",
+    "NAME": "Frío Repentino",
     "DESCRIPTION": "Haz !D! de daño. Invoca !M! Escarcha."
   },
   "Combust": {
@@ -281,7 +281,7 @@
     "DESCRIPTION": "Al final de tu turno, pierde 1 PV y haz !M! de daño a TODOS los enemigos."
   },
   "Compile Driver": {
-    "NAME": "Compilar controlador",
+    "NAME": "Compilar Controlador",
     "DESCRIPTION": "Haz !D! de daño. NL Roba !M! carta por cada Orbe unico que tengas."
   },
   "Concentrate": {
@@ -297,7 +297,7 @@
     "DESCRIPTION": "Gana !M! de Concentración. NL Pierde 1 espacio de Orbe."
   },
   "Coolheaded": {
-    "NAME": "Con la cabeza fría",
+    "NAME": "Con la Cabeza Fría",
     "DESCRIPTION": "Invoca 1 Escarcha. NL Roba !M! carta.",
     "UPGRADE_DESCRIPTION": "Invoca 1 Escarcha. NL Roba !M! cartas."
   },
@@ -413,7 +413,7 @@
     "DESCRIPTION": "Gana !B! de Bloqueo. NL Al siguiente turno gana !B! de Bloqueo."
   },
   "Doom and Gloom": {
-    "NAME": "Muerte y desolación",
+    "NAME": "Muerte y Desolación",
     "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Invoca !M! Oscuridad."
   },
   "Doppelganger": {
@@ -458,7 +458,7 @@
     "UPGRADE_DESCRIPTION": "La primera carta que juegues cada turno se juega dos veces."
   },
   "Electrodynamics": {
-    "NAME": "Electrodinamica",
+    "NAME": "Electrodinámica",
     "DESCRIPTION": "Relámpago ahora daña a TODOS los enemigos. NL Invoca !M! Relámpago.",
     "UPGRADE_DESCRIPTION": ""
   },
@@ -582,7 +582,7 @@
     "DESCRIPTION": "Gana !M! de Destreza."
   },
   "Force Field": {
-    "NAME": "Campo de fuerza",
+    "NAME": "Campo de Fuerza",
     "DESCRIPTION": "El coste es 1 [B] menos por cada carta de Poder jugada este combate. NL Gana !B! de Bloqueo."
   },
   "Forethought": {
@@ -599,7 +599,7 @@
     "DESCRIPTION": "Haz !D! de daño. NL Todos los 'Tajo' hacen !M! de daño adicional en este combate."
   },
   "Genetic Algorithm": {
-    "NAME": "Algoritmo genético",
+    "NAME": "Algoritmo Genético",
     "DESCRIPTION": "Gana !B! de Bloqueo. Al ser jugada, incrementa permanentemente el Bloqueo de esta carta en !M!. NL Agota."
   },
   "Ghostly": {
@@ -807,7 +807,7 @@
     "DESCRIPTION": "Añade !M! ataques al azar en la pila de extracción. Cuestan 0 este combate. NL Agota."
   },
   "Meteor Strike": {
-    "NAME": "Golpe meteoro",
+    "NAME": "Golpe Meteoro",
     "DESCRIPTION": "Haz !D! de daño. NL Invoca !M! Plasma."
   },
   "Mind Blast": {
@@ -1009,7 +1009,7 @@
     "DESCRIPTION": "Injugable. NL Al final de tu turno, pierde 1 PV por cada carta en la mano."
   },
   "Reinforced Body": {
-    "NAME": "Cuerpo reforzado",
+    "NAME": "Cuerpo Reforzado",
     "DESCRIPTION": "Gana !B! de Bloqueo X veces."
   },
   "Reprieve": {
@@ -1026,7 +1026,7 @@
     "DESCRIPTION": "Haz !D! de daño 5 veces."
   },
   "Rip and Tear": {
-    "NAME": "Rasgar y desgarrar",
+    "NAME": "Rasgar y Desgarrar",
     "DESCRIPTION": "Haz !D! de daño a un enemigo al azar !M! veces."
   },
   "RitualDagger": {
@@ -1140,7 +1140,7 @@
     ]
   },
   "Static Discharge": {
-    "NAME": "Descarga estática",
+    "NAME": "Descarga Estática",
     "DESCRIPTION": "Cada vez que recibas daño de ataque, Invoca !M! Relámpago.",
     "UPGRADE_DESCRIPTION": "Cada vez que recibas daño de ataque, Invoca !M! Relámpago."
   },
@@ -1179,7 +1179,7 @@
     "DESCRIPTION": "Haz !D! de daño."
   },
   "Sucker Punch": {
-    "NAME": "Golpe a traición",
+    "NAME": "Golpe a Traición",
     "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! Débil."
   },
   "Sunder": {
@@ -1313,7 +1313,7 @@
     "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos X veces."
   },
   "White Noise": {
-    "NAME": "Ruido blanco",
+    "NAME": "Ruido Blanco",
     "DESCRIPTION": "Añade una carta de Poder al azar a la mano. NL Su coste es 0 en este turno. NL Agota."
   },
   "Wild Strike": {
