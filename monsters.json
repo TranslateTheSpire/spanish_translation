@@ -288,7 +288,7 @@
     "MOVES": [
       "¡Reagrupaos!"
     ],
-    "NAME": "Líder Gremlin",
+    "NAME": "Gremlin Líder",
     "DIALOG": [
       "¡Rendirse no es una opción!",
       "¡Esto aún no ha acabado!",
@@ -302,7 +302,7 @@
       "Golpe al cráneo",
       "Carga de embestida"
     ],
-    "NAME": "Gremlin idiota",
+    "NAME": "Gremlin Idiota",
     "DIALOG": [
       "@¡¡RRrroohrrRGHHhhh!!@"
     ]
@@ -311,7 +311,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Gremlin ladrón",
+    "NAME": "Gremlin Ladrón",
     "DIALOG": [
       "",
       "@Traeré@ @un poco@ NL @más de@ @ayuda@ ",
@@ -323,7 +323,7 @@
       "Proteger",
       "Golpe con escudo"
     ],
-    "NAME": "Gremlin reservado",
+    "NAME": "Gremlin Reservado",
     "DIALOG": [
       "",
       "~Hasta~ ~Luego...~",
@@ -334,7 +334,7 @@
     "MOVES": [
       "Garra"
     ],
-    "NAME": "Gremlin guerrero",
+    "NAME": "Gremlin Guerrero",
     "DIALOG": [
       "",
       "@¡Voy@ @a@ NL @buscar@ @ayuda!@",
@@ -388,7 +388,7 @@
       "Grito",
       "Azotar"
     ],
-    "NAME": "Gusano dentudo",
+    "NAME": "Gusano Dentudo",
     "DIALOG": [
       ""
     ]
@@ -469,7 +469,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Vibora vidente",
+    "NAME": "Vibora Vidente",
     "DIALOG": [
       ""
     ]
@@ -505,7 +505,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Parásito con caparazón",
+    "NAME": "Parásito con Caparazón",
     "DIALOG": [
       ""
     ]
@@ -514,7 +514,7 @@
     "MOVES": [
       "Rastrillar"
     ],
-    "NAME": "Esclavista",
+    "NAME": "Esclavista Azul ",
     "DIALOG": [
       ""
     ]
@@ -533,7 +533,7 @@
       "Raspar",
       "Enredar"
     ],
-    "NAME": "Esclavista",
+    "NAME": "Esclavista Rojo",
     "DIALOG": [
       ""
     ]
@@ -555,7 +555,7 @@
     "MOVES": [
       "Esporas debilitantes"
     ],
-    "NAME": "Lengua de tigre",
+    "NAME": "Lengua de Tigre",
     "DIALOG": [
       ""
     ]
@@ -651,7 +651,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Devorador de tiempo",
+    "NAME": "Devorador de Tiempo",
     "DIALOG": [
       "~Ah...~ NL ~..compañía...~",
       "~Ilusos..~ NL @ILUSOOS!@"
