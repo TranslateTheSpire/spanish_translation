@@ -55,7 +55,7 @@
       "Este enemigo intenta usar una #yMejora.",
       "Este enemigo intenta infligir un #yEfecto #yNegativo sobre ti.",
       "Este enemigo intenta infligir un poderoso #yEfecto #yNegativo sobre ti.",
-      "Este enemig intenta #yBloquear en su turno.",
+      "Este enemigo intenta #yBloquear en su turno.",
       "Este enemigo intenta #yBloquear e infligir un #yEfecto #yNegativo sobre ti.",
       "Este enemigo intenta #yBloquear y usar una #yMejora.",
       "Este enemigo intenta #yEscapar.",
@@ -141,7 +141,7 @@
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Elige una Ataque para Añadir a tu Mano"
+      "Elige un Ataque para añadir a tu Mano"
     ]
   },
   "BattleStartEffect": {
@@ -197,7 +197,7 @@
       "Hora de un descanso",
       "Tantas opciones...",
       "Deberia descansar",
-      "Tanto cansancio..."
+      "Estoy tan cansado..."
     ]
   },
   "Cancel Button": {
@@ -345,7 +345,8 @@
       "Modificadores: ",
       "Puntuación",
       "*Los logros están desactivados para el reto diario.",
-	  "  [MODO DESCONECTADO]"    ]
+      "  [MODO DESCONECTADO]"
+    ]
   },
   "DeathScreen": {
     "TEXT": [
@@ -416,7 +417,7 @@
       "Campeón",
       "Perfecto",
       "Más que perfecto",
-      "Overkill",
+      "Exagerado",
       "¡C-c-c-combo!",
       ""
     ]
@@ -438,7 +439,7 @@
   "Dig Option": {
     "TEXT": [
       "Excavar",
-      "Excava y Extrae una reliquia al azar."
+      "Excava y extrae una reliquia al azar."
     ]
   },
   "DiscardAction": {
@@ -787,7 +788,7 @@
     "TEXT": [
       "Estándar",
       "",
-      "Embarcate en una misión para vencer a la torre.",
+      "Embarcate en una misión para vencer a la Torre.",
       "Ascenso Diario",
       "",
       "Un nuevo reto está disponible una vez al día.\n\n¡Compite con otros jugadores por la mayor puntuación!",
@@ -1009,7 +1010,7 @@
       "La Silenciosa",
       "El Defectuoso",
       "Regresar",
-      "No encontramos historias de partidas. NL ¡Ve y Derrota a la Torre!",
+      "No encontramos datos de partidas. NL ¡Ve y Derrota a la Torre!",
       "Nivel de Ascensión: ",
       "Abatido en el Piso ",
       " por ",
