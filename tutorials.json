@@ -77,7 +77,7 @@
       "Slay the Spire corre mejor en modo verdadero de pantalla completa. Recomendado para OSX ya que el Dock y la barra de menú estan escondidos. NL NOTA: En PC, usar Alt-Tab de vuelta a Slay the Spire puede que no funcione con modo pantalla completa.",
       "Ya que Slay the Spire no es un juego muy demandante, recomendamos Pantalla Completa sin Bordes para poder realizar Alt-Tab con rapidez. Funciona mejor en PC.",
       "Nota: Si el VSync esta activado, el Framerate Máximo no puede pasar por encima de la frecuencia de actualización de tu monitor.",
-      "Controller support incomplete for this screen."
+      "El controlador esta incompleto para esta pantalla."
     ],
     "LABEL": [
       "Metricas",
@@ -91,8 +91,8 @@
       "Esta carta te aplica un Poder cuando la usas. NL Los Poderes so habilidades pasivas que permanecen toda la duración del combate.",
       "¡Las cartas requieren energia para jugarlas! NL Este orbe a la parte inferior izquierda indica cuanta energia te queda para este turno.",
       "¡Mi #rMano #restá #rLlena!",
-      "#rMaximum Orb capacity has been met.",
-      "I have no Orb slots."
+      "La capacidad #rMáxima de Orbes ha sido alcanzada.",
+      "No tengo más espacios para Orbes."
     ],
     "LABEL": [
       "Cartas de Poder",
