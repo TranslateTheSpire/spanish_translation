@@ -429,10 +429,10 @@
       "MIXED"
     ],
     "OPTIONS": [
-      "[Un Enemigo de tu Pasado] #rWARNING: #rFight #ra #rBoss! #gGain #g2 #gRelics.",
-      "[Sentimientos Encontrados] #rDownside. #gMinor #gUpside.",
+      "[Un Enemigo de tu Pasado] #rAtención: #rLucha #rcontra #run #rJefe! #gGana #g2 #gReliquias.",
+      "[Sentimientos Encontrados] #rDesventaja. #gPequeña #gMejora.",
       "[Salir]",
-      "[Estoy Despierto] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
+      "[Estoy Despierto] #gMejora #gtodas #glas #gCartas. #rYa #rno #rpuedes #rcurarte.",
       "[Salir]"
     ]
   },
@@ -481,16 +481,16 @@
     "NAME": "El Nido",
     "DESCRIPTIONS": [
       "Bandadas de cultistas parecen encontrarse alrededor de un lugar central. A medida que te acercas son sorprendentemente dóciles, no hacen ningún movimiento para atacar. Puedes ver nuevos miembros siendo iniciados en su Culto a través de algún tipo de ritual.",
-      "Decides ponerte en la fila y ver si te permitirán participar en el ritual. NL NL Eres barrido hacia la ceremonia, cuando el líder enmascarado corta tu brazo con una daga, sientes algo de de tu poder filtrándose en la hoja. NL NL Cuando terminas tu iniciación en el culto, te es entragada la daga personalizada como status de tu nueva afiliación.",
+      "Decides ponerte en la fila y ver si te permitirán participar en el ritual. NL NL Eres barrido hacia la ceremonia, cuando el líder enmascarado corta tu brazo con una daga, sientes algo de de tu poder filtrándose en la hoja. NL NL Cuando terminas tu iniciación en el culto, te es entragada la daga personalizada como estatus de tu nueva afiliación.",
       "Tomando ventaja de la oportunidad, encuentras varias cosas de valor repartidas en todo el edificio antes de escapar.",
       "",
       "",
       ""
     ],
     "OPTIONS": [
-      "[Unirse al Culto] #gObtain #gRitual #gDagger. #rDowngrade #r",
+      "[Unirse al Culto] #gObtén #gDaga #gdel #gRitual. #rDegrada #r",
       ".",
-      "[Aplastar y Agarrar] #gObtain #g150 #gGold.",
+      "[Aplastar y Agarrar] #gObtén #g150 #gde #gOro.",
       "[Bloqueado] Necesitas: Carta Mejorada.",
       "[Salir]",
       "[Continuar]"
