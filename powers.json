@@ -48,9 +48,9 @@
     "NAME": "Consumir Ataques",
     "DESCRIPTIONS": [
       "Durante #b",
-      " turnos, cuando juegues un #yAtaque, #yAgotalo.",
+      " turnos, cuando juegues un #yAtaque, #yAgótalo.",
       "Durante los siguientes #b",
-      " turnos, cuando juegues un #yAtaque, #yAgotalo it."
+      " turnos, cuando juegues un #yAtaque, #yAgótalo."
     ]
   },
   "Barricade": {
@@ -78,7 +78,7 @@
     "NAME": "Difuminarse",
     "DESCRIPTIONS": [
       "El #yBloqueo ya no expira al comienzo de tu siguiente turno.",
-      "El #yBloqueo ya no expira al comienza de tus siguientes #b",
+      "El #yBloqueo ya no expira al comienzo de tus siguientes #b",
       " turnos."
     ]
   },
@@ -154,16 +154,16 @@
   "CorpseExplosionPower": {
     "NAME": "Corpse Explosion",
     "DESCRIPTIONS": [
-      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
-      "When this enemy dies, deal damage to ALL enemies equal to #b",
-      " times its Max HP."
+      "Cuando este enemigo muere, hace daño a TODOS los enemigos por un valor igual sus PV Máximos.",
+      "Cuando este enemigo muere, hace daño a TODOS los enemigos por un valor igual a #b",
+      " veces sus PV Máximos."
     ]
   },
   "Corruption": {
     "NAME": "Corrupción",
     "DESCRIPTIONS": [
-      "Las Habilidades cuestan #b0. Cuando juegas una #yHabilidad, #yAgotala.",
-      "Whenever you play a #yHabilidad, #yExhaust it."
+      "Las Habilidades cuestan #b0. Cuando juegues una #yHabilidad, #yAgotala.",
+      "Cuando juegues una #yHabilidad, #yAgótala."
     ]
   },
   "Creative AI": {
@@ -171,13 +171,13 @@
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, añade #b",
       " cartas de Poder aleatorias a tu mano.",
-      " random Power cards into your hand."
+      " cartas de Poder aleatorias en tu mano.."
     ]
   },
   "Curiosity": {
     "NAME": "Curiosidad",
     "DESCRIPTIONS": [
-      "Cada vez que juegas un #yPoder, gana #b",
+      "Cada vez que juegues un #yPoder, gana #b",
       " de #yFuerza."
     ]
   },
@@ -191,9 +191,9 @@
   "Dance Puppet": {
     "NAME": "Marioneta Bailarina",
     "DESCRIPTIONS": [
-      "Cada vez que juegues una carta que no sea Habilidad, recibe #b",
+      "Cada vez que juegues una carta que no sea #yHabilidad, recibe #b",
       " de daño. (El tipo de carta cambia cada turno)",
-      "Cada vez que juegues una carta que no sea un ataque, recibe #b",
+      "Cada vez que juegues una carta que no sea un #yAtaque, recibe #b",
       "+1 Marioneta Bailarina"
     ]
   },
@@ -206,17 +206,17 @@
     ]
   },
   "Demon Form": {
-    "NAME": "Forma de Demonio",
+    "NAME": "Forma Demoníaca",
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, gana #b",
       " de #yFuerza."
     ]
   },
   "DexLoss": {
-    "NAME": "Dexterity Down",
+    "NAME": "Menos Destreza",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yDexterity."
+      "Al final de tu turno, pierde #b",
+      " #yDestreza."
     ]
   },
   "Dexterity": {
@@ -228,7 +228,7 @@
     ]
   },
   "Double Damage": {
-    "NAME": "Doble Daño",
+    "NAME": "Daño Doble",
     "DESCRIPTIONS": [
       "Los #yAtaques infligen el doble de daño durante #b",
       " turno.",
@@ -288,33 +288,33 @@
   "Electro": {
     "NAME": "Electro",
     "DESCRIPTIONS": [
-      "#yLightning hits ALL enemies.",
-      " NL If there is only #b1 enemy, #yLightning hits #b",
-      " times."
+      "#yRelámpago golpea a todos los enemigos.",
+      "",
+      ""
     ]
   },
   "Energized": {
     "NAME": "Energizado",
     "DESCRIPTIONS": [
       "Gana #b",
-      " de  [G] adicional el siguiente turno.",
-      " de  [G] adicional el siguiente turno.",
+      " de  [G] adicional en el siguiente turno.",
+      " de  [G] adicional en el siguiente turno.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
   "EnergizedBlue": {
-    "NAME": "Energized",
+    "NAME": "Energizado",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [B] next turn.",
-      " additional [B] next turn.",
+      "Gana #b",
+      " de  [G] adicional en el siguiente turno.",
+      " de  [G] adicional en el siguiente turno.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
   "Entangled": {
     "NAME": "Enredado",
     "DESCRIPTIONS": [
-      "No puedes jugar #yAtaques durante un turno."
+      "No puedes jugar #yAtaques durante 1 turno."
     ]
   },
   "Envenom": {
@@ -325,11 +325,11 @@
     ]
   },
   "Equilibrium": {
-    "NAME": "Equilibrium",
+    "NAME": "Equilibrio",
     "DESCRIPTIONS": [
-      "Retain your hand this turn.",
-      "Retain your hand for #b",
-      " turns."
+      "Mantén tu mano este turno.",
+      "Mantén tu mano este por #b",
+      " turnos."
     ]
   },
   "Evolve": {
@@ -439,7 +439,7 @@
     ]
   },
   "Heatsink": {
-    "NAME": "Sumidero",
+    "NAME": "Disipador",
     "DESCRIPTIONS": [
       "Cada vez que juegues un Poder, roba #b",
       " carta.",
@@ -533,7 +533,7 @@
     ]
   },
   "Machine Learning": {
-    "NAME": "Machine Learning",
+    "NAME": "Aprendizaje Automático",
     "DESCRIPTIONS": [
       "Roba #b",
       " carta adicional al comienzo de cada turno.",
@@ -551,17 +551,17 @@
     "NAME": "Maleable",
     "DESCRIPTIONS": [
       "Al recibir daño de #yAtaques, gana #b",
-      " de#yBloqueo. La cantidad de #yBloqueo ganada aumenta cada vez ",
+      " de #yBloqueo. La cantidad de #yBloqueo ganada aumenta cada vez ",
       " que es activada. Se reinicia en #b",
       " al comienzo de tu turno."
     ]
   },
   "Mayhem": {
-    "NAME": "Mayhem",
+    "NAME": "Violencia",
     "DESCRIPTIONS": [
-      "At the start of your turn, play the top card of your draw pile.",
-      "At the start of your turn, play the top #b",
-      " cards of your draw pile."
+      "Al comienzo de tu turno, juega la carta superior de tu Pila de Robado.",
+      "Al comienzo de tu turno, juega las primeras #b",
+      " cartas de tu Pila de Robado."
     ]
   },
   "Metallicize": {
@@ -615,7 +615,7 @@
   "NoBlockPower": {
     "NAME": "No Block Power",
     "DESCRIPTIONS": [
-      "You cannot gain #yBlock."
+      "No puedes ganar #yBloqueo."
     ]
   },
   "Noxious Fumes": {
@@ -641,9 +641,9 @@
     "NAME": "Estilo",
     "DESCRIPTIONS": [
       "Si juegas #b",
-      " carta mas este turno, inflige #b",
+      " carta más este turno, inflige #b",
       " de daño a TODOS los enemigos.",
-      " cartas mas este turno, inflige #b"
+      " cartas más este turno, inflige #b"
     ]
   },
   "Pen Nib": {
@@ -655,8 +655,8 @@
   "Phantasmal": {
     "NAME": "Fantasmal",
     "DESCRIPTIONS": [
-      "Inflge el #yDoble #yde #yDaño el siguiente turno.",
-      "Inflge el #yDoble #yde #yDaño durante los siguientes ",
+      "Infringe el #yDoble #yde #yDaño el siguiente turno.",
+      "Infringe el #yDoble #yde #yDaño durante los siguientes ",
       " turnos."
     ]
   },
@@ -664,9 +664,9 @@
     "NAME": "Armadura de Placas",
     "DESCRIPTIONS": [
       "Gana #b",
-      " de #yBloqueo al final de tu turno. Perder PV de un ataque reduce #yArmadura #yde  #yPlacas en #b1.",
+      " de #yBloqueo al final de tu turno. Perder PV de un ataque reduce #yArmadura #yde #yPlacas en #b1.",
       "Gana #b",
-      " de #yBloqueo al final de tu turno. Perder PV de un ataque reduce #yArmadura #yde  #yPlacas en #b1."
+      " de #yBloqueo al final de tu turno. Perder PV de un ataque reduce #yArmadura #yde #yPlacas en #b1."
     ]
   },
   "Poison": {
@@ -703,9 +703,9 @@
   "Rebound": {
     "NAME": "Rebote",
     "DESCRIPTIONS": [
-      "La siguiente carta que juegues este turno se colocará encima de tu pila de robado.",
+      "La siguiente carta que juegues este turno se colocará encima de tu Pila de Robado.",
       "Las siguientes #b",
-      " cartas que juegues este turno se colocarán encima de tu pila de robado."
+      " cartas que juegues este turno se colocarán encima de tu Pila de Robado."
     ]
   },
   "Reduce Damage": {
