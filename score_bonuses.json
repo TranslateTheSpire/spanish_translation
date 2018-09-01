@@ -16,7 +16,7 @@
     "DESCRIPTIONS": []
   },
   "Beyond Perfect": {
-    "NAME": "Más Que Perfecto",
+    "NAME": "Más que Perfecto",
     "DESCRIPTIONS": [
       "Derrota a 3 jefes sin recibir daño."
     ]
@@ -34,7 +34,7 @@
   "Cheater": {
     "NAME": "Tramposo",
     "DESCRIPTIONS": [
-      "Te encontramos haciendo trampa. Si pasa dos veces, tu puntuación nunca se subirá a la Clasificación."
+      "Te pillamos haciendo trampa. Si pasa dos veces, tu puntuación nunca se subirá a la Clasificación."
     ]
   },
   "City Elites Killed": {
@@ -60,7 +60,7 @@
     ]
   },
   "Encyclopedian": {
-    "NAME": "Enciclopedario",
+    "NAME": "Enciclopédico",
     "DESCRIPTIONS": [
       "Tamaño del Mazo superior a 50 cartas."
     ]
@@ -96,7 +96,7 @@
   "Minimalist": {
     "NAME": "Minimalista",
     "DESCRIPTIONS": [
-      "Eliminaste 5+ cartas de tu mazo."
+      "Eliminaste más de 5 cartas de tu mazo."
     ]
   },
   "Money Money": {
@@ -108,7 +108,7 @@
   "Mystery Machine": {
     "NAME": "Máquina del Misterio",
     "DESCRIPTIONS": [
-      "Viajaste a 15+ cuartos desconocidos ."
+      "Viajaste a 15+ cuartos desconocidos."
     ]
   },
   "On My Own Terms": {
@@ -138,7 +138,7 @@
   "Poopy": {
     "NAME": "Caca",
     "DESCRIPTIONS": [
-      "Recibiste los Desechos de Espiritu."
+      "Recibiste los Desechos de Espíritu."
     ]
   },
   "Raining Money": {
@@ -154,7 +154,7 @@
     ]
   },
   "Speedster": {
-    "NAME": "Fitipaldi",
+    "NAME": "Velocista",
     "DESCRIPTIONS": [
       "Victoria en menos de 60 minutos."
     ]
