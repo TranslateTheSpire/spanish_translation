@@ -1095,7 +1095,7 @@
   },
   "StoneCalendar": {
     "NAME": "Calendario de Piedra",
-    "FLAVOR": "El paso del tiempo es imperceptible en el Spire.",
+    "FLAVOR": "El paso del tiempo es imperceptible en la Torre.",
     "DESCRIPTIONS": [
       "Al final del turno #b",
       ", hace #b",
