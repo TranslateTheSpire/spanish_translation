@@ -598,7 +598,7 @@
   "The Cleric": {
     "NAME": "El Clérigo",
     "DESCRIPTIONS": [
-      "Un extraño humanoide azul con un yelmo(¿?) dorado se te acerca con una gran sonrisa. NL @\"¡Hola@ @camarada!@ ¡Yo soy #bÉl #bClérigo! ¡¿Te interesan mis servicios?!\" la criatura grita, fuerte.",
+      "Un extraño humanoide azul con un yelmo dorado se te acerca con una gran sonrisa. NL @\"¡Hola@ @camarada!@ ¡Yo ser #bÉl #bClérigo! ¡¿Te interesan mis servicios?!\" la criatura grita, fuerte.",
       "Una luz dorada y cálida rodea tu cuerpo y desaparece. NL La criatura sonríe. \"Clérigo ser mejor curador. @¡Ten@ @un@ @buen@ @día!\"@",
       "Una llama fría y azul rodea tu cuerpo y desaparece. NL La criatura sonríe. \"Clérigo ser talentoso. @¡Ten@ @un@ @buen@ @día!\"@",
       "No confias en este #b\"´Clérigo\", asi que te retiras."
@@ -620,13 +620,13 @@
     "DESCRIPTIONS": [
       "Al pasar a través de altos edificios te encuentras un puente, largo y estrecho, con caballeros en cada lado, enfrentándose. Te acercas... NL @\"¡Alto!\"@ NL NL Un caballero te señala que te detengas con su lanza gigante.",
       "\"Hoy es el día que debo resolver la deuda con el #rasesino de mi mascota preciosa, #yFideos. Hasta entonces, no puedes pasar. NL NL Ya que eres el testigo de fe, ¿por qué no #bapuestas por quién ganará?\"",
-      "\"¡No puedo creer que apuestes en contra de #yNoodles!\" NL NL Enfurecido, se coloca su casco y se apresura hacia su nemesis.",
-      "\"¡Dame tu fuerza, #yNoodles!\" NL NL Colocándose su casco, el caballero avanza a toda velocidad.",
+      "\"¡No puedo creer que apuestes en contra de #yFideos!\" NL NL Enfurecido, se coloca su casco y se apresura hacia su nemesis.",
+      "\"¡Dame tu fuerza, #yFideos!\" NL NL Colocándose su casco, el caballero avanza a toda velocidad.",
       "NL #y@*¡¡¡CRASH!!!*@ #r@*¡CLAAAANG!*@ NL NL #g@*¡PAM!*@",
       "Su nemesis ha sido abatido. NL NL ",
       "El dueño murió. NL NL ",
       "#gGanaste la apuesta. Sin saber que pensar, tomas tus ganancias y te vas.",
-      "#rPerdiste la apuesta, pero al menos no te atraveso una lanza."
+      "#rPerdiste la apuesta, pero al menos no te atravesó una lanza."
     ],
     "OPTIONS": [
       "[Continuar]",
@@ -659,8 +659,8 @@
   "The Mausoleum": {
     "NAME": "El Mausoleo",
     "DESCRIPTIONS": [
-      "Aventurándote a través de una serie de tumbas, te encuentras con un gran sarcófago ~incrustado~ ~con~ ~gemas~ en el centro de un cuarto circular. NL No puedes leer la escritura del cofre, sin embargo, te das cuenta que hay #p~niebla~ #p~negra~ saliendo de dentro.",
-      "Abres el cofre. ¡Al hacerlo, #p~niebla~ #p~negra~ emana de este y llena todo el cuarto! Dentro, no encuentras un cuerpo, sólo una #y~reliquia.~ La coges y te vas, #r@tosiendo@ #r@violentamente.@",
+      "Aventurándote a través de una serie de tumbas, te encuentras con un gran sarcófago ~incrustado~ ~con~ ~gemas~ en el centro de un cuarto circular. NL No puedes leer la escritura del cofre, sin embargo, te das cuenta que hay una #p~niebla~ #p~negra~ saliendo de dentro.",
+      "Abres el cofre. ¡Al hacerlo, la #p~niebla~ #p~negra~ emana de este y llena todo el cuarto! Dentro, no encuentras un cuerpo, sólo una #y~reliquia.~ La coges y te vas, #r@tosiendo@ #r@violentamente.@",
       "Abres el cofre. La niebla se disipa sin efecto alguno. Dentro, encuentras los restos mortales de un soldado condecorado que sujeta una vieja #yreliquia. Se la robas y continuas.",
       "Continuas tu camino, dejando a los muertos olvidados y sin molestar."
     ],
@@ -673,9 +673,9 @@
   "The Moai Head": {
     "NAME": "La Cabeza Moái",
     "DESCRIPTIONS": [
-      "Te encuentras con algo que se siente *muy* fuera de lugar. Ante ti, una enorme cabeza de piedra emerge de un segmento de la pared que no se mueve ni cambia como el resto del área. NL La boca de la cabeza está abierta, y revela dientes largos e intimidantes, manchados rojos de sangre. La superficie de la estatua está repleta con pictogramas que parecen indicar gente aventandose adentro de la cabeza de esta cabeza y siendo devorados. ¿Por qué alguien haría esto?",
-      "Al principio cuando diste un paso adentro de la cabeza de la estatua, nada pasa. Cuando empiezas a dudar de todo esto, los enormes molares se cierran sobre ti, aplastandote. NL @Oscuridad.@ NL Un poco tiempo después desde la oscuridad, ves un rayo de luz, y escuchas lo que te das cuenta que es el sonido de dientes de piedra lentamente subiendo. NL NL NL Sales con confusión.",
-      "Saltas hacia atrás cuando los enormes molares se cierran sobre el ídolo, convirtiéndolo en polvo. Cuando los dientes empiezan a subir, #yoro sale como un torrente desde el hueco, sumergiéndote en riquezas.",
+      "Te encuentras con algo que se siente *muy* fuera de lugar. Ante ti, una enorme cabeza de piedra emerge de un segmento de la pared que no se mueve ni cambia como el resto del área. NL La boca de la cabeza está abierta, y revela dientes largos e intimidantes, manchados de sangre. La superficie de la estatua está repleta con pictogramas que parecen indicar gente aventurandose dentro de la cabeza y siendo devorados. ¿Por qué alguien haría esto?",
+      "Al principio das un paso dentro de la cabeza de la estatua, y no nada pasa. Cuando empiezas a dudar de todo esto, los enormes molares se cierran sobre ti, aplastandote. NL @Oscuridad.@ NL Un poco más tarde ves un rayo de luz, y escuchas el sonido de dientes de piedra subiendo lentamente. NL NL NL Sales confuso de ahi.",
+      "Saltas hacia atrás cuando los enormes molares se cierran sobre el ídolo, convirtiéndolo en polvo. Cuando los dientes empiezan a subir, empieza a salir #yoro como un torrente, sumergiéndote en riquezas.",
       "Sales de alli, preguntandote en lo que podría haber ocurrido."
     ],
     "OPTIONS": [
@@ -689,9 +689,9 @@
   "The Woman in Blue": {
     "NAME": "La Mujer de Azul",
     "DESCRIPTIONS": [
-      "De la oscuridad, un brazo te agarra y te mete a una pequeña tienda. Cuando tus ojos se ajustas, ves a una mujer pálida en ropa elegante, señalando hacia una pared de pociones. NL \"Compra una poción. ¡Ahora!\" declara.",
+      "Desde la oscuridad, un brazo te agarra y te mete a una pequeña tienda. Cuando te acostumbras a la oscuridad, ves a una mujer pálida en ropa elegante, señalando hacia una pared de pociones. NL \"Compra una poción. ¡Ahora!\" declara.",
       "\"Bien. Ahora vete.\" NL Sales de la tienda con cautela.",
-      "#r@WHAM@ NL Su puño enguantado se estrella en tu cara, casi tirándote al suelo. NL \"Sal de aquí antes de que manche el suelo con tus entrañas.\" Le tomas la palabra y sales con tus entrañas seguras dentro de tu cuerpo."
+      "#r@WHAM@ NL Su puño enguantado se estrella en tu cara, casi tirándote al suelo. NL \"Sal de aquí antes de que manche el suelo con tus entrañas.\" Haces lo que dice y sales con tus entrañas seguras dentro de tu cuerpo."
     ],
     "OPTIONS": [
       "[Comprar 1 Poción] #y",
@@ -706,13 +706,13 @@
   "Thinking with Puddles": {
     "NAME": "Pensando con Charcos",
     "DESCRIPTIONS": [
-      "Caminas dentro de un charco brillante... ¡y caes del techo justo arriba de él! NL En caída libre, consideras tus opciones.",
-      "Sacudes tus brazos en pánico y desatas todos tus trucos secretos para protegerte de cualquier daño. Sin embargo, caes al charco una...y otra...y otra...y otra vez. Días pasan antes de que te des cuenta como salir. Verdaderamente miserable.",
-      "Te preparas para aterrizar pero simplemente no hay ninguna buena manera de caer cuando sales de esta situación tan bizarra. @THUD@ NL NL ...te quedas en el suelo por un momento, maldiciendo la existencia de charcos, tanto líquidos como mágicos."
+      "Caminas dentro de un charco brillante... ¡y caes desde techo justo encima de él! NL En caída libre, consideras tus opciones.",
+      "Sacudes tus brazos en pánico y desatas todos tus trucos secretos para protegerte de cualquier daño. Sin embargo, caes al charco una...y otra...y otra...y otra vez. Pasan días antes de que te des cuenta como salir. Verdaderamente miserable.",
+      "Te preparas para aterrizar pero no hay ninguna manera buena de caer cuando estás en situación tan bizarra. @THUD@ NL NL ...Te quedas en el suelo por un momento, maldiciendo la existencia de charcos, tanto líquidos como mágicos."
     ],
     "OPTIONS": [
       "[Baboso] #rPierde #runa #rcarta #rRara #ral #razar.",
-      "[Caer De Cabeza] #rTomar #r",
+      "[Caer De Cabeza] #rRecibe #r",
       " #rdaño. #rMaldecirte #r- #rLesión.",
       "[Salir]"
     ]
@@ -720,7 +720,7 @@
   "Tomb of Lord Red Mask": {
     "NAME": "Tumba del Lord Máscara Roja",
     "DESCRIPTIONS": [
-      "Una tumba muy ornamentada puede ser vista al otro lado de un camino flotante. Al llegar a la tumba, puedes ver un hueco para monedas de #yoro con una inscription tachada arriba de él.",
+      "Puedes ver una tumba muy ornamentada al otro lado de un camino flotante. Al llegar a la tumba, te fijas en un hueco para monedas de #yoro con una inscription tachada arriba de él.",
       "Te pones la máscara y la tumba se empieza a ~desintegrar...~ ¡un pasaje secreto! NL NL ¡El pasaje está forrado con innumerables bienes robados y montones de #yoro!",
       "Una abertura aparece en la tumba y de ella sale una pequeña máscara roja con una nota adjunta. \"¡Toma de otros como yo he tomado de ti!\""
     ],
@@ -770,11 +770,11 @@
       "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~broken~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ],
     "OPTIONS": [
-      "[Aceptar] #gElimina #gtodos #glos #gGolpes. #gObten #g5 #gMordidas. #rPierde #r",
+      "[Aceptar] #gElimina #gtodos #glos #gGolpes. #gObtén #g5 #gMordidas. #rPierde #r",
       "% #rPV #rMáximo.",
       "[Negarse]",
       "[Pierde ",
-      "] #gElimina #gtodos #glos #gGolpes. #gObten #g5 #gMordidas.",
+      "] #gElimina #gtodos #glos #gGolpes. #gObtén #g5 #gMordidas.",
       "[Salir]"
     ]
   },
@@ -785,10 +785,10 @@
       "\"¡Ganaste algo de #yORO! NL YAY!!!!\"",
       "\"¡Ah, un #gregalo! NL ¡Disfruta!\"",
       "\"Oooh, ¡una #gCuración gratis para ti!\"",
-      "\"¡Parece que has ganado una #pMaldición! NL Eso no es bueno. NL ¡Ni modo! ¡Más suerte para la próxima!\"",
+      "\"¡Parece que has ganado una #pMaldición! NL Eso no es bueno. NL ¡Sin duda que no! ¡Más suerte para la próxima!\"",
       "\"Ohh, el poder de la #r~oscuridad...~ NL ¡Escoge una carta para eliminar de tu mazo!\"",
-      "\"Uh oh! NL ¡Perdiste!\" NL Lo ves sacando una navaja...",
-      "¡Atacas al gremlin demente pero él es demasiado rápido! NL Te alcanza unas cuantas veces con una navaja burda. NL \"¡¡El precio ha sido pagado!!\" NL y con eso, el gremlin y la rueda desaparecen en una ráfaga de humo."
+      "\"Uh oh! NL ¡Perdiste!\" NL Ves que saca una navaja...",
+      "¡Atacas al gremlin pero es demasiado rápido! NL Te alcanza unas cuantas veces con una navaja. NL \"¡¡El precio ha sido pagado!!\" NL y con eso, el gremlin y la rueda desaparecen en una ráfaga de humo."
     ],
     "OPTIONS": [
       "[Jugar]",
@@ -797,7 +797,7 @@
       "[¡Premio!] #gCura #gtodo #gtus #gPV.",
       "[¿Premio?] #rMaldición #r- #rDescomposición.",
       "[¡Premio!] #gElimina #guna #gcarta #gde #gtu #gmazo.",
-      "[Prize?] #rPierde #r",
+      "[¿Premio?] #rPierde #r",
       " #rPV.",
       "[Salir]",
       "Selecciona una Carta a Eliminar."
@@ -806,27 +806,27 @@
   "Winding Halls": {
     "NAME": "Corredores Serpenteantes",
     "DESCRIPTIONS": [
-      "Mientras subes lentamente las vías retorcidas, te encuentras constantemente perdiendo tu camino, ya que las paredes y el suelo parecen moverse inexplicadamente antes tus ojos. NL NL Las constantes #p~voces~ #p~susurrantes~ en tu cabeza tampoco ayudan mucho.", 
-      "Pasando frente a una estructura la cual sin ninguna duda ya habías visto te empiezas a cuestionar si estás perdiendo la cabeza, o si la geografía imposible de este lugar está empezando a afectarte. Necesitas cambiar algo, y pronto. NL NL Eso es lo que dicen las #p~voces~, ¿Y por qué mentirían?",
+      "Mientras subes lentamente las vías retorcidas, te empiezas a perder constantemente, ya que las paredes y el suelo parecen moverse inexplicadamente antes tus ojos. NL NL Las constantes #p~voces~ #p~susurrantes~ en tu cabeza tampoco ayudan mucho.", 
+      "Al pasar frente a una estructura la cual sin ninguna duda ya habías visto te empiezas a plantear si estás perdiendo la cabeza, o si la geografía de este lugar está empezando a afectarte. Necesitas cambiar algo, y pronto. NL NL Eso es lo que dicen las #p~voces~, ¿Y por qué mentirían?",
       "Algo en ti se rompe. NL NL Sólo alguien completamente fuera de quicio puede entender un lugar como este, asi que te dejas llevar por las voces y continuas con una #p~\"nueva\"~ perspectiva. Las cosas parecen tener mucho más sentido ahora.",
-      "Al tomar un momento para parar y observar detenidamente el panorama ondulatorio a tu alrededor, un patrón empieza a emerger dentro del caos. Cuando los ruidos dementes empiezan a interrumpir tus pensamientos, te esfuerzas para aguantar el dolor mental e ignorarlo. NL NL Eventualmente logras encontrar un camino satisfactoriamente, y continuar, ahora resistente a la naturaleza nefasta de este lugar alienígena.",
-	  "Pasas lo que parece una eternidad perdido en el laberinto. Poco a poco, puedes volver sobre tus pasos, reorientarte y salir de los pasajes tortuosos. NL NL Te sientes #r~agotado~ de la experiencia."
+      "Al tomar un momento para parar y observar detenidamente el panorama a tu alrededor, un patrón empieza a emerger dentro del caos. Cuando los ruidos empiezan a interrumpir tus pensamientos, te esfuerzas para aguantar el dolor mental e ignorarlo. NL NL Al final logras encontrar un camino satisfactoriamente y continuar, ahora resistente a la naturaleza nefasta de este extraño lugar.",
+      "Pasas lo que parece una eternidad perdido en el laberinto. Poco a poco, puedes volver sobre tus pasos, reorientarte y salir de los pasajes tortuosos. NL NL Te sientes #r~agotado~ de la experiencia."
     ],
     "OPTIONS": [
       "...",
-      "[Adoptar la Locura] #gRecibir #g2 #gLocura. #rPierde #r",
+      "[Aceptar la Locura] #gRecibir #g2 #gLocura. #rPierde #r",
       " #rPV.",
-      "[Enfocar] #rMaldecirte #r- #rRetorcimiento. #gCura #g",
+      "[Centrarse] #rMaldecirte #r- #rRetorcimiento. #gCura #g",
       "[Salir]",
       " #gPV.",
       "[Volver sobre tus pasos] #rPierde #r",
-	  " #rPV #rmaxi."
+	  " #rPV #rmáximos."
     ]
   },
   "World of Goop": {
     "NAME": "Mundo Viscoso",
     "DESCRIPTIONS": [
-      "Caes en un charco. NL @¡¡ESTÁ@ @LLENO@ @DE@ #g@BABA@ #g@VISCOSA!!@ NL Frenéticamente, te arañas el cuerpo por varios minutos, sintiendo la baba empezar a quemar. NL Puedes sentir baba en tus oídos, baba en tu nariz, baba en todos lados. NL NL Subiendo fuera de alli, te das cuenta que perdiste un poco de tu #yoro. Viendo de vuelta al charco, ves tus monedas perdidas junto con #yoro de otros desafortunados aventureros, revueltas en el charco.",
+      "Caes en un charco. NL @¡¡ESTÁ@ @LLENO@ @DE@ #g@BABA@ #g@VISCOSA!!@ NL Frenéticamente, te sacudes por varios minutos, sintiendo la baba empezar a quemar. NL Puedes sentir baba en tus oídos, baba en tu nariz, baba en todos lados. NL NL Subiendo fuera de alli, te das cuenta que perdiste un poco de tu #yoro. Mirando de vuelta al charco, ves tus monedas perdidas junto con #yoro de otros desafortunados aventureros, revueltas en el charco.",
       "Sintiendo el ardor de la baba mientras la exposición prolongada de esta empieza a derretir tu piel, logras retomar el #yoro.",
       "Decides que este lío no vale la pena."
     ],
@@ -843,9 +843,9 @@
     "NAME": "Una nota para mí mismo",
     "DESCRIPTIONS": [
       "Encuentras un ladrillo suelto en un pilar que te llama la atención.",
-      "Te encuentras una nota doblada, y una #ycarta dentro. La carta dice: NL \"El Corazón espera.\" NL NL Es tu letra.",
+      "En el hay una nota doblada, y una #ycarta dentro. La carta dice: NL \"El Corazón espera.\" NL NL Es tu letra.",
       "Elige una carta para guardar.",
-      "¿Pero que pasa?"
+      "¿Que esta pasando?"
     ],
     "OPTIONS": [
       "[Continúa]",
@@ -858,7 +858,7 @@
   "WeMeetAgain": {
     "NAME": "¡Nos volvemos a ver!",
     "DESCRIPTIONS": [
-      "\"¡Nos volvemos a ver!\" NL Un tipo alegre y despeinado se acerca a ti alegremente. No conoces a este hombre. NL NL \"¡Soy yo, #yRanwid! ¿Tienes buena mercancía para mi? ¿Lo de siempre? Un tipo como yo no puede hacerlo por sí solo, ¿sabes?\" NL Le miras de forma dudosa y consideras tus opciones...",
+      "\"¡Nos volvemos a ver!\" NL Un tipo alegre y despeinado se acerca a ti alegremente. No conoces a este hombre. NL NL \"¡Soy yo, #yRanwid! ¿Tienes buena mercancía para mi? ¿Lo de siempre? Un tipo como yo no puede apañarselas por sí solo, ¿sabes?\" NL Le miras de forma dudosa y consideras tus opciones...",
       "\"¡Exquisito! Tenía la garganta seca.\" NL #b~Glu,~ #b~Glu,~ #b~Glu...~ NL NL Se bebe la poción de una y deja salir un @eructo@ de satisfacción.",
       "\"¡Magnífico! Esto me será muy útil si me encuentro a esos #rmatones #rcon #rmáscara de nuevo.\"",
       "\"¡Ejemplar! Lo estudiaré más a fondo en mis aposentos.\"",
@@ -879,12 +879,12 @@
     ]
   },
   "Designer": {
-    "NAME": "Diseñador En-Spire",
+    "NAME": "Diseñador en la Torre",
     "DESCRIPTIONS": [
-      "Descubres una #g~colorida~ tienda con el banner \"EN-SPIRE\" y entras para ver que hay dentro. NL \"No, de ningun modo. Nope. No te puedo dejar entrar!\" NL NL Un hombre con ropa ridicula aparece en la entrada para impedirte entrar.",
+      "Descubres una #g~colorida~ tienda con el banner \"EN LA TORRE\" y entras para ver que hay dentro. NL \"No, de ningun modo. Nope. No te puedo dejar entrar!\" NL NL Un hombre con ropa ridicula aparece en la entrada para impedirte entrar.",
       "\"Esto no servirá, no, no. ¿Qué es este estilo? @Desagradable!@ Estás #rsangrandooo? #p~Asqueroooso.~ @Negocio??@ Eres un cliente? Bien. ~Lo que sea.\"~ NL Suspira de forma exagerada y señala la lista de servicios. NL NL Los servicios estan bien, pero preferirias golpear a este presumido hombre en su presumida cara.",
-      "\"Okey, adiós adiós.\" NL NL ...tendria que haberle golpeado.",
-      "Le golpeas tan fuerte que te duele el puño. NL \"Mi @CARA!!@ Ahora tendre que-\" NL NL Se desmaya. Quien es #p~Asqueroooso~ y está #rsangrandooo now?"
+      "\"Okey, adiós adiós.\" NL NL ...tendría que haberle golpeado.",
+      "Le golpeas tan fuerte que te duele el puño. NL \"Mi @CARA!!@ Ahora tendre que-\" NL NL Se desmaya. ¿Quien es #p~Asqueroooso~ y está #rsangrandooo ahora?"
     ],
     "OPTIONS": [
       "[Continuar]",
@@ -910,7 +910,7 @@
   "Colosseum": {
     "NAME": "El Coliseo",
     "DESCRIPTIONS": [
-      "@Thwack!!!@ NL .. NL ...... NL ... NL ~Perdistes~ ~el~ ~conocimiento...~",
+      "@Thwack!!!@ NL .. NL ...... NL ... NL ~Pierdes~ ~el~ ~conocimiento...~",
       "~Atontado~ y con la cabeza @palpitando@, te despiertas y te encuentras en el centro de un masivo coliseo con una audiencia desbordante de #bEsclavistas, #pFieles, y otros habitantes de la ciudad! NL ",
       " NL Un gigante blindado con una #ycorona #ydorada ruge por encima tuyo, NL @\"AHORA@ @EMPIEZA@ @EL@ @",
       "°@ @COMBATE!!!!\"@ NL Una puerta al otro lado se abre...",
