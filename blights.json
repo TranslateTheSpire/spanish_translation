@@ -8,34 +8,34 @@
     ]
   },
   "BlightedDurian": {
-    "NAME": "Durian arruinado",
+    "NAME": "Durian Arruinado",
     "DESCRIPTION": [
       "Pierde #b",
       "% de tus PV máximos."
     ]
   },
   "DeadlyEnemies": {
-    "NAME": "Enemigos mortales",
+    "NAME": "Enemigos Mortales",
     "DESCRIPTION": [
       "Los enemigos hacen un #b",
       "% más de daño."
     ]
   },
   "FullBelly": {
-    "NAME": "Tripa llena",
+    "NAME": "Tripa Llena",
     "DESCRIPTION": [
       "Ya no puedes aumentar tus PV máximos. Toda curación se reduce a la mitad."
     ]
   },
   "GraspOfShadows": {
-    "NAME": "Agarre de las sombras",
+    "NAME": "Agarre Sombrío",
     "DESCRIPTION": [
       "Los enemigos empiezan con #b",
       " #yIntangible."
     ]
   },
   "GrotesqueTrophy": {
-    "NAME": "Trofeo grotesco",
+    "NAME": "Trofeo Grotesco",
     "DESCRIPTION": [
       "Al recoger, obtiene #b",
       " #rOrgullo.",
@@ -43,7 +43,7 @@
     ]
   },
   "MetallicRebirth": {
-    "NAME": "Renacimiento metálico",
+    "NAME": "Renacimiento Metálico",
     "DESCRIPTION": [
       "Los enemigos empiezan con #b",
       " de #yArtefacto, #b",
@@ -52,13 +52,13 @@
     ]
   },
   "MimicInfestation": {
-    "NAME": "Infestación mímica",
+    "NAME": "Infestación Mímica",
     "DESCRIPTION": [
       "Las salas del tesoro en actos futuros serán reemplazadas por salas de élites."
     ]
   },
   "Scatterbrain": {
-    "NAME": "Cabeza de chorlito",
+    "NAME": "Cabeza de Chorlito",
     "DESCRIPTION": [
       "Al recoger, obtiene #b",
       " cartas aleatorias.",
@@ -66,7 +66,7 @@
     ]
   },
   "TimeMaze": {
-    "NAME": "Mazo temporal",
+    "NAME": "Mazo Temporal",
     "DESCRIPTION": [
       "Los enemigos tienen el poder Mazo temporal.",
       " cartas por turno.",
@@ -74,14 +74,14 @@
     ]
   },
   "ToughEnemies": {
-    "NAME": "Enemigos duros",
+    "NAME": "Enemigos Duros",
     "DESCRIPTION": [
       "Los enemigos tienen un #b",
       "% más de PV."
     ]
   },
   "TwistingMind": {
-    "NAME": "Mente retorcida",
+    "NAME": "Mente Retorcida",
     "DESCRIPTION": [
       "Al recoger, #yTransforma #b",
       " cartas.",
@@ -89,7 +89,7 @@
     ]
   },
   "VoidEssence": {
-    "NAME": "Esencia del vacío",
+    "NAME": "Esencia de Vacío",
     "DESCRIPTION": [
       "Gana 1 [R] menos al inicio de cada turno.",
       "Gana 1 [G] menos al inicio de cada turno.",
