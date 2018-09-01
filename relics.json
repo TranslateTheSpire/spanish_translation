@@ -74,7 +74,7 @@
     ]
   },
   "Blood Vial": {
-    "NAME": "Frasco de Sangre",
+    "NAME": "Vial de Sangre",
     "FLAVOR": "Un frasco con la sangre de un anciano vampiro de pura raza.",
     "DESCRIPTIONS": [
       "Al comienzo de cada combate cura #b",
@@ -248,7 +248,7 @@
     ]
   },
   "Coffee Dripper": {
-    "NAME": "Goteador de Café",
+    "NAME": "Taza de Café",
     "FLAVOR": "\"Si, otra taza por favor. Vuelta al trabajo. ¡Vuelta al trabajo!\" - The Architect",
     "DESCRIPTIONS": [
       "al comienzo de cada turno. Ya no puedes descansar en las áreas de descanso.",
@@ -635,7 +635,7 @@
     ]
   },
   "MealTicket": {
-    "NAME": "Ticket para una Comida",
+    "NAME": "Vale para una Comida",
     "FLAVOR": "\"¡Albóndigas complementarias con cada visita!\"",
     "DESCRIPTIONS": [
       "Cada vez que entres en una tienda, cura #b7 PV."
@@ -672,7 +672,7 @@
     ]
   },
   "Molten Egg": {
-    "NAME": "Huevo Magmático",
+    "NAME": "Huevo Fundido",
     "FLAVOR": "El huevo de un Fenix. Brilla rojo candente con su lava burbujeante.",
     "DESCRIPTIONS": [
       "Al recoger escoge y #yMejora un #yAtaque.",
@@ -703,7 +703,7 @@
     ]
   },
   "NeowsBlessing": {
-    "NAME": "Lamento de Neow",
+    "NAME": "Bendición de Neow",
     "FLAVOR": "La bendición del lamento otorgada a ti por Neow.",
     "DESCRIPTIONS": [
       "Los enemigos en tus primeros #b3 combates tendrán 1 PV.",
@@ -796,7 +796,7 @@
     ]
   },
   "Omamori": {
-    "NAME": "Omamori",
+    "NAME": "Amuleto Omamori",
     "FLAVOR": "Un talismán común para mantener alejados a los espíritus viles. Este parece poseer una chispa de energía divina.",
     "DESCRIPTIONS": [
       "Niega las próximas #b2 #rmaldiciones que obtengas.",
@@ -949,7 +949,7 @@
     ]
   },
   "Ring of the Serpent": {
-    "NAME": "Anillo de la Serpiente",
+    "NAME": "Anillo de Víbora",
     "DESCRIPTIONS": [
       "Reemplaza #gAnillo #gserpentino. Al comienzo de cada turno, saca #b1 carta adicional",
       "At the start of your turn, draw #b1 additional card."
@@ -957,7 +957,7 @@
     "FLAVOR": "Tu anillo ha mutado y cambiado su forma."
   },
   "Ring of the Snake": {
-    "NAME": "Anillo Serpentino",
+    "NAME": "Anillo de Serpiente",
     "FLAVOR": "Hecho con una serpiente fosilizada. Representa una gran habilidad como cazadora.",
     "DESCRIPTIONS": [
       "Al comienzo de cada combate roba #b",
@@ -981,7 +981,7 @@
     ]
   },
   "Runic Dome": {
-    "NAME": "Domo Rúnico",
+    "NAME": "Cúpula Rúnica",
     "FLAVOR": "Las runas son indescifrables.",
     "DESCRIPTIONS": [
       "al comienzo de cada turno. Ya no puedes ver la #bintención del enemigo.",
@@ -1046,7 +1046,7 @@
     ]
   },
   "Snake Skull": {
-    "NAME": "Cráneo de Serpentija",
+    "NAME": "Cráneo de Serpiente",
     "FLAVOR": "Un cráneo de serpentija en condición prístina. Misteriosamente limpio y suave, la tierra y la mugre se le caen inexplicablemente.",
     "DESCRIPTIONS": [
       "Cada vez que apliques #yveneno, aplica #b",
@@ -1071,7 +1071,7 @@
     ]
   },
   "Spirit Poop": {
-    "NAME": "Caca de Espíritu",
+    "NAME": "Caca Espiritual",
     "FLAVOR": "Los despojos carbonizados de tu ofrenda a los espíritus.",
     "DESCRIPTIONS": [
       "No es agradable."
@@ -1089,13 +1089,13 @@
     "NAME": "Fuerza Mutágena",
     "FLAVOR": "\"Los resultados parecen fugaces, activandose cuando el sujeto esta en peligro.\" - Desconocido",
     "DESCRIPTIONS": [
-      "Empieza cada conbate con #b",
+      "Empieza cada combate con #b",
       " #yFuerza que se pierde al final del turno."
     ]
   },
   "StoneCalendar": {
     "NAME": "Calendario de Piedra",
-    "FLAVOR": "El paso del tiempo es imperceptible en el Spire.",
+    "FLAVOR": "El paso del tiempo es imperceptible en la Torre.",
     "DESCRIPTIONS": [
       "Al final del turno #b",
       ", hace #b",
