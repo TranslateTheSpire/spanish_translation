@@ -98,7 +98,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Orbe",
+    "NAME": "Orbe de Bronce",
     "DIALOG": [
       ""
     ]
@@ -346,7 +346,7 @@
       "Cargando",
       "Golpe Final"
     ],
-    "NAME": "Mago gremlin",
+    "NAME": "Gremlin Mago",
     "DIALOG": [
       "",
       "¡Cargando!",
@@ -496,7 +496,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Serpiente",
+    "NAME": "Víbora",
     "DIALOG": [
       ""
     ]
