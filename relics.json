@@ -1,7 +1,7 @@
 {
   "Anchor": {
     "NAME": "Ancla",
-    "FLAVOR": "Sujetar esta baratija diminuta te hace sentir más pesado y tener mas equilibrio.",
+    "FLAVOR": "Sujetar esta baratija diminuta te hace sentir más pesado y con más equilibrio.",
     "DESCRIPTIONS": [
       "Comienza cada combate con #b",
       " #yBloqueo."
@@ -99,7 +99,7 @@
   },
   "Boot": {
     "NAME": "La Bota",
-    "FLAVOR": "Cuando le das cuerda, la bota se hace mas grande.",
+    "FLAVOR": "Cuando le das cuerda, la bota se hace más grande.",
     "DESCRIPTIONS": [
       "Cuando vayas a infligir #b",
       " o menos daño de #yAtaque sin bloquear, aumenta a #b5."
@@ -219,7 +219,7 @@
   },
   "Charon's Ashes": {
     "NAME": "Cenizas de Caronte",
-    "FLAVOR": "De Caronte se decia que era el dios del renacer, eternamente muriendo y reviviendo en una ráfaga de llamas.",
+    "FLAVOR": "De Caronte se decía que era el dios del renacer, eternamente muriendo y reviviendo en una ráfaga de llamas.",
     "DESCRIPTIONS": [
       "Cada vez que #yAgotas una carta, haz #b",
       " de daño a TODOS los enemigos."
@@ -323,7 +323,7 @@
     "NAME": "Dodecaedro Rúnico",
     "FLAVOR": "Las runas son indescifrables.",
     "DESCRIPTIONS": [
-      "Si tus PV están al máximo gana ",
+      "Si tus PV están al máximo gana, ",
       "[R] al comienzo de cada turno.",
       "[G] al comienzo de cada turno.",
       "[B] al comienzo de cada turno."
@@ -673,7 +673,7 @@
   },
   "Molten Egg": {
     "NAME": "Huevo Fundido",
-    "FLAVOR": "El huevo de un Fenix. Brilla rojo candente con su lava burbujeante.",
+    "FLAVOR": "El huevo de un Fenix. Tiene un brillo rojo candente por su lava burbujeante.",
     "DESCRIPTIONS": [
       "Al recoger escoge y #yMejora un #yAtaque.",
       "Escoge una carta para "
@@ -681,7 +681,7 @@
   },
   "Molten Egg 2": {
     "NAME": "Huevo Fundido",
-    "FLAVOR": "El huevo de un Fénix. Brilla rojo candente con su lava burbujeante.",
+    "FLAVOR": "El huevo de un Fénix. Tiene un brillo rojo candente por su lava burbujeante.",
     "DESCRIPTIONS": [
       "Cuando agregues una carta de #yataque a tu mazo, estará #ymejorada."
     ]
@@ -845,7 +845,7 @@
   },
   "Pantograph": {
     "NAME": "Pantógrafo",
-    "FLAVOR": "\"Los cimientos sólidos no son accidentalmente. Las herramientas para planear son imprescindibles.\" - El Arquitecto",
+    "FLAVOR": "\"Los cimientos sólidos no son accidentales. Las herramientas para planear son imprescindibles.\" - El Arquitecto",
     "DESCRIPTIONS": [
       "Al comienzo de un combate contra jefes cura #b",
       " PV."
@@ -905,7 +905,7 @@
   },
   "Prayer Wheel": {
     "NAME": "Rueda de Oración",
-    "FLAVOR": "La rueda continúa girando, sin nunca parar.",
+    "FLAVOR": "La rueda continúa girando, sin parar nunca.",
     "DESCRIPTIONS": [
       "Los enemigos normales ahora dan una recompensa de carta adicional."
     ]
@@ -1079,7 +1079,7 @@
   },
   "SsserpentHead": {
     "NAME": "Cabeza de Ssserpiente",
-    "FLAVOR": "¡La más plena de las vidas es aquella en la que puedes #ycomprar #ytodo!",
+    "FLAVOR": "¡La más plena de las vidas es aquella en la que puedes comprar de todo!",
     "DESCRIPTIONS": [
       "Cada vez que empiezas un evento, gana #b",
       " de #yoro."
@@ -1087,7 +1087,7 @@
   },
   "MutagenicStrength": {
     "NAME": "Fuerza Mutágena",
-    "FLAVOR": "\"Los resultados parecen fugaces, activandose cuando el sujeto esta en peligro.\" - Desconocido",
+    "FLAVOR": "\"Los resultados parecen fugaces, activándose cuando el sujeto esta en peligro.\" - Desconocido",
     "DESCRIPTIONS": [
       "Empieza cada combate con #b",
       " #yFuerza que se pierde al final del turno."
@@ -1237,7 +1237,7 @@
     "FLAVOR": "\"Un buen prototipo.\" - El Arquitecto",
     "DESCRIPTIONS": [
       "Gana #b",
-      " de #yoro. Tienes un #b10% más probabilidad de encontrar tesoro en habitaciones ?.",
+      " de #yoro. Tienes un #b10% más probabilidad de encontrar un cofre del tesoro en habitaciones ?.",
       "Tienes un #b10% más probabilidad de encontrar tesoro en habitaciones ?."
     ]
   },
