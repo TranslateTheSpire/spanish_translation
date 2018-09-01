@@ -1089,7 +1089,7 @@
     "NAME": "Fuerza Mutágena",
     "FLAVOR": "\"Los resultados parecen fugaces, activandose cuando el sujeto esta en peligro.\" - Desconocido",
     "DESCRIPTIONS": [
-      "Empieza cada conbate con #b",
+      "Empieza cada combate con #b",
       " #yFuerza que se pierde al final del turno."
     ]
   },
