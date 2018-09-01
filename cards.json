@@ -307,7 +307,7 @@
   },
   "Corpse Explosion": {
     "NAME": "Explosión de Cadáver",
-    "DESCRIPTION": "Aplica !M! de Veneno. NL Hace daño a TODOS los enemigos por un valor igual a sus PV Máximos.",
+    "DESCRIPTION": "Aplica !M! de Veneno. NL Cuando el enemigo muere, hace daño a TODOS los enemigos por un valor igual a sus PV Máximos.",
     "UPGRADE_DESCRIPTION": "Obsoleto",
     "EXTENDED_DESCRIPTION": [
       "Obsoleto"
@@ -570,7 +570,7 @@
     "DESCRIPTION": "Gana !M! de Fuerza. NL Al final de tu turno, pierde !M! de Fuerza."
   },
   "Flux Capacitor": {
-    "NAME": "Condensador de Fluzo ",
+    "NAME": "Condensador de Flujo ",
     "DESCRIPTION": "Obsoleto. Reemplaza todos los Orbes invocados por Plasma. NL Agota."
   },
   "Flying Knee": {
@@ -1224,7 +1224,7 @@
     "DESCRIPTION": "Al final de 3 turnos, haz !M! de daño a TODOS los enemigos."
   },
   "Thinking Ahead": {
-    "NAME": "Pensar un Paso por Delante",
+    "NAME": "Ir un Paso por Delante",
     "DESCRIPTION": "Roba 2 cartas. NL Coloca una carta de la mano al tope de la pila de extracción. NL Agota.",
     "UPGRADE_DESCRIPTION": "Roba 2 cartas. NL Coloca una carta de la mano al tope de la pila de extracción."
   },
@@ -1240,7 +1240,7 @@
     "DESCRIPTION": "Haz !D! de daño y aplica 1 Vulnerable a TODOS los enemigos."
   },
   "Tools of the Trade": {
-    "NAME": "Herramientas del Oficio",
+    "NAME": "Gajes del Oficio",
     "DESCRIPTION": "Al inicio de tu turno, roba 1 carta y descarta 1 carta."
   },
   "Transmutation": {
