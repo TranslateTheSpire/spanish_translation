@@ -308,8 +308,8 @@
     "NAME": "Ala dorada",
     "DESCRIPTIONS": [
       "Entre las piedras, te das cuenta de una estatua azul compleja con forma de ala. NL Encuentras #y~oro~ saliendo de sus grietas. Tal vez hay más dentro...",
-      "Alguien en el pasado te contó sobre un culto que adoraba a una ave gigante. Cuando te arrodillas a rezar, empiezas a ~sentir~ ~mareos...~  NL NL Te despiertas mas tarde, sintiéndote extrañamente más ligero.",
-      "Con todas tus fuerzas, empiezas a atacar a la estatua. NL No tarda nada en @desmoronarse,@ revelando un #ymontón #yde #yoro. Coges tanto como puedes y continuas tu camino.",
+      "Alguien en el pasado te contó sobre un culto que adoraba a una ave gigante. Cuando te arrodillas a rezar, empiezas a ~sentir~ ~mareos...~  NL NL Te despiertas más tarde, sintiéndote extrañamente más ligero.",
+      "Con todas tus fuerzas, empiezas a atacar a la estatua. NL No tarda nada en @desmoronarse,@ revelando un #ymontón #yde #yoro. Coges tanto como puedes y continúas tu camino.",
       "La estatua te hace sentir ~nervioso.~ Pasas de largo y sigues tu camino."
     ],
     "OPTIONS": [
@@ -361,10 +361,10 @@
   "Liars Game": {
     "NAME": "La Ssssserpiente",
     "DESCRIPTIONS": [
-      "Entras a un cuarto y ves un gran hoyo en el suelo. Cuando te acercas al hoyo, una enorme serpiente aparece del mismo. NL NL ~\"¡Ho~ ~hooo!~ ~!Hola~ ~hola!~ ~¿qué~ ~tenemos~ ~aquí?~ Hola, amante de la aventura, mi pregunta es simple. NL La vida más gratificante es aquella en la que puedes #y~¡comprar~ #y~lo #y~que #y~sea!~ NL ¿Estás de acuerdo?\"",
-      "~\"Siiiiiiissssssssssissssi!~ NL ~Toooodo~ ~esto~ ~valdra~ ~la~ ~peeeeeena. ~NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
+      "Entras a un cuarto y ves un gran hoyo en el suelo. Cuando te acercas al hoyo, una enorme serpiente aparece del mismo. NL NL ~\"¡Ho~ ~hooo!~ ~!Hola~ ~hola!~ ~¿qué~ ~tenemos~ ~aquí?~ Hola, amante de la aventura, mi pregunta es simple. NL La vida más gratificante es aquella en la que puedes, #y~¡comprar~ #y~lo #y~que #y~sea!~ NL ¿Estás de acuerdo?\"",
+      "~\"Síííííííssssssssssíssssí!~ NL ~Toooodo~ ~esto~ ~valdra~ ~la~ ~peeeeeena. ~NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
       "La serpiente te mira con unos ojos llenos de decepción.",
-      "¡La serpiente levanta su cabeza y lanza un rio de #yoro hacia arriba! NL Es asombroso y escalofriante al mismo tiempo. NL Recoges todo el #yoro, agradeces a la serpiente, y te vas."
+      "¡La serpiente levanta su cabeza y lanza un río de #yoro hacia arriba! NL Es asombroso y escalofriante al mismo tiempo. NL Recoges todo el #yoro, agradeces a la serpiente, y te vas."
     ],
     "OPTIONS": [
       "[Concordar] #gRecibir #g",
@@ -395,8 +395,8 @@
     "NAME": "Bandidos Enmascarados",
     "DESCRIPTIONS": [
       "Hehehe.. ¡Gracias por el #yoro! NL Oh, amo el #yOro. Es tan bueno. NL #y~brillante~ #y~brillante~ ",
-      "¡Escucha #bOso, escucha! NL ¡Este tipo nos dio todo su #yoro! ¿Patético, verdad? NL Mira, solo tuve que preguntar amablemente. ¡¿Quién lo hubiera imaginado?! NL ¡Ciertamente, yo no! ¡Hay que ser tonto!",
-      "Pandilla, ¡todos riámonos por esta ocasión tan maravillosa! NL ¡@Jajaja@ NL @Jo@ @JO@ ~¡jojo!~ NL ~¡Jo!~",
+      "¡Escucha #bOso, escucha! NL ¡Este tipo nos dio todo su #yoro! ¿Patético, verdad? NL Mira, sólo tuve que preguntar amablemente. ¡¿Quién lo hubiera imaginado?! NL ¡Ciertamente, yo no! ¡Hay que ser tonto!",
+      "Pandilla, ¡riámonos todos por esta ocasión tan maravillosa! NL ¡@Jajaja@ NL @Jo@ @JO@ ~¡jojo!~ NL ~¡Jo!~",
       "¿Oh? ¿Sigues aquí? NL ¿Oíste algo? Eso pensaba. NL #r@*resopla*@ ~...perdedor....~ @Jajaja@ ~jaaaa~",
       "Encuentras a un grupo de bandidos usando grandes #rmáscaras #rrojas. NL \"Hola, paga para pasar... ¡una tarifa razonable de @TODO@ tu #yoro suena bien! ¡Je je!\""
     ],
@@ -408,7 +408,7 @@
     ]
   },
   "Match and Keep!": {
-    "NAME": "¡Empareja y Quedatelas!",
+    "NAME": "¡Empareja y Quédatelas!",
     "DESCRIPTIONS": [
       "\" #b¡Doce cartas! ¡Emparejalas para quedartelas! #bCinco intentos, sin reintentos. NL ¿Qué esperas? ¡Comencemos!\"",
       "Completas el juego del gremlin y levantas la mirada. NL ¿Desapareció?",
@@ -422,18 +422,18 @@
     ]
   },
   "MindBloom": {
-    "NAME": "Mind Bloom",
+    "NAME": "Mente Floreciente",
     "DESCRIPTIONS": [
-      "You begin to daydream while ascending higher into the Spire. After some time, you start to notice your thoughts pouring out of your head and manifesting all around you.",
+      "Empiezas a soñar despierto mientras vas asciendo la Torre. Después de algún tiempo, empiezas a notar como tus pensamientos salen de tu cabeza y se manifiestan a tu alrededor.",
       "MIXED",
       "MIXED"
     ],
     "OPTIONS": [
-      "[A Foe From Your Past] #rWARNING: #rFight #ra #rBoss! #gGain #g2 #gRelics.",
-      "[Mixed Feelings] #rDownside. #gMinor #gUpside.",
-      "[Leave]",
-      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
-      "[Leave]"
+      "[Un Enemigo de tu Pasado] #rAtención: #rLucha #rcontra #run #rJefe! #gGana #g2 #gReliquias.",
+      "[Sentimientos Encontrados] #rDesventaja. #gPequeña #gMejora.",
+      "[Salir]",
+      "[Estoy Despierto] #gMejora #gtodas #glas #gCartas. #rYa #rno #rpuedes #rcurarte.",
+      "[Salir]"
     ]
   },
   "Mushrooms": {
@@ -454,7 +454,7 @@
   "Mysterious Sphere": {
     "NAME": "Esfera Misteriosa",
     "DESCRIPTIONS": [
-      "Emergiendo del terreno caótico alrededor de ti, una esfera huesuda envolviendo a un objeto misterioso. NL Mientras tienes curiosidad de que hay adentro, te das cuenta que algunos centinelas están cuidándolo.",
+      "Emergiendo del terreno caótico alrededor de ti, una esfera huesuda aparece envolviendo a un objeto misterioso. NL Mientras tienes curiosidad de que hay adentro, te das cuenta que algunos centinelas están cuidándolo.",
       "¡Al momento que golpeas la esfera, los centinelas cobran vida a tu alrededor!",
       "No hay necesidad de caer en la avaricia."
     ],
@@ -468,7 +468,7 @@
     "NAME": "N'loth",
     "DESCRIPTIONS": [
       "Una extraña criatura jorobada y llena de tentáculos está excavando un montón de basura y escombros en frente de ti. Cuando te le acercas, se mueve hacia ti de manera inofensiva. NL \"N'loth hambre. Alimenta N'loth.\"",
-      "Extendiendo la #yreliquia out hacia él, N’loth te la quita de tu mano con sus tentáculos, disloca su mandíbula, y se traga tu ofrenda sin masticar. NL Mientras sonríe ampliamente mostrando los dientes más tentáculos aparecen detrás de su manto, estos cargando una caja imposiblemente limpia. La empuja hacia ti hasta que la tomas.",
+      "Extendiendo la #yreliquia hacia él, N’loth te la quita de tu mano con sus tentáculos, disloca su mandíbula, y se traga tu ofrenda sin masticar. NL Mientras sonríe ampliamente mostrando los dientes más tentáculos aparecen detrás de su manto, estos cargando una caja imposiblemente limpia. La empuja hacia ti hasta que la tomas.",
       "Sacudes la cabeza en negativo. N'loth se joroba mucho más y se retira."
     ],
     "OPTIONS": [
@@ -478,22 +478,22 @@
     ]
   },
   "Nest": {
-    "NAME": "The Nest",
+    "NAME": "El Nido",
     "DESCRIPTIONS": [
-      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
-      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
-      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
+      "Bandadas de cultistas parecen encontrarse alrededor de un lugar central. A medida que te acercas son sorprendentemente dóciles, no hacen ningún movimiento para atacar. Puedes ver nuevos miembros siendo iniciados en su Culto a través de algún tipo de ritual.",
+      "Decides ponerte en la fila y ver si te permitirán participar en el ritual. NL NL Eres barrido hacia la ceremonia, cuando el líder enmascarado corta tu brazo con una daga, sientes algo de de tu poder filtrándose en la hoja. NL NL Cuando terminas tu iniciación en el culto, te es entragada la daga personalizada como estatus de tu nueva afiliación.",
+      "Tomando ventaja de la oportunidad, encuentras varias cosas de valor repartidas en todo el edificio antes de escapar.",
       "",
       "",
       ""
     ],
     "OPTIONS": [
-      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
+      "[Unirse al Culto] #gObtén #gDaga #gdel #gRitual. #rDegrada #r",
       ".",
-      "[Smash and Grab] #gObtain #g150 #gGold.",
-      "[Locked] Necesitas: Upgraded Card.",
-      "[Leave]",
-      "[Continue]"
+      "[Aplastar y Agarrar] #gObtén #g150 #gde #gOro.",
+      "[Bloqueado] Necesitas: Carta Mejorada.",
+      "[Salir]",
+      "[Continuar]"
     ]
   },
   "Proceed Screen": {
@@ -517,8 +517,8 @@
   "Scrap Ooze": {
     "NAME": "Baba de Chatarra",
     "DESCRIPTIONS": [
-      "Cuando entras al cuarto, escuchas un ~gorgojeo~ y el @rechinar@ de metales. Ante ti está una criatura babosa que comió demasiada chatarra para su propio bien. Del centro de la criatura puedes ver rastros de una luz extraña, ¿quizá algo mágico? Parece que puedes encontrar algo de #ytesoro si te acercas al... orificio. Sin embargo, el ácido y los objetos punzantes pueden #rdoler.",
-      "#r@Ouch!@ NL Todo lo que encuentras es metal oxidado y un poco de #r@quemazón.@ NL Sin embargo, sin duda que adentro hay una #yreliquia...",
+      "Cuando entras al cuarto, escuchas un ~gorgojeo~ y el @rechinar@ de metales. Ante ti está una criatura babosa que comió demasiada chatarra para su propio bien. Del centro de la criatura puedes ver rastros de una luz extraña, ¿quizá algo mágico? Parece que puedes encontrar algún #ytesoro si te acercas al... orificio. Sin embargo, el ácido y los objetos punzantes pueden #rdoler.",
+      "#r@Ouch!@ NL Todo lo que encuentras es metal oxidado y un poco de #r@quemazón.@ NL Sin embargo, sin duda que dentro hay una #yreliquia...",
       "#g¡Triunfo! NL Después de hurgar entre el metal y el ácido, finalmente alcanzas una #yreliquia y la sacas de un tirón. NL Te retiras de la baba #rcon #rheridas pero valieron la pena.",
       "Decides salir del área. NL La baba no presta atención, feliz con su alimento."
     ],
@@ -533,9 +533,9 @@
   "SecretPortal": {
     "NAME": "Portal Secreto",
     "DESCRIPTIONS": [
-      "Ante tí hay una vista que parece fuera de lugar en el paisaje alienígena a tu alrededor. Extrañamente colocada en una de las paredes vivientes del Más Allá hay una entrada de piedra tapiada llena con un #p~portal~ #p~mágico~ #p~ondulante.~ NL NL No sabes muy bien dónde lleva, pero quizás acelere tu viaje por la Torre.",
-      "Al saltar a través del portal, tus sentidos del tiempo y el espacio son destrozados por completo. NL NL Mientras te reorientas a tus nuevos alrededores, te percatas que ante tí se encuentra una temible batalla.",
-      "Ser precavido y cauteloso parece ser la mejor forma de llegar a la cima de la torre. Ignorando el portal, continúas tu trayecto."
+      "Ante ti hay una vista que parece fuera de lugar en el paisaje alienígena a tu alrededor. Extrañamente colocada en una de las paredes vivientes del Más Allá hay una entrada de piedra tapiada llena con un #p~portal~ #p~mágico~ #p~ondulante.~ NL NL No sabes muy bien dónde lleva, pero quizás acelere tu viaje por la Torre.",
+      "Al saltar a través del portal, tus sentidos del tiempo y el espacio son destrozados por completo. NL NL Mientras te reorientas a tus nuevos alrededores, te percatas que ante ti se encuentra una temible batalla.",
+      "Ser precavido y cauteloso parece ser la mejor forma de llegar a la cima de la Torre. Ignorando el portal, continúas tu trayecto."
     ],
     "OPTIONS": [
       "[Atraviesa el Portal] Viaja INMEDIATAMENTE al jefe.",
@@ -545,10 +545,10 @@
   "SensoryStone": {
     "NAME": "Piedra Sensorial",
     "DESCRIPTIONS": [
-      "Avanzando por el Más Allá, descubres un #bteseracto #bbrillante @girando@ and ~cambiando~ suavemente en el aire.",
+      "Avanzando por el Más Allá, descubres un #bteseracto #bbrillante @girando@ y ~cambiando~ suavemente en el aire.",
       "Lo tocas. NL NL Un #r@dolor@ #r@agudo@ te atraviesa, seguido de vivaces destellos de un recuerdo lejano. NL ...¿De quién son estos recuerdos?",
-      "#r~MIEDO.~ NL NL Una criatura demoníaca se alza ante tí, con sus alas desplegadas, y carcajadas aullantes. Los cuerpos sin vida de una tribu te rodean mientrsa el pueblo es sumido en terribles #p~llamas~ #p~oscuras.~ NL NL El demonio te llama, provocándote. NL NL \" #r@AHORA@ r@SÍ@ #r@QUE@ #r@ERES@ #r@EL@ #r@MÁS@ #r@FUERTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Su risa resuena eternamente... ",
-      "#g~TRIUNFO.~ NL NL Los restos de una #p~criatura~ #p~fantasmal~ se hunden en el fango ante tí, apenas visibles a la luz de la luna. Has demostrado tu valía entre tus hermanas. NL NL Irguiéndote victorioso, esperas en silencio mientras las otras colocan ceremonialmente la #ycalavera de la #ycriatura en tu cabeza. El ritual ha acabado. NL NL Te diriges hacia la Torre...",
+      "#r~MIEDO.~ NL NL Una criatura demoníaca se alza ante ti, con sus alas desplegadas, y carcajadas aullantes. Los cuerpos sin vida de una tribu te rodean mientras el pueblo es sumido en terribles #p~llamas~ #p~oscuras.~ NL NL El demonio te llama, provocándote. NL NL \" #r@AHORA@ #r@SÍ@ #r@QUE@ #r@ERES@ #r@EL@ #r@MÁS@ #r@FUERTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Su risa resuena eternamente... ",
+      "#g~TRIUNFO.~ NL NL Los restos de una #p~criatura~ #p~fantasmal~ se hunden en el fango ante ti, apenas visibles a la luz de la luna. Has demostrado tu valía entre tus hermanas. NL NL Irguiéndote victorioso, esperas en silencio mientras las otras colocan ceremonialmente la #ycalavera de la #ycriatura en tu cabeza. El ritual ha acabado. NL NL Te diriges hacia la Torre...",
       "#b~DESCONOCIDO.~ NL NL Aún sin implementar."
     ],
     "OPTIONS": [
