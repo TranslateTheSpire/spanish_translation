@@ -2,7 +2,7 @@
   "Accursed Blacksmith": {
     "NAME": "Forja Maldita",
     "DESCRIPTIONS": [
-      "Entras a una pequeña choza. Adentro, puedes ver lo que parece ser una forja. Las herramientas de herrería están cubiertas de polvo, pero un fuego ruge dentro del horno. Los nervios te abruman...",
+      "Entras en una pequeña choza. Adentro, puedes ver lo que parece ser una forja. Las herramientas de herrería están cubiertas de polvo, pero un fuego ruge dentro del horno. Los nervios te abruman...",
       "Decides hacer uso de la forja y... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...¡mejorar tu arsenal!",
       "Decides ver si puedes encontrar algo útil. Después de levantar lonas, revisar cajas, y examinar rincones y grietas, ¡encuentras una #y~Reliquia!~ cubierta de polvo!",
       "Dando los últimos toques, las llamas de la forja saltan hacia ti, #r@quemando@ #r@y@ #r@marcando@ tus brazos..",
@@ -70,9 +70,9 @@
   "Big Fish": {
     "NAME": "Pez Gordo",
     "DESCRIPTIONS": [
-      "Mientras avanzas por una corredor extenso ves un #yplátano, una #ydona, y una #ycaja ~flotando~. No... al inspeccionar a detalle estos están atados a cordones que bajan de hoyos en el techo. Escuchas un ligero @cacareo@ desde arriba cuando te acercas a los objetos. NL ¿Qué haces?",
+      "Mientras avanzas por un corredor extenso ves un #yplátano, un #ydonut, y una #ycaja ~flotando~. No... al inspeccionar a detalle estos están atados a cordones que bajan de agujeros en el techo. Escuchas un ligero @cacareo@ desde arriba cuando te acercas a los objetos. NL ¿Qué haces?",
       "Te comes el #yplátano. Es nutritivo y un poco #bmágico, curandote.",
-      "Te comes la #ydona. ¡Realmente da en el blanco! Tus PV Máximos incrementa.",
+      "Te comes el #ydonut. ¡Realmente da en el blanco! Tus PV Máximos incrementa.",
       "",
       "Tomas la caja. Adentro encuentras ¡una #yreliquia!",
       " NL Sin embargo, realmente se te antojaba la rosquilla... NL Te llenas de ~tristeza,~ pero más que nada #rlamento."
@@ -115,15 +115,15 @@
       "Aquellos revividos por #yNeow solo recuerdan fragmentos de sus seres pasados, maldecidos a pelear por toda la eternidad. NL NL Al llegar cerca de la última página, ¡tus #r@viejas@ #r@heridas@ #r@empiezan@ #r@a@ #r@abrirse!@",
       "Al terminar el tomo, decides llevártelo contigo. Con evidencia en mano, ¿conservaras tus memorias?",
       "Sales, sintiendo una #p~energía~ #p~oscura~ #p~emanando~ del libro en el pedestal.",
-      "Con increíble dificultad y voluntad,  resistes el trance del tomo y lo cierras de @GOLPE@. NL Giras y sales del templo, sintiéndote sin #b~energía...~"
+      "Con increíble dificultad y voluntad, resistes el trance del tomo y lo cierras de @GOLPE@. NL Giras y sales del templo, sintiéndote sin #b~energía...~"
     ],
     "OPTIONS": [
       "[Leer]",
-      "[Continuar] #rPierde #r1 #rPV.",
-      "[Continuar] #rPierde #r2 #rPV.",
-      "[Continuar] #rPierde #r3 #rPV.",
-      "[Detenerse] #rPierde #r3 #rPV.",
-      "[Tomar] #gObtener #gel #gLibro. #rPierde #r",
+      "[Continuar] #rPierdes #r1 #rPV.",
+      "[Continuar] #rPierdes #r2 #rPV.",
+      "[Continuar] #rPierdes #r3 #rPV.",
+      "[Detenerse] #rPierdes #r3 #rPV.",
+      "[Tomar] #gObtienes #gel #gLibro. #rPierdes #r",
       " #rPV.",
       "[Salir]"
     ]
@@ -194,9 +194,9 @@
       "[Máscara de N'Loth] Reliquia: Cada vez que juegues una carta rara, gana #gBloqueo.",
       "[Cabeza de ssserpiente] Reliquia: Cada vez que empiezas un evento, gana 50 de #yoro.",
       "[Cara del Clérigo] Reliquia: Aumenta tus PV máximos en #b1 después de cada combate.",
-      "[Leave]",
-      "[Continue]",
-      " #rHP, #ggain #g"
+      "[Irse]",
+      "[Continuar]",
+      " #rObtienes, #gHP #g"
     ]
   },
   "Falling": {
@@ -207,7 +207,7 @@
       "Aterrizas con extrema gracia antes de continuar.",
       "Utilizando y gastando algo de tu poder puro, logras caer sin daño.",
       "Eres capaz de colgarte de la pared, y  logras hacer un salto corto a otra plataforma estable.",
-      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
+      "Pareces caer lento como una pluma, alcanzando el fondo sin ningún rasguño."
     ],
     "OPTIONS": [
       "[Continuar]",
@@ -218,7 +218,7 @@
       "[Golpear] #rPierde ",
       "[Bloqueado] Necesitas: Carta de Ataque",
       "[Salir]",
-      "[Land] "
+      "[Aterrizar] "
     ]
   },
   "Forgotten Altar": {
