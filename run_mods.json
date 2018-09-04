@@ -9,10 +9,10 @@
   },
   "Blight Chests": {
     "NAME": "Cofres de Plaga",
-    "DESCRIPTION": "Los cofres de los jefes contienen plagas tras vencer el Acto 3 en Endless."
+    "DESCRIPTION": "Los cofres de los jefes contienen plagas tras vencer el Acto 3 en el modo Sin Fin."
   },
   "Brewmaster": {
-    "NAME": "Maestro alquimista",
+    "NAME": "Maestro Alquimista",
     "DESCRIPTION": "Empieza con 5 copias de la carta 'Alquimia' y la reliquia 'Estatua de la Bestia Blanca'."
   },
   "Cursed Run": {
@@ -21,7 +21,7 @@
   },
   "Diverse": {
     "NAME": "Diversidad",
-    "DESCRIPTION": "Empieza con 2 cartas de otra clase."
+    "DESCRIPTION": "Las cartas no están restringidas por el color de tu personaje."
   },
   "Draft": {
     "NAME": "Selección",
@@ -32,7 +32,7 @@
     "DESCRIPTION": "Enemigos Elite estan invadiendo la Torre y dejan mejores recompensas"
   },
   "Endless": {
-    "NAME": "Sin fin",
+    "NAME": "Sin Fin",
     "DESCRIPTION": "Ganar te devolverá al Acto 1 con el mismo mazo. Pero cuidado, la plaga lo consume todo..."
   },
   "Heirloom": {
@@ -57,18 +57,18 @@
   },
   "Midas": {
     "NAME": "Midas",
-    "DESCRIPTION": "Los enemigos tiran 200% más de oro, pero ya no puedes mejorar cartas en Áreas de Descanso."
+    "DESCRIPTION": "Los enemigos sueltan un 200% más de oro, pero ya no puedes mejorar cartas en Áreas de Descanso."
   },
   "My True Form": {
-    "NAME": "Mi verdadera forma",
+    "NAME": "Mi Verdadera Forma",
     "DESCRIPTION": "Empieza con una copia de Forma Demoníaca, Forma Espectral y Forma Eco."
   },
   "Night Terrors": {
     "NAME": "Terrores Nocturnos",
-    "DESCRIPTION": "Decansar en Áreas de Descanso te cura 100% de tus PV pero te cuesta 5 PV Máximos"
+    "DESCRIPTION": "Decansar en Áreas de Descanso te cura 100% de tus PV, pero te cuesta 5 PV Máximos"
   },
   "One Hit Wonder": {
-    "NAME": "Un golpe mata",
+    "NAME": "Un Golpe Mata",
     "DESCRIPTION": "Empieza la partida con 1 PV máximo."
   },
   "Praise Snecko": {
@@ -77,7 +77,7 @@
   },
   "Shiny": {
     "NAME": "Brillante",
-    "DESCRIPTION": "Empieza con 1 carta Rara."
+    "DESCRIPTION": "Tu baraja inicial es reemplazada con una copia de cada carta rara."
   },
   "Specialized": {
     "NAME": "Especialista",
@@ -89,14 +89,14 @@
   },
   "Terminal": {
     "NAME": "Terminal",
-    "DESCRIPTION": "Cuando entras a un nuevo cuarto, pierde 1 PV máximo. Comienza cada combate con 5x 'Armadura de Placas'."
+    "DESCRIPTION": "Cuando entras a una nueva habitación, pierde 1 PV máximo. Comienza cada combate con 5x 'Armadura de Placas'."
   },
   "Time Dilation": {
     "NAME": "Dilatación Temporal",
     "DESCRIPTION": "Todos los enemigos comienzan con el perjuicio de Lento."
   },
   "Uncertain Future": {
-    "NAME": "Futuro Definido",
+    "NAME": "Futuro Cierto",
     "DESCRIPTION": "El mapa solo contine un camino."
   },
   "Vintage": {
@@ -104,20 +104,20 @@
     "DESCRIPTION": "Los enemigos normales dejan reliquias en vez de cartas"
   },
     "Red Cards": {
-    "NAME": "Cartas rojas",
+    "NAME": "Cartas Rojas",
     "DESCRIPTION": "Las cartas rojas aparecen en tiendas y recompensas."
   },
   "Green Cards": {
-    "NAME": "Cartas verdes",
+    "NAME": "Cartas Verdes",
     "DESCRIPTION": "Las cartas verdes aparecen en tiendas y recompensas."
   },
   "Blue Cards": {
-    "NAME": "Cartas azules",
+    "NAME": "Cartas Azules",
     "DESCRIPTION": "Las cartas azules aparecen en tiendas y recompensas."
   },
   "Colorless Cards": {
-    "NAME": "Cartas incoloras",
-    "DESCRIPTION": "Las cartas incoloras aparecen mas a menudo."
+    "NAME": "Cartas Incoloras",
+    "DESCRIPTION": "Las cartas incoloras aparecen en recompensas."
   },
     "Stunted Growth": {
     "NAME": "Crecimiento atrofiado",
