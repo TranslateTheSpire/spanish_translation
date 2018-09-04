@@ -547,7 +547,7 @@
   "Fission": {
     "NAME": "Fisión",
     "DESCRIPTION": "Elimina todos tus Orbes, gana [B] y roba !M! cartas por cada orbe eliminado. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Evoca TODOS tus Orbes, gana [B] y roba !M! cartas por cada Orbe evocado. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Evoca TODOS tus Orbes, gana [B] y roba !M! cartas por cada Orbe evocado. NL Agota."
   },
   "Flame Barrier": {
     "NAME": "Barrera de Llamas",
