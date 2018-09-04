@@ -626,6 +626,43 @@
       "Esta reliquia se ha usado por completo."
     ]
   },
+  "Brimstone": {
+    "NAME": "Brimstone",
+    "FLAVOR": "Emana un calor infernal.",
+    "DESCRIPTIONS": [
+      "Al principio de tu turno, TODO el mundo gana #b",
+      " #yFuerza."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Insecto Preservado",
+    "FLAVOR": "El Insecto parece crear un aura que hace más pequeños a los enemigos particularmente grandes.",
+    "DESCRIPTIONS": [
+      "Los enemigos en los combates Élite tienen #b",
+      "% menos PV."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Reloj de Bolsillo",
+    "FLAVOR": "Las agujas parecen atascadas en las 3 en punto.",
+    "DESCRIPTIONS": [
+      "Cuando juegues #b3 o menos cartas en un turno, roba #b3 cartas adicionales al comienzo de tu proximo turno."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Fósil Hélix",
+    "FLAVOR": "Parece indestructible, lo que te lleva a plantearte que a clase de criatura perteneció.",
+    "DESCRIPTIONS": [
+      "Evita la primera vez que pierdas PV en un combate."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Fragmento Prismático",
+    "FLAVOR": "Al mirar a traves del cristal puedes ver perspectivas completamente nuevas.",
+    "DESCRIPTIONS": [
+      "Las recompensas de combate ahora contienen cartas incoloras y de otros colores."
+    ]
+  },
   "MawBank": {
     "NAME": "Hucha de Maw",
     "FLAVOR": "Sorprendentemente popular, aunque los ataques de Maw ocurran de forma regular.",
