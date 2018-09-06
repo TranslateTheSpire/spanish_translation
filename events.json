@@ -6,12 +6,12 @@
       "Decides hacer uso de la forja y... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...¡mejorar tu arsenal!",
       "Decides ver si puedes encontrar algo útil. Después de levantar lonas, revisar cajas, y examinar rincones y grietas, ¡encuentras una #y~Reliquia!~ cubierta de polvo!",
       "Dando los últimos toques, las llamas de la forja saltan hacia ti, #r@quemando@ #r@y@ #r@marcando@ tus brazos..",
-      "No puedes quitarte de encima esta #r~horrible~ #r~sensación~ al salir de la choza. ¿Tal vez molestaste algún tipo de espíritu?",
+      "NL NL Al coger la reliquia, no puedes quitarte de encima un repentino sentimiento de #r~dolor~ #r~agudo~ al salir de la choza. ¿Tal vez perturbaste a algún tipo de espíritu?",
       "No parece haber nada útil. Sales por donde entraste, las llamas del horno proyectando #p~inquietantes~ #p~sombras~ en las paredes dentro de la choza..."
     ],
     "OPTIONS": [
       "[Forjar] #gMejora #guna #gcarta.",
-      "[Hurgar] #gObtener #guna #gReliquia. #rMaldecirte #r- #rNormalidad.",
+      "[Hurgar] #gObtén #guna #gReliquia #gEspecial. #rMaldecirte #r- #rDolor.",
       "[Salir]",
       "Elige una Carta a Mejorar",
       "[Bloqueado] Necesitas: Cartas Mejorables"
@@ -26,10 +26,10 @@
     ],
     "OPTIONS": [
       "[Ofrecer oro] #y",
-      " #yOro: #gRecibe #guna #gReliquia.",
+      " #yOro: #gObtén #guna #gReliquia.",
       "[Bloqueado] Requiere: ",
       " Oro.",
-      "[Robar] #gRecibe #guna #gReliquia. #rTe #rvuelves #rmaldito: #rVergüenza.",
+      "[Robar] #gObtén #guna #gReliquia. #rTe #rvuelves #rmaldito: #rVergüenza.",
       "[Salir]",
 	  "",
 	  ""
@@ -82,7 +82,7 @@
       " #gPV.",
       "[Dona] #gPV #gMáximos #g+",
       ".",
-      "[Caja] #gRecibir #guna #gReliquia. #rMaldecirte #r- #rLamento.",
+      "[Caja] #gObtén #guna #gReliquia. #rMaldecirte #r- #rLamento.",
       "[Salir]"
     ]
   },
@@ -162,7 +162,7 @@
     "OPTIONS": [
       "[Probar J.A.X.] #gPonerse #gJAXXED.",
 	  "[Convertirte en sujeto de prueba] #gTransforma #g3 #gcartas #galeatorias.",
-	  "[Ingerir mutágenos] #gGana #guna #greliquia #gespecial.",
+	  "[Ingerir mutágenos] #gObtén #guna #greliquia #gespecial.",
 	  "[Salir]",
 	  "[Bloqueado] Requiere: 3 o más cartas en el mazo.",
 	  ""
@@ -230,7 +230,7 @@
       "Atacas y destruyes la estatua en frente de ti, rompiendo el efecto mágico que el cuarto colocó sobre ti. NL Un grito oscuro hace eco alrededor, y puedes sentir la #p~magia~ #p~maldita~ entrar en tus huesos."
     ],
     "OPTIONS": [
-      "[Ofrendar: Ídolo Dorado] #gRecibe #guna #gReliquia #gespecial. #rPierde #rÍdolo #rDorado.",
+      "[Ofrendar: Ídolo Dorado] #gObtén #guna #gReliquia #gespecial. #rPierde #rÍdolo #rDorado.",
       "[Bloqueado] Necesitas: Ídolo Dorado.",
       "[Sacrifica] #gGana #g",
       " #gPV #gMáximos. #rPierde #r",
@@ -261,7 +261,7 @@
       ""
     ],
     "OPTIONS": [
-      "[Aceptar] #gObtén #g5 #gFantasmal. #rPierde #r",
+      "[Aceptar] #gRecibe #g5 #gFantasmal. #rPierde #r",
       "% #rPV #rMáx.",
       "[Rechazar]",
       "",
@@ -367,7 +367,7 @@
       "¡La serpiente levanta su cabeza y lanza un río de #yoro hacia arriba! NL Es asombroso y escalofriante al mismo tiempo. NL Recoges todo el #yoro, agradeces a la serpiente, y te vas."
     ],
     "OPTIONS": [
-      "[Concordar] #gRecibir #g",
+      "[Concordar] #gGana #g",
       " #gOro. #rMaldecirte #r- #rDuda.",
       "[Discrepar]",
       "[Continuar]",
@@ -430,8 +430,8 @@
     ],
     "OPTIONS": [
       "[Soy la Guerra] #rLucha #rcontra #run #rJefe #rdel #rActo #r1. #gObtén #guna #gReliquia #gRara.",
-      "[Soy Rico] #gGana #g999 #gde #gOro. #rTe #rMaldices #r- #r2 #rNormalidad.",
-      "[Estoy Saludable] #gCura #gtoda #gftu #gVida. #rTe #rMaldices #r- #rDuda.",
+      "[Soy Rico] #gGana #g999 #gde #gOro. #rMaldecirte #r- #r2 #rNormalidad.",
+      "[Estoy Saludable] #gCura #gtoda #gftu #gVida. #rMaldecirte #r- #rDuda.",
       "[Estoy Despierto] #gMejora #gtodas #gtus #gCartas. #rYa #rno #rpuedes #rcurarte.",
       "[Salir]"
     ]
@@ -473,7 +473,7 @@
     ],
     "OPTIONS": [
       "[Ofrenda: ",
-      "] #rPierde #resta #rreliquia. #gGana #guna #gnueva #greliquia #gespecial.",
+      "] #rPierde #resta #rreliquia. #gObtén #guna #greliquia #gespecial.",
       "[Salir]"
     ]
   },
@@ -665,7 +665,7 @@
       "Continuas tu camino, dejando a los muertos olvidados y sin molestar."
     ],
     "OPTIONS": [
-      "[Abrir Cofre] #gRecibe #guna #gReliquia, #r",
+      "[Abrir Cofre] #gObtén #guna #gReliquia, #r",
       "% de #rrecibir #rmaldición #rRetorcimiento.",
       "[Salir]"
     ]
@@ -681,7 +681,7 @@
     "OPTIONS": [
       "[Saltar Adentro] #gCurar #gtodos #gtus #gPV. #rPierde #r",
       " #rPV #rMáximo.",
-      "[Ofrendar: Ídolo Dorado] #gRecibe #g333 #gOro. #rPierde #rÍdolo #rDorado.",
+      "[Ofrendar: Ídolo Dorado] #gGana #g333 #gde #gOro. #rPierde #rÍdolo #rDorado.",
       "[Bloqueado] Necesitas: Ídolo Dorado.",
       "[Salir]"
     ]
@@ -728,7 +728,7 @@
       "[Ponte la Máscara Roja] #gGana #g222 #gOro.",
       "[Bloqueado] Necesitas: Máscara Roja.",
       "[Ofrendar: ",
-      " Oro] #rPierde #rtodo #rOro. #gGana #guna #gReliquia.",
+      " Oro] #rPierde #rtodo #rOro. #gObtén #guna #gReliquia.",
       "[Salir]"
     ]
   },
@@ -770,11 +770,11 @@
       "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~broken~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ],
     "OPTIONS": [
-      "[Aceptar] #gElimina #gtodos #glos #gGolpes. #gObtén #g5 #gMordidas. #rPierde #r",
+      "[Aceptar] #gElimina #gtodos #glos #gGolpes. #gRecibe #g5 #gMordidas. #rPierde #r",
       "% #rPV #rMáximo.",
       "[Negarse]",
       "[Pierde ",
-      "] #gElimina #gtodos #glos #gGolpes. #gObtén #g5 #gMordidas.",
+      "] #gElimina #gtodos #glos #gGolpes. #gRecibe #g5 #gMordidas.",
       "[Salir]"
     ]
   },
@@ -793,7 +793,7 @@
     "OPTIONS": [
       "[Jugar]",
       "[¡Premio!] YAY!!!!",
-      "[¡Premio!] #gGana #una #gReliquia.",
+      "[¡Premio!] #gObtén #una #gReliquia.",
       "[¡Premio!] #gCura #gtodo #gtus #gPV.",
       "[¿Premio?] #rMaldición #r- #rDescomposición.",
       "[¡Premio!] #gElimina #guna #gcarta #gde #gtu #gmazo.",
