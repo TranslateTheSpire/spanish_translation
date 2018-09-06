@@ -780,7 +780,7 @@
     ]
   },
   "NlothsMask": {
-    "NAME": "Máscara de N'Loth",
+    "NAME": "Cara Hambrienta de N'Loth",
     "FLAVOR": "Te sientes hambriento.",
     "DESCRIPTIONS": [
       "El próximo cofre que no sea de jefe que abras estará vacío."
@@ -1406,7 +1406,7 @@
     ]
   },
   "WingedGreaves": {
-    "NAME": "Sandalias Aladas",
+    "NAME": "Botas Aladas",
     "FLAVOR": "Elegante.",
     "DESCRIPTIONS": [
       "Puedes ignorar caminos cuando elijas la siguiente habitación a la que viajar hasta #b3 veces."
