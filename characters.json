@@ -103,14 +103,14 @@
       "[ #rPierde #rtodo #rtu #rOro ",
       "[ #rRecibe #runa #rmaldición ",
       "[ #rRecibe #r",
-        " #rde #rdaño",
       "Elige una Carta",
       "Elije y elimina una carta de tu mazo",
       "Elije y elimina 2 cartas de tu mazo",
       "Elije y transforma una carta de tu mazo",
       "Elije y transforma 2 cartas de tu mazo",
       "Elije y mejora una carta de tu mazo",
-      "[ #gLos #genemigos #gen #gtus #gsiguientes #gtres #gcombates #gtienen #gsolo #g1 #gde #gvida ]"
+      "[ #gLos #genemigos #gen #gtus #gsiguientes #gtres #gcombates #gtienen #gsolo #g1 #gde #gvida ]",
+      " #rde #rdaño"
     ],
     "UNIQUE_REWARDS": [
       "[ #rPierde #rtu #rreliquia #rinicial #gRecibe #guna #greliquia #gde #gJefe #galeatoria ]"
