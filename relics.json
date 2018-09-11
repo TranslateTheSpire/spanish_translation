@@ -780,7 +780,7 @@
     ]
   },
   "NlothsMask": {
-    "NAME": "Máscara de N'Loth",
+    "NAME": "Cara Hambrienta de N'Loth",
     "FLAVOR": "Te sientes hambriento.",
     "DESCRIPTIONS": [
       "El próximo cofre que no sea de jefe que abras estará vacío."
@@ -1383,6 +1383,13 @@
       " #yhabilidades al azar."
     ]
   },
+  "WarpedTongs": {
+    "NAME": "Tenazas Deformadas",
+    "FLAVOR": "Las tenazas malditas emiten un fuerte deseo de volver al lugar del que fueron robadas.",
+    "DESCRIPTIONS": [
+      "Al inicio de tu turno, #yMejora una carta aleatoria de tu mano."
+    ]
+  },
   "Whetstone": {
     "NAME": "Piedra de Afilar",
     "FLAVOR": "\"La carne nunca vence al acero.\" - Kublai el Magno",
@@ -1396,6 +1403,13 @@
     "FLAVOR": "Una pequeña estatua blanca de una criatura que jamás has visto antes.",
     "DESCRIPTIONS": [
       "Siempre encuentras pociones después de un combate."
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "Botas Aladas",
+    "FLAVOR": "Elegante.",
+    "DESCRIPTIONS": [
+      "Puedes ignorar caminos cuando elijas la siguiente habitación a la que viajar hasta #b3 veces."
     ]
   },
   "WristBlade": {
