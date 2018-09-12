@@ -992,10 +992,10 @@
       "Saltado:",
       "Falta información",
       "+2 PV Max",
-      "#bC ",
-      "#bR ",
-      "#bP ",
-      "#bS ",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
       "#bDescansado",
       "#bMejorado %s",
       "#bEliminado %s",
@@ -1031,7 +1031,9 @@
       "Donu y Deca",
       "Centinelas",
       "El Elegido y el Cultista",
-      "(Obsoleto) Matón Flamígero"
+      "(Obsoleto) Matón Flamígero",
+      "(Obsoleto) Esclavista y Parásito",
+	    "(Obsoleto) Serpeinte y Místicos"
    ]
   },  
   "RunHistoryScreen": {
