@@ -884,8 +884,8 @@
   "TheBomb": {
     "NAME": "La bomba",
     "DESCRIPTIONS": [
-      "Al final de %1$s turnos, hace %2$s de daño a TODOS los enemigos",
-      "Al final de este turno, hace %1$s de daño a TODOS los enemigos"
+      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
+      "At the end of this turn, deal %1$s damage to ALL enemies"
     ]
   },
   "Thievery": {
