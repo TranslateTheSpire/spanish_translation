@@ -1386,7 +1386,7 @@
     "NAME": "Tenazas Deformadas",
     "FLAVOR": "Las tenazas malditas emiten un fuerte deseo de volver al lugar del que fueron robadas.",
     "DESCRIPTIONS": [
-      "Al inicio de tu turno, #yMejora una carta aleatoria de tu mano."
+      "Al inicio de tu turno, #yMejora una carta aleatoria de tu mano por el resto del combate."
     ]
   },
   "Whetstone": {
