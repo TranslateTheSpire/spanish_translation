@@ -810,8 +810,8 @@
   "Shifting": {
     "NAME": "Escurridizo",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " takes damage, it loses that much #yStrength until the end of the turn."
+      "Cuando ",
+      " recibe daño, pierde esa cantidad de #yFuerza hasta el final del turno."
     ]
   },
   "Shriek From Beyond": {
