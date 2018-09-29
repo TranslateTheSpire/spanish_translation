@@ -488,10 +488,10 @@
       ""
     ],
     "OPTIONS": [
-      "[Unirse al Culto] #gObtén #gDaga #gdel #gRitual. #rDegrada #r",
-      ".",
-      "[Aplastar y Agarrar] #gObtén #g150 #gde #gOro.",
-      "[Bloqueado] Necesitas: Carta Mejorada.",
+      "[Permanecer en la Fila] #gObtén Daga del Ritual. #rPierde #r",
+      " #rPV.",
+      "[Aplastar y Agarrar] #gObtén #g",
+      " #gOro.",
       "[Salir]",
       "[Continuar]"
     ]

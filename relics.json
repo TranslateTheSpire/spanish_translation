@@ -988,8 +988,7 @@
   "Ring of the Serpent": {
     "NAME": "Anillo de Víbora",
     "DESCRIPTIONS": [
-      "Reemplaza #gAnillo #gserpentino. Al comienzo de cada turno, saca #b1 carta adicional",
-      "At the start of your turn, draw #b1 additional card."
+      "Reemplaza #gAnillo #gserpentino. Al comienzo de cada turno, saca #b1 carta adicional"
     ],
     "FLAVOR": "Tu anillo ha mutado y cambiado su forma."
   },
@@ -1387,7 +1386,7 @@
     "NAME": "Tenazas Deformadas",
     "FLAVOR": "Las tenazas malditas emiten un fuerte deseo de volver al lugar del que fueron robadas.",
     "DESCRIPTIONS": [
-      "Al inicio de tu turno, #yMejora una carta aleatoria de tu mano."
+      "Al inicio de tu turno, #yMejora una carta aleatoria de tu mano por el resto del combate."
     ]
   },
   "Whetstone": {
