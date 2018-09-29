@@ -191,7 +191,11 @@
   "LOC_UKR": {
     "HEADER": "Traducción al Ucraniano",
     "NAMES": [
-      "Vladyslav \"DarkXylese\" Kashtelyanov"
+      "Traducción y Coordinación:",
+      "Vladyslav \"DarkXylese\" Kashtelyanov",
+      "Correcciones y Traducción:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi"
     ]
   },
   "LOC_ZHS": {
