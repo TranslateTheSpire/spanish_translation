@@ -182,21 +182,21 @@
     ]
   },
   "FaceTrader": {
-    "NAME": "Face Trader",
+    "NAME": "Comerciante de Caras",
     "DESCRIPTIONS": [
-      "¡PARECES SER ALGUIEN QUE PODRÍA TENER UNA CARA NUEVA!",
-      "¡DISFRUTA DE TU NUEVA CARA!",
-      "~\"¿Compensación?~ ~Compensación.\"~ NL Mecanicamente, se saca una pila de monedas de #yoro y las mete en tu bolsillo. NL NL ~\"Pero~ ~que~ ~buena~ ~cara.~ ~Buena~ ~cara.\"~ NL Mientras te toca la cara, ¡empiezas a sentir que te absorbe la vida! NL Mientras tanto, su mascara se cae y estalla en mil pedazos. Gritando, se cubre la cara con sus seis brazos, ¡dejando caer mas mascaras! De entre los gritos y llantos, escapas. NL NL Su cara se tornó completamente blanca.",
-      "~\"¿Para~ ~mi?~ @¿PARA@ @MI?@ ~Oh~ ~si...~ ~Si,~ ~Si...~ ~mmm...\"~ NL NL Ves como agita su brazo rapidamente, ¡y tiene tu cara en la mano! Tu cara ha sido reemplazada. NL NL ~\"Buena~ ~cara.~ ~Buena~ ~cara.\"~",
-      "~\"Para.~ ~Para.~ ~Para.~ ~PARA~ ~¡PARA!\"~ NL NL Probablemente fué la mejor decisión..."
+      "Pasas por una misteriosa estatua que sostiene varias máscaras... NL Algo detrás de ti te susurra suavemente, NL ~\"Para.\"~",
+      "!Te giras para mirar la estatua que ahora te está mirando! NL En una inspección más cuidadosa, no es una estatua sino un hombre escultural y demacrado. ¿Está incluso respirando? NL NL ~\"Cara.~ ~¿Me~ ~dejas~ ~tocarla?~ ~¿Incluso~ ~cambiarla?\"~",
+      "~\"¿Compensación?~ ~Compensación.\"~ NL Mecánicamente, saca una pila de una gran cantidad de #yoro y la coloca en tu bolsa. NL NL ~\"Que~ ~bonita~ ~cara.~ ~Buena~ ~cara.\"~ NL ¡Mientras él toca tu cara, empiezas a ssentir como tu vida se desvanece! NL Mientras, su máscara se cae y se rompe. ¡Gritando, rápidamente se cubre su cara con sus seis brazos, soltando aun más máscaras! En medio de los gritos y destrozos, te escapas. NL NL Su cara estaba completamente vacía.",
+      "~\"¿Para~ ~mí?~ @¿PARA@ @MÍ?@ ~Oh~ ~sí..~ ~Sí.~ ~Sí..~ ~mmm...\"~ NL NL ¡Ves uno de sus brazos vacilar, y tu cara está en su mano! Tu cara ha sido intercambiada. NL NL ~\"Bonita~ ~cara.~ ~Bonita~ ~cara.\"~",
+      "~\"Para.~ ~Para.~ ~Para.~ ~Para.~ ~Para.\"~ NL NL Esta fue probablemente la decisión correcta."
     ],
     "OPTIONS": [
-      "[Máscara de N'Loth] Reliquia: Cada vez que juegues una carta rara, gana #gBloqueo.",
-      "[Cabeza de ssserpiente] Reliquia: Cada vez que empiezas un evento, gana 50 de #yoro.",
-      "[Cara del Clérigo] Reliquia: Aumenta tus PV máximos en #b1 después de cada combate.",
-      "[Irse]",
-      "[Continuar]",
-      " #rObtienes, #gHP #g"
+      "[Tocar] #rPierde #r",
+      " #gOro.",
+      "[Cambia] #g50%: #gCara #gBuena. #r50%: #rCara #rFMala.",
+      "[Salir]",
+	  "[Continua]",
+	  " #rPV, #ggana #g"
     ]
   },
   "Falling": {
