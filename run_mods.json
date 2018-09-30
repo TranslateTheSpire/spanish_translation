@@ -122,5 +122,42 @@
     "Stunted Growth": {
     "NAME": "Crecimiento atrofiado",
     "DESCRIPTION": "Los enemigos ya no sueltan cartas como recompensa después de superar el Acto 3 en Endless."
+  },
+    "SealedDeck": {
+    "NAME": "Baraja Sellada",
+    "DESCRIPTION": "Elabora una baraja a partir de 30 cartas aleatorias."
+  },
+    "Flight": {
+    "NAME": "Vuelo",
+    "DESCRIPTION": "Puedes ignorar los caminos cuando elijas la siguiente habitación a la que viajar."
+  },
+    "Chimera": {
+    "NAME": "Quimera",
+    "DESCRIPTION": "Tu baraja inicial es una fusión de la de los 3 personajes."
+  },
+    "NeowTime": {
+    "NAME": "Hora de Neow",
+    "DESCRIPTION": "Recibe 3 bendiciones y 1 maldición de Neow."
+  },
+    "IntelligentEnemies": {
+    "NAME": "Enemigos Inteligentes",
+    "DESCRIPTION": "Todos los enemigos tienen más movimientos y habilidades desafiantes."
+  },
+    "Careless": {
+    "NAME": "Sin Cuidado",
+    "DESCRIPTION": "Al inicio de cada turno, descarta la la primera carta de tu pila de robado."
+  },
+    "ControlledChaos": {
+    "NAME": "Caos Controlado",
+    "DESCRIPTION": "Empieza con la reliquia Ojo Congelado. Al inicio de tu turno añade 10 cartas aleatorias al final de tu pila de robado."
+  },
+    "MonsterHunter": {
+    "NAME": "Cazador de Monstruos",
+    "DESCRIPTION": "Los enemigos tiene más PV pero sueltan mejores recompensas."
+  },
+    "DeadlyEvents": {
+    "NAME": "Eventos Mortales",
+    "DESCRIPTION": "Las habitaciones ? ahora pueden contener Élites pero aumenta la probabilidad de contener habitaciones del Tesoro."
   }
 }
+
