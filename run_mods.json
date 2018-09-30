@@ -153,11 +153,11 @@
   },
     "MonsterHunter": {
     "NAME": "Cazador de Monstruos",
-    "DESCRIPTION": "Los enemigos tiene más PV pero sueltan mejores recompensas."
+    "DESCRIPTION": "Los enemigos tienen más PV pero sueltan mejores recompensas."
   },
     "DeadlyEvents": {
     "NAME": "Eventos Mortales",
-    "DESCRIPTION": "Las habitaciones ? ahora pueden contener Élites pero aumenta la probabilidad de contener habitaciones del Tesoro."
+    "DESCRIPTION": "Las habitaciones ? ahora pueden contener Élites, pero aumenta la probabilidad de contener habitaciones del Tesoro."
   }
 }
 
