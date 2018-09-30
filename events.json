@@ -480,10 +480,10 @@
   "Nest": {
     "NAME": "El Nido",
     "DESCRIPTIONS": [
-      "Bandadas de cultistas parecen encontrarse alrededor de un lugar central. A medida que te acercas son sorprendentemente dóciles, no hacen ningún movimiento para atacar. Puedes ver nuevos miembros siendo iniciados en su Culto a través de algún tipo de ritual.",
-      "Decides ponerte en la fila y ver si te permitirán participar en el ritual. NL NL Eres barrido hacia la ceremonia, cuando el líder enmascarado corta tu brazo con una daga, sientes algo de de tu poder filtrándose en la hoja. NL NL Cuando terminas tu iniciación en el culto, te es entragada la daga personalizada como estatus de tu nueva afiliación.",
-      "Tomando ventaja de la oportunidad, encuentras varias cosas de valor repartidas en todo el edificio antes de escapar.",
-      "",
+      "Una larga fila de #b~figuras~ #b~encapuchadas~ se pueden ver entrandon NL en lo que parece una #pcatedral.",
+      "Naturalemente, te unes a la fila y rápidamente estás rodeado de #rCultistas! NL Ellos te ignoran ya que están alegremente @cantando@ y ~ondulando~ sus armas. NL NL #r@\"¡¡ASESINO!!@ #r@ASESINATO@ #r@¡¡ASESINATO!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"¡ASESINATO!@ #r@ASESINATO@ #r@¡¡ASESINATO!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Ves una #yCaja de #yDonativos...",
+      "Decides permanecer en la fila (del miedo) y ver que pasará. NL NL Finalmente, estás cara a cara con el líder. Un cultista bien vestido te ofrece una #yDaga del #yVistosa. Como los otros antes que tú, te cortas tu antebrazo y dejas que la sangre fluya en un tazón deforme. NL NL ¡Los cultistas @cantan@ y @gritan@ para ti! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Tú cantas también. ¿Por qué no?",
+      "Ellos ni se dan cuenta.",
       "",
       ""
     ],
