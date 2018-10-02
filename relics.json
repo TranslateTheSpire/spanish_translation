@@ -668,7 +668,8 @@
     "FLAVOR": "Sorprendentemente popular, aunque los ataques de Maw ocurran de forma regular.",
     "DESCRIPTIONS": [
       "Cada vez que escales un piso, gana #b",
-      " #yoro. Esta reliquia dejará de funcionar cuando gastes #yoro en la tienda."
+      " #yOro. Esta reliquia dejará de funcionar cuando gastes #yoro en la tienda."
+      "Esta reliquia ha sido agotada."
     ]
   },
   "MealTicket": {
@@ -752,16 +753,6 @@
     "FLAVOR": "Manufacturado por el infame maestro de juegos mismo. Se dice que expande la mente de uno.",
     "DESCRIPTIONS": [
       "Al comienzo de cada turno puedes escoger #b1 de #b3 cartas al azar para barajar dentro de tu pila de extracción."
-    ]
-  },
-  "Nine Lives": {
-    "NAME": "Nueve Vidas",
-    "FLAVOR": "OBSOLETO.",
-    "DESCRIPTIONS": [
-      "Cuando fueras a morir cura tu PV completo en vez de morir. NL (Funciona #b9 veces)",
-      "Cuando fueras a morir cura tu PV completo en vez de morir. NL (No te quedan vidas)",
-      "Cuando fueras a morir cura tu PV completo en vez de morir. NL (Funciona #b",
-      " veces mas)"
     ]
   },
   "Ninja Scroll": {
