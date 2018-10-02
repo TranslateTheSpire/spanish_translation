@@ -186,7 +186,7 @@
     "DESCRIPTIONS": [
       "Pasas por una misteriosa estatua que sostiene varias máscaras... NL Algo detrás de ti te susurra suavemente, NL ~\"Para.\"~",
       "!Te giras para mirar la estatua que ahora te está mirando! NL En una inspección más cuidadosa, no es una estatua sino un hombre escultural y demacrado. ¿Está incluso respirando? NL NL ~\"Cara.~ ~¿Me~ ~dejas~ ~tocarla?~ ~¿Incluso~ ~cambiarla?\"~",
-      "~\"¿Compensación?~ ~Compensación.\"~ NL Mecánicamente, saca una pila de una gran cantidad de #yoro y la coloca en tu bolsa. NL NL ~\"Que~ ~bonita~ ~cara.~ ~Buena~ ~cara.\"~ NL ¡Mientras él toca tu cara, empiezas a ssentir como tu vida se desvanece! NL Mientras, su máscara se cae y se rompe. ¡Gritando, rápidamente se cubre su cara con sus seis brazos, soltando aun más máscaras! En medio de los gritos y destrozos, te escapas. NL NL Su cara estaba completamente vacía.",
+      "~\"¿Compensación?~ ~Compensación.\"~ NL Mecánicamente, saca una pila de una gran cantidad de #yoro y la coloca en tu bolsa. NL NL ~\"Que~ ~bonita~ ~cara.~ ~Buena~ ~cara.\"~ NL ¡Mientras él toca tu cara, empiezas a sentir como tu vida se desvanece! NL Mientras, su máscara se cae y se rompe. ¡Gritando, rápidamente se cubre su cara con sus seis brazos, soltando aun más máscaras! En medio de los gritos y destrozos, te escapas. NL NL Su cara estaba completamente vacía.",
       "~\"¿Para~ ~mí?~ @¿PARA@ @MÍ?@ ~Oh~ ~sí..~ ~Sí.~ ~Sí..~ ~mmm...\"~ NL NL ¡Ves uno de sus brazos vacilar, y tu cara está en su mano! Tu cara ha sido intercambiada. NL NL ~\"Bonita~ ~cara.~ ~Bonita~ ~cara.\"~",
       "~\"Para.~ ~Para.~ ~Para.~ ~Para.~ ~Para.\"~ NL NL Esta fue probablemente la decisión correcta."
     ],
@@ -196,7 +196,7 @@
       "[Cambia] #g50%: #gCara #gBuena. #r50%: #rCara #rFMala.",
       "[Salir]",
 	  "[Continua]",
-	  " #gObtienes, #g #rPV"
+	  " #rPV, #ggana #g"
     ]
   },
   "Falling": {
