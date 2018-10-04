@@ -1239,5 +1239,10 @@
     "TEXT": [
       "¡Nuevo desbloqueo!"
     ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
   }
 }

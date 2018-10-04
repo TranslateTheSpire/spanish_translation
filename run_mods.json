@@ -152,12 +152,16 @@
     "DESCRIPTION": "Empieza con la reliquia Ojo Congelado. Al inicio de tu turno añade 10 cartas aleatorias al final de tu pila de robado."
   },
     "MonsterHunter": {
-    "NAME": "Cazador de Monstruos",
+    "NAME": "Coloso",
     "DESCRIPTION": "Los enemigos tienen más PV pero sueltan mejores recompensas."
   },
     "DeadlyEvents": {
     "NAME": "Eventos Mortales",
-    "DESCRIPTION": "Las habitaciones ? ahora pueden contener Élites, pero aumenta la probabilidad de contener habitaciones del Tesoro."
+    "DESCRIPTION": "Las habitaciones ? ahora pueden contener Élites, pero también aumenta la probabilidad de que contengan habitaciones del Tesoro."
+  },
+  "Daily Mods": {
+    "NAME": "Modificación Diaria",
+    "DESCRIPTION": "Embárcate en una partida con 3 modificadores diarios aleatorios."
   }
 }
 
