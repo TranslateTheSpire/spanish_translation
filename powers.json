@@ -810,8 +810,8 @@
   "Shifting": {
     "NAME": "Escurridizo",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " takes damage, it loses that much #yStrength until the end of the turn."
+      "Cuando ",
+      " recibe daño, pierde esa cantidad de #yFuerza hasta el final del turno."
     ]
   },
   "Shriek From Beyond": {
@@ -884,8 +884,8 @@
   "TheBomb": {
     "NAME": "La bomba",
     "DESCRIPTIONS": [
-      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
-      "At the end of this turn, deal %1$s damage to ALL enemies"
+      "Al final de %1$s turnos, hace %2$s de daño a TODOS los enemigos",
+      "Al final de este turno, hace %1$s de daño a TODOS los enemigos"
     ]
   },
   "Thievery": {

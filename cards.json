@@ -134,7 +134,7 @@
   },
   "Blizzard": {
     "NAME": "Ventisca",
-    "DESCRIPTION": "Haz daño igual una !M! veces la Escarcha Canalizada en este combate a TODOS los enemigos.",
+    "DESCRIPTION": "Haz daño igual a !M! veces la Escarcha Canalizada en este combate a TODOS los enemigos.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Haz !D! de daño)",
