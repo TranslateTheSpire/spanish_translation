@@ -622,9 +622,6 @@
     "NAME": "Brimstone",
     "FLAVOR": "Emana un calor infernal.",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain #b",
-      " #yStrength and ALL enemies gain #b",
-      " #yStrength."
       "Al principio de tu turno, ganas #b",
       " #yFuerza y TODOS los enemigos ganan #b",
       " #yFuerza."
