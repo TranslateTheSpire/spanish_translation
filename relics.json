@@ -403,14 +403,6 @@
       "Aumenta tus PV máximos en #b1 después de cada combate."
     ]
   },
-  "Frozen Egg": {
-    "NAME": "Huevo Congelado",
-    "FLAVOR": "Este huevo yace inerte y congelado, y nunca eclosionará.",
-    "DESCRIPTIONS": [
-      "Al recoger escoge y #yMejora un #yPoder.",
-      "Escoge una carta para "
-    ]
-  },
   "Frozen Egg 2": {
     "NAME": "Huevo Congelado",
     "FLAVOR": "Este huevo yace inerte y congelado, y nunca eclosionará.",
@@ -709,14 +701,6 @@
     "DESCRIPTIONS": [
       "Al comienzo de tu turno haz #b",
       " de daño a TODOS los enemigos."
-    ]
-  },
-  "Molten Egg": {
-    "NAME": "Huevo Fundido",
-    "FLAVOR": "El huevo de un Fenix. Tiene un brillo rojo candente por su lava burbujeante.",
-    "DESCRIPTIONS": [
-      "Al recoger escoge y #yMejora un #yAtaque.",
-      "Escoge una carta para "
     ]
   },
   "Molten Egg 2": {
@@ -1303,14 +1287,6 @@
     "DESCRIPTIONS": [
       "Cada vez que descartas una carta durante tu turno gana #b",
       " #ybloqueo."
-    ]
-  },
-  "Toxic Egg": {
-    "NAME": "Huevo Tóxico",
-    "FLAVOR": "\"¡Qué descubrimiento más maravilloso! Este parece ser el huevo inerte de alguna criatura mágica. ¿Quién o qué ha creado esto?\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Al recoger escoge y #yMejora una #yHabilidad.",
-      "Escoge una carta para "
     ]
   },
   "Toxic Egg 2": {
