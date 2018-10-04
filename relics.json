@@ -630,7 +630,11 @@
     "NAME": "Brimstone",
     "FLAVOR": "Emana un calor infernal.",
     "DESCRIPTIONS": [
-      "Al principio de tu turno, TODO el mundo gana #b",
+      "At the start of your turn, gain #b",
+      " #yStrength and ALL enemies gain #b",
+      " #yStrength."
+      "Al principio de tu turno, ganas #b",
+      " #yFuerza y TODOS los enemigos ganan #b",
       " #yFuerza."
     ]
   },
@@ -676,7 +680,8 @@
     "NAME": "Vale para una Comida",
     "FLAVOR": "\"¡Albóndigas complementarias con cada visita!\"",
     "DESCRIPTIONS": [
-      "Cada vez que entres en una tienda, cura #b7 PV."
+      "Cada vez que entres en una tienda, cura #b",
+      " PV."
     ]
   },
   "Meat on the Bone": {
@@ -698,7 +703,7 @@
     "NAME": "Carné de Socio",
     "FLAVOR": "\"¡Descuento de socio para mis clientes más valiosos!\"",
     "DESCRIPTIONS": [
-      "En niveles futuros las tiendas aparecerán un #b50% más a menudo. #yBONIFICACIÓN: ¡#b50% de descuento en todos los productos!"
+      "¡#b50% de descuento en todos los productos!"
     ]
   },
   "Mercury Hourglass": {
@@ -1117,7 +1122,8 @@
     "FLAVOR": "\"Los resultados parecen fugaces, activándose cuando el sujeto esta en peligro.\" - Desconocido",
     "DESCRIPTIONS": [
       "Empieza cada combate con #b",
-      " #yFuerza que se pierde al final del turno."
+      " #yFuerza. Al final de tu primer turno, pierde ",
+      " #yFuerza."
     ]
   },
   "StoneCalendar": {
@@ -1240,7 +1246,8 @@
     "NAME": "El Ábaco",
     "FLAVOR": "Uno...dos...tres...¡Muerto!",
     "DESCRIPTIONS": [
-      "Gana #b6 de #ybloqueo cada vez que reinices tu pila de descartes."
+      "Cada vez que reinices tu pila de descartes gana #b",
+      " de #ybloqueo "
     ]
   },
   "Thread and Needle": {

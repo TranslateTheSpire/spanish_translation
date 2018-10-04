@@ -10,7 +10,7 @@
       "No parece haber nada útil. Sales por donde entraste, las llamas del horno proyectando #p~inquietantes~ #p~sombras~ en las paredes dentro de la choza..."
     ],
     "OPTIONS": [
-      "[Forjar] #gMejora #guna #gcarta.",
+      "[Forjar] #gMejora #guna #gcarta #gen #gtu #gmazo.",
       "[Hurgar] #gObtén #guna #gReliquia #gEspecial. #rMaldecirte #r- #rDolor.",
       "[Salir]",
       "Elige una Carta a Mejorar",
@@ -152,7 +152,7 @@
     ]
   },
   "Drug Dealer": {
-    "NAME": "Vendedor de J.A.X.",
+    "NAME": "Aumentador",
     "DESCRIPTIONS": [
       "Un hombre con un parche en el ojo y una sonrisa endiablada se acerca a ti. NL \"Hey extraño. ¿Interesado en avanzar la ciencia? Te puedo hacer más fuerte que cualquier entrenamiento o bendición. Lo necesitaras si eres uno de esos heroes con deseo de muerte. NL ¿Qué me dices?",
       "~\"Excelente.\"~ NL El hombre te da una jeringa aparentemente peligrosa, llena de líquido brillante, antes de escabullirse a un callejón en las sombras.",
@@ -161,10 +161,10 @@
     ],
     "OPTIONS": [
       "[Probar J.A.X.] #gPonerse #gJAXXED.",
-	  "[Convertirte en sujeto de prueba] #gTransforma #g3 #gcartas #galeatorias.",
+	  "[Convertirte en sujeto de prueba] #gTransforma #g2 #gcartas.",
 	  "[Ingerir mutágenos] #gObtén #guna #greliquia #gespecial.",
 	  "[Salir]",
-	  "[Bloqueado] Requiere: 3 o más cartas en el mazo.",
+	  "[Bloqueado] Requiere: 2 o más cartas en el mazo.",
 	  ""
     ]
   },
@@ -381,7 +381,7 @@
       "Satisfechas, las paredes en frente de ti empiezan replegarse contra el techo, dejando vía libre."
     ],
     "OPTIONS": [
-      "[Olvidar] #gElimina #guna #gcarta #gen #gtu #gmazo.",
+      "[Olvidar] #gElimina #guna #gcarta #gde #gtu #gmazo.",
       "[Cambiar] #gTransforma #guna #gcarta #gen #gtu #gmazo.",
       "[Crece] #gMejora #guna #gcarta #gen #gtu #gmazo.",
       "Selecciona una Carta a Eliminar.",
