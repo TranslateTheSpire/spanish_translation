@@ -865,7 +865,8 @@
       "NL NL VSync",
       "Modo de arte de pruebas",
       "Mostrar selección rápida de cartas",
-      "Configuración de controles"
+      "Configuración de controles",
+      "Desactivar los efectos de partículas"
     ]
   },
   "PatchNotesScreen": {
