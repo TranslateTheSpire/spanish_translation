@@ -31,8 +31,8 @@
       " Oro.",
       "[Robar] #gObtén #guna #gReliquia. #rTe #rvuelves #rmaldito: #rVergüenza.",
       "[Salir]",
-	  "",
-	  ""
+      "",
+      ""
     ]
   },
   "Back to Basics": {
@@ -161,11 +161,11 @@
     ],
     "OPTIONS": [
       "[Probar J.A.X.] #gPonerse #gJAXXED.",
-	  "[Convertirte en sujeto de prueba] #gTransforma #g2 #gcartas.",
-	  "[Ingerir mutágenos] #gObtén #guna #greliquia #gespecial.",
-	  "[Salir]",
-	  "[Bloqueado] Requiere: 2 o más cartas en el mazo.",
-	  ""
+      "[Convertirte en sujeto de prueba] #gTransforma #g2 #gcartas.",
+      "[Ingerir mutágenos] #gObtén #guna #greliquia #gespecial.",
+      "[Salir]",
+      "[Bloqueado] Requiere: 2 o más cartas en el mazo.",
+      ""
     ]
   },
   "Duplicator": {
@@ -195,8 +195,8 @@
       " #gOro.",
       "[Cambia] #g50%: #gCara #gBuena. #r50%: #rCara #rFMala.",
       "[Salir]",
-	  "[Continua]",
-	  " #rPV, #ggana #g"
+      "[Continua]",
+      " #rPV, #ggana #g"
     ]
   },
   "Falling": {
@@ -806,7 +806,7 @@
   "Winding Halls": {
     "NAME": "Corredores Serpenteantes",
     "DESCRIPTIONS": [
-      "Mientras subes lentamente las vías retorcidas, te empiezas a perder constantemente, ya que las paredes y el suelo parecen moverse inexplicadamente antes tus ojos. NL NL Las constantes #p~voces~ #p~susurrantes~ en tu cabeza tampoco ayudan mucho.", 
+      "Mientras subes lentamente las vías retorcidas, te empiezas a perder constantemente, ya que las paredes y el suelo parecen moverse inexplicadamente antes tus ojos. NL NL Las constantes #p~voces~ #p~susurrantes~ en tu cabeza tampoco ayudan mucho.",
       "Al pasar frente a una estructura la cual sin ninguna duda ya habías visto te empiezas a plantear si estás perdiendo la cabeza, o si la geografía de este lugar está empezando a afectarte. Necesitas cambiar algo, y pronto. NL NL Eso es lo que dicen las #p~voces~, ¿Y por qué mentirían?",
       "Algo en ti se rompe. NL NL Sólo alguien completamente fuera de quicio puede entender un lugar como este, asi que te dejas llevar por las voces y continuas con una #p~\"nueva\"~ perspectiva. Las cosas parecen tener mucho más sentido ahora.",
       "Al tomar un momento para parar y observar detenidamente el panorama a tu alrededor, un patrón empieza a emerger dentro del caos. Cuando los ruidos empiezan a interrumpir tus pensamientos, te esfuerzas para aguantar el dolor mental e ignorarlo. NL NL Al final logras encontrar un camino satisfactoriamente y continuar, ahora resistente a la naturaleza nefasta de este extraño lugar.",
@@ -820,7 +820,7 @@
       "[Salir]",
       " #gPV.",
       "[Volver sobre tus pasos] #rPierde #r",
-	  " #rPV #rmáximos."
+      " #rPV #rmáximos."
     ]
   },
   "World of Goop": {

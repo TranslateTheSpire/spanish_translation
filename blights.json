@@ -91,10 +91,8 @@
   "VoidEssence": {
     "NAME": "Esencia de Vacío",
     "DESCRIPTION": [
-      "Gana 1 [R] menos al inicio de cada turno.",
-      "Gana 1 [G] menos al inicio de cada turno.",
-      "Gana 1 [B] menos al inicio de cada turno.",
-      " [B] menos al inicio de cada turno."
+      "Gana #b",
+      " [E] menos al inicio de cada turno."
     ]
   }
 }

@@ -396,7 +396,8 @@
   "Flight": {
     "NAME": "Vuelo",
     "DESCRIPTIONS": [
-      "Reduce el daño recibido de los #yAtaques un #b50%. Se cancela si se recibe daño de #yAtaques #b3 veces en un turno."
+      "Reduce el daño recibido de los #yAtaques un #b50%. Se cancela si se recibe daño de #yAtaques #b3 veces en un turno.",
+      " times in one turn."
     ]
   },
   "Focus": {

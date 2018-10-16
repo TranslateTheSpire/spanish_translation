@@ -103,7 +103,7 @@
     "NAME": "Clásico",
     "DESCRIPTION": "Los enemigos normales dejan reliquias en vez de cartas"
   },
-    "Red Cards": {
+  "Red Cards": {
     "NAME": "Cartas Rojas",
     "DESCRIPTION": "Las cartas rojas aparecen en tiendas y recompensas."
   },
@@ -119,43 +119,43 @@
     "NAME": "Cartas Incoloras",
     "DESCRIPTION": "Las cartas incoloras aparecen en recompensas."
   },
-    "Stunted Growth": {
+  "Stunted Growth": {
     "NAME": "Crecimiento atrofiado",
     "DESCRIPTION": "Los enemigos ya no sueltan cartas como recompensa después de superar el Acto 3 en Endless."
   },
-    "SealedDeck": {
+  "SealedDeck": {
     "NAME": "Baraja Sellada",
     "DESCRIPTION": "Elabora una baraja a partir de 30 cartas aleatorias."
   },
-    "Flight": {
+  "Flight": {
     "NAME": "Vuelo",
     "DESCRIPTION": "Puedes ignorar los caminos cuando elijas la siguiente habitación a la que viajar."
   },
-    "Chimera": {
+  "Chimera": {
     "NAME": "Quimera",
     "DESCRIPTION": "Tu baraja inicial es una fusión de la de los 3 personajes."
   },
-    "NeowTime": {
+  "NeowTime": {
     "NAME": "Hora de Neow",
     "DESCRIPTION": "Recibe 3 bendiciones y 1 maldición de Neow."
   },
-    "IntelligentEnemies": {
+  "IntelligentEnemies": {
     "NAME": "Enemigos Inteligentes",
     "DESCRIPTION": "Todos los enemigos tienen más movimientos y habilidades desafiantes."
   },
-    "Careless": {
+  "Careless": {
     "NAME": "Sin Cuidado",
     "DESCRIPTION": "Al inicio de cada turno, descarta la la primera carta de tu pila de robado."
   },
-    "ControlledChaos": {
+  "ControlledChaos": {
     "NAME": "Caos Controlado",
     "DESCRIPTION": "Empieza con la reliquia Ojo Congelado. Al inicio de tu turno añade 10 cartas aleatorias al final de tu pila de robado."
   },
-    "MonsterHunter": {
+  "MonsterHunter": {
     "NAME": "Coloso",
     "DESCRIPTION": "Los enemigos tienen más PV pero sueltan mejores recompensas."
   },
-    "DeadlyEvents": {
+  "DeadlyEvents": {
     "NAME": "Eventos Mortales",
     "DESCRIPTION": "Las habitaciones ? ahora pueden contener Élites, pero también aumenta la probabilidad de que contengan habitaciones del Tesoro."
   },
@@ -164,4 +164,3 @@
     "DESCRIPTION": "Embárcate en una partida con 3 modificadores diarios aleatorios."
   }
 }
-
