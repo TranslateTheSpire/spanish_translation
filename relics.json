@@ -11,7 +11,9 @@
     "NAME": "Juego de Té Antiguo",
     "FLAVOR": "La clave para un descanso nocturno refrescante.",
     "DESCRIPTIONS": [
-      "Cada vez que llegues a un sitio de descanso comienza el próximo combate con [E] [E] ."
+      "Cada vez que llegues a un sitio de descanso comienza el próximo combate con [R] [R] .",
+      "Cada vez que llegues a un sitio de descanso comienza el próximo combate con [G] [G] .",
+      "Cada vez que llegues a un sitio de descanso comienza el próximo combate con [B] [B] ."
     ]
   },
   "Art of War": {
@@ -19,7 +21,9 @@
     "FLAVOR": "Este manuscrito antiguo contiene la sabiduría de una era pasada.",
     "DESCRIPTIONS": [
       "Si no juegas ningún #yAtaque durante tu turno, gana un ",
-      "[E] extra el próximo turno."
+      "[R] extra el próximo turno.",
+      "[G] extra el próximo turno.",
+      "[B] extra el próximo turno."
     ]
   },
   "Astrolabe": {
@@ -152,7 +156,9 @@
     "FLAVOR": "La corona del campeón... ¿o una simple imitación?",
     "DESCRIPTIONS": [
       "En la pantalla de recompensa de cartas, tienes #b2 #ycartas menos entre las que elegir.",
-      "Gana [E] al comienzo de cada turno. "
+      "Gana [R] al comienzo de cada turno. ",
+      "Gana [G] al comienzo de cada turno. ",
+      "Gana [B] al comienzo de cada turno. "
     ]
   },
   "Cables": {
@@ -246,7 +252,9 @@
     "FLAVOR": "\"Si, otra taza por favor. Vuelta al trabajo. ¡Vuelta al trabajo!\" - The Architect",
     "DESCRIPTIONS": [
       "al comienzo de cada turno. Ya no puedes descansar en las áreas de descanso.",
-      "Gana [E] "
+      "Gana [R] ",
+      "Gana [G] ",
+      "Gana [B] "
     ]
   },
   "Cracked Core": {
@@ -269,7 +277,9 @@
     "FLAVOR": "Puedes sentir las energías maliciosas emanando de la llave. El poder viene con un precio.",
     "DESCRIPTIONS": [
       " Cada vez que abres un cofre obtienes una #rmaldición.",
-      "Gana [E] al comienzo de cada turno."
+      "Gana [R] al comienzo de cada turno.",
+      "Gana [G] al comienzo de cada turno.",
+      "Gana [B] al comienzo de cada turno."
     ]
   },
   "Darkstone Periapt": {
@@ -314,7 +324,9 @@
     "FLAVOR": "Las runas son indescifrables.",
     "DESCRIPTIONS": [
       "Si tus PV están al máximo gana, ",
-      "[E] al comienzo de cada turno."
+      "[R] al comienzo de cada turno.",
+      "[G] al comienzo de cada turno.",
+      "[B] al comienzo de cada turno."
     ]
   },
   "DollysMirror": {
@@ -348,7 +360,9 @@
     "FLAVOR": "Esta bola de baba y energía parece palpitar con vida.",
     "DESCRIPTIONS": [
       " Ya no puedes ganar #yoro.",
-      "Gana [E] al comienzo de cada turno."
+      "Gana [R] al comienzo de cada turno.",
+      "Gana [G] al comienzo de cada turno.",
+      "Gana [B] al comienzo de cada turno."
     ]
   },
   "Emotion Chip": {
@@ -415,7 +429,9 @@
     "FLAVOR": "Una vez empuñado, el dueño nunca podrá dejarlo ir.",
     "DESCRIPTIONS": [
       "al comienzo de cada turno. Ya no puedes forjar en áreas de descanso.",
-      "Gana [E] "
+      "Gana [R] ",
+      "Gana [G] ",
+      "Gana [B] "
     ]
   },
   "Gambling Chip": {
@@ -451,7 +467,9 @@
     "FLAVOR": "\"Los Gremlins Cabecillas son capaces de crecer hasta el día en que mueren. Extraordinario.\" - Ranwid",
     "DESCRIPTIONS": [
       "Cada vez que un enemigo muere gana ",
-      "[E] y roba #b1 carta."
+      "[R] y roba #b1 carta.",
+      "[G] y roba #b1 carta.",
+      "[B] y roba #b1 carta."
     ]
   },
   "GremlinMask": {
@@ -473,7 +491,9 @@
     "FLAVOR": "Esta planta de felicidad incesante está de moda entre los nobles.",
     "DESCRIPTIONS": [
       "Cada #b",
-      " turnos, gana [E] ."
+      " turnos, gana [R] .",
+      " turnos, gana [G] .",
+      " turnos, gana [B] ."
     ]
   },
   "HoveringKite": {
@@ -525,7 +545,9 @@
     "FLAVOR": "Una lámpara misteriosa que ilumina solo para quien la sujeta.",
     "DESCRIPTIONS": [
       "Gana ",
-      "[E] ",
+      "[R] ",
+      "[G] ",
+      "[B] ",
       "el primer turno de cada combate."
     ]
   },
@@ -738,8 +760,7 @@
     "NAME": "Cara Hambrienta de N'Loth",
     "FLAVOR": "Te sientes hambriento.",
     "DESCRIPTIONS": [
-      "El próximo cofre que no sea de jefe que abras estará vacío.",
-      ""
+      "El próximo cofre que no sea de jefe que abras estará vacío."
     ]
   },
   "Nuclear Battery": {
@@ -761,7 +782,9 @@
     "FLAVOR": "Una buena herramienta de entrenamiento. Mejora la postura y la agilidad del portador.",
     "DESCRIPTIONS": [
       "Cada vez que juegues #b",
-      " #yataques, gana [E] ."
+      " #yataques, gana [R] .",
+      " #yataques, gana [G] .",
+      " #yataques, gana [B] ."
     ]
   },
   "Odd Mushroom": {
@@ -882,7 +905,9 @@
     "FLAVOR": "Energía cruda emana de la piedra, dando poder a todo lo cercano.",
     "DESCRIPTIONS": [
       " TODOS los enemigos comienzan con #b2 #yfuerza.",
-      "Gana [E] al comienzo de cada turno."
+      "Gana [R] al comienzo de cada turno.",
+      "Gana [G] al comienzo de cada turno.",
+      "Gana [B] al comienzo de cada turno."
     ]
   },
   "Potion Belt": {
@@ -974,7 +999,9 @@
     "FLAVOR": "Las runas son indescifrables.",
     "DESCRIPTIONS": [
       "al comienzo de cada turno. Ya no puedes ver la #bintención del enemigo.",
-      "Gana [E] "
+      "Gana [R] ",
+      "Gana [G] ",
+      "Gana [B] "
     ]
   },
   "Runic Pyramid": {
@@ -1052,7 +1079,9 @@
     "FLAVOR": "Te das cuenta que los líquidos mágicos parecen perder sus propiedades cuando están cerca de esta reliquia.",
     "DESCRIPTIONS": [
       "Ya no puedes obtener pociones.",
-      "Gana [E] al comienzo de cada turno."
+      "Gana [R] al comienzo de cada turno.",
+      "Gana [G] al comienzo de cada turno.",
+      "Gana [B] al comienzo de cada turno."
     ]
   },
   "Spirit Poop": {
@@ -1107,7 +1136,9 @@
     "FLAVOR": "\"La absurda obsesión de los primeros hombres con el tiempo les llevó a alzar la vista al cielo en busca de guía, con la esperanza de que algo fuera permanente.\" - Zoroth",
     "DESCRIPTIONS": [
       "Cada #b",
-      " veces que barajes tu mazo gana [E] [E] ."
+      " veces que barajes tu mazo gana [R] [R] .",
+      " veces que barajes tu mazo gana [G] [G] .",
+      " veces que barajes tu mazo gana [B] [B] ."
     ]
   },
   "Symbiotic Virus": {
@@ -1121,10 +1152,10 @@
     "NAME": "Prueba 1",
     "FLAVOR": "Reliquia de prueba para la beta. Si te gusta déjale saber a los devs.",
     "DESCRIPTIONS": [
-      "",
-      "",
-      "",
-      ""
+      "Cada vez que uses una poción gana ",
+      " [R] .",
+      " [G] .",
+      " [B] ."
     ]
   },
   "Test 2": {
@@ -1309,7 +1340,9 @@
     "DESCRIPTIONS": [
       "No puedes jugar más de #b",
       " cartas por turno.",
-      "Gana [E] al comienzo de cada turno. ",
+      "Gana [R] al comienzo de cada turno. ",
+      "Gana [G] al comienzo de cada turno. ",
+      "Gana [B] al comienzo de cada turno. ",
       "Solo puedo jugar hasta NL #r"
     ]
   },
