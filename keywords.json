@@ -8,7 +8,8 @@
     },
     "BLOCK": {
       "NAMES": [
-        "bloqueo"
+        "bloqueo",
+        "bloqueos"
       ],
       "DESCRIPTION": "Hasta el siguiente turno, previene daño."
     },
