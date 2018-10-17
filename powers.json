@@ -978,5 +978,11 @@
       "Al final de tu turno, pierde #b ",
       " Destreza."
     ]
+  },
+  "Compulsive": {
+    "NAME": "Compulsivo",
+    "DESCRIPTIONS": [
+      "Al recibir daño de ataque, cambia su Intención."
+    ]
   }
 }
