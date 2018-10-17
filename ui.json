@@ -1002,7 +1002,21 @@
       "#bEliminado %s",
       "#bCavado",
       "#bLevantado %s/%s",
-      "#yComprado:"
+      "#yComprado:",
+      "#rGastado ",
+      "#rTomado ",
+      "#rPerdido ",
+      "%s PV Máximo",
+      "#bCurado ",
+      "#bGanado ",
+      "#bIgnorado ",
+      "%s PV",
+      "#bObtenido %s",
+      "#rMaldecido #rcon #r%s",
+      "%s Daño",
+      "#bMejorado %s",
+      "#bTransformado %s",
+      "#rPerdido %s"
     ]
   },
   "RunHistoryMonsterNames": {
