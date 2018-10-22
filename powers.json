@@ -980,9 +980,9 @@
     ]
   },
   "Compulsive": {
-    "NAME": "Compulsivo",
+    "NAME": "Reactivo",
     "DESCRIPTIONS": [
-      "Al recibir daño de ataque, cambia su Intención."
+      "Al recibir daño de ataque, cambia su intención."
     ]
   }
 }
