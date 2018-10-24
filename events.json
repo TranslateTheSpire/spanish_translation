@@ -154,7 +154,7 @@
   "Drug Dealer": {
     "NAME": "Aumentador",
     "DESCRIPTIONS": [
-      "Un hombre con un parche en el ojo y una sonrisa endiablada se acerca a ti. NL \"Hey extraño. ¿Interesado en avanzar la ciencia? Te puedo hacer más fuerte que cualquier entrenamiento o bendición. Lo necesitaras si eres uno de esos heroes con deseo de muerte. NL ¿Qué me dices?",
+      "Un hombre con un parche en el ojo y una sonrisa endiablada se acerca a ti. NL \"Hey extraño. ¿Interesado en avanzar la ciencia? Te puedo hacer más fuerte que cualquier entrenamiento o bendición. Lo necesitaras si eres uno de esos heroes con deseo de muerte.\" NL NL ~\"¿Qué me dices?~\"",
       "~\"Excelente.\"~ NL El hombre te da una jeringa aparentemente peligrosa, llena de líquido brillante, antes de escabullirse a un callejón en las sombras.",
       "~\"Magnifico.\"~ NL El hombre te inyecta tres sustancias desconocidas y saca un bloc de notas. Mientras compienzas a marearte, el empieza a escribir notas frenéticamente. NL Pierdes el sentido del tiempo, y para cuando recuperas el sentido, el turbio personaje ha desaparecido.",
       "~\"Maravilloso.\"~ NL Te tragas la misteriosa sustancia. Inmediatamente, te sientes fortalecido y sientes tus musculos @contraerse.@"
@@ -264,7 +264,7 @@
       "[Aceptar] #gRecibe #g5 #gFantasmal. #rPierde #r",
       "% #rPV #rMáx.",
       "[Rechazar]",
-      "",
+      "[Aceptar] #gRecibe #g3 #gFantasmal. #rPierde #r",
       "",
       "[Salir]"
     ]
