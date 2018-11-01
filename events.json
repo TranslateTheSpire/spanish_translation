@@ -587,12 +587,17 @@
       " NL El corazón pulsa fuerte y más fuerte mientras tu #y~consciencia~ se #y~desvanece...~",
       "NL Preparas tu espada...",
       "NL Preparas tus dagas...",
-      "NL Cargas tu centro a su máxima capacidad..."
+      "NL Cargas tu centro a su máxima capacidad...",
+      " NL El corazon #gretrocede hacia arriba! Una gran puerta se revela en su lugar.",
+      " NL El corazón pulsa fuerte y más fuerte mientras tu #y~consciencia~ se #y~desvanece...~",
+      " NL Un repentino impulso de #y@energía@ emana de tu interior, #b@sacudiendote@ y despertandote.",
+      " NL El corazon #gretrocede hacia arriba! Una gran puerta se revela en su lugar."
     ],
     "OPTIONS": [
       "[Continuar]",
       "[Atacar] #b???",
-      "[Dormir]"
+      "[Dormir]",
+      "[Acercarse a la puerta]"
     ]
   },
   "The Cleric": {
@@ -911,7 +916,7 @@
     "NAME": "El Coliseo",
     "DESCRIPTIONS": [
       "@Thwack!!!@ NL .. NL ...... NL ... NL ~Pierdes~ ~el~ ~conocimiento...~",
-      "~Atontado~ y con la cabeza @palpitando@, te despiertas y te encuentras en el centro de un masivo coliseo con una audiencia desbordante de #bEsclavistas, #pFieles, y otros habitantes de la ciudad! NL ",
+      "~Atontado~ y con la cabeza @palpitando,@ te despiertas y te encuentras en el centro de un masivo coliseo con una audiencia desbordante de #bEsclavistas, #pFieles, y otros habitantes de la ciudad! NL ",
       " NL Un gigante blindado con una #ycorona #ydorada ruge por encima tuyo, NL @\"AHORA@ @EMPIEZA@ @EL@ @",
       "°@ @COMBATE!!!!\"@ NL Una puerta al otro lado se abre...",
       "@\"BIEN@ @HECHO,@ @DEBILUCHO!\"@ NL El gigante se burla aplaudiendo mientras irrita a la multitud con gestos exagerados. NL #y~Te~ ~llueve~ #y~Oro~ ~y~ ~confeti!~ NL @\"ES@ @LA@ @HORA@ @PARA@ @EL@ @VERDADERO@ @DESAFIO!!\"@ NL NL La última batalla deja una pequeña salida en la pared del coliseo, puedes escapar facilmente mientras todo el mundo está distraido. NL ¿Quedarse y pelear?"
