@@ -1297,10 +1297,10 @@
   },
   "BetaArtUnlockEffect": {
     "TEXT": [
-      "Arte de carta beta de El Blindado desbloqueado!"
+      "Arte de carta beta de El Blindado desbloqueado!",
       "Arte de carta beta de La Silenciosa desbloqueado!",
       "Arte de carta beta de El Defectuoso desbloqueado!",
-      "Todos los artes de beta de carta desbloqueados!
+      "Todos los artes de beta de carta desbloqueados!"
     ]
   }
 }
