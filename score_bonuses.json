@@ -170,5 +170,11 @@
     "DESCRIPTIONS": [
       "Subiste tus PV Máximos en 15+."
     ]
+  },
+  "Heartbreaker": {
+    "NAME": "Rompecorazones",
+    "DESCRIPTIONS": [
+      "Derrota al Corazón."
+    ]
   }
 }

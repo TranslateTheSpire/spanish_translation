@@ -41,7 +41,11 @@
       "La energía está sobrevalorada",
       "Mi dia de suerte",
       "El Transitorio",
-      "Asciende 20"
+      "Asciende 20",
+      "Rubí+",
+      "Emeralda+",
+      "Zafiro+",
+      "El Final"
     ],
     "TEXT": [
       "Gana una batalla con solo 1 PV.",
@@ -84,7 +88,11 @@
       "Juega 10 o mas cartas de coste 0 en un solo turno.",
       "Gana un Ascenso Diario.",
       "Derrota a El Transitorio antes de que se desvanezca.",
-      "Completa el nivel 20 de Ascensión."
+      "Completa el nivel 20 de Ascensión.",
+      "Completa el final con el Blindado.",
+      "Completa el final con la Silenciosa.",
+      "Completa el final con el Defectuoso.",
+      "Completa el final con el Blindado, la Silenciosa, y el Defectuoso."
     ]
   },
   "CharStat": {

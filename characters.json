@@ -45,6 +45,16 @@
       "~*BOSTEZO*~",
       "Me encanta el oro.",
       "Mi color favorito es el azul. NL ¿Cuál es el tuyo?"
+    ],
+    "OPTIONS": [
+      "Como llegué aquí? NL Ni idea.",
+      "Última oportunidad para comprar algo'! NL ~*wink*~ ~*wink*~",
+      "..... NL .... NL .........",
+      "Soy una persona gato.",
+      "Sin prisa. NL Sin prisa.",
+      "Acaso esto no es @excitante!?@",
+      "Solía ser como tu.",
+      "Subiendo?"
     ]
   },
   "Neow Event": {
@@ -161,6 +171,14 @@
     ],
     "TEXT": [
       "Una cazadora mortal de las tierras bajas. NL Erradica a sus presas con dagas y veneno."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Ahora... que..? NL ..se ha... hecho....?",
+      "...la Aguja duerme..... NL Y...... yo...",
+      "..también.......debería......."
     ]
   }
 }

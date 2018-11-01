@@ -979,10 +979,35 @@
       " Destreza."
     ]
   },
+  "BeatOfDeath": {
+    "NAME": "Latido de Muerte",
+    "DESCRIPTIONS": [
+      "Siempre que juegues una carta, recibe #b",
+      " daño y aumenta el daño del poder por #b1. Se reinicia en cada turno."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Invencible",
+    "DESCRIPTIONS": [
+      "Limita todo el daño recibido y PV perdidos a #b100."
+    ]
+  },
   "Compulsive": {
     "NAME": "Reactivo",
     "DESCRIPTIONS": [
       "Al recibir daño de ataque, cambia su intención."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Rodeado",
+    "DESCRIPTIONS": [
+      "Recibe #b50% más de daño si eres atacado por la espalda. Usa cartas dirigidas o pociones para cambiar tu orientación."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Ataque por la espalda",
+    "DESCRIPTIONS": [
+      "Hace #b50% más de daño ya que te está atacando por detrás."
     ]
   }
 }
