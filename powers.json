@@ -989,7 +989,9 @@
   "Invincible": {
     "NAME": "Invencible",
     "DESCRIPTIONS": [
-      "Limita todo el daño recibido y PV perdidos a #b100."
+      "Solo puedes perder #b",
+	  " PV más esta ronda.",
+	  "No puedes recibir daño esta ronda."
     ]
   },
   "Compulsive": {
