@@ -175,8 +175,8 @@
   "SneckoOil": {
     "NAME": "Aceite de Snecko",
     "DESCRIPTIONS": [
-      "Roba #b",
-      " cartas. Obtienes #y'Confusión'.",
+      "Te vuelves #yConfuso. Roba #b",
+      " cartas.",
       "carta."
     ]
   },

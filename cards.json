@@ -749,7 +749,7 @@
   "Machine Learning": {
     "NAME": "Aprendizaje Automático",
     "DESCRIPTION": "Roba !M! carta adicional al inicio de cada turno.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Roba !M! carta adicional al inicio de cada turno."
+    "UPGRADE_DESCRIPTION": "Innata. NL Al inicio de tu turno, roba !M! carta adicional."
   },
   "Madness": {
     "NAME": "Locura",

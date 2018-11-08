@@ -990,8 +990,8 @@
     "NAME": "Invencible",
     "DESCRIPTIONS": [
       "Solo puedes perder #b",
-	  " PV más esta ronda.",
-	  "No puedes recibir daño esta ronda."
+	  " PV más este turno.",
+	  "No puedes recibir daño este turno."
     ]
   },
   "Compulsive": {
