@@ -881,8 +881,8 @@
     "NAME": "Piedra Filosofal",
     "FLAVOR": "Energía cruda emana de la piedra, dando poder a todo lo cercano.",
     "DESCRIPTIONS": [
-      " TODOS los enemigos comienzan con #b2 #yfuerza.",
-      "Gana [E] al comienzo de cada turno."
+      "Gana [E] al inicio de tu turno. TODOS los enemigos empiezan el combate con #b",
+      " de #yFuerza."
     ]
   },
   "Potion Belt": {
