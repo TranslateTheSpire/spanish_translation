@@ -865,7 +865,8 @@
       "NL NL VSync",
       "Modo de arte de pruebas",
       "Mostrar selección rápida de cartas",
-      "Configuración de controles"
+      "Configuración de controles",
+      "Desactivar los efectos de partículas"
     ]
   },
   "PatchNotesScreen": {
@@ -965,7 +966,12 @@
       " Oro",
       "Añade una carta a tu mazo",
       "",
-      "Escoge una carta"
+      "Escoge una carta",
+      "Llave Esmeralda",
+      "Llave Zafiro",
+      "Enlazado",
+      "Obtener esta reliquia eliminará ",
+      "."
     ]
   },
   "RunHistoryPathNodes": {
@@ -1001,7 +1007,21 @@
       "#bEliminado %s",
       "#bCavado",
       "#bLevantado %s/%s",
-      "#yComprado:"
+      "#yComprado:",
+      "#rGastado ",
+      "#rTomado ",
+      "#rPerdido ",
+      "%s PV Máximo",
+      "#bCurado ",
+      "#bGanado ",
+      "#bIgnorado ",
+      "%s PV",
+      "#bObtenido %s",
+      "#rMaldecido #rcon #r%s",
+      "%s Daño",
+      "#bMejorado %s",
+      "#bTransformado %s",
+      "#rPerdido %s"
     ]
   },
   "RunHistoryMonsterNames": {
@@ -1033,7 +1053,8 @@
       "El Elegido y el Cultista",
       "(Obsoleto) Matón Flamígero",
       "(Obsoleto) Esclavista y Parásito",
-	    "(Obsoleto) Serpeinte y Místicos"
+      "(Obsoleto) Serpeinte y Místicos",
+      "Escudo y Lanza"
    ]
   },  
   "RunHistoryScreen": {
@@ -1131,7 +1152,8 @@
       "Estoy #rEnredado! NL No puedo jugar Ataques",
       "#rEnergía Insuficiente.",
       "#rCarga Insuficiente.",
-      "No puedo jugar NL esta carta"
+      "No puedo jugar NL esta carta",
+      "Arte Beta"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1238,6 +1260,47 @@
   "UnlockTextEffect": {
     "TEXT": [
       "¡Nuevo desbloqueo!"
+    ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Recordar",
+      "Obten la Llave Rubí."
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Procede",
+      "Pisos escalados",
+      "Jefes Derrotados",
+      "Tiempo Jugado",
+      "Puntuación",
+      "Desbloquear",
+      "Desbloqueos Pendientes: ",
+      "Desbloqueo Pendiente: ",
+      "Enemigos Ejecutados",
+      "Elites Ejecutados",
+      "Oro no gastado",
+      "Bonus de PV",
+      "Victoria!"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "El final"
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Arte de carta beta de El Blindado desbloqueado!",
+      "Arte de carta beta de La Silenciosa desbloqueado!",
+      "Arte de carta beta de El Defectuoso desbloqueado!",
+      "Todos los artes de beta de carta desbloqueados!"
     ]
   }
 }

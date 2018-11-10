@@ -199,10 +199,6 @@
     "DESCRIPTION": "En este turno, tu siguiente carta de Habilidad se juega 2 veces.",
     "UPGRADE_DESCRIPTION": "En este turno, tus siguientes !M! cartas de Habilidad se juegan 2 veces."
   },
-  "Cache": {
-    "NAME": "Caché",
-    "DESCRIPTION": "Obsoleto."
-  },
   "Calculated Gamble": {
     "NAME": "Apuesta Calculada",
     "DESCRIPTION": "Descarta tu mano, NL entonces roba el mismo numero de cartas. NL Agota.",
@@ -225,10 +221,6 @@
     "NAME": "Catalizador",
     "DESCRIPTION": "Duplica la cantidad de Veneno de un enemigo. NL Agota.",
     "UPGRADE_DESCRIPTION": "Triplica la cantidad de Veneno de un enemigo. NL Agota."
-  },
-  "Channel": {
-    "NAME": "Canalizar",
-    "DESCRIPTION": "Obsoleto."
   },
   "Chaos": {
     "NAME": "Caos",
@@ -682,11 +674,6 @@
     "NAME": "Hiperrayo",
     "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Pierde !M! de Concentración."
   },
-  "Ice Wall": {
-    "NAME": "Muro de Hielo",
-    "DESCRIPTION": "Obsoleto.",
-    "UPGRADE_DESCRIPTION": "Obsoleto."
-  },
   "Immolate": {
     "NAME": "Inmolar",
     "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Añade una Quemadura a la pila de descartes."
@@ -698,11 +685,6 @@
   "Impervious": {
     "NAME": "Impenetrable",
     "DESCRIPTION": "Gana !B! de Bloqueo. NL Agota."
-  },
-  "Impulse": {
-    "NAME": "Impulso",
-    "DESCRIPTION": "Usa el efecto pasivo de todos tus Orbes invocados. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Usa el efecto pasivo de todos tus Orbes invocados."
   },
   "Infernal Blade": {
     "NAME": "Espada Infernal",
@@ -767,7 +749,7 @@
   "Machine Learning": {
     "NAME": "Aprendizaje Automático",
     "DESCRIPTION": "Roba !M! carta adicional al inicio de cada turno.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Roba !M! carta adicional al inicio de cada turno."
+    "UPGRADE_DESCRIPTION": "Innata. NL Al inicio de tu turno, roba !M! carta adicional."
   },
   "Madness": {
     "NAME": "Locura",
@@ -852,15 +834,6 @@
       " cartas este turno."
     ]
   },
-  "Nova": {
-    "NAME": "Nova",
-    "DESCRIPTION": "Haz !M! de daño a TODOS los enemigos por cada carta de Poder jugado en este combate.",
-    "UPGRADE_DESCRIPTION": "",
-    "EXTENDED_DESCRIPTION": [
-      " NL Agota.",
-      " NL (Haz !D! de daño)."
-    ]
-  },
   "Noxious Fumes": {
     "NAME": "Gases Tóxicos",
     "DESCRIPTION": "Al inicio de tu turno, aplica !M! de Veneno a TODOS los enemigos."
@@ -874,11 +847,6 @@
     "NAME": "Aventajar",
     "DESCRIPTION": "Al siguiente turno NL gana [G] [G].",
     "UPGRADE_DESCRIPTION": "Al siguiente turno NL gana [G] [G] [G]."
-  },
-  "Overclock": {
-    "NAME": "Overclock",
-    "DESCRIPTION": "Obsoleto.",
-    "UPGRADE_DESCRIPTION": "Obsoleto."
   },
   "Pain": {
     "NAME": "Dolor",
@@ -938,14 +906,6 @@
   "Pride": {
     "NAME": "Orgullo",
     "DESCRIPTION": "Innata. Agota. NL Al final de tu turno, coloca una copia de esta carta al tope de la pila de extracción."
-  },
-  "Prime": {
-    "NAME": "Cebar",
-    "DESCRIPTION": "Cada vez que Canalices un Orbe, roba !M! carta."
-  },
-  "Primitive Tech": {
-    "NAME": "Tecnología Primitiva",
-    "DESCRIPTION": "Obsoleto."
   },
   "Pummel": {
     "NAME": "Paliza",
@@ -1012,10 +972,6 @@
   "Reinforced Body": {
     "NAME": "Cuerpo Reforzado",
     "DESCRIPTION": "Gana !B! de Bloqueo X veces."
-  },
-  "Reprieve": {
-    "NAME": "Indulto",
-    "DESCRIPTION": "Si un enemigo no tiene intención de atacar, gana !M! de Concentración."
   },
   "Reprogram": {
     "NAME": "Reprogramar",
@@ -1320,10 +1276,6 @@
   "Wild Strike": {
     "NAME": "Golpe Salvaje",
     "DESCRIPTION": "Haz !D! de daño. NL Baraja una Herida en la pila de extracción."
-  },
-  "Winter": {
-    "NAME": "Invierno",
-    "DESCRIPTION": "Obsoleto."
   },
   "Wound": {
     "NAME": "Herida",

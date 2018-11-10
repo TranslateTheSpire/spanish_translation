@@ -10,7 +10,7 @@
       "No parece haber nada útil. Sales por donde entraste, las llamas del horno proyectando #p~inquietantes~ #p~sombras~ en las paredes dentro de la choza..."
     ],
     "OPTIONS": [
-      "[Forjar] #gMejora #guna #gcarta.",
+      "[Forjar] #gMejora #guna #gcarta #gen #gtu #gmazo.",
       "[Hurgar] #gObtén #guna #gReliquia #gEspecial. #rMaldecirte #r- #rDolor.",
       "[Salir]",
       "Elige una Carta a Mejorar",
@@ -152,19 +152,19 @@
     ]
   },
   "Drug Dealer": {
-    "NAME": "Vendedor de J.A.X.",
+    "NAME": "Aumentador",
     "DESCRIPTIONS": [
-      "Un hombre con un parche en el ojo y una sonrisa endiablada se acerca a ti. NL \"Hey extraño. ¿Interesado en avanzar la ciencia? Te puedo hacer más fuerte que cualquier entrenamiento o bendición. Lo necesitaras si eres uno de esos heroes con deseo de muerte. NL ¿Qué me dices?",
+      "Un hombre con un parche en el ojo y una sonrisa endiablada se acerca a ti. NL \"Hey extraño. ¿Interesado en avanzar la ciencia? Te puedo hacer más fuerte que cualquier entrenamiento o bendición. Lo necesitaras si eres uno de esos heroes con deseo de muerte.\" NL NL ~\"¿Qué me dices?~\"",
       "~\"Excelente.\"~ NL El hombre te da una jeringa aparentemente peligrosa, llena de líquido brillante, antes de escabullirse a un callejón en las sombras.",
       "~\"Magnifico.\"~ NL El hombre te inyecta tres sustancias desconocidas y saca un bloc de notas. Mientras compienzas a marearte, el empieza a escribir notas frenéticamente. NL Pierdes el sentido del tiempo, y para cuando recuperas el sentido, el turbio personaje ha desaparecido.",
       "~\"Maravilloso.\"~ NL Te tragas la misteriosa sustancia. Inmediatamente, te sientes fortalecido y sientes tus musculos @contraerse.@"
     ],
     "OPTIONS": [
       "[Probar J.A.X.] #gPonerse #gJAXXED.",
-	  "[Convertirte en sujeto de prueba] #gTransforma #g3 #gcartas #galeatorias.",
+	  "[Convertirte en sujeto de prueba] #gTransforma #g2 #gcartas.",
 	  "[Ingerir mutágenos] #gObtén #guna #greliquia #gespecial.",
 	  "[Salir]",
-	  "[Bloqueado] Requiere: 3 o más cartas en el mazo.",
+	  "[Bloqueado] Requiere: 2 o más cartas en el mazo.",
 	  ""
     ]
   },
@@ -182,21 +182,21 @@
     ]
   },
   "FaceTrader": {
-    "NAME": "Face Trader",
+    "NAME": "Comerciante de Caras",
     "DESCRIPTIONS": [
-      "¡PARECES SER ALGUIEN QUE PODRÍA TENER UNA CARA NUEVA!",
-      "¡DISFRUTA DE TU NUEVA CARA!",
-      "~\"¿Compensación?~ ~Compensación.\"~ NL Mecanicamente, se saca una pila de monedas de #yoro y las mete en tu bolsillo. NL NL ~\"Pero~ ~que~ ~buena~ ~cara.~ ~Buena~ ~cara.\"~ NL Mientras te toca la cara, ¡empiezas a sentir que te absorbe la vida! NL Mientras tanto, su mascara se cae y estalla en mil pedazos. Gritando, se cubre la cara con sus seis brazos, ¡dejando caer mas mascaras! De entre los gritos y llantos, escapas. NL NL Su cara se tornó completamente blanca.",
-      "~\"¿Para~ ~mi?~ @¿PARA@ @MI?@ ~Oh~ ~si...~ ~Si,~ ~Si...~ ~mmm...\"~ NL NL Ves como agita su brazo rapidamente, ¡y tiene tu cara en la mano! Tu cara ha sido reemplazada. NL NL ~\"Buena~ ~cara.~ ~Buena~ ~cara.\"~",
-      "~\"Para.~ ~Para.~ ~Para.~ ~PARA~ ~¡PARA!\"~ NL NL Probablemente fué la mejor decisión..."
+      "Pasas por una misteriosa estatua que sostiene varias máscaras... NL Algo detrás de ti te susurra suavemente, NL ~\"Para.\"~",
+      "!Te giras para mirar la estatua que ahora te está mirando! NL En una inspección más cuidadosa, no es una estatua sino un hombre escultural y demacrado. ¿Está incluso respirando? NL NL ~\"Cara.~ ~¿Me~ ~dejas~ ~tocarla?~ ~¿Incluso~ ~cambiarla?\"~",
+      "~\"¿Compensación?~ ~Compensación.\"~ NL Mecánicamente, saca una pila de una gran cantidad de #yoro y la coloca en tu bolsa. NL NL ~\"Que~ ~bonita~ ~cara.~ ~Buena~ ~cara.\"~ NL ¡Mientras él toca tu cara, empiezas a sentir como tu vida se desvanece! NL Mientras, su máscara se cae y se rompe. ¡Gritando, rápidamente se cubre su cara con sus seis brazos, soltando aun más máscaras! En medio de los gritos y destrozos, te escapas. NL NL Su cara estaba completamente vacía.",
+      "~\"¿Para~ ~mí?~ @¿PARA@ @MÍ?@ ~Oh~ ~sí..~ ~Sí.~ ~Sí..~ ~mmm...\"~ NL NL ¡Ves uno de sus brazos vacilar, y tu cara está en su mano! Tu cara ha sido intercambiada. NL NL ~\"Bonita~ ~cara.~ ~Bonita~ ~cara.\"~",
+      "~\"Para.~ ~Para.~ ~Para.~ ~Para.~ ~Para.\"~ NL NL Esta fue probablemente la decisión correcta."
     ],
     "OPTIONS": [
-      "[Máscara de N'Loth] Reliquia: Cada vez que juegues una carta rara, gana #gBloqueo.",
-      "[Cabeza de ssserpiente] Reliquia: Cada vez que empiezas un evento, gana 50 de #yoro.",
-      "[Cara del Clérigo] Reliquia: Aumenta tus PV máximos en #b1 después de cada combate.",
-      "[Irse]",
-      "[Continuar]",
-      " #rObtienes, #gHP #g"
+      "[Tocar] #rPierde #r",
+      " #gOro.",
+      "[Cambia] #g50%: #gCara #gBuena. #r50%: #rCara #rFMala.",
+      "[Salir]",
+	  "[Continua]",
+	  " #rPV, #ggana #g"
     ]
   },
   "Falling": {
@@ -264,7 +264,7 @@
       "[Aceptar] #gRecibe #g5 #gFantasmal. #rPierde #r",
       "% #rPV #rMáx.",
       "[Rechazar]",
-      "",
+      "[Aceptar] #gRecibe #g3 #gFantasmal. #rPierde #r",
       "",
       "[Salir]"
     ]
@@ -381,7 +381,7 @@
       "Satisfechas, las paredes en frente de ti empiezan replegarse contra el techo, dejando vía libre."
     ],
     "OPTIONS": [
-      "[Olvidar] #gElimina #guna #gcarta #gen #gtu #gmazo.",
+      "[Olvidar] #gElimina #guna #gcarta #gde #gtu #gmazo.",
       "[Cambiar] #gTransforma #guna #gcarta #gen #gtu #gmazo.",
       "[Crece] #gMejora #guna #gcarta #gen #gtu #gmazo.",
       "Selecciona una Carta a Eliminar.",
@@ -480,10 +480,10 @@
   "Nest": {
     "NAME": "El Nido",
     "DESCRIPTIONS": [
-      "Bandadas de cultistas parecen encontrarse alrededor de un lugar central. A medida que te acercas son sorprendentemente dóciles, no hacen ningún movimiento para atacar. Puedes ver nuevos miembros siendo iniciados en su Culto a través de algún tipo de ritual.",
-      "Decides ponerte en la fila y ver si te permitirán participar en el ritual. NL NL Eres barrido hacia la ceremonia, cuando el líder enmascarado corta tu brazo con una daga, sientes algo de de tu poder filtrándose en la hoja. NL NL Cuando terminas tu iniciación en el culto, te es entragada la daga personalizada como estatus de tu nueva afiliación.",
-      "Tomando ventaja de la oportunidad, encuentras varias cosas de valor repartidas en todo el edificio antes de escapar.",
-      "",
+      "Una larga fila de #b~figuras~ #b~encapuchadas~ se pueden ver entrandon NL en lo que parece una #pcatedral.",
+      "Naturalemente, te unes a la fila y rápidamente estás rodeado de #rCultistas! NL Ellos te ignoran ya que están alegremente @cantando@ y ~ondulando~ sus armas. NL NL #r@\"¡¡ASESINO!!@ #r@ASESINATO@ #r@¡¡ASESINATO!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"¡ASESINATO!@ #r@ASESINATO@ #r@¡¡ASESINATO!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Ves una #yCaja de #yDonativos...",
+      "Decides permanecer en la fila (del miedo) y ver que pasará. NL NL Finalmente, estás cara a cara con el líder. Un cultista bien vestido te ofrece una #yDaga #yVistosa. Como los otros antes que tú, te cortas tu antebrazo y dejas que la sangre fluya en un tazón deforme. NL NL ¡Los cultistas @cantan@ y @gritan@ para ti! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Tú cantas también. ¿Por qué no?",
+      "Ellos ni se dan cuenta.",
       "",
       ""
     ],
@@ -587,12 +587,17 @@
       " NL El corazón pulsa fuerte y más fuerte mientras tu #y~consciencia~ se #y~desvanece...~",
       "NL Preparas tu espada...",
       "NL Preparas tus dagas...",
-      "NL Cargas tu centro a su máxima capacidad..."
+      "NL Cargas tu centro a su máxima capacidad...",
+      " Te preguntas, ~\"¿He~ ~estado~ ~aquí~ ~antes?\"~",
+      " NL El corazón pulsa fuerte y más fuerte mientras tu #y~consciencia~ se #y~desvanece...~",
+      " NL Un repentino impulso de #y@energía@ emana de tu interior, #b@sacudiendote@ y despertandote.",
+      " NL El corazon #gretrocede hacia arriba! Una gran puerta se revela en su lugar."
     ],
     "OPTIONS": [
       "[Continuar]",
       "[Atacar] #b???",
-      "[Dormir]"
+      "[Dormir]",
+      "[Acercarse a la puerta]"
     ]
   },
   "The Cleric": {
@@ -911,7 +916,7 @@
     "NAME": "El Coliseo",
     "DESCRIPTIONS": [
       "@Thwack!!!@ NL .. NL ...... NL ... NL ~Pierdes~ ~el~ ~conocimiento...~",
-      "~Atontado~ y con la cabeza @palpitando@, te despiertas y te encuentras en el centro de un masivo coliseo con una audiencia desbordante de #bEsclavistas, #pFieles, y otros habitantes de la ciudad! NL ",
+      "~Atontado~ y con la cabeza @palpitando,@ te despiertas y te encuentras en el centro de un masivo coliseo con una audiencia desbordante de #bEsclavistas, #pFieles, y otros habitantes de la ciudad! NL ",
       " NL Un gigante blindado con una #ycorona #ydorada ruge por encima tuyo, NL @\"AHORA@ @EMPIEZA@ @EL@ @",
       "°@ @COMBATE!!!!\"@ NL Una puerta al otro lado se abre...",
       "@\"BIEN@ @HECHO,@ @DEBILUCHO!\"@ NL El gigante se burla aplaudiendo mientras irrita a la multitud con gestos exagerados. NL #y~Te~ ~llueve~ #y~Oro~ ~y~ ~confeti!~ NL @\"ES@ @LA@ @HORA@ @PARA@ @EL@ @VERDADERO@ @DESAFIO!!\"@ NL NL La última batalla deja una pequeña salida en la pared del coliseo, puedes escapar facilmente mientras todo el mundo está distraido. NL ¿Quedarse y pelear?"

@@ -168,14 +168,15 @@
   "SmokeBomb": {
     "NAME": "Bomba de Humo",
     "DESCRIPTIONS": [
-      "Escapa de un combate que no sea de Jefe. No recibes recompensa."
+      "Escapa de un combate que no sea de Jefe. No recibes recompensa.",
+      "Estoy rodeado!"
     ]
   },
   "SneckoOil": {
     "NAME": "Aceite de Snecko",
     "DESCRIPTIONS": [
-      "Roba #b",
-      " cartas. Obtienes #y'Confusión'.",
+      "Te vuelves #yConfuso. Roba #b",
+      " cartas.",
       "carta."
     ]
   },

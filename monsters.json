@@ -674,5 +674,29 @@
     "DIALOG": [
       ""
     ]
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Masa Inquieta",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Lanza de la Aguja"
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Escudo de la Aguja",
+    "DIALOG": [
+      ""
+    ]
   }
 }

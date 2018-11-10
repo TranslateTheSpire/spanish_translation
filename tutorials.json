@@ -153,7 +153,8 @@
       "El Comerciante no ofrece reembolsos. Es un idiota.",
       "El servicio de remover cartas sube de precio cada vez que lo uses.",
       "El servicio de remover cartas solo se puede usar una vez en cada tienda.",
-      "Los daños de pociones, reliquias y poderes no se consideran daños de ataque."
+      "Los daños de pociones, reliquias y poderes no se consideran daños de ataque.",
+   	  "Las cartas aleatorias generadas en combate nunca te curarán."
     ],
     "LABEL": [
       "Puedes descartar pociones para hacer espacio para otras nuevas."

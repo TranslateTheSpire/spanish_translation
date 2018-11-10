@@ -396,7 +396,8 @@
   "Flight": {
     "NAME": "Vuelo",
     "DESCRIPTIONS": [
-      "Reduce el daño recibido de los #yAtaques un #b50%. Se cancela si se recibe daño de #yAtaques #b3 veces en un turno."
+      "Reduce el daño recibido de los #yAtaques un #b50%. Se cancela si se recibe daño de #yAtaques #b",
+      " veces en un turno."
     ]
   },
   "Focus": {
@@ -976,6 +977,39 @@
     "DESCRIPTIONS": [
       "Al final de tu turno, pierde #b ",
       " Destreza."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Latido de Muerte",
+    "DESCRIPTIONS": [
+      "Siempre que juegues una carta, recibe #b",
+      " daño y aumenta el daño del poder por #b1. Se reinicia en cada turno."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Invencible",
+    "DESCRIPTIONS": [
+      "Solo puedes perder #b",
+	  " PV más este turno.",
+	  "No puedes recibir daño este turno."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Reactivo",
+    "DESCRIPTIONS": [
+      "Al recibir daño de ataque, cambia su intención."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Rodeado",
+    "DESCRIPTIONS": [
+      "Recibe #b50% más de daño si eres atacado por la espalda. Usa cartas dirigidas o pociones para cambiar tu orientación."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Ataque por la espalda",
+    "DESCRIPTIONS": [
+      "Hace #b50% más de daño ya que te está atacando por detrás."
     ]
   }
 }
