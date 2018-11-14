@@ -286,7 +286,7 @@
   },
   "Consume": {
     "NAME": "Consumir",
-    "DESCRIPTION": "Gana !M! de Concentración. NL Pierde 1 espacio de Orbe."
+    "DESCRIPTION": "Gana !M! de Concentración. NL Pierde 1 Espacio de Orbe."
   },
   "Coolheaded": {
     "NAME": "Con la Cabeza Fría",
@@ -967,7 +967,7 @@
   },
   "Regret": {
     "NAME": "Arrepentimiento",
-    "DESCRIPTION": "Injugable. NL Al final de tu turno, pierde 1 PV por cada carta en la mano."
+    "DESCRIPTION": "Injugable. NL Al final de tu turno, pierde PV igual al número de cartas en tu mano."
   },
   "Reinforced Body": {
     "NAME": "Cuerpo Reforzado",
