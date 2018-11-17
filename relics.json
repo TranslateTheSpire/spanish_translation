@@ -708,7 +708,7 @@
     "NAME": "Bendición de Neow",
     "FLAVOR": "La bendición del lamento otorgada a ti por Neow.",
     "DESCRIPTIONS": [
-      "Los enemigos en tus primeros #b3 combates tendrán 1 PV.",
+      "Los enemigos en tus primeros #b3 combates tendrán #b1 PV.",
       "La bendición fue usada totalmente."
     ]
   },
