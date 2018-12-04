@@ -355,7 +355,8 @@
     "NAME": "Chip de Emoción",
     "FLAVOR": "¿...<3...?",
     "DESCRIPTIONS": [
-      "Al comienzo de cada turno, si recibiste daño el turno anterior, activa la habilidad pasiva de todos tus orbes."
+      "Si recibiste daño el turno anterior, activa la habilidad pasiva de todos tus orbes al comienzo de tu turno."
+      "If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn."
     ]
   },
   "Empty Cage": {
