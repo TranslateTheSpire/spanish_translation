@@ -544,8 +544,8 @@
   "Magnetism": {
     "NAME": "Magnetismo",
     "DESCRIPTIONS": [
-      "Al comienzo de tu turno, añade #b%s carta incolora aleatoria a tu mano.",
-      "Al comienzo de tu turno, añade #b%s cartas incoloras aleatorias a tu mano."
+      "Al comienzo de tu turno, añade #b%s carta Incolora aleatoria a tu mano.",
+      "Al comienzo de tu turno, añade #b%s cartas Incoloras aleatorias a tu mano."
     ]
   },
   "Malleable": {
@@ -664,10 +664,10 @@
   "Plated Armor": {
     "NAME": "Armadura de Placas",
     "DESCRIPTIONS": [
-      "Gana #b",
-      " de #yBloqueo al final de tu turno. Perder PV de un ataque reduce #yArmadura #yde #yPlacas en #b1.",
-      "Gana #b",
-      " de #yBloqueo al final de tu turno. Perder PV de un ataque reduce #yArmadura #yde #yPlacas en #b1."
+      "Al final de tu turno, gana #b",
+      " de #yBloqueo. Perder PV de un ataque reduce #yArmadura #yde #yPlacas en #b1.",
+      "Al final de tu turno, gana #b",
+      " de #yBloqueo. Perder PV de un ataque reduce #yArmadura #yde #yPlacas en #b1."
     ]
   },
   "Poison": {
