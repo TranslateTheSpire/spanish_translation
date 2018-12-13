@@ -389,7 +389,7 @@
   "Flex": {
     "NAME": "Flexionar",
     "DESCRIPTIONS": [
-      "Al final de tu turno, pierde#b",
+      "Al final de tu turno, pierde #b",
       " de #yFuerza."
     ]
   },
