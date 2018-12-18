@@ -70,7 +70,7 @@
   "Big Fish": {
     "NAME": "Pez Gordo",
     "DESCRIPTIONS": [
-      "Mientras avanzas por un corredor extenso ves un #yplátano, un #ydonut, y una #ycaja ~flotando~. No... al inspeccionar a detalle estos están atados a cordones que bajan de agujeros en el techo. Escuchas un ligero @cacareo@ desde arriba cuando te acercas a los objetos. NL ¿Qué haces?",
+      "Mientras avanzas por un corredor extenso ves un #yplátano, un #ydonut, y una #ycaja ~flotando~ . No... al inspeccionar a detalle estos están atados a cordones que bajan de agujeros en el techo. Escuchas un ligero @cacareo@ desde arriba cuando te acercas a los objetos. NL ¿Qué haces?",
       "Te comes el #yplátano. Es nutritivo y un poco #bmágico, curandote.",
       "Te comes el #ydonut. ¡Realmente da en el blanco! Tus PV Máximos incrementa.",
       "",
@@ -115,7 +115,7 @@
       "Aquellos revividos por #yNeow solo recuerdan fragmentos de sus seres pasados, maldecidos a pelear por toda la eternidad. NL NL Al llegar cerca de la última página, ¡tus #r@viejas@ #r@heridas@ #r@empiezan@ #r@a@ #r@abrirse!@",
       "Al terminar el tomo, decides llevártelo contigo. Con evidencia en mano, ¿conservaras tus memorias?",
       "Sales, sintiendo una #p~energía~ #p~oscura~ #p~emanando~ del libro en el pedestal.",
-      "Con increíble dificultad y voluntad, resistes el trance del tomo y lo cierras de @GOLPE@. NL Giras y sales del templo, sintiéndote sin #b~energía...~"
+      "Con increíble dificultad y voluntad, resistes el trance del tomo y lo cierras de @GOLPE@ . NL Giras y sales del templo, sintiéndote sin #b~energía...~"
     ],
     "OPTIONS": [
       "[Leer]",
@@ -154,7 +154,7 @@
   "Drug Dealer": {
     "NAME": "Aumentador",
     "DESCRIPTIONS": [
-      "Un hombre con un parche en el ojo y una sonrisa endiablada se acerca a ti. NL \"Hey extraño. ¿Interesado en avanzar la ciencia? Te puedo hacer más fuerte que cualquier entrenamiento o bendición. Lo necesitaras si eres uno de esos heroes con deseo de muerte.\" NL NL ~\"¿Qué me dices?~\"",
+      "Un hombre con un parche en el ojo y una sonrisa endiablada se acerca a ti. NL \"Hey extraño. ¿Interesado en avanzar la ciencia? Te puedo hacer más fuerte que cualquier entrenamiento o bendición. Lo necesitaras si eres uno de esos heroes con deseo de muerte.\" NL NL ~\"¿Qué me dices?\" ~",
       "~\"Excelente.\"~ NL El hombre te da una jeringa aparentemente peligrosa, llena de líquido brillante, antes de escabullirse a un callejón en las sombras.",
       "~\"Magnifico.\"~ NL El hombre te inyecta tres sustancias desconocidas y saca un bloc de notas. Mientras compienzas a marearte, el empieza a escribir notas frenéticamente. NL Pierdes el sentido del tiempo, y para cuando recuperas el sentido, el turbio personaje ha desaparecido.",
       "~\"Maravilloso.\"~ NL Te tragas la misteriosa sustancia. Inmediatamente, te sientes fortalecido y sientes tus musculos @contraerse.@"
@@ -361,8 +361,8 @@
   "Liars Game": {
     "NAME": "La Ssssserpiente",
     "DESCRIPTIONS": [
-      "Entras a un cuarto y ves un gran hoyo en el suelo. Cuando te acercas al hoyo, una enorme serpiente aparece del mismo. NL NL ~\"¡Ho~ ~hooo!~ ~!Hola~ ~hola!~ ~¿qué~ ~tenemos~ ~aquí?~ Hola, amante de la aventura, mi pregunta es simple. NL La vida más gratificante es aquella en la que puedes, #y~¡comprar~ #y~lo #y~que #y~sea!~ NL ¿Estás de acuerdo?\"",
-      "~\"Síííííííssssssssssíssssí!~ NL ~Toooodo~ ~esto~ ~valdra~ ~la~ ~peeeeeena. ~NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
+      "Entras a un cuarto y ves un gran hoyo en el suelo. Cuando te acercas al hoyo, una enorme serpiente aparece del mismo. NL NL ~\"¡Ho~ ~hooo!~ ~!Hola~ ~hola!~ ~¿qué~ ~tenemos~ ~aquí?~ Hola, amante de la aventura, mi pregunta es simple. NL La vida más gratificante es aquella en la que puedes, #y~¡comprar~ #y~lo~ #y~que~ #y~sea!~ NL ¿Estás de acuerdo?\"",
+      "~\"Síííííííssssssssssíssssí!~ NL ~Toooodo~ ~esto~ ~valdra~ ~la~ ~peeeeeena.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
       "La serpiente te mira con unos ojos llenos de decepción.",
       "¡La serpiente levanta su cabeza y lanza un río de #yoro hacia arriba! NL Es asombroso y escalofriante al mismo tiempo. NL Recoges todo el #yoro, agradeces a la serpiente, y te vas."
     ],
@@ -812,7 +812,7 @@
     "NAME": "Corredores Serpenteantes",
     "DESCRIPTIONS": [
       "Mientras subes lentamente las vías retorcidas, te empiezas a perder constantemente, ya que las paredes y el suelo parecen moverse inexplicadamente antes tus ojos. NL NL Las constantes #p~voces~ #p~susurrantes~ en tu cabeza tampoco ayudan mucho.", 
-      "Al pasar frente a una estructura la cual sin ninguna duda ya habías visto te empiezas a plantear si estás perdiendo la cabeza, o si la geografía de este lugar está empezando a afectarte. Necesitas cambiar algo, y pronto. NL NL Eso es lo que dicen las #p~voces~, ¿Y por qué mentirían?",
+      "Al pasar frente a una estructura la cual sin ninguna duda ya habías visto te empiezas a plantear si estás perdiendo la cabeza, o si la geografía de este lugar está empezando a afectarte. Necesitas cambiar algo, y pronto. NL NL Eso es lo que dicen las #p~voces~ , ¿Y por qué mentirían?",
       "Algo en ti se rompe. NL NL Sólo alguien completamente fuera de quicio puede entender un lugar como este, asi que te dejas llevar por las voces y continuas con una #p~\"nueva\"~ perspectiva. Las cosas parecen tener mucho más sentido ahora.",
       "Al tomar un momento para parar y observar detenidamente el panorama a tu alrededor, un patrón empieza a emerger dentro del caos. Cuando los ruidos empiezan a interrumpir tus pensamientos, te esfuerzas para aguantar el dolor mental e ignorarlo. NL NL Al final logras encontrar un camino satisfactoriamente y continuar, ahora resistente a la naturaleza nefasta de este extraño lugar.",
       "Pasas lo que parece una eternidad perdido en el laberinto. Poco a poco, puedes volver sobre tus pasos, reorientarte y salir de los pasajes tortuosos. NL NL Te sientes #r~agotado~ de la experiencia."
