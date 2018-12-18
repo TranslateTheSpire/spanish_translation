@@ -355,7 +355,7 @@
     "NAME": "Chip de Emoción",
     "FLAVOR": "¿...<3...?",
     "DESCRIPTIONS": [
-      "Al comienzo de cada turno, si recibiste daño el turno anterior, activa la habilidad pasiva de todos tus orbes."
+      "Si recibiste daño el turno anterior, activa la habilidad pasiva de todos tus orbes al comienzo de tu turno."
     ]
   },
   "Empty Cage": {
@@ -670,7 +670,7 @@
     "NAME": "Carné de Socio",
     "FLAVOR": "\"¡Descuento de socio para mis clientes más valiosos!\"",
     "DESCRIPTIONS": [
-      "¡#b50% de descuento en todos los productos!"
+      "¡ #b50% de descuento en todos los productos!"
     ]
   },
   "Mercury Hourglass": {
@@ -780,8 +780,8 @@
     ]
   },
   "Old Coin": {
-    "NAME": "Vieja Moneda",
-    "FLAVOR": "Las monedas únicas son altamente preciadas por los comerciantes por su valor histórico y su rara composición metálica.",
+    "NAME": "Moneda Antigua",
+    "FLAVOR": "Las monedas únicas son altamente codiciadas por los Comerciantes por su valor histórico y su rara composición metálica.",
     "DESCRIPTIONS": [
       "Gana #b300 de #yoro."
     ]
@@ -1026,9 +1026,9 @@
   },
   "Smiling Mask": {
     "NAME": "Máscara Sonriente",
-    "FLAVOR": "Máscara vestida por el comerciante. Debe tener de sobra...",
+    "FLAVOR": "Máscara vestida por el Comerciante. Debe tener de sobra...",
     "DESCRIPTIONS": [
-      "El servicio del comerciante de eliminar cartas ahora siempre cuesta #b",
+      "El servicio del Comerciante de eliminar cartas ahora siempre cuesta #b",
       " de #yoro."
     ]
   },
@@ -1181,7 +1181,7 @@
   },
   "The Courier": {
     "NAME": "El Mensajero",
-    "FLAVOR": "¡La mascota personal de un comerciante!",
+    "FLAVOR": "¡La mascota personal del Comerciante!",
     "DESCRIPTIONS": [
       "Al Comerciante ya no se le acaban las cartas, reliquias ni pociones y sus precios se reducen en un #b20%."
     ]

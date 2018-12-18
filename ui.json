@@ -454,7 +454,7 @@
   },
   "DiscardPileToHandAction": {
     "TEXT": [
-      "Elige una carta para devolver a tu mano."
+      "Elige una Carta para Devolver a tu mano."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -537,7 +537,7 @@
   },
   "ExhumeAction": {
     "TEXT": [
-      "Selecciona una carta para colocar en tu mano"
+      "Selecciona una Carta para Devolver a tu mano"
     ]
   },
   "ExitGameButton": {
@@ -686,7 +686,8 @@
       "Catalán",
       "Griego",
       "Indonesio",
-      "Esperanto"
+      "Esperanto",
+      "Holandés"
     ]
   },
   "LeaderboardFilters": {
@@ -728,7 +729,7 @@
       "Una habitación desconocida. NL NL Puedes encontrar monstruos, tesoros, tiendas o algo totalmente diferente.",
       "Comerciante",
       "Tiendas",
-      "Un mercader misterioso vende sus mercancías en estas habitaciones. NL NL ¡Gasta tu bien Obtenido #yOro aquí!",
+      "El Mercader misterioso vende sus mercancías en estas habitaciones. NL NL ¡Gasta tu bien Obtenido #yOro aquí!",
       "Tesoro",
       "Sala del Tesoro",
       "#yReliquias y #yOro pueden ser encontrados en estas habitaciones codiciadas.",
