@@ -68,7 +68,8 @@
     "EVOKE": {
       "NAMES": [
         "descargar",
-        "descargado"
+        "descargado",
+        "descarga"
       ],
       "DESCRIPTION": "Consume tu Orbe de más a la derecha y usa su efecto de Descargar."
     },
