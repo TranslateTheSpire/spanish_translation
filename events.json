@@ -377,8 +377,8 @@
   "Living Wall": {
     "NAME": "Pared Viviente",
     "DESCRIPTIONS": [
-      "Cuando llegas a un callejón sin salida y empiezas a dar la vuelta, paredes @caen@ @de@ @golpe@ desde el techo, ¡atrapándote! NL NL Tres caras se materializan en las paredes y hablan. NL #b\"Olvida #blo #bque #bsabes, #by #bte #bdejaré #bir.\" NL #p\"Yo #prequiero #pcambio #ppara #pver #pun #pnuevo #pespacio.\" NL #y\"Si #yquieres #yatravesarme, #yentonces #ydebes #ycrecer.\"",
-      "Satisfechas, las paredes en frente de ti empiezan replegarse contra el techo, dejando vía libre."
+      "Cuando llegas a un callejón sin salida y empiezas a dar la vuelta, tres paredes @caen@ @de@ @golpe@ desde el techo, ¡Atrapándote! NL NL Tres caras se materializan en las paredes y hablan. NL #b\"Olvida #blo #bque #bsabes, #by #bte #bdejaré #bir.\" NL #p\"Yo #prequiero #pcambio #ppara #pver #pun #pnuevo #pespacio.\" NL #y\"Si #yquieres #yatravesarme, #yentonces #ydebes #ycrecer.\"",
+      "Satisfechas, las paredes en frente de ti empiezan replegarse contra el techo, dejando la vía libre."
     ],
     "OPTIONS": [
       "[Olvidar] #gElimina #guna #gcarta #gde #gtu #gmazo.",
