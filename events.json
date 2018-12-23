@@ -377,7 +377,7 @@
   "Living Wall": {
     "NAME": "Pared Viviente",
     "DESCRIPTIONS": [
-      "Cuando llegas a un callejón sin salida y empiezas a dar la vuelta, tres paredes @caen@ @de@ @golpe@ desde el techo, ¡Atrapándote! NL NL Tres caras se materializan en las paredes y hablan. NL #b\"Olvida #blo #bque #bsabes, #by #bte #bdejaré #bir.\" NL #p\"Yo #prequiero #pcambio #ppara #pver #pun #pnuevo #pespacio.\" NL #y\"Si #yquieres #yatravesarme, #yentonces #ydebes #ycrecer.\"",
+      "Llegas a un callejón sin salida, pero cuando empiezas a darte la vuelta, tres paredes @caen@ @de@ @golpe@ desde el techo, ¡Atrapándote! NL NL Tres caras se materializan en las paredes y hablan. NL #b\"Olvida #blo #bque #bsabes, #by #bte #bdejaré #bir.\" NL #p\"Yo #prequiero #pcambio #ppara #pver #pun #pnuevo #pespacio.\" NL #y\"Si #yquieres #yatravesarme, #yentonces #ydebes #ycrecer.\"",
       "Satisfechas, las paredes en frente de ti empiezan replegarse contra el techo, dejando la vía libre."
     ],
     "OPTIONS": [
@@ -617,7 +617,7 @@
       "[Bloqueado] Necesitas: 50 Oro.",
       "[Salir]",
       "Selecciona una Carta a Eliminar.",
-      " #PV."
+      " #gPV."
     ]
   },
   "The Joust": {
@@ -671,7 +671,7 @@
     ],
     "OPTIONS": [
       "[Abrir Cofre] #gObtén #guna #gReliquia, #r",
-      "% de #rrecibir #rmaldición #rRetorcimiento.",
+      "% #rde #rrecibir #rmaldición #rRetorcimiento.",
       "[Salir]"
     ]
   },
