@@ -1022,7 +1022,8 @@
       "%s Daño",
       "#bMejorado %s",
       "#bTransformado %s",
-      "#rPerdido %s"
+      "#rPerdido %s",
+      "#bRecordado#
     ]
   },
   "RunHistoryMonsterNames": {
