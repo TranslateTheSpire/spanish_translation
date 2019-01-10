@@ -1215,7 +1215,7 @@
   },
   "TopPanel": {
     "TEXT": [
-      " Piso",
+      "º Piso",
       " - Ascensión ",
       " (Nivel Máximo)"
     ]
@@ -1303,6 +1303,14 @@
       "Arte de carta beta de La Silenciosa desbloqueado!",
       "Arte de carta beta de El Defectuoso desbloqueado!",
       "Todos los artes de beta de carta desbloqueados!"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Diaria - Piso %s",
+      "Personalizada - Piso %s",
+      " - Piso %s",
+      "Menu Principal"
     ]
   }
 }
