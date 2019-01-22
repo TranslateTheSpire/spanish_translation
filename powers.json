@@ -280,9 +280,9 @@
   "Echo Form": {
     "NAME": "Forma de Eco",
     "DESCRIPTIONS": [
-      "La primera carta jugada cada turno se jugará #b",
-      " vez extra.",
-      " veces extra."
+      "La primera carta jugada cada turno se jugará dos veces",
+      "Las primeras #b",
+      " cartas jugadas cada turno se jugarán dos veces."
     ]
   },
   "Electro": {
@@ -529,8 +529,8 @@
     "NAME": "Bucle",
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, usa la habilidad pasiva de tu siguiente Orbe.",
-      "Al comienzo de tu turno, usa la habilidad pasiva de tus siguientes #b",
-      " Orbes."
+      "Al comienzo de tu turno, usa la habilidad pasiva de tu siguiente Orbe #b",
+      " veces."
     ]
   },
   "Machine Learning": {
