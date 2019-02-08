@@ -665,9 +665,9 @@
     "NAME": "Armadura de Placas",
     "DESCRIPTIONS": [
       "Al final de tu turno, gana #b",
-      " de #yBloqueo. Perder PV de un ataque reduce #yArmadura #yde #yPlacas en #b1.",
+      " de #yBloqueo. Recibir daño no bloqueado de ataque reduce #yArmadura #yde #yPlacas en #b1.",
       "Al final de tu turno, gana #b",
-      " de #yBloqueo. Perder PV de un ataque reduce #yArmadura #yde #yPlacas en #b1."
+      " de #yBloqueo. Recibir daño no bloqueado de ataque reduce #yArmadura #yde #yPlacas en #b1."
     ]
   },
   "Poison": {
