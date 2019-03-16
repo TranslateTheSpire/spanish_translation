@@ -345,7 +345,8 @@
       "Modificadores: ",
       "Puntuación",
       "*Los logros están desactivados para el reto diario.",
-      "  [MODO DESCONECTADO]"
+      "  [MODO DESCONECTADO]",
+      "yyyy/MM/dd"
     ]
   },
   "DeathScreen": {
@@ -867,7 +868,10 @@
       "Modo de arte de pruebas",
       "Mostrar selección rápida de cartas",
       "Configuración de controles",
-      "Desactivar los efectos de partículas"
+      "Desactivar los efectos de partículas",
+      "Resolución:",
+      "Resolución: NL Monitor en pantalla completa:",
+      "Cambia en que monitor se muestra el juego estando en pantalla completa."
     ]
   },
   "PatchNotesScreen": {
@@ -1093,7 +1097,8 @@
       "Solo Ascensión",
       "Solo Reto Diario",
       "Semilla: %s",
-      "Semilla Personalizada: %s"
+      "Semilla Personalizada: %s",
+      "d/M/yyyy, h:mm a"
     ]
   },
   "SaveSlot": {
