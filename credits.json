@@ -52,13 +52,15 @@
       "Gremlins:",
       "Oscar Cousin",
       "\"Meriscan\"",
-      "Lise Leitner"
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
     ]
   },
   "LOC_EPO": {
     "HEADER": "Traducción al Esperanto",
     "NAMES": [
-      "Vincent \"Babelismoj\" Oostelbos"
+      "Vincent \"Babelismoj\" Oostelbos",
+      "Spencer van der Meulen"
     ]
   },
   "LOC_FRA": {
@@ -88,7 +90,8 @@
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
-      "Haveiszal \"Szaal\" Faroqie"
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
     ]
   },
   "LOC_ITA": {
@@ -103,7 +106,9 @@
     "HEADER": "Traducción al Japonés",
     "NAMES": [
       "Grezzz (Traducción de la comunidad)",
-      "Kakehashi Games (Traducción oficial)"
+      "Kakehashi Games (Traducción oficial)",
+      "Japanese Localization:  Rie Ihara",
+      "Grezzz (Community Translation)"
     ]
   },
   "LOC_KOR": {
@@ -145,7 +150,7 @@
       "Erwin \"mateusz3010\" Matys",
       "Mettie",
       "Rafa³ \"SponTon83\" Szyszko",
-      "Marek \"Skorpionex\" Mazur"      
+      "Marek \"Skorpionex\" Mazur"
     ]
   },
   "LOC_PTB": {
@@ -191,7 +196,8 @@
       "Juanjo \"ajuanjojjj\" Martinez",
       "Pedro J. \"PJJLegend\" Jiménez Moyano",
       "Gramática y Limpieza:",
-      "Joaquín \"Pip1n\" López"
+      "Joaquín \"Pip1n\" López",
+      "Xavier Castañer"
     ]
   },
   "LOC_SRB": {
@@ -204,14 +210,22 @@
     "HEADER": "Traducción al Tailandés",
     "NAMES": [
       "Rapeepat Suwan (Yuu)",
-      "Sarawut Suwan (Tomoeic)"
+      "Sarawut Suwan (Tomoeic)",
+      "Traducciones adicionales:",
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Fuentes:",
+      "CSChatThaiUI por raveetavan@gmail.com",
+      "Layiji MaHaNiYom por layiji@gmail.com"
     ]
   },
   "LOC_TUR": {
     "HEADER": "Traducción al Turco",
     "NAMES": [
       "Erdem Gürbüz",
-      "\"onparalelkenarag\""
+      "\"onparalelkenarag\"",
+      "\"onparalelkenarag\"",
+      "Berkan Çalıkoğlu"
     ]
   },
   "LOC_UKR": {
@@ -270,7 +284,11 @@
       "Evan Howell",
       "Justin Myhres",
       "robojumper",
-      "Tony \"kiooeht\" Moore"
+      "Tony \"kiooeht\" Moore",
+      "John Vega",
+      "Steve Groll",
+      "Sara Popescu",
+      "Ryan Hamann"
     ]
   },
   "TEST": {
@@ -318,6 +336,46 @@
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
+    ]
+  },
+  "PORTING": {
+    "HEADER": "Porteado por",
+    "NAMES": [
+      "Sickhead Games"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Publicado por",
+    "NAMES": [
+      "Humble Bundle",
+      "CBO:  Steven Kovensky",
+      "VP, Desarrollo Comercial:  Eduardo Aparicio",
+      "Gestor de Publicación:  John Polson",
+      "Gestor de Publicación de Salida: Evan Koepf",
+      "Gestor de Publicación de Marca:  Connor Bridgeman",
+      "Director de Desarrollo Comercial, Publicación:  Mai Kawaguchi",
+      "Desarrollador Comercial Senior:  Thomas Glenn",
+      "Desarrollador Comercial Senior:  Bob Mills",
+      "Desarrollador Comercial:  Trisha Tabor",
+      "Desarrollador Comercial:  Angel Lyons-Labate",
+      "Director de Tienda:  Paul Herron",
+      "Director de Finanzas:  Eric Samuel",
+      "VP del Producto:  Nate Muller",
+      "Director de Marketing:  Jeremie Vella",
+      "Gestor de Marketing:  Whitney Stutes",
+      "Gestor de Crecimiento de Marketing:  Francois du Toit",
+      "Soporte Ninja:  Jimmy Chi",
+      "Soporte Ninja:  Kasey Brounkowski",
+      "Soporte Ninja:  Kayla Fyfe",
+      "Soporte Ninja:  Patrick Monahan"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (Traducción oficial):",
+      "Soporte de Publicación en Japón:  Kakehashi Games",
+      "Traduccion Japonesa:  Rie Ihara"
     ]
   }
 }

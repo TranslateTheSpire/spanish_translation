@@ -17,7 +17,7 @@
   },
   "Cursed Run": {
     "NAME": "Partida Maldita",
-    "DESCRIPTION": "Cuando derrotes a un Jefe, ganas una Maldición. Tu reliquia inicial es reemplazada por 'Llave Maldita', 'Amuleto de Piedraoscura', y 'Muñeco de Du-Vu'"
+    "DESCRIPTION": "Cuando derrotes a un Jefe, ganas una Maldición. Tu reliquia inicial es reemplazada por 'Llave Maldita', 'Amuleto de Piedraoscura', y 'Muñeco de Du-Vu.'"
   },
   "Diverse": {
     "NAME": "Diversidad",
@@ -28,8 +28,8 @@
     "DESCRIPTION": "Monta un mazo inicial personalizado."
   },
   "Elite Swarm": {
-    "NAME": "Cazador de Caza Mayor",
-    "DESCRIPTION": "Enemigos Elite estan invadiendo la Torre y dejan mejores recompensas"
+    "NAME": "Cazador de Alto Rango",
+    "DESCRIPTION": "Enemigos Elite estan invadiendo la Torre y dejan mejores recompensas."
   },
   "Endless": {
     "NAME": "Sin Fin",
@@ -41,7 +41,7 @@
   },
   "Hoarder": {
     "NAME": "Acaparador",
-    "DESCRIPTION": "Cuando añades una carta a tu mazo, agrega dos copias adicionales. Ya no puedes remover cartas de tu mazo con el Vendedor."
+    "DESCRIPTION": "Cuando añades una carta a tu mazo, agrega dos copias adicionales. Ya no puedes eliminar cartas de tu mazo con el Vendedor."
   },
   "Inception": {
     "NAME": "Comienzo",
@@ -61,14 +61,14 @@
   },
   "My True Form": {
     "NAME": "Mi Verdadera Forma",
-    "DESCRIPTION": "Empieza con una copia de Forma Demoníaca, Forma Espectral y Forma Eco."
+    "DESCRIPTION": "Empieza con una copia de Forma Demoníaca, Forma Espectral y Forma de Eco."
   },
   "Night Terrors": {
     "NAME": "Terrores Nocturnos",
-    "DESCRIPTION": "Decansar en Áreas de Descanso te cura 100% de tus PV, pero te cuesta 5 PV Máximos"
+    "DESCRIPTION": "Decansar en Áreas de Descanso te cura 100% de tus PV, pero te cuesta 5 PV Máximos."
   },
   "One Hit Wonder": {
-    "NAME": "Un Golpe Mata",
+    "NAME": "De Un Golpe",
     "DESCRIPTION": "Empieza la partida con 1 PV máximo."
   },
   "Praise Snecko": {
@@ -89,7 +89,7 @@
   },
   "Terminal": {
     "NAME": "Terminal",
-    "DESCRIPTION": "Cuando entras a una nueva habitación, pierde 1 PV máximo. Comienza cada combate con 5x 'Armadura de Placas'."
+    "DESCRIPTION": "Cuando entras en una nueva habitación, pierdes 1 PV máximo. Comienza cada combate con 5x 'Armadura de Placas'."
   },
   "Time Dilation": {
     "NAME": "Dilatación Temporal",
@@ -101,9 +101,9 @@
   },
   "Vintage": {
     "NAME": "Clásico",
-    "DESCRIPTION": "Los enemigos normales dejan reliquias en vez de cartas"
+    "DESCRIPTION": "Los enemigos normales dejan reliquias en vez de cartas."
   },
-    "Red Cards": {
+  "Red Cards": {
     "NAME": "Cartas Rojas",
     "DESCRIPTION": "Las cartas rojas aparecen en tiendas y recompensas."
   },
@@ -119,43 +119,43 @@
     "NAME": "Cartas Incoloras",
     "DESCRIPTION": "Las cartas incoloras aparecen en recompensas."
   },
-    "Stunted Growth": {
+  "Stunted Growth": {
     "NAME": "Crecimiento atrofiado",
     "DESCRIPTION": "Los enemigos ya no sueltan cartas como recompensa después de superar el Acto 3 en Endless."
   },
-    "SealedDeck": {
+  "SealedDeck": {
     "NAME": "Baraja Sellada",
     "DESCRIPTION": "Elabora una baraja a partir de 30 cartas aleatorias."
   },
-    "Flight": {
+  "Flight": {
     "NAME": "Vuelo",
     "DESCRIPTION": "Puedes ignorar los caminos cuando elijas la siguiente habitación a la que viajar."
   },
-    "Chimera": {
+  "Chimera": {
     "NAME": "Quimera",
     "DESCRIPTION": "Tu baraja inicial es una fusión de la de los 3 personajes."
   },
-    "NeowTime": {
+  "NeowTime": {
     "NAME": "Hora de Neow",
     "DESCRIPTION": "Recibe 3 bendiciones y 1 maldición de Neow."
   },
-    "IntelligentEnemies": {
+  "IntelligentEnemies": {
     "NAME": "Enemigos Inteligentes",
     "DESCRIPTION": "Todos los enemigos tienen más movimientos y habilidades desafiantes."
   },
-    "Careless": {
+  "Careless": {
     "NAME": "Sin Cuidado",
     "DESCRIPTION": "Al inicio de cada turno, descarta la la primera carta de tu pila de robado."
   },
-    "ControlledChaos": {
+  "ControlledChaos": {
     "NAME": "Caos Controlado",
     "DESCRIPTION": "Empieza con la reliquia Ojo Congelado. Al inicio de tu turno añade 10 cartas aleatorias al final de tu pila de robado."
   },
-    "MonsterHunter": {
+  "MonsterHunter": {
     "NAME": "[OBSOLETO]Coloso",
     "DESCRIPTION": "Los enemigos tienen más PV pero sueltan mejores recompensas."
   },
-    "DeadlyEvents": {
+  "DeadlyEvents": {
     "NAME": "Eventos Mortales",
     "DESCRIPTION": "Las habitaciones ? ahora pueden contener Élites, pero también aumenta la probabilidad de que contengan habitaciones del Tesoro."
   },
@@ -168,4 +168,3 @@
     "DESCRIPTION": "Habilita el Acto Final."
   }
 }
-

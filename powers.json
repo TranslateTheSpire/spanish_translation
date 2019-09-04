@@ -16,9 +16,9 @@
   "Amplify": {
     "NAME": "Amplificar",
     "DESCRIPTIONS": [
-      "Durante este turno, juega tu siguiente #yPoder dos veces.",
-      "Durante este turno, juega tus siguientes",
-      " #yPoderes dos veces."
+      "Tu siguiente carta de #yPoder se juega dos veces este turno.",
+      "Tus siguientes cartas de",
+      " #yPoder se juegan dos veces este turno."
     ]
   },
   "Anger": {
@@ -32,7 +32,7 @@
     "NAME": "Furioso",
     "DESCRIPTIONS": [
       "Cada vez que ",
-      " recibes daño de un  #yAtaque, ganas #b",
+      " recibes daño no bloqueado de un #yAtaque, ganas #b",
       " de #yFuerza."
     ]
   },
@@ -184,7 +184,7 @@
   "Curl Up": {
     "NAME": "Enrollar",
     "DESCRIPTIONS": [
-      "Al recibir daño de un #yAtaque, se enrolla y gana ",
+      "Al recibir daño sin bloquear de un #yAtaque, se enrolla y gana ",
       " #yBloqueo."
     ]
   },
@@ -863,7 +863,7 @@
   "StaticDischarge": {
     "NAME": "Descarga electroestática",
     "DESCRIPTIONS": [
-      "Cuando recibas daño de #yAtaque, #yInvoca #b",
+      "Cuando recibas daño no bloqueado de #yAtaque, #yInvoca #b",
       " #yRelámpago."
     ]
   },
@@ -990,8 +990,8 @@
     "NAME": "Invencible",
     "DESCRIPTIONS": [
       "Solo puedes perder #b",
-	  " PV más este turno.",
-	  "No puedes recibir daño este turno."
+      " PV más este turno.",
+      "No puedes recibir daño este turno."
     ]
   },
   "Compulsive": {

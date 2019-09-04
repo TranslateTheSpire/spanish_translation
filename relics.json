@@ -56,7 +56,7 @@
   },
   "Black Blood": {
     "NAME": "Sangre negra",
-    "FLAVOR": "La furia aumenta aún más tenebrosa.",
+    "FLAVOR": "La furia se vuelve aún más tenebrosa.",
     "DESCRIPTIONS": [
       "Reemplaza #rSangre #rardiente. Al final del combate cura #b",
       " PV."
@@ -299,7 +299,7 @@
     "FLAVOR": "Marcador",
     "DESCRIPTIONS": [
       "Al comienzo de cada turno gana #b",
-      " Carga. NL (No puede ser removida o transformada.)"
+      " Carga. NL (No puede ser eliminada o transformada.)"
     ]
   },
   "Discerning Monocle": {

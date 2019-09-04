@@ -136,7 +136,7 @@
   },
   "AscensionUnlockEffect": {
     "TEXT": [
-      "¡Ascensión desbloquedo!"
+      "¡Ascensión desbloqueado!"
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -150,6 +150,13 @@
       "Turno del jugador",
       "Turno enemigo",
       " turno"
+    ]
+  },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Elige una carta para poner en tu mano.",
+      "Elige ",
+      " cartas para poner en tu mano."
     ]
   },
   "BossChest": {
@@ -176,7 +183,7 @@
   },
   "CampfireSleepEffect": {
     "TEXT": [
-      "¿Soñando?"
+      "¿Soñoliento?"
     ]
   },
   "CampfireSmithEffect": {
@@ -191,12 +198,12 @@
   },
   "CampfireUI": {
     "TEXT": [
-      "¿Que hacer?",
+      "¿Qué hago?",
       "Hmm...",
-      "¿Que deberia hacer?",
-      "Hora de un descanso",
+      "¿Qué debería hacer?",
+      "Toca un descanso.",
       "Tantas opciones...",
-      "Deberia descansar",
+      "Debería descansar.",
       "Estoy tan cansado..."
     ]
   },
@@ -211,7 +218,8 @@
       "Tipo",
       "A-Z",
       "Coste",
-      "Saltar a:"
+      "Saltar a:",
+      "Obtenida"
     ]
   },
   "CardLibraryScreen": {
@@ -240,7 +248,7 @@
     "TEXT": [
       "Bloqueado",
       "Este personaje es desbloqueado al completar una sola partida.",
-      "Esta personaje todavía no está disponible en Early Access.",
+      "Este personaje todavía no está disponible en Early Access.",
       "Este personaje es desbloqueado llegando a la cima de La Torre.",
       "PV: ",
       "Oro: ",
@@ -317,20 +325,21 @@
   "CustomModeScreen": {
     "TEXT": [
       "Partida personalizada",
-      "Los logros y las Tablas de Puntuación están desactivadas.",
+      "Los Logros y las Tablas de Puntuación están desactivadas.",
       "Personaje",
       "Ascensión",
       "Nivel ",
       "Modo ascensión",
       "Modificadores",
       "Semilla",
-      "Usar semilla"
+      "Usar semilla",
+      "Trofeos y las Tablas de Puntuación están desactivadas."
     ]
   },
   "DailyScreen": {
     "TEXT": [
       "Reto diario",
-      "Conectandote al servidor de tiempo...",
+      "Conectándote al servidor de tiempo...",
       "#yNOTA: Ya has completado el reto de hoy. NL No se suben puntuaciones de intentos repetidos.",
       "Regresar",
       "Embarcarse",
@@ -346,7 +355,8 @@
       "Puntuación",
       "*Los logros están desactivados para el reto diario.",
       "  [MODO DESCONECTADO]",
-      "yyyy/MM/dd"
+      "yyyy/MM/dd",
+      "*Los Trofeos están desactivados para el reto diario."
     ]
   },
   "DeathScreen": {
@@ -377,18 +387,18 @@
       "¡Inconcebible!",
       "¿Es este mi verdadero potencial?",
       "Qué mala suerte...",
-      "Asi no...",
+      "Así no...",
       "No tan cerca de la cima.",
       "La Torre consume a uno más...",
-      "Tu conciencia se desvanece...",
+      "Tu consciencia se desvanece...",
       "Derrota",
       "Aceptación",
       "Continuar",
       "Reintentar",
-      "Menu Principal",
+      "Menú Principal",
       "Proceder",
       "Desbloquear",
-      "Menu Principal",
+      "Menú Principal",
       "Reintentar",
       "Proceder",
       "Desbloquear",
@@ -450,7 +460,7 @@
   },
   "DiscardPilePanel": {
     "TEXT": [
-      "Mi Pila de Descartes esta #rvacía."
+      "Mi Pila de Descarte esta #rvacía."
     ]
   },
   "DiscardPileToHandAction": {
@@ -646,7 +656,7 @@
       "Ajustes",
       "Ajustes*",
       "Pila de Robado*",
-      "Pila de Descartes*",
+      "Pila de Descarte*",
       "Arriba*",
       "Abajo*",
       "Izquierda*",
@@ -657,7 +667,8 @@
       "Derecha (Alt)*",
       "Arriba",
       "Abajo",
-      "Mando Habilitado"
+      "Mando Habilitado",
+      "Modo Pantalla Táctil"
     ]
   },
   "LanguageDropdown": {
@@ -749,7 +760,8 @@
   "Lift Option": {
     "TEXT": [
       "Levantar pesas",
-      "Comienza las batallas con +1 Fuerza. (Hasta 3)"
+      "Comienza las batallas con +1 Fuerza. (Hasta 3)",
+      ""
     ]
   },
   "MainMenuScreen": {
@@ -790,19 +802,19 @@
     "TEXT": [
       "Estándar",
       "",
-      "Embarcate en una misión para vencer a la Torre.",
+      "Embárcate en una misión para vencer a la Torre.",
       "Ascenso Diario",
       "",
-      "Un nuevo reto está disponible una vez al día.\n\n¡Compite con otros jugadores por la mayor puntuación!",
+      "Cada día hay un nuevo reto disponible.\n\n¡Compite con otros jugadores por la mayor puntuación!",
       "Ascensión",
       "",
-      "La torre se vuelve mas poderosa con cada victoria.\n\nPrueba los limites de tus mejores estrategias.",
+      "La torre se vuelve más poderosa con cada victoria.\n\nPrueba los límites de tus mejores estrategias.",
       "Biblioteca de Cartas",
       "",
-      "Ve todas las cartas que has encontrado en la Torre.",
+      "Consulta todas las cartas que has descubierto en la Torre.",
       "Colección de Reliquias",
       "",
-      "Examina los varios artefactos que has obtenido en tus partidas.",
+      "Examina cada una de las reliquias que has descubierto en la Torre.",
       "Bestiario",
       "",
       "Esta opción no está disponible por el momento.",
@@ -814,21 +826,23 @@
       "Mira y compara tus puntuaciones con tus amigos y otros jugadores.",
       "Historial de Partidas",
       "",
-      "Revisa tus intentos pasados de vencer a la Torre.",
+      "Historial de tus intentos pasados de escalar la Torre.",
       "Opciones de Juego",
       "",
       "Cambia tu resolución y activa/desactiva varias opciones.",
       "Opciones de Control",
       "",
-      "Esta opción no está disponible por el momento.",
+      "Cambia la distribución y configuración de los controles.",
       "Créditos",
       "",
-      "¡Ve a todas las personas que contribuyeron en Slay the Spire!",
+      "¡Mira todas las personas que contribuyeron en Slay the Spire!",
       "Desconocido",
       "",
       "Esta opción no está disponible por el momento.",
       "Partida Personalizada",
-      "Juega una partida personalizada con los modificadores que quieras ."
+      "Juega una partida personalizada con los modificadores que quieras.",
+      "Cambia tus controles.",
+      "Cambia tus configuraciones gráficas, de audio y de juego."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -853,7 +867,7 @@
       "Resolución: NL Framerate máximo:",
       "Pantalla completa NL Pantalla completa sin bordes (recomendado) NL Sacudir Pantalla",
       "Sonido",
-      "Sonido Master NL Volúmen de la Música NL Volúmen de Efectos",
+      "Sonido Máster NL Volúmen de la Música NL Volúmen de Efectos",
       "Sonidos de Fondo NL Silenciar al estar de fondo",
       "Preferencias",
       "Mostrar suma de daño en dorado NL Mostrar daño bloqueado en azul NL Desactivar confirmación al escoger 1 carta",
@@ -871,7 +885,8 @@
       "Desactivar los efectos de partículas",
       "Resolución:",
       "Resolución: NL Monitor en pantalla completa:",
-      "Cambia en que monitor se muestra el juego estando en pantalla completa."
+      "Cambia en que monitor se muestra el juego estando en pantalla completa.",
+      "Confirmar con pulsaciones largas"
     ]
   },
   "PatchNotesScreen": {
@@ -918,7 +933,7 @@
       "Común:",
       "Reliquias débiles que se encuentran comúnmente.",
       "Poco Común:",
-      "Reliquias mas fuertes que aparecen con menos frecuencia que las reliquias comunes.",
+      "Reliquias más fuertes que aparecen con menos frecuencia que las reliquias comunes.",
       "Rara:",
       "Reliquias poderosas y únicas que raramente se ven.",
       "Jefe:",
@@ -952,7 +967,8 @@
       "Descansar",
       "Cura un 20% de tus PV Máximo (",
       " PV de ",
-      "Cura un 30% de tus PV Máximo ("
+      "Cura un 30% de tus PV Máximo (",
+      ""
     ]
   },
   "RestartForChangesEffect": {
@@ -999,7 +1015,7 @@
       "#r%s Turnos",
       "#r%s #r/ #r%s #rPV",
       "#y%s #yOro",
-      "Obtenido %s",
+      "Obtenido:",
       "Saltado:",
       "Falta información",
       "+2 PV Max",
@@ -1026,7 +1042,8 @@
       "%s Daño",
       "#bMejorado %s",
       "#bTransformado %s",
-      "#rPerdido %s"
+      "#rPerdido %s",
+      "#bRecordado"
     ]
   },
   "RunHistoryMonsterNames": {
@@ -1045,13 +1062,13 @@
       "Centinela y Guardián Esférico",
       "Centurion y Místico",
       "Parásito y Bestia Hongo",
-      "Banda de Bandidos Enmascarados",
+      "Banda de Bandidos Enmáscarados",
       "Peces Gordos del Coliseo",
       "Esclavos del Coliseo",
-      "Tres Formas",
+      "Tres Formás",
       "Horda de Gusanos Mandibulares",
-      "Cuatro Formas",
-      "Guardian Esférico con Formas",
+      "Cuatro Formás",
+      "Guardian Esférico con Formás",
       "Caminantes Doble Orbe",
       "Donu y Deca",
       "Centinelas",
@@ -1060,8 +1077,8 @@
       "(Obsoleto) Esclavista y Parásito",
       "(Obsoleto) Serpeinte y Místicos",
       "Escudo y Lanza"
-   ]
-  },  
+    ]
+  },
   "RunHistoryScreen": {
     "TEXT": [
       "El Blindado",
@@ -1120,7 +1137,8 @@
       "Introduce una nueva semilla",
       "Confirmar",
       "Cancela",
-      "*Los logros y rankings serán desactivados al utilizar una semilla personalizada."
+      "*Los Logros y rankings serán desactivados al utilizar una semilla personalizada.",
+      "*Los Trofeos y rankings serán desactivados al utilizar una semilla personalizada."
     ]
   },
   "SettingsScreen": {
@@ -1314,7 +1332,19 @@
       "Diaria - Piso %s",
       "Personalizada - Piso %s",
       " - Piso %s",
-      "Menu Principal"
+      "Menu Principal",
+      " (A%s)"
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Pulsa ",
+      " para Empezar",
+      "Cambiar perfil",
+      "Display Area",
+      "A sign-in change has occurred. Please sign back in or exit to the title screen.",
+      "Sign-in",
+      "Exit"
     ]
   }
 }

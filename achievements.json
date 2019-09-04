@@ -16,11 +16,11 @@
       "Infinito",
       "No eres nada",
       "Perfecto",
-      "El Guardian",
+      "El Guardián",
       "El Fantasma",
       "El Jefe",
       "El Autómata",
-      "El Coleccionista",
+      "Coleccionista",
       "El Campeón",
       "El Cuervo",
       "Las Figuras",
@@ -33,13 +33,13 @@
       "Asciende 0",
       "Asciende 10",
       "Minimalista",
-      "¡Ooh, rosquilla!",
+      "¡Oh, rosquilla!",
       "Zafiro",
       "Sentido común",
       "Concentrado",
       "Neón",
       "La energía está sobrevalorada",
-      "Mi dia de suerte",
+      "Mi día de suerte",
       "El Transitorio",
       "Asciende 20",
       "Rubí+",
@@ -53,12 +53,12 @@
       "Ten 3 o menos cartas en la mano, la pila de extracción y la pila de descartes en total.",
       "Gana un combate sin jugar un Ataque.",
       "Agota 20 cartas en un solo combate.",
-      "Ten 9 de Energía durante un solo turno de combate.",
+      "Ten 9 de Energía durante un solo turno en combate.",
       "Ten 10 o más mejoras durante un combate.",
       "Ten 50 o más Fuerza durante un combate.",
       "Ten 99 o más Bloqueo durante un combate.",
       "Ten 999 Bloqueo durante un combate.",
-      "Aplica 99 o más Veneno en un solo enemigo.",
+      "Aplica 99 o más Veneno a un solo enemigo.",
       "Derrota a 3 enemigos con Veneno en un solo combate.",
       "Juega 10 Navajas en un solo turno.",
       "Juega 25 cartas en un solo turno.",
@@ -83,10 +83,10 @@
       "Gana una partida con un mazo de 5 cartas o menos",
       "Derrota a Donu con 'Alimentarse'",
       "Gana una partida con El Defectuoso.",
-      "Gana el juego con un mazo sin cartas no comunes o raras.",
-      "Ten 25 o mas Concentración durante un combate.",
-      "Canaliza 9 Plasma en un solo turno.",
-      "Juega 10 o mas cartas de coste 0 en un solo turno.",
+      "Gana el juego con un mazo sin cartas no comunes ni raras.",
+      "Ten 25 o más de Concentración durante un combate.",
+      "Canaliza 9 Orbes de Plasma en un solo turno.",
+      "Juega 10 o más cartas de coste 0 en un solo turno.",
       "Gana un Ascenso Diario.",
       "Derrota a El Transitorio antes de que se desvanezca.",
       "Completa el nivel 20 de Ascensión.",
@@ -136,6 +136,14 @@
     ],
     "TEXT": [
       "Volver"
+    ]
+  },
+  "PS4Trophy": {
+    "NAMES": [
+      "El Eterno."
+    ],
+    "TEXT": [
+      "Obtén todos los Trofeos."
     ]
   }
 }
