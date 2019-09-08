@@ -549,7 +549,8 @@
       "Lo tocas. NL NL Un #r@dolor@ #r@agudo@ te atraviesa, seguido de vivaces destellos de un recuerdo lejano. NL ...¿De quién son estos recuerdos?",
       "#r~MIEDO.~ NL NL Una criatura demoníaca se alza ante ti, con sus alas desplegadas, y carcajadas aullantes. Los cuerpos sin vida de una tribu te rodean mientras el pueblo es sumido en terribles #p~llamas~ #p~oscuras.~ NL NL El demonio te llama, provocándote. NL NL \" #r@AHORA@ #r@SÍ@ #r@QUE@ #r@ERES@ #r@EL@ #r@MÁS@ #r@FUERTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Su risa resuena eternamente... ",
       "#g~TRIUNFO.~ NL NL Los restos de una #p~criatura~ #p~fantasmal~ se hunden en el fango ante ti, apenas visibles a la luz de la luna. Has demostrado tu valía entre tus hermanas. NL NL Irguiéndote victorioso, esperas en silencio mientras las otras colocan ceremonialmente la #ycalavera de la #ycriatura en tu cabeza. El ritual ha acabado. NL NL Te diriges hacia la Torre...",
-      "#b~DESCONOCIDO.~ NL NL Aún sin implementar."
+      "#b~DESCONOCIDO.~ NL NL Aún sin implementar.",
+      "#p~SERENITY.~ NL NL Dos criaturas primitivas luchan por un cuerpo al lado del camino. Observas, sin ninguna emoción. NL #yObservar. #yRecordar. #yVivir. Esta es la misión del Vigilante. NL NL Hace poco, uno de tus compañeros ha dejado de informar en su misión: un Aguja de origen desconocido. NL NL Cuando la pelea termina, continuas tu camino, sin inmutarte por la sangrienta pelea que acaba de ocurrir."
     ],
     "OPTIONS": [
       "[Recordar] #gAñade #g1 #gCartas #gincoloras #ga #gtu #gmazo.",
@@ -584,14 +585,15 @@
       " de daño al corazón.",
       " NL Un total de #b",
       " de daño ha sido causado por todos los que se han enfrentado a él.",
-      " NL El corazón pulsa fuerte y más fuerte mientras tu #y~consciencia~ se #y~desvanece...~",
+      " NL El corazón late fuerte y más fuerte mientras tu #y~consciencia~ se #y~desvanece...~",
       "NL Preparas tu espada...",
       "NL Preparas tus dagas...",
       "NL Cargas tu centro a su máxima capacidad...",
       " Te preguntas, ~\"¿He~ ~estado~ ~aquí~ ~antes?\"~",
-      " NL El corazón pulsa fuerte y más fuerte mientras tu #y~consciencia~ se #y~desvanece...~",
+      " NL El corazón late fuerte y más fuerte mientras tu #y~consciencia~ se #y~desvanece...~",
       " NL Un repentino impulso de #y@energía@ emana de tu interior, #b@sacudiendote@ y despertandote.",
-      " NL El corazon #gretrocede hacia arriba! Una gran puerta se revela en su lugar."
+      " NL El corazon #gretrocede hacia arriba! Una gran puerta se revela en su lugar.",
+      " NL Cargas tu bastón con energía divina..."
     ],
     "OPTIONS": [
       "[Continuar]",

@@ -166,5 +166,9 @@
   "The Ending": {
     "NAME": "El Final",
     "DESCRIPTION": "Habilita el Acto Final."
+  },
+  "Purple Cards": {
+    "NAME": "Cartas Moradas",
+    "DESCRIPTION": "Las cartas moradas aparecen en tiendas y recompensas."
   }
 }

@@ -46,7 +46,9 @@
       "Emeralda+",
       "Zafiro+",
       "El Final",
-      "El Eterno"
+      "El Eterno",
+      "Amatista",
+      "Amatista+"
     ],
     "TEXT": [
       "Gana una batalla con solo 1 PV.",
@@ -94,7 +96,9 @@
       "Completa el final con la Silenciosa.",
       "Completa el final con el Defectuoso.",
       "Completa el final con el Blindado, la Silenciosa, y el Defectuoso.",
-      "Obtén todos los logros."
+      "Obtén todos los logros.",
+      "Completa el juego con el Vigilante.",
+      "Completa el final con el Vigilante."
     ]
   },
   "CharStat": {
@@ -132,7 +136,8 @@
       "#yLogros",
       "#rEl #rBlindado",
       "#gLa #gSilenciosa",
-      "#bEl #bDefectuoso"
+      "#bEl #bDefectuoso",
+      "#pEl #pVigilante"
     ],
     "TEXT": [
       "Volver"

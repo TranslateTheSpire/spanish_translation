@@ -71,7 +71,8 @@
       "Bloqueado",
       "El Blindado",
       "La Silenciosa",
-      "El Defectuoso"
+      "El Defectuoso",
+      "El Vigilante"
     ]
   },
   "AbstractPotion": {
@@ -231,7 +232,8 @@
       "Incolora",
       "Maldiciones",
       "Condiciones",
-      "Ver Mejora"
+      "Ver Mejora",
+      "Morado"
     ]
   },
   "CardRewardScreen": {
@@ -241,7 +243,8 @@
       "+2 PV Máximo",
       "VOTA AHORA: ",
       "s restantes.",
-      "Ver mejora"
+      "Ver mejora",
+      "Elige Una"
     ]
   },
   "CharacterOption": {
@@ -255,7 +258,8 @@
       " Desbloqueos Pendientes",
       "Desconocido",
       "???",
-      " Al Siguiente Desbloqueo"
+      " Al Siguiente Desbloqueo",
+      "Este personaje es desbloqueado al completar una partida normal y tener el tercer personaje desbloqueado."
     ]
   },
   "CharacterSelectScreen": {
@@ -273,7 +277,8 @@
       "Semilla ",
       "Semilla aleatoria",
       "La semilla inicial se utiliza para determinar la aleatoriedad de la partida.",
-      "Establecer semilla"
+      "Establecer semilla",
+      "El Vigilante"
     ]
   },
   "ChooseOneScreen": {
@@ -714,7 +719,8 @@
       "Puntuación más Alta",
       "Option 6. DO NOT TRANSLATE",
       "Amigos",
-      "Global"
+      "Global",
+      "Vigilante"
     ]
   },
   "LeaderboardsScreen": {
@@ -842,7 +848,9 @@
       "Partida Personalizada",
       "Juega una partida personalizada con los modificadores que quieras.",
       "Cambia tus controles.",
-      "Cambia tus configuraciones gráficas, de audio y de juego."
+      "Cambia tus configuraciones gráficas, de audio y de juego.",
+      "Laboratorio de Pociones",
+      "Observa las numerosas pociones encontradas al escalar la Aguja."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -1115,7 +1123,8 @@
       "Solo Reto Diario",
       "Semilla: %s",
       "Semilla Personalizada: %s",
-      "d/M/yyyy, h:mm a"
+      "d/M/yyyy, h:mm a",
+      "El Vigilante"
     ]
   },
   "SaveSlot": {
@@ -1321,10 +1330,11 @@
   },
   "BetaArtUnlockEffect": {
     "TEXT": [
-      "Arte de carta beta de El Blindado desbloqueado!",
-      "Arte de carta beta de La Silenciosa desbloqueado!",
-      "Arte de carta beta de El Defectuoso desbloqueado!",
-      "Todos los artes de beta de carta desbloqueados!"
+      "¡Arte de carta beta de El Blindado desbloqueado!",
+      "¡Arte de carta beta de La Silenciosa desbloqueado!",
+      "¡Arte de carta beta de El Defectuoso desbloqueado!",
+      "¡Todos los artes de beta de carta desbloqueados!",
+      "¡Arte de carta beta de El Vigilante desbloqueado!"
     ]
   },
   "RichPresence": {
@@ -1341,10 +1351,36 @@
       "Pulsa ",
       " para Empezar",
       "Cambiar perfil",
-      "Display Area",
-      "A sign-in change has occurred. Please sign back in or exit to the title screen.",
-      "Sign-in",
-      "Exit"
+      "Area de pantalla",
+      "Ha habido un cambio en la sesión. Por favor, vuelve a ingresar o sal a la pantalla de título.",
+      "Iniciar Sesión",
+      "Salir"
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "¡Este tiene que ser mi único #rAtaque!"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Volver",
+      "Común:",
+      "Las pociones más comunes encontradas en la Aguja.",
+      "Poco común:",
+      "Pociones más poderosas que aparecen menos a menudo que las pociones comunes.",
+      "Rara:",
+      "Pociones únicas y poderosas que raramente se ven."
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Elige una Carta para mantener. El resto se agotan."
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Elige una Carta para jugar."
     ]
   }
 }

@@ -180,5 +180,13 @@
       "...la Torre duerme..... NL Y...... yo...",
       "..también.......debería......."
     ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "El Vigilante"
+    ],
+    "TEXT": [
+      "Un ascético ciego que ha venido a \"Evaluar\" la Aguja. NL Maestro de las Posturas divinas."
+    ]
   }
 }

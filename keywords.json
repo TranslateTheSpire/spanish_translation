@@ -156,7 +156,9 @@
     "RETAIN": {
       "NAMES": [
         "mantiene",
-        "mantén"
+        "retiene",
+        "retenido",
+        "retén"
       ],
       "DESCRIPTION": "Las Cartas Mantenidas no son descartadas al final del turno."
     },
@@ -264,6 +266,58 @@
         "heridas"
       ],
       "DESCRIPTION": "Las Heridas son Cartas de estado Injugables."
+    },
+    "STANCE": {
+      "NAMES": [
+        "postura",
+        "posturas"
+      ],
+      "DESCRIPTION": "Solo puedes tener una postura a la vez."
+    },
+    "WRATH": {
+      "NAMES": [
+        "cólera"
+      ],
+      "DESCRIPTION": "En esta #yPostura, haces y recibes el doble de daño de ataques."
+    },
+    "CALM": {
+      "NAMES": [
+        "calma"
+      ],
+      "DESCRIPTION": "Al salir de esta #yPostura, gana [W] [W] ."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "divinidad"
+      ],
+      "DESCRIPTION": "Al salir de esta #yPostura, gana [W] [W] [W] . Los ataques hacen el triple de daño. Sal de esta #yPostura al final de tu próximo turno."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "mediante violencia"
+      ],
+      "DESCRIPTION": "Cuando obtienes #b10 #yMantra, entra en #yDivinidad."
+    },
+    "SCRY": {
+      "NAMES": [
+        "adivina"
+      ],
+      "DESCRIPTION": "Mira las primeras X cartas de tu pila de robado. Puedes descartar las que quieras."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regenera",
+        "regen",
+        "regeneración"
+      ],
+      "DESCRIPTION": "Regeneración cura PV al final de tu turno. Cada turno, Regeneración se reduce en #b1."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "vigor"
+      ],
+      "DESCRIPTION": "Tu próximo Ataque hace daño adicional."
     }
   }
 }
