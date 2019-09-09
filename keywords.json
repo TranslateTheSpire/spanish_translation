@@ -276,7 +276,8 @@
     },
     "WRATH": {
       "NAMES": [
-        "cólera"
+        "cólera",
+		"colera"
       ],
       "DESCRIPTION": "En esta #yPostura, haces y recibes el doble de daño de ataques."
     },

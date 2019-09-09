@@ -1013,7 +1013,7 @@
     ]
   },
   "FreeAttackPower": {
-    "NAME": "Free Attack Power",
+    "NAME": "Ataque gratuito",
     "DESCRIPTIONS": [
       "Ignora el coste de energía del próximo #yAtaque que juegues.",
       "Ignora el coste de energía de los próximos #b",
@@ -1021,7 +1021,7 @@
     ]
   },
   "DuplicationPower": {
-    "NAME": "Duplication",
+    "NAME": "Duplicar",
     "DESCRIPTIONS": [
       "Tu próxima carta se juega dos veces este turno.",
       "Tu próximas ",
@@ -1029,7 +1029,7 @@
     ]
   },
   "NoSkills": {
-    "NAME": "No Skills",
+    "NAME": "Sin Habilidades",
     "DESCRIPTIONS": [
       "No puedes jugar #yHabilidades este turno."
     ]
@@ -1042,7 +1042,7 @@
     ]
   },
   "MasterRealityPower": {
-    "NAME": "Master Reality",
+    "NAME": "Realidad Maestra",
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, añade #b",
       " #y",
@@ -1093,7 +1093,7 @@
     ]
   },
   "WireheadingPower": {
-    "NAME": "Cableado",
+    "NAME": "Autoestimulación",
     "DESCRIPTIONS": [
       "Al final de tu turno, #yAdivina "
     ]
@@ -1188,7 +1188,7 @@
     ]
   },
   "Collect": {
-    "NAME": "Coleccionar",
+    "NAME": "Recolectar",
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, gana [W] [W] .",
       "Al comienzo de tus próximos #b",

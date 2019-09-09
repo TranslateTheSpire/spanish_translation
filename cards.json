@@ -1322,7 +1322,7 @@
     "UPGRADE_DESCRIPTION": "Innata. NL Cuando cambias de Posturas, roba !M! carta."
   },
   "Causality": {
-    "NAME": "Causa",
+    "NAME": "Causalidad",
     "DESCRIPTION": "Roba cartas hasta que tu mano esté llena. NL Agota.",
     "UPGRADE_DESCRIPTION": "Retiene. NL Roba cartas hasta que tu mano esté llena. NL Agota."
   },
@@ -1332,7 +1332,7 @@
   },
   "EmptyFist": {
     "NAME": "Puño vacío",
-    "DESCRIPTION": "Haz !D! de daño. NL Exit your Stance."
+    "DESCRIPTION": "Haz !D! de daño. NL Sal de tu Postura."
   },
   "Wisdom": {
     "NAME": "Sabiduría",
@@ -1353,8 +1353,8 @@
   },
   "Wish": {
     "NAME": "Deseo",
-    "DESCRIPTION": "Elije una carta en tu pila de extracción. NL Juega la carta dos veces y agótala. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Elije una carta en tu pila de extracción. NL Juega la carta tres veces y agótala. NL Agota."
+    "DESCRIPTION": "Elije una carta de tu pila de extracción. NL Juega la carta dos veces y agótala. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Elije una carta de tu pila de extracción. NL Juega la carta tres veces y agótala. NL Agota."
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
@@ -1370,8 +1370,8 @@
   },
   "Metaphysics": {
     "NAME": "Metafísica",
-    "DESCRIPTION": "Baraja una *Causa en tu pila de extracción. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Baraja una *Causa Mejorada en tu pila de extracción. NL Agota."
+    "DESCRIPTION": "Baraja una *Causalidad en tu pila de extracción. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Baraja una *Causalidad Mejorada en tu pila de extracción. NL Agota."
   },
   "Clarity": {
     "NAME": "Claridad",
@@ -1379,7 +1379,7 @@
     "UPGRADE_DESCRIPTION": "Mira las primeras !M! cartas de tu pila de extracción. Añade 1 a tu mano. NL Agota el resto."
   },
   "WreathOfFlame": {
-    "NAME": "Guirlanda de Llamas",
+    "NAME": "Guirnalda de Llamas",
     "DESCRIPTION": "Tu próximo ataque hace !M! de daño adicional."
   },
   "Flicker": {
@@ -1416,7 +1416,7 @@
     "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Acaba tu turno."
   },
   "MasterReality": {
-    "NAME": "Realidad Maestra",
+    "NAME": "Dominar la Realidad",
     "DESCRIPTION": "Elije NL *Herir o *Seguridad. NL Al final de cada turno añade la carta elegida a tu mano."
   },
   "CleanseEvil": {
@@ -1453,7 +1453,7 @@
     "DESCRIPTION": "Retiene. NL Haz !D! de daño dos veces."
   },
   "Wireheading": {
-    "NAME": "Cableado",
+    "NAME": "Autoestimulación",
     "DESCRIPTION": "Al final de tu turno, Adivina !M!.",
     "UPGRADE_DESCRIPTION": "Innata. NL Al final de tu turno, Adivina !M!."
   },
@@ -1479,7 +1479,7 @@
     "DESCRIPTION": "Haz !D! de daño. NL Si el enemigo va a Atacar, entra en Calma."
   },
   "Perseverance": {
-    "NAME": "Perseverance",
+    "NAME": "Perseverancia",
     "DESCRIPTION": "Retiene. NL Gana !B! de Bloqueo. NL Cuando se retiene esta carta, aumenta su bloqueo por !M!."
   },
   "Ragnarok": {
@@ -1508,7 +1508,7 @@
     "DESCRIPTION": "Haz !D! de daño. NL Adivina !M!. NL Roba 1 carta."
   },
   "WaveOfTheHand": {
-    "NAME": "Saludo de la Mano",
+    "NAME": "Gesto de Mano",
     "DESCRIPTION": "Calma: Aplica !M! de Debil. NL Cólera: Aplica !M! Vulnerable."
   },
   "Vigilance": {
@@ -1523,16 +1523,16 @@
   },
   "Evaluate": {
     "NAME": "Evaluar",
-    "DESCRIPTION": "Gana !B! de Bloqueo. NL Baraja 1 *Revelación en tu pila de robado.",
-    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Baraja 1 *Revelación Mejorada en tu pila de robado."
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Baraja una *Revelación en tu pila de extracción.",
+    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Baraja una *Revelación Mejorada en tu pila de extracción."
   },
   "Establishment": {
     "NAME": "Establecimiento",
-    "DESCRIPTION": "Cuando se retengas una carta, reduce su coste en !M!.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Cuando se retengas una carta, reduce su coste en !M!."
+    "DESCRIPTION": "Cuando se retenga una carta, reduce su coste en !M!.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Cuando se retenga una carta, reduce su coste en !M!."
   },
   "Collect": {
-    "NAME": "Recojer",
+    "NAME": "Recolectar",
     "DESCRIPTION": "Gana [W] [W] al principio de tus próximos X turnos. NL Agota.",
     "UPGRADE_DESCRIPTION": "Gana [W] [W] al principio de tus próximos X+1 turnos. NL Agota.",
   },
@@ -1546,7 +1546,7 @@
     "UPGRADE_DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity."
   },
   "JustLucky": {
-    "NAME": "Solo Suerte",
+    "NAME": "Cuestion de Suerte",
     "DESCRIPTION": "Adivina !M!. NL Gana !B! de bloqueo. NL Haz !D! de daño."
   },
   "Torrent": {
@@ -1585,7 +1585,7 @@
     "DESCRIPTION": "Gana !M! de Armadura de Placas."
   },
   "TalkToTheHand": {
-    "NAME": "Hablale a la Mano",
+    "NAME": "Háblale a la Mano",
     "DESCRIPTION": "Haz !D! de daño. NL Cuando este enemigo recibe daño, gana !M! de Bloqueo. NL Agota."
   },
   "Strike_P": {
@@ -1603,7 +1603,7 @@
     "UPGRADE_DESCRIPTION": "Innata. NL Cuando juegues una carta, Mejórala durante el resto del combate."
   },
   "DeceiveReality": {
-    "NAME": "Deceive Reality",
+    "NAME": "Burlar la Realidad",
     "DESCRIPTION": "Gana !B! de Bloqueo. NL Elige NL *Seguridad o *Sabiduría. NL Añade la carta elegida a tu mano.",
     "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Elige NL *Seguridad o *Sabiduría Mejorada. NL Añade la carta elegida a tu mano."
   },
@@ -1621,14 +1621,14 @@
     "DESCRIPTION": "Injugable. NL No se puede eliminar del mazo."
   },
   "Brilliance": {
-    "NAME": "Brillantez",
+    "NAME": "Resplandor",
     "DESCRIPTION": "Retiene. NL Gana [W] por cada turno que esta carta se Retenga. NL Agota.",
     "EXTENDED_DESCRIPTION": [
       " NL (Retenida !M! turnos.)"
     ]
   },
   "ClearTheMind": {
-    "NAME": "Limpiar la Mente",
+    "NAME": "Vacíar la Mente",
     "DESCRIPTION": "Entra en Calma. NL Agota."
   },
   "Safety": {
@@ -1641,9 +1641,9 @@
     "UPGRADE_DESCRIPTION": "Roba !M! cartas. NL No puedes jugar habilidades durante el resto del turno."
   },
   "Prostrate": {
-    "NAME": "Postrado",
-    "DESCRIPTION": "Gana !M! de Mantra. NL Gana 1 de Vulnerable. NL Añade un *Revelación en tu pila de descartes.",
-    "UPGRADE_DESCRIPTION": "Gana !M! de Mantra. NL Gana 1 de Vulnerable. NL Añade un *Revelación en tu pila de descartes."
+    "NAME": "Postrarse",
+    "DESCRIPTION": "Gana !M! de Mantra. NL Gana 1 de Vulnerable. NL Añade un *Revelación a tu pila de descartes.",
+    "UPGRADE_DESCRIPTION": "Gana !M! de Mantra. NL Gana 1 de Vulnerable. NL Añade un *Revelación a tu pila de descartes."
   },
   "Pray": {
     "NAME": "Rezar",
@@ -1656,7 +1656,7 @@
     "UPGRADE_DESCRIPTION": "Retiene. NL Draw 1 card."
   },
   "ForeignInfluence": {
-    "NAME": "Influencia Extranjera",
+    "NAME": "Influencia Externa",
     "DESCRIPTION": "Elige 1 entre 3 Ataques para añadir a tu mano. Estas cartas pueden ser de cualquier color. NL Agota.",
     "UPGRADE_DESCRIPTION": "Elige 1 entre 3 Ataques Mejorados para añadir a tu mano. Estas cartas pueden ser de cualquier color. NL Agota."
   },
