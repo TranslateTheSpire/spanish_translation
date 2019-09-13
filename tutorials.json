@@ -1,7 +1,8 @@
 {
   "Discard Tip": {
     "TEXT": [
-      "Si tu pila de robado esta vacia, la pila de descarte se baraja dentro de la pila de robado. NL NL Haz click para ver las cartas en tu pila de descarte."
+      "Si tu pila de robado está vacía, la pila de descarte se baraja dentro de la pila de robado. NL NL Haz click para ver las cartas en tu pila de descarte.",
+      "Si tu pila de robado esta vacia, la pila de descarte se baraja dentro de la pila de robado. NL NL Mira las cartas en tu pila de descarte."
     ],
     "LABEL": [
       "Pila de Descarte"
@@ -10,8 +11,10 @@
   "Draw Tip": {
     "TEXT": [
       "Al comienzo de cada turno, NL #b",
-      " cartas son robadas de aqui. NL NL Haz click para ver las cartas en tu pila de robado (barajadas).",
-      " cartas son robadas de aqui. NL NL Haz click para ver las cartas en tu pila de robado."
+      " cartas son robadas de aquí. NL NL Haz click para ver las cartas en tu pila de robado (barajadas).",
+      " cartas son robadas de aquí. NL NL Haz click para ver las cartas en tu pila de robado.",
+      " cartas son robadas de aqui. NL NL Mira las cartas en tu pila de robado (barajadas).",
+      " cartas son robadas de aqui. NL NL Mira las cartas en tu pila de robado."
     ],
     "LABEL": [
       "Pila de robado"
@@ -28,23 +31,24 @@
   },
   "Energy Panel Tip": {
     "TEXT": [
-      "Tu cantidad actual de energía. Las cartas requieren energía para jugarlas."
+      "Tu cantidad actual de energía. Las cartas requieren energía para ser jugadas."
     ],
     "LABEL": [
-      "Energia"
+      "Energía"
     ]
   },
   "Energy Tip": {
     "TEXT": [
-      "¡Las cartas requieren energia para jugarlas! NL Este orbe a la parte inferior izquierda indica cuanta energia te queda para este turno."
+      "¡Las cartas requieren energía para ser jugadas! NL Este orbe a la parte inferior izquierda indica cuanta energía te queda para este turno."
     ],
     "LABEL": [
-      "Coste de energia"
+      "Coste de energía"
     ]
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Haz click para ver cartas Agotadas en este combate."
+      "Haz click para ver cartas Agotadas en este combate.",
+      "Ver las cartas Agotadas en este combate."
     ],
     "LABEL": [
       "Cartas Agotadas"
@@ -59,9 +63,9 @@
   },
   "Main Tutorial": {
     "TEXT": [
-      "¡Derrota enemigos jugando cartas de tu mano! NL NL Las cartas requieren #yEnergía para jugarlas. NL Cuando se te acabe, termina tu turno. NL NL Al comienzo de tu turno, robas nuevas cartas y tu #yEnergía se reabastece.",
-      "Juega cartas defensivas para ganar #yBloqueo cuando los enemigos estén a punto de atacarte. NL NL El #yBloqueo reduce el daño de ataque entrante pero NL #rse #rexpira al comienzo de tu próximo turno.",
-      "Durante tu turno puedes observar la #yIntención de tus enemigos sobre ellos. NL NL Si un enemigo intenta atacarte, asegúrate de ganar algo de #yBloqueo!"
+      "¡Derrota enemigos jugando cartas de tu mano! NL NL Las cartas requieren #yEnergía para ser jugadas. NL Cuando se te acabe, termina tu turno. NL NL Al comienzo de tu turno, robas nuevas cartas y tu #yEnergía se reabastece.",
+      "Juega cartas defensivas para ganar #yBloqueo cuando los enemigos vayan a atacarte. NL NL El #yBloqueo reduce el daño de ataque entrante pero NL #rexpira al comienzo de tu próximo turno.",
+      "Durante tu turno puedes observar la #yIntención de tus enemigos encima de ellos. NL NL Si un enemigo intenta atacarte, asegúrate de ganar algo de #yBloqueo!"
     ],
     "LABEL": [
       "Proximo",
@@ -89,14 +93,14 @@
   "Player Tips": {
     "TEXT": [
       "Esta carta te aplica un Poder cuando la usas. NL Los Poderes so habilidades pasivas que permanecen toda la duración del combate.",
-      "¡Las cartas requieren energia para jugarlas! NL Este orbe a la parte inferior izquierda indica cuanta energia te queda para este turno.",
+      "¡Las cartas requieren energía para ser jugadas! NL Este orbe a la parte inferior izquierda indica cuanta energía te queda para este turno.",
       "¡Mi #rMano #restá #rLlena!",
       "La capacidad #rMáxima de Orbes ha sido alcanzada.",
       "No tengo más espacios para Orbes."
     ],
     "LABEL": [
       "Cartas de Poder",
-      "Coste de Energia"
+      "Coste de Energía"
     ]
   },
   "Potion Panel Tip": {
@@ -121,48 +125,52 @@
   },
   "Random Tips": {
     "TEXT": [
-      "Vincúlate con otros jugadores para descubrir estrategias nuevas y efectivas.",
+      "Conecta con otros jugadores para descubrir estrategias nuevas y efectivas.",
       "Siempre hay un sitio de descanso antes de un Jefe.",
       "¡Gasta oro en las tiendas! (Consejo patrocinado por el Comerciante)",
       "Tomate un descanso de vez en cuando.",
-      "Ningun enemigo utiliza el mismo movimiento 3 veces seguidas.",
-      "Los cálculos de porcentaje siempre redondean por defecto al final.",
+      "Los cálculos de porcentaje siempre redondean a la baja al final.",
       "Durante el combate puedes ver los contenidos de tus pilas de robado y descarte.",
-      "Puedes obtener información útil si mantienes el cursor sobre la mayoria de los objetos.",
-      "Puedes activar o desactivar los consejos mediante el botón ? en la esquina posterior izquierda.",
-      "Puedes hacer click derecho para soltar cualquier carta que estés arrastrando.",
-      "Manten el cursor sobre un enemigo para ver su nombre e Información de Poder.",
-      "Usa la rueda del ratón o haz click y arrastra la pantalla para mover la imagen de arriba a abajo.",
-      "Si puedes inspeccionar un objeto, tu cursor se convertirá en una lupa.",
-      "No hay limite de cuantas reliquias puedes llevar.",
+      "No hay límite de cuantas reliquias puedes llevar.",
       "Los cofres siempre contienen una reliquia.",
       "Cualquier camino que escojas siempre tendrá al menos una sala de tesoros.",
-      "Usa la rueda del ratón o haz click y arrastra para ver información en mapas, pantallas de cartas y entre otras.",
       "Los enemigos élite siempre dejan una reliquia.",
       "Nunca veras la misma reliquia dos veces en una misma partida.",
       "Las cartas poco comunes tienen un cuadro y estandarte color azul.",
       "Las cartas raras tienen un cuadro y estandarte color dorado.",
-      "La rareza de esta carta es visible en la carta misma.",
+      "La rareza de las cartas siempre es visible.",
       "No siempre es sabio añadir cartas a tu mazo.",
-      "Las cartas agotadas durante el combate no son removidas de tu mazo.",
+      "Las cartas agotadas durante el combate no son eliminadas de tu mazo.",
       "Solo puedes tener hasta 10 cartas en la mano.",
       "Las cartas de estado desaparecen al final del combate.",
-      "Las Maldiciones no se pueden mejorar. ¿Por que lo harias?",
+      "Las Maldiciones no se pueden mejorar. ¿Por qué lo harías?",
       "Las cartas mejoradas pueden aparecer entre las recompensas a partir del Acto 1.",
       "Las habitaciones desconocidas pueden contener tesoros, monstruos, tiendas o eventos.",
       "El Comerciante no ofrece reembolsos. Es un idiota.",
-      "El servicio de remover cartas sube de precio cada vez que lo uses.",
-      "El servicio de remover cartas solo se puede usar una vez en cada tienda.",
+      "El servicio de eliminar cartas sube de precio cada vez que lo uses.",
+      "El servicio de eliminar cartas solo se puede usar una vez en cada tienda.",
       "Los daños de pociones, reliquias y poderes no se consideran daños de ataque.",
-   	  "Las cartas aleatorias generadas en combate nunca te curarán."
+      "Las cartas aleatorias generadas en combate nunca te curarán."
     ],
     "LABEL": [
       "Puedes descartar pociones para hacer espacio para otras nuevas."
     ]
   },
+  "PC Tips": {
+    "TEXT": [
+      "Ningún enemigo utiliza el mismo movimiento 3 veces seguidas.",
+      "Puedes obtener información útil si mantienes el cursor sobre la mayoria de los objetos.",
+      "Puedes hacer click derecho para soltar cualquier carta que estés arrastrando.",
+      "Manten el cursor sobre un enemigo para ver su nombre e Información de Poder.",
+      "Usa la rueda del ratón o haz click y arrastra la pantalla para mover la imagen de arriba a abajo.",
+      "Si puedes inspeccionar un objeto, tu cursor se convertirá en una lupa.",
+      "Usa la rueda del ratón o haz click y arrastra para ver información en mapas, pantallas de cartas y entre otras."
+    ],
+    "LABEL": []
+  },
   "Relic Tip": {
     "TEXT": [
-      "Las Reliquias encontradas a traves de la Torre otorgan bonificaciones únicas y permanecen durante tu partida. NL Pueden hallarse derrotando enemigos poderosos o dentro de cofres.",
+      "Las Reliquias encontradas a través de la Torre otorgan bonificaciones únicas y permanecen durante tu partida. NL Pueden hallarse derrotando enemigos poderosos o dentro de cofres.",
       "Esta reliquia aún no se ha visto.",
       "Su poder ya se agotó."
     ],
@@ -175,7 +183,8 @@
   },
   "Rewards Tip": {
     "TEXT": [
-      "¡No olvides tus recompenzas! NL Simplemente hazles click para recogerlas."
+      "¡No olvides tus recompensas! NL Simplemente haz click para recogerlas.",
+      "¡No olvides tus recompensas!"
     ],
     "LABEL": [
       "Recompensas"
@@ -187,7 +196,7 @@
       " por el resto de esta partida."
     ],
     "LABEL": [
-      "Servicio de Remover Cartas"
+      "Servicio de Eliminar Cartas"
     ]
   },
   "Shuffle Tip": {
@@ -200,7 +209,7 @@
   },
   "Top Panel Tips": {
     "TEXT": [
-      "Abre el Menu Principal. NL NL Cambia o actualiza tus preferencias de graficos, audio y jugabilidad aqui.",
+      "Abre el Menú Principal. NL NL Cambia o actualiza tus preferencias de gráficos, audio y jugabilidad aquí.",
       "Mira todas las cartas en tu mazo.",
       "Mira el mapa del calabozo actual.",
       "Si pierdes todo tus PV, mueres.",

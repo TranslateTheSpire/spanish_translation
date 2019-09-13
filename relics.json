@@ -56,7 +56,7 @@
   },
   "Black Blood": {
     "NAME": "Sangre negra",
-    "FLAVOR": "La furia aumenta aún más tenebrosa.",
+    "FLAVOR": "La furia se vuelve aún más tenebrosa.",
     "DESCRIPTIONS": [
       "Reemplaza #rSangre #rardiente. Al final del combate cura #b",
       " PV."
@@ -299,7 +299,7 @@
     "FLAVOR": "Marcador",
     "DESCRIPTIONS": [
       "Al comienzo de cada turno gana #b",
-      " Carga. NL (No puede ser removida o transformada.)"
+      " Carga. NL (No puede ser eliminada o transformada.)"
     ]
   },
   "Discerning Monocle": {
@@ -1355,6 +1355,102 @@
     "FLAVOR": "Útil para asesinatos.",
     "DESCRIPTIONS": [
       "Las cartas de #yataque que cuestan #b0 infligen #b3 de daño adicional."
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "Pez de Cerámica",
+    "FLAVOR": "Pintado cuidadosamente, estos peces eran adorados por traer buena suerte.",
+    "DESCRIPTIONS": [
+      "Cuando añadas una carta a tu mazo, gana #b",
+      " #yOro."
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "Maniquí de Pruebas",
+    "FLAVOR": "Está desgastado.",
+    "DESCRIPTIONS": [
+      "Las cartas que contienen \"Golpe\" hacen #b",
+      " de daño adicional."
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "Loto Violeta",
+    "FLAVOR": "Los antiguos textos dicen que la superficie de las \"reservas de mana\" estaban cubiertas de estas flores.",
+    "DESCRIPTIONS": [
+      "Cuando salgas de #yCalma, gana un [E] adicional."
+    ]
+  },
+  "SacredBark": {
+    "NAME": "Corteza Sagrada",
+    "FLAVOR": "Una corteza que se dice que creció del arbol del Mundo.",
+    "DESCRIPTIONS": [
+      "Las pociones tienen el doble de efecto."
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "Medallón de Lágrima",
+    "FLAVOR": "Su propietario ciego, sus contenidos nunca vistos.",
+    "DESCRIPTIONS": [
+      "Empieza cada combate en #yCalma."
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "Collar de Esclavo",
+    "FLAVOR": "Cadenas miserables oxidadas.",
+    "DESCRIPTIONS": [
+      "Durante peleas de Jefes y Élites, gana [E] al comienzo de tu turno."
+    ]
+  },
+  "Akabeko": {
+    "NAME": "Akabeko",
+    "FLAVOR": "\"Muuu~\"",
+    "DESCRIPTIONS": [
+      "Tu primer Ataque en cada combate hace #b",
+      " de daño adicional."
+    ]
+  },
+  "Yang": {
+    "NAME": "Yang",
+    "FLAVOR": "\"Y el sol se desvaneció para siempre, como si cayera el telón sobre él.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Cuando juegues un #yAtaque, gana #b1 de #yDexteridad temporal."
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "Broche de Capa",
+    "FLAVOR": "Un diseño simple pero robusto.",
+    "DESCRIPTIONS": [
+      "Al final de tu turno, gana #b",
+      " de #yBloqueo por cada carta en tu mano."
+    ]
+  },
+  "Melange": {
+    "NAME": "Mezcla",
+    "FLAVOR": "Arenas misteriosas de origen desconocido. Huele a canela.",
+    "DESCRIPTIONS": [
+      "Al principio de cada combate, añade un #yMilagro a tu mano."
+    ]
+  },
+  "Yin": {
+    "NAME": "Yin",
+    "FLAVOR": "No puedes tener luz sin oscuridad. ¿O tal vez sí?",
+    "DESCRIPTIONS": [
+      "Cuando juegues una #yHabilidad, gana #b1 de #yFuerza temporal."
+    ]
+  },
+  "InkBottle": {
+    "NAME": "Botella de tinta",
+    "FLAVOR": "Cuando se agota, parece rellenarse con un color diferente.",
+    "DESCRIPTIONS": [
+      "Cuando juegas #b10 cartas, roba #b1 carta."
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "Barra de Tungsteno",
+    "FLAVOR": "Es muy muy pesada.",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu turno, si es antes del turno #b",
+      ", gana #yBloqueo igual al turno actual."
     ]
   }
 }

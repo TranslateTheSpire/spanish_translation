@@ -73,7 +73,8 @@
   "FairyPotion": {
     "NAME": "Hada Embotellada",
     "DESCRIPTIONS": [
-      "Cuando vayas a morir, cúrate un #b10% de tus PV máximos y se descarta esta poción."
+      "Cuando fueras a morir, te cura un #b10% de tus PV máximos y se descarta.",
+      "% of your Max HP instead and discard this potion."
     ]
   },
   "FearPotion": {
@@ -107,7 +108,7 @@
   "GamblersBrew": {
     "NAME": "Brebaje de Tahúr",
     "DESCRIPTIONS": [
-      "Descarta las cartas que quieras, después saca esa misma cantidad."
+      "Descarta las cartas que quieras, después roba esa misma cantidad."
     ]
   },
   "GhostInAJar": {
@@ -168,8 +169,8 @@
   "SmokeBomb": {
     "NAME": "Bomba de Humo",
     "DESCRIPTIONS": [
-      "Escapa de un combate que no sea de Jefe. No recibes recompensa.",
-      "Estoy rodeado!"
+      "Escapa de un combate que no sea de Jefe. No recibes recompensas.",
+      "¡Estoy rodeado!"
     ]
   },
   "SneckoOil": {
@@ -216,6 +217,18 @@
     "DESCRIPTIONS": [
       "Aplica #b",
       " #yDébil."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Poción de ",
+    "DESCRIPTIONS": [
+      "Este turno, tu próxima carta se juega dos veces."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Poción de Postura",
+    "DESCRIPTIONS": [
+      "Entra en #yCalma o #yCólera."
     ]
   }
 }

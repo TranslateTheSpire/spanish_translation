@@ -20,7 +20,7 @@
       "El Blindado"
     ],
     "TEXT": [
-      "El último soldado de 'los Blindados'. NL Vendió su alma para poder usar las energías demoniacas."
+      "El último soldado de 'los Blindados'. NL Vendió su alma para poder usar las energías demoníacas."
     ]
   },
   "Merchant": {
@@ -30,31 +30,31 @@
     ],
     "TEXT": [
       "¡Hola! NL ¡Compra algo! NL ¡Compra compra compra!",
-      "Me gusta tu corte de pelo",
+      "Me gusta tu corte de pelo.",
       "¿Tienes hora?",
       "¿Eres más de perros o de gatos?",
-      "Te ves ~peligroso~ NL hehe...",
-      "Tómate tu tiempo... NL ..... NL ... o no",
-      "¿Te gusta esta alfombra? NL No está a la venta",
+      "Tienes pinta de NL ser ~peligroso~, NL jeje...",
+      "Tómate tu tiempo... NL ..... NL ... o no.",
+      "¿Te gusta esta alfombra? NL No está a la venta.",
       "¡Colabora con los pequeños negocios!",
-      "Las máscaras son geniales ¡si lo sabré yo!",
+      "Las máscaras son geniales ¡Sí lo sabré yo!",
       "Hmm... NL ...hmm... NL Oh!",
       "¡Quédate un rato y escucha!",
       "!Es peligroso ir solo! ¡Dame todo tu oro!",
-      "Compra algo'",
+      "Compra algo...",
       "~*BOSTEZO*~",
       "Me encanta el oro.",
       "Mi color favorito es el azul. NL ¿Cuál es el tuyo?"
     ],
     "OPTIONS": [
-      "Como llegué aquí? NL Ni idea.",
-      "Última oportunidad para comprar algo'! NL ~*wink*~ ~*wink*~",
+      "¿Cómo llegué aquí? NL A saber...",
+      "¡Última oportunidad para comprar algo! NL ~*guiño*~ ~*guiño*~",
       "..... NL .... NL .........",
       "Soy una persona gato.",
       "Sin prisa. NL Sin prisa.",
-      "Acaso esto no es @excitante!?@",
-      "Solía ser como tu.",
-      "Subiendo?"
+      "¿Esto no te parece @excitante!?@",
+      "Solía ser como tú.",
+      "¿Qué, escalando?"
     ]
   },
   "Neow Event": {
@@ -65,18 +65,18 @@
       "~Saludos...~ NL ~Soy~ ~Neow...~",
       "~Hola...~ NL ~de~ ~nuevo..~",
       "~Saludos...~",
-      "~Otro~ NL ~intento...?~",
-      "~Alcanza~ ~al~ ~jefe...~ NL ~para~ ~recibir~ ~mi..~ ~bendición...~",
-      "~Por~ ~lo~ ~menos...~ ~confronta~ NL ~al~ ~primer~ ~jefe...~",
+      "~¿Otro~ NL ~intento...?~",
+      "~Alcanza~ ~al~ ~jefe...~ NL ~para~ ~recibir~ ~mi~ ~bendición...~",
+      "~Por~ ~lo~ ~menos...~ ~enfréntate~ NL ~al~ ~primer~ ~jefe...~",
       "~Te~ ~traje~ ~de~ ~vuelta...~",
       "~Elige...~",
       "~Concedido...~",
-      "~Riesgo...~ NL ~..recompensa....~",
+      "~Riesgo...~ NL ~Recompensa...~",
       "~Hora~ ~de~ ~un~ NL ~RETO...~",
-      "Rewards",
+      "Recompensas",
       "~Continuemos...~",
       "~Se~ ~pondrá~ ~más~ ~difícil...~",
-      "~Impresionante...~ ~más...~",
+      "~Impresionante...~ NL ~más, más...~",
       "¡Maldito!",
       "¡Cabeza de chorlito!",
       "¡Transformación!"
@@ -110,9 +110,9 @@
       "#gElije #gy #gtransforma #g2 #gcartas #gde #gtu #gmazo ]",
       "#gPV #gMáximos #g+",
       "[ #rPierde #r",
-      " #rPV #rMáximos ",
-      "[ #rPierde #rtodo #rtu #rOro ",
-      "[ #rRecibe #runa #rmaldición ",
+      " #rPV #rMáximos. ",
+      "[ #rPierde #rtodo #rtu #rOro. ",
+      "[ #rRecibe #runa #rmaldición. ",
       "[ #rRecibe #r",
       "Elige una Carta",
       "Elije y elimina una carta de tu mazo",
@@ -120,46 +120,46 @@
       "Elije y transforma una carta de tu mazo",
       "Elije y transforma 2 cartas de tu mazo",
       "Elije y mejora una carta de tu mazo",
-      "[ #gLos #genemigos #gen #gtus #gsiguientes #gtres #gcombates #gtienen #gsolo #g1 #gde #gvida ]",
+      "[ #gEn #gtus #gsiguientes #gtres #gcombates, #glos #genemigos #gsolo #gtienen #g1 #gPV ]",
       " #rde #rdaño",
       "[ #gObtén #guna #gCarta #gincolora #gpoco #gcomún #galeatoria ]",
       "#gObtén #g2 #gCartas #gincoloras #galeatorias ]"
     ],
     "UNIQUE_REWARDS": [
-      "[ #rPierde #rtu #rreliquia #rinicial #gRecibe #guna #greliquia #gde #gJefe #galeatoria ]"
+      "[ #rPierde #rtu #rreliquia #rinicial. #gRecibe #guna #greliquia #gde #gJefe #galeatoria ]"
     ]
   },
   "Shop Screen": {
     "NAMES": [
-      "~¡Bienvenido~ NL ~bienvenido!~",
+      "~¡Bienvenido,~ NL ~bienvenido!~",
       "Oye, NL necesitas NL más #rOro.",
-      "Oye camarada, ¡no tienes #rDinero!",
+      "Oye, camarada, NL ¡no tienes #rDinero!",
       "¿En quiebra?",
       "No tienes suficiente #rOro.",
-      "No te alcanza para eso.",
+      "Justo en la pobreza.",
       "Esto no es para la caridad.",
       "~Graaaacias~",
-      "Otra venta... NL hohoho! NL Cha - @Ching!@",
+      "Otra venta... NL ¡Jojojó! NL ¡Cla... - @Ching!@",
       "@¡VENDIDO!@",
       "No se admiten devoluciones.",
       "Ten un buen día.",
-      "Vete",
+      "Vete.",
       "Elije y elimina una carta de tu mazo."
     ],
     "TEXT": [
-      "Hola! NL Compra algo! NL ¡Compra compra compra!",
+      "¡Hola! NL ¡Compra algo! NL ¡Compra compra compra!",
       "Me gusta tu corte de pelo",
       "¿Tienes hora?",
       "¿Eres más de perros o de gatos?",
-      "Te ves ~peligroso,~ NL hehe...",
-      "Tómate tu tiempo... NL ..... NL ... o no",
+      "Se te ve ~peligroso,~ NL jeje...",
+      "Tómate tu tiempo... NL ..... NL ...o no",
       "¿Te gusta esta alfombra? NL No está a la venta",
       "¡Colabora con los pequeños negocios!",
-      "Las máscaras son geniales, ¡Si lo sabré yo!",
+      "Las máscaras son geniales, ¡Sí lo sabré yo!",
       "Hmm... NL ...hmm... NL Oh!",
-      "Quédate un rato y escucha!",
-      "¡Es peligroso ir solo! ¡Dame todo tu oro!!",
-      "Compra algo",
+      "¡Quédate un rato y escucha!",
+      "¡Es peligroso ir solo! ¡Dame todo tu oro!",
+      "Compra algo.",
       "~*BOSTEZO*~",
       "Me encanta el oro.",
       "Mi color favorito es el azul. NL ¿Cuál es el tuyo?"
@@ -170,15 +170,23 @@
       "La Silenciosa"
     ],
     "TEXT": [
-      "Una cazadora mortal de las tierras bajas. NL Erradica a sus presas con dagas y veneno."
+      "Una cazadora mortal de las tierras bajas. NL Erradica cualquier presa con dagas y veneno."
     ]
   },
   "PostCreditsNeow": {
     "NAMES": [],
     "TEXT": [
-      "Ahora... que..? NL ..se ha... hecho....?",
-      "...la Aguja duerme..... NL Y...... yo...",
+      "¿Ahora... que..? NL ..¿Ya... está....?",
+      "...la Torre duerme..... NL Y...... yo...",
       "..también.......debería......."
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "El Vigilante"
+    ],
+    "TEXT": [
+      "Un ascético ciego que ha venido a \"Evaluar\" la Aguja. NL Maestro de las Posturas divinas."
     ]
   }
 }

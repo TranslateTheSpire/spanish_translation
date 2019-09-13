@@ -1,9 +1,9 @@
 {
   "Dark": {
     "DESCRIPTION": [
-      "#yPasiva: Al final del turno, aumenta el daño de este Orbe en #b",
+      "#yPasiva: Al final de cada turno, aumenta el daño de este Orbe en #b",
       ". NL #yDescargar: Causa #b",
-      " de daño al enemigo con menor PV."
+      " de daño al enemigo con menos PV."
     ],
     "NAME": "Oscuridad"
   },
@@ -15,7 +15,7 @@
   },
   "Frost": {
     "DESCRIPTION": [
-      "#yPasiva: Al final del turno, gana #b",
+      "#yPasiva: Al final de cada turno, gana #b",
       " #yBloqueo. NL #yDescargar: Gana #b",
       " #yBloqueo."
     ],
@@ -23,7 +23,7 @@
   },
   "Lightning": {
     "DESCRIPTION": [
-      "#yPasiva: Al final del turno, causa #b",
+      "#yPasiva: Al final de cada turno, causa #b",
       " de daño a un enemigo aleatorio. NL #yDescargar: Causa #b",
       " de daño a un enemigo aleatorio."
     ],
@@ -31,8 +31,8 @@
   },
   "Plasma": {
     "DESCRIPTION": [
-      "#yPasiva: Al principio del turno, gana [B] . NL #yDescargar: Gana #b",
-      " [B] . NL Plasma no se ve afectado por #yConcentración."
+      "#yPasiva: Al principio de cada turno, gana [B] . NL #yDescargar: Gana #b",
+      " [B] . NL El Plasma no se ve afectado por la #yConcentración."
     ],
     "NAME": "Plasma"
   }

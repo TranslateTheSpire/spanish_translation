@@ -12,7 +12,7 @@
     ]
   },
   "Beyond Elites Killed": {
-    "NAME": "Elites del Más Alla Derrotados",
+    "NAME": "Élites del Más Alla Derrotados",
     "DESCRIPTIONS": []
   },
   "Beyond Perfect": {
@@ -28,7 +28,7 @@
   "Champion": {
     "NAME": "Campeón",
     "DESCRIPTIONS": [
-      "Derrota a un Elite sin recibir daño."
+      "Derrota a un Élite sin recibir daño."
     ]
   },
   "Cheater": {
@@ -38,7 +38,7 @@
     ]
   },
   "City Elites Killed": {
-    "NAME": "Elites de la Ciudad Derrotados",
+    "NAME": "Élites de la Ciudad Derrotados",
     "DESCRIPTIONS": []
   },
   "Collector": {
@@ -48,7 +48,7 @@
     ]
   },
   "Combo": {
-    "NAME": "C-c-c-combo",
+    "NAME": "¡C-c-c-combo!",
     "DESCRIPTIONS": [
       "Juega 20 cartas en un solo turno."
     ]
@@ -66,7 +66,7 @@
     ]
   },
   "Exordium Elites Killed": {
-    "NAME": "Elites de Exordium Derrotados",
+    "NAME": "Élites de Exordium Derrotados",
     "DESCRIPTIONS": []
   },
   "Highlander": {
@@ -78,7 +78,7 @@
   "I Like Gold": {
     "NAME": "Me Gusta el Oro",
     "DESCRIPTIONS": [
-      "Conseguiste 3,000 de oro."
+      "Conseguiste 3,000 de Oro."
     ]
   },
   "Librarian": {
@@ -102,7 +102,7 @@
   "Money Money": {
     "NAME": "Dinero Dinero",
     "DESCRIPTIONS": [
-      "Conseguiste 1,000 de oro."
+      "Conseguiste 1,000 de Oro."
     ]
   },
   "Mystery Machine": {
@@ -112,7 +112,7 @@
     ]
   },
   "On My Own Terms": {
-    "NAME": "En Mis Propios Terminos",
+    "NAME": "En Mis Propios Términos",
     "DESCRIPTIONS": [
       "Te suicidaste."
     ]
@@ -126,7 +126,7 @@
   "Pauper": {
     "NAME": "Indigente",
     "DESCRIPTIONS": [
-      "No tengas ninguna carta rara."
+      "No obtengas ninguna carta rara."
     ]
   },
   "Perfect": {
@@ -162,13 +162,13 @@
   "Stuffed": {
     "NAME": "Lleno",
     "DESCRIPTIONS": [
-      "Subiste tus PV Máximos en 30+."
+      "Subiste tus PV Máximos 30+."
     ]
   },
   "Well Fed": {
     "NAME": "Bien Alimentado",
     "DESCRIPTIONS": [
-      "Subiste tus PV Máximos en 15+."
+      "Subiste tus PV Máximos 15+."
     ]
   },
   "Heartbreaker": {

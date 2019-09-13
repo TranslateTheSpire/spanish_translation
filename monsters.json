@@ -44,7 +44,7 @@
     "NAME": "El Despertado",
     "DIALOG": [
       "~Grr~ ~.~ ~.~ ~.~",
-      "~No~ ~.~ ~.~ ~.~ ~no~ ~.~ ~.~ NL ~.~ ~.~ ~no~ ~.~ ~.~ ~.~"
+      "~No~ ~.~ ~.~ ~.~ ~No~ ~.~ ~.~ NL ~.~ ~.~ ~No~ ~.~ ~.~ ~.~"
     ]
   },
   "BanditBear": {
@@ -62,7 +62,7 @@
     ],
     "NAME": "Puntiagudo",
     "DIALOG": [
-      "¡¡¡Osoooo!!!!"
+      "¡¡¡Osoooo!!!"
     ]
   },
   "BanditLeader": {
@@ -71,7 +71,7 @@
     ],
     "NAME": "Romeo",
     "DIALOG": [
-      "¡Agárralos, Oso!!",
+      "¡A por ellos, Oso!!",
       "¡¡Pagaréis por esto!!",
       "¡Nooooooo, Oso!"
     ]
@@ -130,11 +130,11 @@
     ],
     "NAME": "El Campeón",
     "DIALOG": [
-      "¿A eso lo llamas un arma?",
-      "¡Ven aqui!",
-      "¡Haz lo peor que se te ocurra! NL @¡JAJAJA!@",
+      "¿A eso lo llamas arma?",
+      "¡Ven aquí!",
+      "¡Haz lo peor que se te ocurra! NL @¡JAJAJAJA!@",
       "¡Te dejo golpear primero! NL ¡Debilucho inservible!",
-      "~Lo~ ~Has~ ~Hecho~ ~ahora...~",
+      "~No~ ~hay~ ~vuelta~ ~atrás...~",
       "@¿¿DERROTA??@ NL @¡¡IMPOSIBLE!!@",
       "~MUERE~ ~.~ ~.~ ~.~",
       "¡Enfréntate a mi furia!"
@@ -167,7 +167,7 @@
     "NAME": "Cultista",
     "DIALOG": [
       "@¡MI@ @PODER@ @NO@ @TIENE@ NL @PAR!@",
-      "@¡NO@ @PERTENECES@ NL @AQUI!@",
+      "@¡NO@ @ERES@ NL @BIENVENIDO!@",
       "~Mis~ ~poderes~ NL ~fueron~ ~igualados...~"
     ]
   },
@@ -267,10 +267,10 @@
     ],
     "NAME": "Cabeza Gigante",
     "DIALOG": [
-      "~Es~ ~la~ ~hora~",
-      "~Hasta~ ~Luego~",
-      "~Tic~ ~Tac~ NL ~Tic~ ~Tac~",
-      "~Por~ ~qué~ ~estas~ NL ~todavia~ ~aqui?~"
+      "~Es~ ~la~ ~hora.~",
+      "~Hasta~ ~luego.~",
+      "~Tic,~ ~tac…~ NL ~Tic,~ ~tac…~",
+      "~¿Por~ ~qué~ ~estás~ NL ~aún~ ~aqui?~"
     ]
   },
   "GremlinFat": {
@@ -281,7 +281,7 @@
     "DIALOG": [
       "",
       "",
-      "@Oh@ @no,@ NL @oh@ @no,@ NL @¡oH@ @NO!@"
+      "@Oh@ @no,@ NL @oh@ @no,@ NL @¡OH@ @NO!@"
     ]
   },
   "GremlinLeader": {
@@ -293,7 +293,7 @@
       "¡Rendirse no es una opción!",
       "¡Esto aún no ha acabado!",
       "¡Atrapadlos!",
-      "@¡Retirada@ NL @Retiradaaaa!@",
+      "@¡Retirada!@ NL @¡RETIRADAAAA!@",
       "@¡Corred!@"
     ]
   },
@@ -304,7 +304,7 @@
     ],
     "NAME": "Gremlin Idiota",
     "DIALOG": [
-      "@¡¡RRrroohrrRGHHhhh!!@"
+      "@¡¡GRRAAAWWRRRR!!@"
     ]
   },
   "GremlinThief": {
@@ -314,8 +314,8 @@
     "NAME": "Gremlin Ladrón",
     "DIALOG": [
       "",
-      "@Traeré@ @un poco@ NL @más de@ @ayuda@ ",
-      "@Pero@ @¡¿qué?!@"
+      "@Traeré@ @un poco@ NL @más de@ @ayuda.@ ",
+      "@¡¿Pero@ @qué?!@"
     ]
   },
   "GremlinTsundere": {
@@ -326,8 +326,8 @@
     "NAME": "Gremlin Reservado",
     "DIALOG": [
       "",
-      "~Hasta~ ~Luego...~",
-      "Esto no es bueno..."
+      "~Hasta~ ~luego...~",
+      "Esto no me gusta..."
     ]
   },
   "GremlinWarrior": {
@@ -338,7 +338,7 @@
     "DIALOG": [
       "",
       "@¡Voy@ @a@ NL @buscar@ @ayuda!@",
-      "¡Me voy de aqui!"
+      "¡Me las piro!"
     ]
   },
   "GremlinWizard": {
@@ -350,9 +350,9 @@
     "DIALOG": [
       "",
       "¡Cargando!",
-      "¡¡~Aquí~ ~viene!!~",
+      "¡¡~Allá~ ~va!!~",
       "@¡Voy@ @a@ NL @buscar@ @ayuda!@",
-      "~Muy...~ NL ~peligroso...~ NL ~adios...~"
+      "~Qué...~ NL ~peligroso...~ NL ~Adiós...~"
     ]
   },
   "Healer": {
@@ -400,8 +400,8 @@
     "NAME": "Lagavulin",
     "DIALOG": [
       "",
-      "... NL .....",
-      "¿...? NL ¡¿.....?!",
+      "... NL ...",
+      "¿...? NL ¡¿...?!",
       "@¡¡¡!!!@ NL @¡¿¿¿???!@"
     ]
   },
@@ -413,9 +413,9 @@
     "NAME": "Saqueador",
     "DIALOG": [
       "¡Dame tu oro!",
-      "@¡NOOOoooo!@",
+      "@¡NOOO...!@",
       "¿Dónde está mi bomba de humo?... Déjame ver...",
-      "Gracias por el dinero, jeje"
+      "Gracias por la pasta, jejeje…"
     ]
   },
   "Maw": {
@@ -424,7 +424,7 @@
     ],
     "NAME": "Las Fauces",
     "DIALOG": [
-      "@¡¡RRrrohrrRGHhh!!@"
+      "@¡¡Grraawrrrghh!!@"
     ]
   },
   "Mugger": {
@@ -621,7 +621,7 @@
     ],
     "NAME": "El Coleccionista",
     "DIALOG": [
-      "@Eres@ @mio!@"
+      "@¡Eres@ @mío!@"
     ]
   },
   "TheGuardian": {
@@ -653,8 +653,8 @@
     ],
     "NAME": "Devorador de Tiempo",
     "DIALOG": [
-      "~Ah...~ NL ~..compañía...~",
-      "~Ilusos..~ NL @ILUSOOS!@"
+      "~Ah...~ NL ~Compañía...~",
+      "~Ilusos…~ NL @¡ILUUSOOOS!@"
     ]
   },
   "TorchHead": {
