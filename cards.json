@@ -1314,7 +1314,7 @@
   },
   "Tantrum": {
     "NAME": "Berrinche",
-    "DESCRIPTION": "Haz !D! de daño. NL Entra en Cólera. NL No puedes abandonar la cólera durante este turno."
+    "DESCRIPTION": "Haz !D! de daño. NL Entra en Cólera. NL No puedes abandonar la Cólera durante este turno."
   },
   "Adaptation": {
     "NAME": "Adaptación",
@@ -1322,7 +1322,7 @@
     "UPGRADE_DESCRIPTION": "Innata. NL Cuando cambias de Posturas, roba !M! carta."
   },
   "Causality": {
-    "NAME": "Causalidad",
+    "NAME": "Causa",
     "DESCRIPTION": "Roba cartas hasta que tu mano esté llena. NL Agota.",
     "UPGRADE_DESCRIPTION": "Retiene. NL Roba cartas hasta que tu mano esté llena. NL Agota."
   },
@@ -1332,7 +1332,7 @@
   },
   "EmptyFist": {
     "NAME": "Puño vacío",
-    "DESCRIPTION": "Haz !D! de daño. NL Sal de tu Postura."
+    "DESCRIPTION": "Haz !D! de daño. NL Exit your Stance."
   },
   "Wisdom": {
     "NAME": "Sabiduría",
@@ -1353,8 +1353,8 @@
   },
   "Wish": {
     "NAME": "Deseo",
-    "DESCRIPTION": "Elije una carta de tu pila de extracción. NL Juega la carta dos veces y agótala. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Elije una carta de tu pila de extracción. NL Juega la carta tres veces y agótala. NL Agota."
+    "DESCRIPTION": "Elije una carta en tu pila de extracción. NL Juega la carta dos veces y agótala. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Elije una carta en tu pila de extracción. NL Juega la carta tres veces y agótala. NL Agota."
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
@@ -1370,8 +1370,8 @@
   },
   "Metaphysics": {
     "NAME": "Metafísica",
-    "DESCRIPTION": "Baraja una *Causalidad en tu pila de extracción. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Baraja una *Causalidad Mejorada en tu pila de extracción. NL Agota."
+    "DESCRIPTION": "Baraja una *Causa en tu pila de extracción. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Baraja una *Causa Mejorada en tu pila de extracción. NL Agota."
   },
   "Clarity": {
     "NAME": "Claridad",
@@ -1379,7 +1379,7 @@
     "UPGRADE_DESCRIPTION": "Mira las primeras !M! cartas de tu pila de extracción. Añade 1 a tu mano. NL Agota el resto."
   },
   "WreathOfFlame": {
-    "NAME": "Guirnalda de Llamas",
+    "NAME": "Guirlanda de Llamas",
     "DESCRIPTION": "Tu próximo ataque hace !M! de daño adicional."
   },
   "Flicker": {
@@ -1416,7 +1416,7 @@
     "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Acaba tu turno."
   },
   "MasterReality": {
-    "NAME": "Dominar la Realidad",
+    "NAME": "Realidad Maestra",
     "DESCRIPTION": "Elije NL *Herir o *Seguridad. NL Al final de cada turno añade la carta elegida a tu mano."
   },
   "CleanseEvil": {
@@ -1454,12 +1454,12 @@
   },
   "Wireheading": {
     "NAME": "Autoestimulación",
-    "DESCRIPTION": "Al final de tu turno, Adivina !M!.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Al final de tu turno, Adivina !M!."
+    "DESCRIPTION": "Al comienzo de tu turno, Adivina !M!.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Al comienzo de tu turno, Adivina !M!."
   },
   "Sanctity": {
     "NAME": "Santidad",
-    "DESCRIPTION": "Gana !B! de Bloqueo. NL Si la última carta jugada fue una Habilidad, roba !M! carta."
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Si la última carta jugada fue una Habilidad, roba !M! cartas."
   },
   "WardAura": {
     "NAME": "DEPRECATED Ward Aura",
@@ -1513,13 +1513,13 @@
   },
   "Vigilance": {
     "NAME": "Vigilancia",
-    "DESCRIPTION": "Entra en Calma. NL Roba !M! cartas.",
-    "UPGRADE_DESCRIPTION": "Entra en Calma. NL Roba !M! cartas."
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Entra en Calma.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "PathToVictory": {
     "NAME": "Camino a la Victoria",
     "DESCRIPTION": "Roba una carta y reduce su coste a 0 este turno. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Roba una carta y reduce su coste a 0 este turno."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
     "NAME": "Evaluar",
@@ -1534,7 +1534,7 @@
   "Collect": {
     "NAME": "Recolectar",
     "DESCRIPTION": "Gana [W] [W] al principio de tus próximos X turnos. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Gana [W] [W] al principio de tus próximos X+1 turnos. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Gana [W] [W] al principio de tus próximos X+1 turnos. NL Agota."
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
@@ -1568,12 +1568,12 @@
   "Worship": {
     "NAME": "Adorar",
     "DESCRIPTION": "Gana !M! de Mantra.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Gana !M! de Mantra."
+    "UPGRADE_DESCRIPTION": "Retiene. NL Gana !M! de Mantra."
   },
   "EmptyMind": {
     "NAME": "Mente Vacia",
-    "DESCRIPTION": "Abandona tu Postura. NL Roba !M! cartas.",
-    "UPGRADE_DESCRIPTION": "Abandona tu Postura. NL Roba !M! cartas."
+    "DESCRIPTION": "Roba !M! cartas. NL Sal de tu Postura.",
+    "UPGRADE_DESCRIPTION": "Roba !M! cartas. NL Sal de tu Postura."
   },
   "Miracle": {
     "NAME": "Milagro",
@@ -1604,8 +1604,8 @@
   },
   "DeceiveReality": {
     "NAME": "Burlar la Realidad",
-    "DESCRIPTION": "Gana !B! de Bloqueo. NL Elige NL *Seguridad o *Sabiduría. NL Añade la carta elegida a tu mano.",
-    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Elige NL *Seguridad o *Sabiduría Mejorada. NL Añade la carta elegida a tu mano."
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Añade un *Seguridad a tu mano.",
+    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Añade un *Seguridad Mejorada a tu mano."
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
@@ -1622,13 +1622,13 @@
   },
   "Brilliance": {
     "NAME": "Resplandor",
-    "DESCRIPTION": "Retiene. NL Gana [W] por cada turno que esta carta se Retenga. NL Agota.",
+    "DESCRIPTION": "Transforma tu mano en *Milagros. NL Agota.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Retenida !M! turnos.)"
+      ""
     ]
   },
   "ClearTheMind": {
-    "NAME": "Vacíar la Mente",
+    "NAME": "Tranquilidad",
     "DESCRIPTION": "Entra en Calma. NL Agota."
   },
   "Safety": {
@@ -1642,8 +1642,8 @@
   },
   "Prostrate": {
     "NAME": "Postrarse",
-    "DESCRIPTION": "Gana !M! de Mantra. NL Gana 1 de Vulnerable. NL Añade un *Revelación a tu pila de descartes.",
-    "UPGRADE_DESCRIPTION": "Gana !M! de Mantra. NL Gana 1 de Vulnerable. NL Añade un *Revelación a tu pila de descartes."
+    "DESCRIPTION": "Gana !M! de Mantra. NL Gana !B! de Bloqueo.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Pray": {
     "NAME": "Rezar",
@@ -1718,7 +1718,10 @@
   },
   "Judgement": {
     "NAME": "Juicio",
-    "DESCRIPTION": "Si el enemigo tiene !M! o menos PV, fija sus NL PV a 0."
+    "DESCRIPTION": "Si el enemigo tiene !M! o menos PV, fija sus NL PV a 0.",
+    "EXTENDED_DESCRIPTION": [
+      "JUZGADO"
+    ]
   },
   "MentalFortress": {
     "NAME": "Fortaleza Mental",
@@ -1746,7 +1749,7 @@
   },
   "Flare": {
     "NAME": "DEPRECATED Flare",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Wrath: Gain [W] [W] ."
+    "DESCRIPTION": "DEPRECATED."
   },
   "Unraveling": {
     "NAME": "Desentrañar",
@@ -1761,13 +1764,13 @@
     "DESCRIPTION": "Haz !D! de daño. NL Si la última carta jugada fue una Habilidad, aplica !M! de Vulnerable."
   },
   "Vengeance": {
-    "NAME": "Venganza",
+    "NAME": "Hervir de Rabia",
     "DESCRIPTION": "Si tus PV son menores que en el turno anterior, entra en Cólera."
   },
   "CarveReality": {
     "NAME": "Esculpir la Realidad",
-    "DESCRIPTION": "Haz !D! de daño. NL Elige NL *Aplastar o *Verdad. NL Añade la carta elegida a tu mano.",
-    "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Elige NL *Aplastar o *Verdad Mejoradas. NL Añade la carta elegida a tu mano."
+    "DESCRIPTION": "Haz !D! de daño. NL Añade un *Aplastar mejorado a tu mano.",
+    "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Añade un *Aplastar Mejorado a tu mano."
   },
   "Defend_P": {
     "NAME": "Defender",
@@ -1791,11 +1794,11 @@
   },
   "InnerPeace": {
     "NAME": "Paz Interior",
-    "DESCRIPTION": "Entra en Calma. NL Termina tu turno."
+    "DESCRIPTION": "Si estás en calma, roba !M! cartas, de lo contrario Entra en Calma."
   },
   "StepAndStrike": {
     "NAME": "Avanzar y Golpear",
-    "DESCRIPTION": "Costa 1 menos por cada Postura cambiada este turno. NL Gana !B! de Bloqueo. NL Haz !D! de daño."
+    "DESCRIPTION": "Cuesta 1 menos por cada Postura cambiada este turno. NL Gana !B! de Bloqueo. NL Haz !D! de daño."
   },
   "Prediction": {
     "NAME": "DEPRECATED Prediction",

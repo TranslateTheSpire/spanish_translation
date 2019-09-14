@@ -9,7 +9,8 @@
   "AttackPotion": {
     "NAME": "Poción de Ataque",
     "DESCRIPTIONS": [
-      "Añade #b1 de #b3 cartas de Ataque a tu mano. Su coste es #b0 este turno."
+      "Elige #b1 entre #b3 cartas de #yAtaque aleatorias para añadir a tu mano, cuestan #b0 este turno.",
+      "Elige #b1 entre #b3 cartas de #yAtaque aleatorias y añade #b2 copias a tu mano, cuestan #b0 este turno."
     ]
   },
   "Block Potion": {
@@ -149,7 +150,8 @@
   "PowerPotion": {
     "NAME": "Poción de Poder",
     "DESCRIPTIONS": [
-      "Añade #b1 de #b3 cartas de Poder aleatorias a tu mano. Su coste es #b0 este turno."
+      "Elige #b1 entre #b3 cartas de #yPoder aleatorias para añadir a tu mano, cuestan #b0 este turno.",
+      "Elige #b1 entre #b3 cartas de #yPoder aleatorias y añade #b2 copias a tu mano, cuestan #b0 este turno."
     ]
   },
   "Regen Potion": {
@@ -163,7 +165,8 @@
   "SkillPotion": {
     "NAME": "Poción de Habilidad",
     "DESCRIPTIONS": [
-      "Añade #b1 de #b3 cartas de Habilidad aleatorias a tu mano. Su coste es #b0 este turno."
+      "Elige #b1 entre #b3 cartas de #yHabilidad aleatorias para añadir a tu mano, cuestan #b0 este turno.",
+      "Elige #b1 entre #b3 cartas de #yHabilidad aleatorias y añade #b2 copias a tu mano, cuestan #b0 este turno."
     ]
   },
   "SmokeBomb": {
@@ -177,8 +180,8 @@
     "NAME": "Aceite de Snecko",
     "DESCRIPTIONS": [
       "Te vuelves #yConfuso. Roba #b",
-      " cartas.",
-      "carta."
+      " cartas. Randomiza el coste de las cartas en tu mano.",
+      ""
     ]
   },
   "SpeedPotion": {
@@ -220,9 +223,10 @@
     ]
   },
   "DuplicationPotion": {
-    "NAME": "Poción de ",
+    "NAME": "Poción de duplicar",
     "DESCRIPTIONS": [
-      "Este turno, tu próxima carta se juega dos veces."
+      "Este turno, tu próxima carta se juega dos veces.",
+      "Este turno, tu próximas #b2 cartas se juegan dos veces."
     ]
   },
   "StancePotion": {

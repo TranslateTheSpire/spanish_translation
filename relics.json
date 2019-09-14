@@ -524,9 +524,9 @@
     "NAME": "Lámpara",
     "FLAVOR": "Una lámpara misteriosa que ilumina solo para quien la sujeta.",
     "DESCRIPTIONS": [
-      "Gana ",
+      "Empieza cada combate con un ",
       "[E] ",
-      "el primer turno de cada combate."
+      "adicional."
     ]
   },
   "Lee's Waffle": {
@@ -1428,11 +1428,12 @@
     "NAME": "Mezcla",
     "FLAVOR": "Arenas misteriosas de origen desconocido. Huele a canela.",
     "DESCRIPTIONS": [
-      "Al principio de cada combate, añade un #yMilagro a tu mano."
+      "Siempre que barajes tu pila de extracción, #yAdivina #b",
+      "."
     ]
   },
   "Yin": {
-    "NAME": "Yin",
+    "NAME": "DEPRECATED Yin",
     "FLAVOR": "No puedes tener luz sin oscuridad. ¿O tal vez sí?",
     "DESCRIPTIONS": [
       "Cuando juegues una #yHabilidad, gana #b1 de #yFuerza temporal."
@@ -1451,6 +1452,36 @@
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, si es antes del turno #b",
       ", gana #yBloqueo igual al turno actual."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Agua Pura",
+    "FLAVOR": "Filtrada usando arena fina y sin ninguna impureza.",
+    "DESCRIPTIONS": [
+      "Al principio de cada combate, añade un #yMilagro a tu mano."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Agua Bendita",
+    "FLAVOR": "TODO.",
+    "DESCRIPTIONS": [
+      "Reemplaza #pAgua #pPura. Al principio de cada combate, añade #b3 #yMilagros a tu mano."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Horn Cleat",
+    "FLAVOR": "Es agradable tenerla en tu mano. What was it for?",
+    "DESCRIPTIONS": [
+      "Al principio de tu segundo turno, gana #b",
+      " de #yBloqueo."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Rueda del Capitán
+    "FLAVOR": "Baratija de madera tallada con precisión delicada. Tiene un nombre esculpido, pero está en otro idioma.",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu tercer turno, gana #b",
+      " de #yBloqueo."
     ]
   }
 }

@@ -1024,7 +1024,7 @@
     "NAME": "Duplicar",
     "DESCRIPTIONS": [
       "Tu próxima carta se juega dos veces este turno.",
-      "Tu próximas ",
+      "Tu próximas #b",
       " cartas se juegan dos veces este turno."
     ]
   },
@@ -1042,7 +1042,7 @@
     ]
   },
   "MasterRealityPower": {
-    "NAME": "Realidad Maestra",
+    "NAME": "Dominar la Realidad",
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, añade #b",
       " #y",
@@ -1061,11 +1061,11 @@
     "NAME": "Establecimiento",
     "DESCRIPTIONS": [
       "Cuando #yRetengas una Carta, reduce su coste en #b",
-	  "."
+      "."
     ]
   },
   "Controlled": {
-    "NAME": "Controlado",
+    "NAME": "Fortaleza Mental",
     "DESCRIPTIONS": [
       "Cuando cambias de #yPosturas, gana #b",
       " de #yBloqueo."
@@ -1080,7 +1080,7 @@
     ]
   },
   "OmegaPower": {
-    "NAME": "Poder Omega",
+    "NAME": "Omega",
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, haz ",
       " de daño a TODOS los enemigos."
@@ -1095,7 +1095,8 @@
   "WireheadingPower": {
     "NAME": "Autoestimulación",
     "DESCRIPTIONS": [
-      "Al final de tu turno, #yAdivina "
+      "Al final de tu turno, #yAdivina #b",
+      "."
     ]
   },
   "BattleHymn": {
@@ -1226,6 +1227,12 @@
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, gana #b",
       " #yMantra."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Hervir de Rabia",
+    "DESCRIPTIONS": [
+      "Entra en #yCólera al comienzo de tu turno."
     ]
   }
 }
