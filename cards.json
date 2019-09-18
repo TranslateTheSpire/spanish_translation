@@ -456,7 +456,7 @@
   },
   "Endless Agony": {
     "NAME": "Agonía Eterna",
-    "DESCRIPTION": "Cada vez que robes esta carta, añade una copia a la mano. NL Haz !D! de daño. NL Agota."
+    "DESCRIPTION": "Haz !D! de daño. NL Cada vez que robes esta carta, añade una copia a la mano. NL Agota."
   },
   "Energy Pulse": {
     "NAME": "Pulso de Energía",
@@ -579,7 +579,7 @@
     "DESCRIPTION": "El coste es 1 [B] menos por cada carta de Poder jugada este combate. NL Gana !B! de Bloqueo."
   },
   "Forethought": {
-    "NAME": "Previsión",
+    "NAME": "Premeditación",
     "DESCRIPTION": "Coloca una carta de la mano en el fondo de la pila de extracción. NL Su coste es 0 hasta que es jugada.",
     "UPGRADE_DESCRIPTION": "Coloca cualquier número de cartas de la mano en el fondo de la pila de extracción. NL Su coste es 0 hasta que es jugada."
   },
@@ -1212,8 +1212,8 @@
   },
   "True Grit": {
     "NAME": "Verdaderas Agallas",
-    "DESCRIPTION": "Gana !B! de Bloqueo. NL Agota una carta al azar en la mano.",
-    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Agota una carta en la mano."
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Agota una carta al azar.",
+    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Agota una carta."
   },
   "Turbo": {
     "NAME": "Turbo",
@@ -1314,7 +1314,7 @@
   },
   "Tantrum": {
     "NAME": "Berrinche",
-    "DESCRIPTION": "Haz !D! de daño. NL Entra en Cólera. NL No puedes abandonar la Cólera durante este turno."
+    "DESCRIPTION": "Haz !D! de daño. NL Entra en Cólera. NL No puedes abandonar la Cólera este turno."
   },
   "Adaptation": {
     "NAME": "Adaptación",
@@ -1393,11 +1393,11 @@
   },
   "FollowUp": {
     "NAME": "Secuela",
-    "DESCRIPTION": "Haz !D! de daño. NL Si la última carta jugada fue un Ataque, gana [W]."
+    "DESCRIPTION": "Haz !D! de daño. NL Si la última carta jugada este combate fue un Ataque, gana [W]."
   },
   "Vault": {
     "NAME": "Sortear",
-    "DESCRIPTION": "Gana 1 de Intangible y termina tu turno. NL Al final de tu turno, haz !D! de daño. Agota."
+    "DESCRIPTION": "Gana 1 de Intangible. NL El siguiente turno, haz !D! de daño. NL Finaliza tu turno. Agota."
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
@@ -1426,7 +1426,7 @@
   },
   "WindmillStrike": {
     "NAME": "Golpe de Molinete",
-    "DESCRIPTION": "Retiene. NL Haz !D! de daño. NL Cuando se Retiene esta carta, aumenta su daño por !M!."
+    "DESCRIPTION": "Retiene. NL Haz !D! de daño. NL Cuando se Retiene esta carta, aumenta su daño por !M! este combate."
   },
   "Shield": {
     "NAME": "DEPRECATED Shield",
@@ -1453,13 +1453,13 @@
     "DESCRIPTION": "Retiene. NL Haz !D! de daño dos veces."
   },
   "Wireheading": {
-    "NAME": "Autoestimulación",
+    "NAME": "Previsión",
     "DESCRIPTION": "Al comienzo de tu turno, Adivina !M!.",
     "UPGRADE_DESCRIPTION": "Innata. NL Al comienzo de tu turno, Adivina !M!."
   },
   "Sanctity": {
     "NAME": "Santidad",
-    "DESCRIPTION": "Gana !B! de Bloqueo. NL Si la última carta jugada fue una Habilidad, roba !M! cartas."
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Si la última carta jugada este combate fue una Habilidad, roba !M! cartas."
   },
   "WardAura": {
     "NAME": "DEPRECATED Ward Aura",
@@ -1519,7 +1519,7 @@
   "PathToVictory": {
     "NAME": "Camino a la Victoria",
     "DESCRIPTION": "Roba una carta y reduce su coste a 0 este turno. NL Agota.",
-    "UPGRADE_DESCRIPTION": ""
+    "UPGRADE_DESCRIPTION": "Roba una carta y reduce su coste a 0 este turno."
   },
   "Evaluate": {
     "NAME": "Evaluar",
@@ -1528,8 +1528,8 @@
   },
   "Establishment": {
     "NAME": "Establecimiento",
-    "DESCRIPTION": "Cuando se retenga una carta, reduce su coste en !M!.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Cuando se retenga una carta, reduce su coste en !M!."
+    "DESCRIPTION": "Cuando se retenga una carta, reduce su coste en !M! este combate..",
+    "UPGRADE_DESCRIPTION": "Innata. NL Cuando se retenga una carta, reduce su coste en !M! este combate.."
   },
   "Collect": {
     "NAME": "Recolectar",
@@ -1586,7 +1586,7 @@
   },
   "TalkToTheHand": {
     "NAME": "Háblale a la Mano",
-    "DESCRIPTION": "Haz !D! de daño. NL Cuando este enemigo recibe daño, gana !M! de Bloqueo. NL Agota."
+    "DESCRIPTION": "Haz !D! de daño. NL Al atacar a este enemigo, gana !M! de Bloqueo. NL Agota."
   },
   "Strike_P": {
     "NAME": "Golpe",
@@ -1594,13 +1594,13 @@
   },
   "Meditate": {
     "NAME": "Meditar",
-    "DESCRIPTION": "Agota hasta !M! cartas. NL Entra en Calma.",
-    "UPGRADE_DESCRIPTION": "Agota hasta !M! cartas. NL Entra en Calma."
+    "DESCRIPTION": "Pon una carta de tu Pila de Descartes en tu mano y Retenla. NL Entra en Calma. NL Finaliza tu turno.",
+    "UPGRADE_DESCRIPTION": "Pon 2 cartas de tu Pila de Descartes en tu mano y Retenlas. NL Entra en Calma. NL Finaliza tu turno."
   },
   "Nirvana": {
     "NAME": "Nirvana",
-    "DESCRIPTION": "Cuando juegues una carta, Mejórala durante el resto del combate.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Cuando juegues una carta, Mejórala durante el resto del combate."
+    "DESCRIPTION": "Al Adivinar, gana !M! de Bloqueo.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "DeceiveReality": {
     "NAME": "Burlar la Realidad",
@@ -1637,8 +1637,8 @@
   },
   "Scrawl": {
     "NAME": "Garabatear",
-    "DESCRIPTION": "Roba !M! cartas. NL No puedes jugar habilidades durante el resto del turno.",
-    "UPGRADE_DESCRIPTION": "Roba !M! cartas. NL No puedes jugar habilidades durante el resto del turno."
+    "DESCRIPTION": "Roba !M! cartas. NL No puedes jugar habilidades este turno.",
+    "UPGRADE_DESCRIPTION": "Roba !M! cartas. NL No puedes jugar habilidades este turno."
   },
   "Prostrate": {
     "NAME": "Postrarse",
@@ -1657,12 +1657,12 @@
   },
   "ForeignInfluence": {
     "NAME": "Influencia Externa",
-    "DESCRIPTION": "Elige 1 entre 3 Ataques para añadir a tu mano. Estas cartas pueden ser de cualquier color. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Elige 1 entre 3 Ataques Mejorados para añadir a tu mano. Estas cartas pueden ser de cualquier color. NL Agota."
+    "DESCRIPTION": "Elige 1 entre 3 Ataques de cualquier color para añadir a tu mano. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Elige 1 entre 3 Ataques Mejorados para añadir a tu mano. NL Agota."
   },
   "SignatureMove": {
     "NAME": "Movimiento Característico",
-    "DESCRIPTION": "Solo puede ser jugado si es el único Ataque en tu mano. Haz !D! de daño."
+    "DESCRIPTION": "Solo puede ser jugado si es el único Ataque en tu mano. NL Haz !D! de daño."
   },
   "SublimeSlice": {
     "NAME": "DEPRECATED Sublime Slice",
@@ -1710,7 +1710,7 @@
   },
   "Omega": {
     "NAME": "Omega",
-    "DESCRIPTION": "Al comenzar tu turno haz !M! de daño a TODOS los enemigos."
+    "DESCRIPTION": "Al comenzar tu turno, haz !M! de daño a TODOS los enemigos."
   },
   "Serenity": {
     "NAME": "DEPRECATED Serenidad",
@@ -1737,7 +1737,7 @@
   },
   "SandsOfTime": {
     "NAME": "Arenas del Tiempo",
-    "DESCRIPTION": "Retiene. NL Haz !D! de daño. NL Cuando retengas esta carta, reduce su coste en 1."
+    "DESCRIPTION": "Retiene. NL Haz !D! de daño. NL Cuando retengas esta carta, reduce su coste en 1 este combate."
   },
   "Blasphemy": {
     "NAME": "Blasfemia",
@@ -1753,15 +1753,15 @@
   },
   "Unraveling": {
     "NAME": "Desentrañar",
-    "DESCRIPTION": "Juega todas las cartas en tu mano de izquierda a derecha. Los objetivos se eligen aleatoriamente. NL Agota."
+    "DESCRIPTION": "Juega todas tus cartas de izquierda a derecha. Los objetivos se eligen aleatoriamente. NL Agota."
   },
   "Weave": {
     "NAME": "Evadir",
-    "DESCRIPTION": "Haz !D! de daño. NL Añade esta carta a tu mano cuando se fuera a descartar de tu pila de extracción."
+    "DESCRIPTION": "Haz !D! de daño. NL Al Adivinar y descartar esta carta, añadela a tu mano."
   },
   "CrushJoints": {
     "NAME": "Aplastar Juntas",
-    "DESCRIPTION": "Haz !D! de daño. NL Si la última carta jugada fue una Habilidad, aplica !M! de Vulnerable."
+    "DESCRIPTION": "Haz !D! de daño. NL Si la última carta jugada este combate fue una Habilidad, aplica !M! de Vulnerable."
   },
   "Vengeance": {
     "NAME": "Hervir de Rabia",
@@ -1815,5 +1815,9 @@
   "FlurryOfBlows": {
     "NAME": "Ráfaga de Golpes",
     "DESCRIPTION": "Haz !D! de daño !M! veces. NL Al cambiar de postura, regresa de la Pila de Cartas Agotadas a tu Mano. Agota."
+  },
+  "SashWhip": {
+    "NAME": "Faja Látigo",
+    "DESCRIPTION": "Haz !D! de daño. NL Si la última carta jugada este combate fue un Ataque, aplica !M! de Débil."
   }
 }

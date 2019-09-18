@@ -158,7 +158,9 @@
         "mantiene",
         "retiene",
         "retenido",
-        "retén"
+        "retén",
+        "retenla",
+        "retenlas"
       ],
       "DESCRIPTION": "Las Cartas Mantenidas no son descartadas al final del turno."
     },
@@ -302,7 +304,8 @@
     },
     "SCRY": {
       "NAMES": [
-        "adivina"
+        "adivina",
+        "adivinar"
       ],
       "DESCRIPTION": "Mira las primeras X cartas de tu pila de robado. Puedes descartar las que quieras."
     },

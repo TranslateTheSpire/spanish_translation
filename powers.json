@@ -1089,11 +1089,12 @@
   "Nirvana": {
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
-      "Cuando juegues una carta, #yMejórala."
+      "Al Adivinar, gana #b",
+	  " de #yBloqueo."
     ]
   },
   "WireheadingPower": {
-    "NAME": "Autoestimulación",
+    "NAME": "Previsión",
     "DESCRIPTIONS": [
       "Al final de tu turno, #yAdivina #b",
       "."

@@ -99,7 +99,9 @@
     "NAMES": [
       "Jade \"HobNob\" Stevanovic",
       "Mero Marco",
-      "Luigi Squarzina"
+      "Luigi Squarzina",
+      "Playtesting:",
+      "Mattylink Heropon"
     ]
   },
   "LOC_JPN": {
@@ -376,6 +378,19 @@
       "Kakehashi Games (Traducción oficial):",
       "Soporte de Publicación en Japón:  Kakehashi Games",
       "Traduccion Japonesa:  Rie Ihara"
+    ]
+  },
+  "LOC_VIE": {
+    "HEADER": "Traducción al Vietnamita",
+    "NAMES": [
+      "MercTrans Localization Team",
+      "Traducción:",
+      "Dinh Long Hoang (donkrieg1011)",
+      "Dinh Hoang Nguyen (clesta)",
+      "Coordinación y Organización Lingüística:",
+      "Hoang Son Do",
+      "Agradecimientos Especiales:",
+      "Azy Tazer"
     ]
   }
 }
