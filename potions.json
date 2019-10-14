@@ -37,11 +37,11 @@
   "Elixir": {
     "NAME": "Elixir",
     "DESCRIPTIONS": [
-      "",
-      "",
-      "#yAgota toda las cartas de #yEstado y #yMaldición de tu mano",
-      "",
-      "No tuvo efecto..."
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED"
     ]
   },
   "Energy Potion": {
@@ -122,8 +122,8 @@
   "Health Potion": {
     "NAME": "Poción Curativa",
     "DESCRIPTIONS": [
-      "Cura #b",
-      " PV."
+      "DEPRECATED",
+      "DEPRECATED"
     ]
   },
   "LiquidBronze": {
@@ -233,6 +233,53 @@
     "NAME": "Poción de Postura",
     "DESCRIPTIONS": [
       "Entra en #yCalma o #yCólera."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Elixir",
+    "DESCRIPTIONS": [
+      "#yAgota cualquier cantidad de cartas en tu mano."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Corazón de Hierro",
+    "DESCRIPTIONS": [
+      "Gana #b",
+      " de #yMetalizado."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "Poción de Astucia",
+    "DESCRIPTIONS": [
+      "Añade #b",
+      " #yNavajas+ a tu mano."
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Poción de Capacidad",
+    "DESCRIPTIONS": [
+      "Gana #b",
+      " huecos de Orbe."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Esencia de Oscuridad",
+    "DESCRIPTIONS": [
+      "#yCanaliza #b",
+      " de #yOscuridad por cada hueco de Orbe."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Milagro Embotellado",
+    "DESCRIPTIONS": [
+      "Añade #b",
+      " #yMilagros a tu mano."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambrosía",
+    "DESCRIPTIONS": [
+      "Entra en la #yPostura #yDivinidad."
     ]
   }
 }

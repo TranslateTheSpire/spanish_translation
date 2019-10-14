@@ -1483,5 +1483,13 @@
       "Al comienzo de tu tercer turno, gana #b",
       " de #yBloqueo."
     ]
+  },
+  "GoldenEye": {
+    "NAME": "Ojo Dorado",
+    "FLAVOR": "TODO",
+    "DESCRIPTIONS": [
+      "Cuando #yAdivinas, #yAdivina #b",
+      " cartas adicionales."
+    ]
   }
 }

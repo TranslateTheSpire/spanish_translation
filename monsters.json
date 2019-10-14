@@ -654,7 +654,8 @@
     "NAME": "Devorador de Tiempo",
     "DIALOG": [
       "~Ah...~ NL ~Compañía...~",
-      "~Ilusos…~ NL @¡ILUUSOOOS!@"
+      "~Ilusos…~ NL @¡ILUUSOOOS!@",
+      "~Nunca....~ NL ~...me caíste..~ NL ~..bien...~"
     ]
   },
   "TorchHead": {
