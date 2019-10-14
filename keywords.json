@@ -322,6 +322,12 @@
         "vigor"
       ],
       "DESCRIPTION": "Tu próximo Ataque hace daño adicional."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritual"
+      ],
+      "DESCRIPTION": "Gana #yFuerza al final de cada turno."
     }
   }
 }

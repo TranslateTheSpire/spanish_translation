@@ -281,5 +281,27 @@
     "DESCRIPTIONS": [
       "Entra en la #yPostura #yDivinidad."
     ]
+  },
+  "DistilledChaos": {
+    "NAME": "Caos Destilado",
+    "DESCRIPTIONS": [
+      "Juega las primeras #b",
+      " cartas de tu pila de extracción."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Memorias Líquidas",
+    "DESCRIPTIONS": [
+      "Elige una carta en tu pila de descartes y devuelvela a tu mano. Cuesta #b0 este turno.",
+      "Elige #b ",
+      " cartas en tu pila de descartes y devuelvelas a tu mano. Cuestan #b0 este turno."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Poción de Cultista",
+    "DESCRIPTIONS": [
+      "Gana #b",
+      " de #yRitual."
+    ]
   }
 }

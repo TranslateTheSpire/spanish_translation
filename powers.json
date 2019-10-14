@@ -771,7 +771,8 @@
     "NAME": "Ritual",
     "DESCRIPTIONS": [
       "Al final de su turno, gana #b",
-      " de #yFuerza."
+      " de #yFuerza.",
+      "Al final de tu turno, gana #b"
     ]
   },
   "Rupture": {
@@ -1283,7 +1284,7 @@
     ]
   },
   "FlickPower": {
-    "NAME": "Chasquido",
+    "NAME": "DEPRECATED Chasquido",
     "DESCRIPTIONS": [
       "Cuando el enemigo obtenga #yChasquido #b",
       "2 veces más, recibe #b",

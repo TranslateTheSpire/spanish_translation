@@ -1397,7 +1397,7 @@
   },
   "Vault": {
     "NAME": "Sortear",
-    "DESCRIPTION": "Salta el próximo turno enemigo. NL Termina tu turno. NL Agota."
+    "DESCRIPTION": "Toma un turno extra tras este. NL Termina tu turno. NL Agota."
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
@@ -1471,8 +1471,8 @@
   },
   "Beta": {
     "NAME": "Beta",
-    "DESCRIPTION": "Añade un *Omega al fondo de tu pila de extracción. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Añade un *Omega+ al fondo de tu pila de extracción. NL Agota."
+    "DESCRIPTION": "Añade un *Omega en tu pila de extracción. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Añade un *Omega+ en tu pila de extracción. NL Agota."
   },
   "FearNoEvil": {
     "NAME": "No Temer a Nada",
@@ -1615,7 +1615,7 @@
   },
   "Halt": {
     "NAME": "Detener",
-    "DESCRIPTION": "Gana !B! de Bloqueo. NL Cólera: Gana !M! de Bloqueo adicional."
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Si estás en Cólera, gana !M! de Bloqueo adicional."
   },
   "CurseOfTheBell": {
     "NAME": "Maldición de la Campana",
