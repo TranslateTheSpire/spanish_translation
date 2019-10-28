@@ -1295,7 +1295,7 @@
   "PathToVictoryPower": {
     "NAME": "Camino a la Victoria",
     "DESCRIPTIONS": [
-      "Cuando juegues #yCamino #ya #yla #yVictoria, pierde #b",
+      "Cada vez que juegues #yPuntos #yde #yPresión, pierde #b",
       " de PV."
     ]
   },

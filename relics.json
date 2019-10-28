@@ -1240,7 +1240,7 @@
     "NAME": "Caja de Herramientas",
     "FLAVOR": "Una herramienta para cada trabajo.",
     "DESCRIPTIONS": [
-      "Al comienzo de cada combate añade una carta incolora al azar a tu mano."
+      "Al comienzo de cada combate, elige #b1 entre #b3 cartas Incoloras y añadela a tu mano."
     ]
   },
   "Torii": {

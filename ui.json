@@ -674,7 +674,8 @@
       "Arriba",
       "Abajo",
       "Mando Habilitado",
-      "Modo Pantalla Táctil"
+      "Modo Pantalla Táctil",
+      "Vistazo"
     ]
   },
   "LanguageDropdown": {
@@ -895,7 +896,8 @@
       "Resolución:",
       "Resolución: NL Monitor en pantalla completa:",
       "Cambia en que monitor se muestra el juego estando en pantalla completa.",
-      "Confirmar con pulsaciones largas"
+      "Confirmar con pulsaciones largas",
+      "Texto Grande"
     ]
   },
   "PatchNotesScreen": {

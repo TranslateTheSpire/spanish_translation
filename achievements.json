@@ -127,7 +127,12 @@
       "Jefes derrotados: #y",
       "Enemigos derrotados: #y",
       "Mayor racha ganadora: #y",
-      "Puntuación más alta: #y"
+      "Puntuación más alta: #y",
+      "%02d:%02d:%02d",
+      "%02d:%02d",
+      "#y%02dh #y%02dm #y%02ds",
+      "#y%02dm #y%02ds",
+      "%01d:%02d:%02d"
     ]
   },
   "StatsScreen": {

@@ -947,7 +947,7 @@
   },
   "Reckless Charge": {
     "NAME": "Carga Imprudente",
-    "DESCRIPTION": "Haz !D! de daño. NL Baraja un 'Desorientado' en la pila de extracción."
+    "DESCRIPTION": "Haz !D! de daño. NL Baraja un *Desorientado en la pila de extracción."
   },
   "Recycle": {
     "NAME": "Reciclar",
@@ -975,8 +975,8 @@
   },
   "Reprogram": {
     "NAME": "Reprogramar",
-    "DESCRIPTION": "Adivina !M!.",
-    "UPGRADE_DESCRIPTION": "Mira las siguientes !M! cartas al tope de la pila de extracción. Puedes descartar cualquiera de ellas."
+    "DESCRIPTION": "Pierde !M! de Concentración. NL Gana 1 de Fuerza. NL Gana 1 de Dexteridad.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
     "NAME": "Acribillar",
@@ -1332,7 +1332,7 @@
   },
   "EmptyFist": {
     "NAME": "Puño vacío",
-    "DESCRIPTION": "Haz !D! de daño. NL Exit your Stance."
+    "DESCRIPTION": "Haz !D! de daño. NL Sal de tu Postura."
   },
   "Wisdom": {
     "NAME": "Sabiduría",
@@ -1353,7 +1353,7 @@
   },
   "Wish": {
     "NAME": "Deseo",
-    "DESCRIPTION": "Elije una: NL Gana !B! de Armadura de Placas cada turno, !D! de Fuerza, o !M! de Oro. NL Agota.",
+    "DESCRIPTION": "Elije una: NL Gana !B! de Armadura de Placas, !D! de Fuerza, o !M! de Oro. NL Agota.",
     "UPGRADE_DESCRIPTION": ""
   },
   "FuryAura": {
@@ -1416,7 +1416,7 @@
     "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Acaba tu turno."
   },
   "MasterReality": {
-    "NAME": "Realidad Maestra",
+    "NAME": "Amaestrar Realidad",
     "DESCRIPTION": "Cuando se crea una carta durante el combate, Mejórala."
   },
   "CleanseEvil": {
@@ -1455,7 +1455,7 @@
   "Wireheading": {
     "NAME": "Previsión",
     "DESCRIPTION": "Al comienzo de tu turno, Adivina !M!.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Al comienzo de tu turno, Adivina !M!."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Sanctity": {
     "NAME": "Santidad",
@@ -1472,7 +1472,7 @@
   "Beta": {
     "NAME": "Beta",
     "DESCRIPTION": "Añade un *Omega en tu pila de extracción. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Añade un *Omega+ en tu pila de extracción. NL Agota."
+    "UPGRADE_DESCRIPTION": ""
   },
   "FearNoEvil": {
     "NAME": "No Temer a Nada",
@@ -1504,7 +1504,7 @@
     "DESCRIPTION": "Play the top X cards of your draw pile. If X is 3 or more, Retain X cards."
   },
   "CutThroughFate": {
-    "NAME": "Cortar la Fe",
+    "NAME": "Desafiar el Destino",
     "DESCRIPTION": "Haz !D! de daño. NL Adivina !M!. NL Roba 1 carta."
   },
   "WaveOfTheHand": {
@@ -1517,7 +1517,7 @@
     "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "PathToVictory": {
-    "NAME": "Camino a la Victoria",
+    "NAME": "Puntos de Presión",
     "DESCRIPTION": " Aplica !M! de *Marca. NL TODOS los enemigos pierden PV igual a su *Marca.",
     "UPGRADE_DESCRIPTION": ""
   },
@@ -1582,8 +1582,8 @@
   },
   "DevaForm": {
     "NAME": "Forma Deva",
-    "DESCRIPTION": "Etérea. NL Al comienzo de tu turno, gana [W] y aumenta este bonus por !M!.",
-    "UPGRADE_DESCRIPTION": "Al comienzo de tu turno, gana [W] y aumenta este bonus por !M!."
+    "DESCRIPTION": "Etérea. NL Al comienzo de tu turno, gana [W] NL y aumenta este bonus por !M!.",
+    "UPGRADE_DESCRIPTION": "Al comienzo de tu turno, gana [W] NL y aumenta este bonus por !M!."
   },
   "TalkToTheHand": {
     "NAME": "Háblale a la Mano",
@@ -1743,7 +1743,8 @@
   },
   "Blasphemy": {
     "NAME": "Blasfemia",
-    "DESCRIPTION": "Entra en Divinidad. NL Muere el próximo turno. NL Agota."
+    "DESCRIPTION": "Entra en Divinidad. NL Muere el próximo turno. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Retiene. NL Entra en Divinidad. NL Muere el próximo turno. NL Agota."
   },
   "Transcendence": {
     "NAME": "Trascendencia",
@@ -1758,7 +1759,7 @@
     "DESCRIPTION": "Juega todas tus cartas de izquierda a derecha. Los objetivos se eligen aleatoriamente. NL Agota."
   },
   "Weave": {
-    "NAME": "Evadir",
+    "NAME": "Entrelazar",
     "DESCRIPTION": "Haz !D! de daño. NL Al Adivinar, devuelve esta carta de la pila de descartes a tu mano."
   },
   "CrushJoints": {
@@ -1767,11 +1768,11 @@
   },
   "Vengeance": {
     "NAME": "Hervir de Rabia",
-    "DESCRIPTION": "Si tus PV son menores que en el turno anterior, entra en Cólera."
+    "DESCRIPTION": "Adivina 3. Entra en Cólera en tu siguiente turno."
   },
   "CarveReality": {
     "NAME": "Esculpir la Realidad",
-    "DESCRIPTION": "Haz !D! de daño. NL Añade un *Aplastar mejorado a tu mano.",
+    "DESCRIPTION": "Haz !D! de daño. NL Añade un *Aplastar a tu mano.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Defend_P": {
@@ -1816,7 +1817,7 @@
   },
   "FlurryOfBlows": {
     "NAME": "Ráfaga de Golpes",
-    "DESCRIPTION": "Haz !D! de daño !M! veces. NL Cuando cambies de postura, devuelve esta carta de la Pila de Cartas Agotadas a tu Mano. Agota."
+    "DESCRIPTION": "Haz !D! de daño. NL Cuando cambies de postura, devuelve esta carta de la Pila de Descartes a tu Mano."
   },
   "SashWhip": {
     "NAME": "Faja Látigo",
@@ -1841,12 +1842,12 @@
   },
   "LiveForever": {
     "NAME": "Vivir para Siempre",
-    "DESCRIPTION": "Al final de tu turno, gana !M! de Armadura de Placas."
+    "DESCRIPTION": "Gana !M! de Armadura de Placas."
   },
   "Expunger": {
     "NAME": "Expiradora",
     "DESCRIPTION": "Haz !D! de daño X veces.",
-    "UPGRADE_DESCRIPTION": "Haz !D! de daño X+1 veces.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       "Haz !D! de daño X veces."
     ]
@@ -1854,7 +1855,7 @@
   "ConjureBlade": {
     "NAME": "Conjurar Cuchilla",
     "DESCRIPTION": "Baraja un *Expiradora en tu pila de extracción. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Baraja un *Expiradora+ en tu pila de extracción. NL Agota."
+    "UPGRADE_DESCRIPTION": "Baraja un *Expiradora con X+1 en tu pila de extracción. NL Agota."
   },
   "WaveOfTheHand2": {
     "NAME": "Gesto de Mano A",
