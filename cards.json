@@ -509,7 +509,7 @@
   },
   "Feed": {
     "NAME": "Alimentarse",
-    "DESCRIPTION": "Haz !D! de daño. NL Si esta mata a un enemigo no súbdito, gana !M! PV máximos de forma permanente. Agota."
+    "DESCRIPTION": "Haz !D! de daño. NL Si es Fatal, gana !M! PV máximos de forma permanente. Agota."
   },
   "Feel No Pain": {
     "NAME": "No hay Dolor",
@@ -628,7 +628,7 @@
   },
   "HandOfGreed": {
     "NAME": "Mano Avariciosa",
-    "DESCRIPTION": "Haz !D! de daño. NL Si esta carta mata un enemigo que no es súbdito, gana !M! de Oro."
+    "DESCRIPTION": "Haz !D! de daño. NL Si es Fatal, gana !M! de Oro."
   },
   "Havoc": {
     "NAME": "Confusión",
@@ -975,7 +975,7 @@
   },
   "Reprogram": {
     "NAME": "Reprogramar",
-    "DESCRIPTION": "Pierde !M! de Concentración. NL Gana 1 de Fuerza. NL Gana 1 de Dexteridad.",
+    "DESCRIPTION": "Pierde !M! de Concentración. NL Gana 1 de Fuerza. NL Gana 1 de Destreza.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
@@ -988,7 +988,7 @@
   },
   "RitualDagger": {
     "NAME": "Daga del Ritual",
-    "DESCRIPTION": "Haz !D! de daño. Si esta carta mata a un enemigo, incrementa permanentemente el daño de esta carta en !M!. Agota."
+    "DESCRIPTION": "Haz !D! de daño. Si es Fatal, incrementa permanentemente el daño de esta carta en !M!. Agota."
   },
   "Rupture": {
     "NAME": "Ruptura",
@@ -1434,7 +1434,7 @@
   },
   "LessonLearned": {
     "NAME": "Lección Aprendida",
-    "DESCRIPTION": "Haz !D! de daño. NL Si esto mata a un enemigo, Mejora una carta aleatoria en tu mazo. Agota."
+    "DESCRIPTION": "Haz !D! de daño. NL Si es Fatal, Mejora una carta aleatoria en tu mazo. Agota."
   },
   "Calm": {
     "NAME": "Calma",
@@ -1623,8 +1623,9 @@
   },
   "Brilliance": {
     "NAME": "Resplandor",
-    "DESCRIPTION": "Etérea. NL Cúrate !M! PV X veces. NL Agota.",
+    "DESCRIPTION": "Haz !D! de daño. NL Hace daño adicional igual al Mantra ganado este combate.",
     "EXTENDED_DESCRIPTION": [
+      "",
       ""
     ]
   },
@@ -1681,8 +1682,8 @@
   },
   "BattleHymn": {
     "NAME": "Himno de Batalla",
-    "DESCRIPTION": "Al comienzo de cada turno añade un *Aplastar a tu mano.",
-	"UPGRADE_DESCRIPTION": "Innata. NL Al comienzo de cada turno añade un *Aplastar a tu mano."
+    "DESCRIPTION": "Al comienzo de cada turno, añade un *Aplastar a tu mano.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Al comienzo de cada turno, añade un *Aplastar a tu mano."
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",
@@ -1842,14 +1843,14 @@
   },
   "LiveForever": {
     "NAME": "Vivir para Siempre",
-    "DESCRIPTION": "Gana !M! de Armadura de Placas."
+    "DESCRIPTION": "Gana !M! de *Armadura *de *Placas."
   },
   "Expunger": {
     "NAME": "Expiradora",
     "DESCRIPTION": "Haz !D! de daño X veces.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "Haz !D! de daño X veces."
+      "Haz !D! de daño !M! veces."
     ]
   },
   "ConjureBlade": {
@@ -1863,7 +1864,7 @@
   },
   "Fasting2": {
     "NAME": "Rápido B",
-    "DESCRIPTION": "Gana !M! de Fuerza. NL Gana !M! de Dexteridad. NL Gana 1 menos de [W] al comienzo de cada turno."
+    "DESCRIPTION": "Gana !M! de Fuerza. NL Gana !M! de Destreza. NL Gana 1 menos de [W] al comienzo de cada turno."
   },
   "Discipline": {
     "NAME": "Disciplina",

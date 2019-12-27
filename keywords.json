@@ -129,9 +129,9 @@
     },
     "LOCK_ON": {
       "NAMES": [
-        "bloquear objetivo"
+        "localizar"
       ],
-      "DESCRIPTION": "Los enemigos marcados con Bloquear Objetivo reciben un #b50% más de daño de los Orbes."
+      "DESCRIPTION": "Los enemigos marcados con Localizar reciben un #b50% más de daño de los Orbes."
     },
     "OPENER": {
       "NAMES": [
@@ -328,6 +328,12 @@
         "ritual"
       ],
       "DESCRIPTION": "Gana #yFuerza al final de cada turno."
+    },
+    "FATAL": {
+      "NAMES": [
+        "fatal"
+      ],
+      "DESCRIPTION": "Se activa cuando esta carta mata a un enemigo no súbdito."
     }
   }
 }

@@ -310,7 +310,7 @@
     ]
   },
   "Dodecahedron": {
-    "NAME": "Dodecaedro Rúnico",
+    "NAME": "DEPRECATED Dodecaedro Rúnico",
     "FLAVOR": "Las runas son indescifrables.",
     "DESCRIPTIONS": [
       "Si tus PV están al máximo gana, ",
@@ -1221,9 +1221,9 @@
     "NAME": "Cofre Diminuto",
     "FLAVOR": "\"Un buen prototipo.\" - El Arquitecto",
     "DESCRIPTIONS": [
-      "Gana #b",
-      " de #yoro. Tienes un #b10% más probabilidad de encontrar un cofre del tesoro en habitaciones ?.",
-      "Tienes un #b10% más probabilidad de encontrar tesoro en habitaciones ?."
+      "Cada #b",
+      "º habitación #y? es una habitación de #yTesoro.",
+      ""
     ]
   },
   "Tiny House": {
@@ -1410,10 +1410,10 @@
     ]
   },
   "Yang": {
-    "NAME": "Yang",
+    "NAME": "Dualidad",
     "FLAVOR": "\"Y el sol se desvaneció para siempre, como si cayera el telón sobre él.\" - Zoroth",
     "DESCRIPTIONS": [
-      "Cuando juegues un #yAtaque, gana #b1 de #yDexteridad temporal."
+      "Cuando juegues un #yAtaque, gana #b1 de #yDestreza temporal."
     ]
   },
   "CloakClasp": {
@@ -1463,7 +1463,7 @@
   },
   "HolyWater": {
     "NAME": "Agua Bendita",
-    "FLAVOR": "TODO.",
+    "FLAVOR": "Recolectada antes de que la Aguja existiera.",
     "DESCRIPTIONS": [
       "Reemplaza #pAgua #pPura. Al principio de cada combate, añade #b3 #yMilagros a tu mano."
     ]
@@ -1486,10 +1486,18 @@
   },
   "GoldenEye": {
     "NAME": "Ojo Dorado",
-    "FLAVOR": "TODO",
+    "FLAVOR": "Observa las mentes de aquellos que están cerca, prediciendo sus futuros movimientos.",
     "DESCRIPTIONS": [
       "Cuando #yAdivinas, #yAdivina #b",
       " cartas adicionales."
+    ]
+  },
+  "Damaru": {
+    "NAME": "Damru",
+    "FLAVOR": "TODO. Don't forget to write stuff here, devs.",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu turno, gana #b",
+      " #yMantra."
     ]
   }
 }

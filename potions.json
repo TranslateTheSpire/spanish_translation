@@ -303,5 +303,18 @@
       "Gana #b",
       " de #yRitual."
     ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Poción sin Color",
+    "DESCRIPTIONS": [
+      "Elije #b1 entre #b3 cartas #yIncoloras para añadir a tu mano, cuesta #b0 este turno.",
+      "Elije #b1 entre #b3 cartas #yIncoloras para añadir a tu mano, cuestan #b0 este turno."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Bendición de la Forja",
+    "DESCRIPTIONS": [
+      "Mejora todas las cartas de tu mano."
+    ]
   }
 }
