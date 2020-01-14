@@ -1450,8 +1450,8 @@
     "NAME": "Barra de Tungsteno",
     "FLAVOR": "Es muy muy pesada.",
     "DESCRIPTIONS": [
-      "Al comienzo de tu turno, si es antes del turno #b",
-      ", gana #yBloqueo igual al turno actual."
+      "Cada vez que fueras a perder PV, pierde #b",
+      "menos."
     ]
   },
   "PureWater": {
@@ -1469,8 +1469,8 @@
     ]
   },
   "HornCleat": {
-    "NAME": "Horn Cleat",
-    "FLAVOR": "Es agradable tenerla en tu mano. What was it for?",
+    "NAME": "Taco de Cuerno",
+    "FLAVOR": "Es agradable tenerla en tu mano. ¿Para que sirve?",
     "DESCRIPTIONS": [
       "Al principio de tu segundo turno, gana #b",
       " de #yBloqueo."
@@ -1494,7 +1494,7 @@
   },
   "Damaru": {
     "NAME": "Damru",
-    "FLAVOR": "TODO. Don't forget to write stuff here, devs.",
+    "FLAVOR": "El sonido de un pequeño tambor te mantiene despierto, allanando el camino.",
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, gana #b",
       " #yMantra."
