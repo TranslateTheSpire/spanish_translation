@@ -74,8 +74,8 @@
   "FairyPotion": {
     "NAME": "Hada Embotellada",
     "DESCRIPTIONS": [
-      "Cuando fueras a morir, te cura un #b10% de tus PV máximos y se descarta.",
-      "% of your Max HP instead and discard this potion."
+      "Cuando fueras a morir, cúrate al #b",
+      "% de tus PV máximos y descarta esta poción."
     ]
   },
   "FearPotion": {

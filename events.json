@@ -262,7 +262,7 @@
     ],
     "OPTIONS": [
       "[Aceptar] #gRecibe #g5 #gFantasmal. #rPierde #r",
-      " #rPV #rMáximo.",
+      " #rPV #rMáximos.",
       "[Rechazar]",
       "[Aceptar] #gRecibe #g3 #gFantasmal. #rPierde #r",
       "",
@@ -326,7 +326,7 @@
     ]
   },
   "Knowing Skull": {
-    "NAME": "Cráneo Sabiondo",
+    "NAME": "Cráneo Sabio",
     "DESCRIPTIONS": [
       "Te encuentras en una cámara vieja y decorada. En el centro del cuarto, un gran cráneo se sienta sobre un pedestal ornamentado. Cuando te acercas, el cráneo #g@explota@ #g@en@ #g@llamas@ y se voltea hacia ti.",
       "\"¿QUÉ ES LO QUE BUSCAS? ¿QUÉ ES LO QUE OFRECES?\" NL En ese mismo instante, la puerta detrás de ti se @cierra.@",
