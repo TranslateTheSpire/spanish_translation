@@ -152,7 +152,7 @@
     ]
   },
   "CorpseExplosionPower": {
-    "NAME": "Corpse Explosion",
+    "NAME": "Explosión de Cadáver",
     "DESCRIPTIONS": [
       "Cuando este enemigo muere, hace daño a TODOS los enemigos por un valor igual sus PV Máximos.",
       "Cuando este enemigo muere, hace daño a TODOS los enemigos por un valor igual a #b",
@@ -358,7 +358,7 @@
     ]
   },
   "Fading": {
-    "NAME": "Desapareciendo",
+    "NAME": "Desvaneciéndose",
     "DESCRIPTIONS": [
       "Muere en #b",
       " turnos.",
@@ -919,7 +919,7 @@
     ]
   },
   "TimeMazePower": {
-    "NAME": "Time Maze",
+    "NAME": "Laberinto Temporal",
     "DESCRIPTIONS": [
       "Whenever you play #b",
       " cards, your turn is ended"
@@ -1042,7 +1042,7 @@
     ]
   },
   "MasterRealityPower": {
-    "NAME": "Master Reality",
+    "NAME": "Amaestrar Realidad",
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, añade #b",
       " #y",
