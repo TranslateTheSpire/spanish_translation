@@ -126,7 +126,7 @@
     "MOVES": [
       "Posición defensiva",
       "Ejecutar",
-      "Bofetada"
+      "Bofetón"
     ],
     "NAME": "El Campeón",
     "DIALOG": [
@@ -238,7 +238,7 @@
     "MOVES": [
       "Crecer"
     ],
-    "NAME": "Bestia Fungi",
+    "NAME": "Bestia Hongo",
     "DIALOG": [
       ""
     ]
@@ -460,7 +460,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Maestro de Marionetas",
+    "NAME": "Titiritero",
     "DIALOG": [
       ""
     ]
