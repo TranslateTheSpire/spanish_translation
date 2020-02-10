@@ -497,7 +497,7 @@
     ]
   },
   "Juggernaut": {
-    "NAME": "Apisonadora",
+    "NAME": "Juggernaut",
     "DESCRIPTIONS": [
       "Cada vez que ganas #yBloqueo, inflige #b",
       " de daño a un enemigo aleatorio."
