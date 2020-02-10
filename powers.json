@@ -842,8 +842,8 @@
   "Split": {
     "NAME": "Dividir",
     "DESCRIPTIONS": [
-      "Cuando su PV es igual o inferior a #b50%, se dividirá en #b2 babosas más pequeñas con",
-      "'sus PV actuales."
+      "Cuando su PV es igual o inferior a #b50%, se dividirá en #b2 babosas más pequeñas con ",
+      " sus PV actuales."
     ]
   },
   "Spore Cloud": {
@@ -921,8 +921,8 @@
   "TimeMazePower": {
     "NAME": "Laberinto Temporal",
     "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended"
+      "Cuando juegues #b",
+      " cartas, se acaba tu turno"
     ]
   },
   "Tools Of The Trade": {
@@ -950,7 +950,7 @@
   "Venomology": {
     "NAME": "Venomología",
     "DESCRIPTIONS": [
-      "#yVeneno crece en #b",
+      "El #yVeneno crece en #b",
       " en lugar de disminuir cada turno."
     ]
   },
