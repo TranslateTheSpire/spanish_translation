@@ -459,7 +459,7 @@
       "No hay necesidad de caer en la avaricia."
     ],
     "OPTIONS": [
-      "[Abrir Esfera] #rPelear. #gRecompenza: #gReliquia.",
+      "[Abrir Esfera] #rPelear. #gRecompensa: #gReliquia.",
       "[Salir]",
       "[Pelear]"
     ]
@@ -480,7 +480,7 @@
   "Nest": {
     "NAME": "El Nido",
     "DESCRIPTIONS": [
-      "Una larga fila de #b~figuras~ #b~encapuchadas~ se pueden ver entrandon NL en lo que parece una #pcatedral.",
+      "Una larga fila de #b~figuras~ #b~encapuchadas~ se pueden ver entrando NL en lo que parece una #pcatedral.",
       "Naturalmente, te unes a la fila y rápidamente estás rodeado de #rCultistas! NL Ellos te ignoran ya que están alegremente @cantando@ y ~ondulando~ sus armas. NL NL #r@\"¡¡ASESINO!!@ #r@ASESINATO@ #r@¡¡ASESINATO!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"¡ASESINATO!@ #r@ASESINATO@ #r@¡¡ASESINATO!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Ves una #yCaja de #yDonativos...",
       "Decides permanecer en la fila (del miedo) y ver que pasará. NL NL Finalmente, estás cara a cara con el líder. Un cultista bien vestido te ofrece una #yDaga #yVistosa. Como los otros antes que tú, te cortas tu antebrazo y dejas que la sangre fluya en un tazón deforme. NL NL ¡Los cultistas @cantan@ y @gritan@ para ti! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Tú cantas también. ¿Por qué no?",
       "Ellos ni se dan cuenta.",
