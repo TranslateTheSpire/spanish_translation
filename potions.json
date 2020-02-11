@@ -177,7 +177,7 @@
     ]
   },
   "SneckoOil": {
-    "NAME": "Aceite de Snecko",
+    "NAME": "Aceite de Serpentija",
     "DESCRIPTIONS": [
       "Te vuelves #yConfuso. Roba #b",
       " cartas. Randomiza el coste de las cartas en tu mano.",
@@ -223,7 +223,7 @@
     ]
   },
   "DuplicationPotion": {
-    "NAME": "Poción de duplicar",
+    "NAME": "Poción de Duplicación",
     "DESCRIPTIONS": [
       "Este turno, tu próxima carta se juega dos veces.",
       "Este turno, tu próximas #b2 cartas se juegan dos veces."

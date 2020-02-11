@@ -72,8 +72,8 @@
     "DESCRIPTION": "Empieza la partida con 1 PV máximo."
   },
   "Praise Snecko": {
-    "NAME": "Alabad a Snecko",
-    "DESCRIPTION": "Reemplaza tu reliquia inicial con el Ojo de Snecko."
+    "NAME": "Alabad a la Serpentija",
+    "DESCRIPTION": "Reemplaza tu reliquia inicial con el Ojo de Serpentija."
   },
   "Shiny": {
     "NAME": "Brillante",
@@ -144,7 +144,7 @@
     "DESCRIPTION": "Todos los enemigos tienen más movimientos y habilidades desafiantes."
   },
   "Careless": {
-    "NAME": "Sin Cuidado",
+    "NAME": "Descuidado",
     "DESCRIPTION": "Al inicio de cada turno, descarta la la primera carta de tu pila de robado."
   },
   "ControlledChaos": {

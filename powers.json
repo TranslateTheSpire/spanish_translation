@@ -152,7 +152,7 @@
     ]
   },
   "CorpseExplosionPower": {
-    "NAME": "Corpse Explosion",
+    "NAME": "Explosión de Cadáver",
     "DESCRIPTIONS": [
       "Cuando este enemigo muere, hace daño a TODOS los enemigos por un valor igual sus PV Máximos.",
       "Cuando este enemigo muere, hace daño a TODOS los enemigos por un valor igual a #b",
@@ -358,7 +358,7 @@
     ]
   },
   "Fading": {
-    "NAME": "Desapareciendo",
+    "NAME": "Desvaneciéndose",
     "DESCRIPTIONS": [
       "Muere en #b",
       " turnos.",
@@ -497,7 +497,7 @@
     ]
   },
   "Juggernaut": {
-    "NAME": "Apisonadora",
+    "NAME": "Juggernaut",
     "DESCRIPTIONS": [
       "Cada vez que ganas #yBloqueo, inflige #b",
       " de daño a un enemigo aleatorio."
@@ -920,10 +920,10 @@
     ]
   },
   "TimeMazePower": {
-    "NAME": "Time Maze",
+    "NAME": "Laberinto Temporal",
     "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended"
+      "Cuando juegues #b",
+      " cartas, se acaba tu turno"
     ]
   },
   "Tools Of The Trade": {
@@ -951,7 +951,7 @@
   "Venomology": {
     "NAME": "Venomología",
     "DESCRIPTIONS": [
-      "#yVeneno crece en #b",
+      "El #yVeneno crece en #b",
       " en lugar de disminuir cada turno."
     ]
   },
@@ -1062,7 +1062,7 @@
     "NAME": "Establecimiento",
     "DESCRIPTIONS": [
       "Cuando #yRetengas una Carta, reduce su coste en #b",
-      "."
+	  "."
     ]
   },
   "Controlled": {

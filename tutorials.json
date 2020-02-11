@@ -211,9 +211,9 @@
     "TEXT": [
       "Abre el Menú Principal. NL NL Cambia o actualiza tus preferencias de gráficos, audio y jugabilidad aquí.",
       "Mira todas las cartas en tu mazo.",
-      "Mira el mapa del calabozo actual.",
+      "Mira el mapa del piso actual.",
       "Si pierdes todo tus PV, mueres.",
-      "Muestra cuánto oro llevas. Oro es la moneda dentro de la Torre.",
+      "Muestra cuánto oro llevas. El oro es la moneda dentro de la Torre.",
       "",
       "",
       "Tiempo transcurrido en esta partida-"
