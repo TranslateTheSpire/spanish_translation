@@ -1,3 +1,4 @@
+
 {
   "Allstar": {
     "NAME": "Toda una Estrella",
@@ -61,7 +62,7 @@
   },
   "My True Form": {
     "NAME": "Mi Verdadera Forma",
-    "DESCRIPTION": "Empieza con una copia de Forma Demoníaca, Forma Espectral y Forma de Eco."
+    "DESCRIPTION": "Empieza con una copia de Forma Demoníaca, Forma Espectral, Forma de Eco y Forma Deva."
   },
   "Night Terrors": {
     "NAME": "Terrores Nocturnos",
@@ -133,7 +134,7 @@
   },
   "Chimera": {
     "NAME": "Quimera",
-    "DESCRIPTION": "Tu baraja inicial es una fusión de la de los 3 personajes."
+    "DESCRIPTION": "Tu baraja inicial es una fusión de la de todos los personajes."
   },
   "NeowTime": {
     "NAME": "Hora de Neow",

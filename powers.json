@@ -1,3 +1,4 @@
+
 {
   "Accuracy": {
     "NAME": "Precisión",
@@ -771,7 +772,8 @@
     "NAME": "Ritual",
     "DESCRIPTIONS": [
       "Al final de su turno, gana #b",
-      " de #yFuerza."
+      " de #yFuerza.",
+      "Al final de tu turno, gana #b"
     ]
   },
   "Rupture": {
@@ -842,8 +844,8 @@
   "Split": {
     "NAME": "Dividir",
     "DESCRIPTIONS": [
-      "Cuando su PV es igual o inferior a #b50%, se dividirá en #b2 babosas más pequeñas con ",
-      " sus PV actuales."
+      "Cuando su PV es igual o inferior a #b50%, se dividirá en #b2 babosas más pequeñas con",
+      "'sus PV actuales."
     ]
   },
   "Spore Cloud": {
@@ -1013,7 +1015,7 @@
     ]
   },
   "FreeAttackPower": {
-    "NAME": "Free Attack Power",
+    "NAME": "Ataque gratuito",
     "DESCRIPTIONS": [
       "Ignora el coste de energía del próximo #yAtaque que juegues.",
       "Ignora el coste de energía de los próximos #b",
@@ -1021,15 +1023,15 @@
     ]
   },
   "DuplicationPower": {
-    "NAME": "Duplication",
+    "NAME": "Duplicar",
     "DESCRIPTIONS": [
       "Tu próxima carta se juega dos veces este turno.",
-      "Tu próximas ",
+      "Tu próximas #b",
       " cartas se juegan dos veces este turno."
     ]
   },
   "NoSkills": {
-    "NAME": "No Skills",
+    "NAME": "Sin Habilidades",
     "DESCRIPTIONS": [
       "No puedes jugar #yHabilidades este turno."
     ]
@@ -1042,12 +1044,12 @@
     ]
   },
   "MasterRealityPower": {
-    "NAME": "Amaestrar Realidad",
+    "NAME": "Dominar la Realidad",
     "DESCRIPTIONS": [
-      "Al comienzo de tu turno, añade #b",
-      " #y",
-      " a tu mano.",
-      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+      "Cuando se crea una carta, esta es #yMejorada.",
+      "deprecated",
+      "deprecated",
+      "deprecated"
     ]
   },
   "Retribution": {
@@ -1065,7 +1067,7 @@
     ]
   },
   "Controlled": {
-    "NAME": "Controlado",
+    "NAME": "Fortaleza Mental",
     "DESCRIPTIONS": [
       "Cuando cambias de #yPosturas, gana #b",
       " de #yBloqueo."
@@ -1080,29 +1082,32 @@
     ]
   },
   "OmegaPower": {
-    "NAME": "Poder Omega",
+    "NAME": "Omega",
     "DESCRIPTIONS": [
-      "Al comienzo de tu turno, haz ",
+      "Al final de tu turno, haz #b",
       " de daño a TODOS los enemigos."
     ]
   },
   "Nirvana": {
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
-      "Cuando juegues una carta, #yMejórala."
+      "Al Adivinar, gana #b",
+      " de #yBloqueo."
     ]
   },
   "WireheadingPower": {
-    "NAME": "Cableado",
+    "NAME": "Previsión",
     "DESCRIPTIONS": [
-      "Al final de tu turno, #yAdivina "
+      "Al final de tu turno, #yAdivina #b",
+      "."
     ]
   },
   "BattleHymn": {
     "NAME": "Himno de Batalla",
     "DESCRIPTIONS": [
-      "La primera Carta que robes cada turno tiene su coste reducido en #b",
-      " durante ese turno."
+      "Al comienzo de tu turno, añade #b",
+      " #yAplastar en a tu mano.",
+      " #yAplastar en a tu mano."
     ]
   },
   "Grounded": {
@@ -1134,9 +1139,9 @@
     ]
   },
   "Adaptation": {
-    "NAME": "Adaptación",
+    "NAME": "Asalto",
     "DESCRIPTIONS": [
-      "Cuando cambias de #yPosturas, roba #b",
+      "Cuando entres en #yCólera, roba #b",
       " carta.",
       " cartas."
     ]
@@ -1169,10 +1174,10 @@
     ]
   },
   "AngelForm": {
-    "NAME": "DEPRECATED Deva",
+    "NAME": "Vivir para Siempre",
     "DESCRIPTIONS": [
-      "At the end of your turn, gain #b",
-      " #yPlated #yArmor."
+      "Al final de tu turno, gana #b",
+      " de #yArmadura #yde #yPlacas."
     ]
   },
   "EmotionalTurmoilPower": {
@@ -1188,11 +1193,11 @@
     ]
   },
   "Collect": {
-    "NAME": "Coleccionar",
+    "NAME": "Recolectar",
     "DESCRIPTIONS": [
-      "Al comienzo de tu turno, gana [W] [W] .",
+      "Al comienzo de tu turno, pon un #yMilagro+ en tu mano.",
       "Al comienzo de tus próximos #b",
-      " turnos, gana [W] [W] ."
+      " turnos, pon un #yMilagro+ en tu mano."
     ]
   },
   "Condense": {
@@ -1226,6 +1231,88 @@
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, gana #b",
       " #yMantra."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Hervir de Rabia",
+    "DESCRIPTIONS": [
+      "Entra en #yCólera al comienzo de tu turno."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "Forma Deva",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu turno, gana [W] ",
+      "Al comienzo de tu turno, gana [W] #b",
+      " veces ",
+      "e incrementa esto por #b",
+      ".",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Omnisciencia",
+    "DESCRIPTIONS": [
+      "DEPRECATED Cuando #yAdivines, #yAdivina #b",
+      "DEPRECATED cartas adicionales."
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "Gesto de Mano",
+    "DESCRIPTIONS": [
+      "Cuando ganes #yBloqueo, aplica #b",
+      " de #yDébil y #yVulnerable a TODOS los enemigos."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "DEPRECATED Gesto de Mano",
+    "DESCRIPTIONS": [
+      "DEPRECATED Cuando cambies de #yPostura, aplica #b",
+      "DEPRECATED  de #yDébil y #yVulnerable a TODOS los enemigos."
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Ayuno",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu turno, pierde ",
+      ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "DEPRECATED Disciplina",
+    "DESCRIPTIONS": [
+      "Si acabas tu turno con [W]  sin usar, roba esa cantidad de cartas adicionales el próximo turno."
+    ]
+  },
+  "FlickPower": {
+    "NAME": "DEPRECATED Chasquido",
+    "DESCRIPTIONS": [
+      "Cuando el enemigo obtenga #yChasquido #b",
+      "2 veces más, recibe #b",
+      "1 vez más, recibe #b",
+      " de daño."
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "Camino a la Victoria",
+    "DESCRIPTIONS": [
+      "Cada vez que juegues #yPuntos #yde #yPresión, pierde #b",
+      " de PV."
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Como Agua",
+    "DESCRIPTIONS": [
+      "Al final de tu turno, si estás en #yCalma, gana #b",
+      " de #yBloqueo."
+    ]
+  },
+  "Study": {
+    "NAME": "Estudiar",
+    "DESCRIPTIONS": [
+      "Al final de tu turno, baraja #b",
+      " #yRevelación en tu pila de extracción.",
+      " #yRevelaciones en tu pila de extracción."
     ]
   }
 }

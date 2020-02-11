@@ -1,3 +1,4 @@
+
 {
   "Anchor": {
     "NAME": "Ancla",
@@ -310,7 +311,7 @@
     ]
   },
   "Dodecahedron": {
-    "NAME": "Dodecaedro Rúnico",
+    "NAME": "DEPRECATED Dodecaedro Rúnico",
     "FLAVOR": "Las runas son indescifrables.",
     "DESCRIPTIONS": [
       "Si tus PV están al máximo gana, ",
@@ -524,9 +525,9 @@
     "NAME": "Lámpara",
     "FLAVOR": "Una lámpara misteriosa que ilumina solo para quien la sujeta.",
     "DESCRIPTIONS": [
-      "Gana ",
+      "Empieza cada combate con un ",
       "[E] ",
-      "el primer turno de cada combate."
+      "adicional."
     ]
   },
   "Lee's Waffle": {
@@ -1221,9 +1222,9 @@
     "NAME": "Cofre Diminuto",
     "FLAVOR": "\"Un buen prototipo.\" - El Arquitecto",
     "DESCRIPTIONS": [
-      "Gana #b",
-      " de #yoro. Tienes un #b10% más probabilidad de encontrar un cofre del tesoro en habitaciones ?.",
-      "Tienes un #b10% más probabilidad de encontrar tesoro en habitaciones ?."
+      "Cada #b",
+      "º habitación #y? es una habitación de #yTesoro.",
+      ""
     ]
   },
   "Tiny House": {
@@ -1240,7 +1241,7 @@
     "NAME": "Caja de Herramientas",
     "FLAVOR": "Una herramienta para cada trabajo.",
     "DESCRIPTIONS": [
-      "Al comienzo de cada combate añade una carta incolora al azar a tu mano."
+      "Al comienzo de cada combate, elige #b1 entre #b3 cartas Incoloras y añádela a tu mano."
     ]
   },
   "Torii": {
@@ -1410,10 +1411,10 @@
     ]
   },
   "Yang": {
-    "NAME": "Yang",
+    "NAME": "Dualidad",
     "FLAVOR": "\"Y el sol se desvaneció para siempre, como si cayera el telón sobre él.\" - Zoroth",
     "DESCRIPTIONS": [
-      "Cuando juegues un #yAtaque, gana #b1 de #yDexteridad temporal."
+      "Cuando juegues un #yAtaque, gana #b1 de #yDestreza temporal."
     ]
   },
   "CloakClasp": {
@@ -1428,11 +1429,12 @@
     "NAME": "Mezcla",
     "FLAVOR": "Arenas misteriosas de origen desconocido. Huele a canela.",
     "DESCRIPTIONS": [
-      "Al principio de cada combate, añade un #yMilagro a tu mano."
+      "Siempre que barajes tu pila de extracción, #yAdivina #b",
+      "."
     ]
   },
   "Yin": {
-    "NAME": "Yin",
+    "NAME": "DEPRECATED Yin",
     "FLAVOR": "No puedes tener luz sin oscuridad. ¿O tal vez sí?",
     "DESCRIPTIONS": [
       "Cuando juegues una #yHabilidad, gana #b1 de #yFuerza temporal."
@@ -1449,8 +1451,54 @@
     "NAME": "Barra de Tungsteno",
     "FLAVOR": "Es muy muy pesada.",
     "DESCRIPTIONS": [
-      "Al comienzo de tu turno, si es antes del turno #b",
-      ", gana #yBloqueo igual al turno actual."
+      "Cada vez que fueras a perder PV, pierde #b",
+      "menos."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Agua Pura",
+    "FLAVOR": "Filtrada usando arena fina y sin ninguna impureza.",
+    "DESCRIPTIONS": [
+      "Al principio de cada combate, añade un #yMilagro a tu mano."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Agua Bendita",
+    "FLAVOR": "Recolectada antes de que la Aguja existiera.",
+    "DESCRIPTIONS": [
+      "Reemplaza #pAgua #pPura. Al principio de cada combate, añade #b3 #yMilagros a tu mano."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Taco de Cuerno",
+    "FLAVOR": "Es agradable tenerla en tu mano. ¿Para que sirve?",
+    "DESCRIPTIONS": [
+      "Al principio de tu segundo turno, gana #b",
+      " de #yBloqueo."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Rueda del Capitán",
+    "FLAVOR": "Baratija de madera tallada con precisión delicada. Tiene un nombre esculpido, pero está en otro idioma.",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu tercer turno, gana #b",
+      " de #yBloqueo."
+    ]
+  },
+  "GoldenEye": {
+    "NAME": "Ojo Dorado",
+    "FLAVOR": "Observa las mentes de aquellos que están cerca, prediciendo sus futuros movimientos.",
+    "DESCRIPTIONS": [
+      "Cuando #yAdivinas, #yAdivina #b",
+      " cartas adicionales."
+    ]
+  },
+  "Damaru": {
+    "NAME": "Damru",
+    "FLAVOR": "El sonido de un pequeño tambor te mantiene despierto, allanando el camino.",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu turno, gana #b",
+      " #yMantra."
     ]
   }
 }

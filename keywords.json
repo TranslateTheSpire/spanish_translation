@@ -129,9 +129,9 @@
     },
     "LOCK_ON": {
       "NAMES": [
-        "bloquear objetivo"
+        "localizar"
       ],
-      "DESCRIPTION": "Los enemigos marcados con Bloquear Objetivo reciben un #b50% más de daño de los Orbes."
+      "DESCRIPTION": "Los enemigos marcados con Localizar reciben un #b50% más de daño de los Orbes."
     },
     "OPENER": {
       "NAMES": [
@@ -158,7 +158,9 @@
         "mantiene",
         "retiene",
         "retenido",
-        "retén"
+        "retén",
+        "retenla",
+        "retenlas"
       ],
       "DESCRIPTION": "Las Cartas Mantenidas no son descartadas al final del turno."
     },
@@ -276,7 +278,8 @@
     },
     "WRATH": {
       "NAMES": [
-        "cólera"
+        "cólera",
+        "colera"
       ],
       "DESCRIPTION": "En esta #yPostura, haces y recibes el doble de daño de ataques."
     },
@@ -301,7 +304,8 @@
     },
     "SCRY": {
       "NAMES": [
-        "adivina"
+        "adivina",
+        "adivinar"
       ],
       "DESCRIPTION": "Mira las primeras X cartas de tu pila de robado. Puedes descartar las que quieras."
     },
@@ -318,6 +322,18 @@
         "vigor"
       ],
       "DESCRIPTION": "Tu próximo Ataque hace daño adicional."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritual"
+      ],
+      "DESCRIPTION": "Gana #yFuerza al final de cada turno."
+    },
+    "FATAL": {
+      "NAMES": [
+        "fatal"
+      ],
+      "DESCRIPTION": "Se activa cuando esta carta mata a un enemigo no súbdito."
     }
   }
 }
