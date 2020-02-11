@@ -1,3 +1,4 @@
+
 {
   "AcidSlime_L": {
     "MOVES": [
@@ -126,7 +127,7 @@
     "MOVES": [
       "Posición defensiva",
       "Ejecutar",
-      "Bofetada"
+      "Bofetón"
     ],
     "NAME": "El Campeón",
     "DIALOG": [
@@ -137,8 +138,7 @@
       "~No~ ~hay~ ~vuelta~ ~atrás...~",
       "@¿¿DERROTA??@ NL @¡¡IMPOSIBLE!!@",
       "~MUERE~ ~.~ ~.~ ~.~",
-      "¡Enfréntate a mi furia!",
-      "@ESO@ @ES@ NL @MI@ @CINTURÓN!!@"
+      "¡Enfréntate a mi furia!"
     ]
   },
   "Chosen": {
@@ -461,7 +461,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Maestro de Marionetas",
+    "NAME": "Titiritero",
     "DIALOG": [
       ""
     ]
@@ -655,8 +655,7 @@
     "NAME": "Devorador de Tiempo",
     "DIALOG": [
       "~Ah...~ NL ~Compañía...~",
-      "~Ilusos…~ NL @¡ILUUSOOOS!@",
-      "~Nunca....~ NL ~...me caíste..~ NL ~..bien...~"
+      "~Ilusos…~ NL @¡ILUUSOOOS!@"
     ]
   },
   "TorchHead": {
@@ -672,7 +671,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Transeunte",
+    "NAME": "Transeúnte",
     "DIALOG": [
       ""
     ]
@@ -690,13 +689,13 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Lanza de la Aguja"
+    "NAME": "Lanza de la Torre"
   },
   "SpireShield": {
     "MOVES": [
       ""
     ],
-    "NAME": "Escudo de la Aguja",
+    "NAME": "Escudo de la Torre",
     "DIALOG": [
       ""
     ]
