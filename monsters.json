@@ -137,7 +137,8 @@
       "~No~ ~hay~ ~vuelta~ ~atrás...~",
       "@¿¿DERROTA??@ NL @¡¡IMPOSIBLE!!@",
       "~MUERE~ ~.~ ~.~ ~.~",
-      "¡Enfréntate a mi furia!"
+      "¡Enfréntate a mi furia!",
+      "@ESO@ @ES@ NL @MI@ @CINTURÓN!!@"
     ]
   },
   "Chosen": {
@@ -654,7 +655,8 @@
     "NAME": "Devorador de Tiempo",
     "DIALOG": [
       "~Ah...~ NL ~Compañía...~",
-      "~Ilusos…~ NL @¡ILUUSOOOS!@"
+      "~Ilusos…~ NL @¡ILUUSOOOS!@",
+      "~Nunca....~ NL ~...me caíste..~ NL ~..bien...~"
     ]
   },
   "TorchHead": {

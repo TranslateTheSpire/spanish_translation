@@ -80,7 +80,7 @@
     ]
   },
   "LOC_GRE": {
-    "HEADER": "Traducción al Francés",
+    "HEADER": "Traducción al Griego",
     "NAMES": [
       "Kotsos \"Iglor\" Diamond"
     ]
@@ -99,7 +99,9 @@
     "NAMES": [
       "Jade \"HobNob\" Stevanovic",
       "Mero Marco",
-      "Luigi Squarzina"
+      "Luigi Squarzina",
+      "Playtesting:",
+      "Mattylink Heropon"
     ]
   },
   "LOC_JPN": {
@@ -150,7 +152,8 @@
       "Erwin \"mateusz3010\" Matys",
       "Mettie",
       "Rafa³ \"SponTon83\" Szyszko",
-      "Marek \"Skorpionex\" Mazur"
+      "Marek \"Skorpionex\" Mazur",
+      "Rafał \"SponTon83\" Szyszko"
     ]
   },
   "LOC_PTB": {
@@ -376,6 +379,19 @@
       "Kakehashi Games (Traducción oficial):",
       "Soporte de Publicación en Japón:  Kakehashi Games",
       "Traduccion Japonesa:  Rie Ihara"
+    ]
+  },
+  "LOC_VIE": {
+    "HEADER": "Traducción al Vietnamita",
+    "NAMES": [
+      "MercTrans Localization Team",
+      "Traducción:",
+      "Dinh Long Hoang (donkrieg1011)",
+      "Dinh Hoang Nguyen (clesta)",
+      "Coordinación y Organización Lingüística:",
+      "Hoang Son Do",
+      "Agradecimientos Especiales:",
+      "Azy Tazer"
     ]
   }
 }

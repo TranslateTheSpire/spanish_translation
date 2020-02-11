@@ -72,7 +72,7 @@
       "El Blindado",
       "La Silenciosa",
       "El Defectuoso",
-      "El Vigilante"
+      "La Vigilante"
     ]
   },
   "AbstractPotion": {
@@ -184,7 +184,7 @@
   },
   "CampfireSleepEffect": {
     "TEXT": [
-      "¿Soñoliento?"
+      "¿Somnoliento?"
     ]
   },
   "CampfireSmithEffect": {
@@ -259,7 +259,7 @@
       "Desconocido",
       "???",
       " Al Siguiente Desbloqueo",
-      "Este personaje es desbloqueado al completar una partida normal y tener el tercer personaje desbloqueado."
+      "Este personaje es desbloqueado al ganar una partida normal y tener el tercer personaje desbloqueado."
     ]
   },
   "CharacterSelectScreen": {
@@ -278,7 +278,7 @@
       "Semilla aleatoria",
       "La semilla inicial se utiliza para determinar la aleatoriedad de la partida.",
       "Establecer semilla",
-      "El Vigilante"
+      "La Vigilante"
     ]
   },
   "ChooseOneScreen": {
@@ -602,7 +602,8 @@
       "Escoge ",
       " Cartas para ",
       "Escoge cualquier número de cartas para ",
-      "Escoge una carta para "
+      "Escoge una carta para ",
+      "Copiar"
     ]
   },
   "HiddenChamberAction": {
@@ -673,7 +674,8 @@
       "Arriba",
       "Abajo",
       "Mando Habilitado",
-      "Modo Pantalla Táctil"
+      "Modo Pantalla Táctil",
+      "Vistazo"
     ]
   },
   "LanguageDropdown": {
@@ -894,7 +896,8 @@
       "Resolución:",
       "Resolución: NL Monitor en pantalla completa:",
       "Cambia en que monitor se muestra el juego estando en pantalla completa.",
-      "Confirmar con pulsaciones largas"
+      "Confirmar con pulsaciones largas",
+      "Texto Grande"
     ]
   },
   "PatchNotesScreen": {
@@ -1070,13 +1073,13 @@
       "Centinela y Guardián Esférico",
       "Centurion y Místico",
       "Parásito y Bestia Hongo",
-      "Banda de Bandidos Enmáscarados",
+      "Banda de Bandidos Enmascarados",
       "Peces Gordos del Coliseo",
       "Esclavos del Coliseo",
-      "Tres Formás",
+      "Tres Formas",
       "Horda de Gusanos Mandibulares",
-      "Cuatro Formás",
-      "Guardian Esférico con Formás",
+      "Cuatro Formas",
+      "Guardian Esférico con Formas",
       "Caminantes Doble Orbe",
       "Donu y Deca",
       "Centinelas",
@@ -1124,7 +1127,7 @@
       "Semilla: %s",
       "Semilla Personalizada: %s",
       "d/M/yyyy, h:mm a",
-      "El Vigilante"
+      "La Vigilante"
     ]
   },
   "SaveSlot": {
@@ -1334,7 +1337,7 @@
       "¡Arte de carta beta de La Silenciosa desbloqueado!",
       "¡Arte de carta beta de El Defectuoso desbloqueado!",
       "¡Todos los artes de beta de carta desbloqueados!",
-      "¡Arte de carta beta de El Vigilante desbloqueado!"
+      "¡Arte de carta beta de La Vigilante desbloqueado!"
     ]
   },
   "RichPresence": {

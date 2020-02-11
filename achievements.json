@@ -85,7 +85,7 @@
       "Gana una partida con un mazo de 5 cartas o menos",
       "Derrota a Donu con 'Alimentarse'",
       "Gana una partida con El Defectuoso.",
-      "Gana el juego con un mazo sin cartas no comunes ni raras.",
+      "Gana el juego con un mazo sin cartas poco comunes o raras.",
       "Ten 25 o más de Concentración durante un combate.",
       "Canaliza 9 Orbes de Plasma en un solo turno.",
       "Juega 10 o más cartas de coste 0 en un solo turno.",
@@ -95,10 +95,10 @@
       "Completa el final con el Blindado.",
       "Completa el final con la Silenciosa.",
       "Completa el final con el Defectuoso.",
-      "Completa el final con el Blindado, la Silenciosa, y el Defectuoso.",
+      "Completa el final con el Blindado, la Silenciosa, el Defectuoso, y la Vigilante.",
       "Obtén todos los logros.",
-      "Completa el juego con el Vigilante.",
-      "Completa el final con el Vigilante."
+      "Completa el juego con la Vigilante.",
+      "Completa el final con la Vigilante."
     ]
   },
   "CharStat": {
@@ -127,7 +127,12 @@
       "Jefes derrotados: #y",
       "Enemigos derrotados: #y",
       "Mayor racha ganadora: #y",
-      "Puntuación más alta: #y"
+      "Puntuación más alta: #y",
+      "%02d:%02d:%02d",
+      "%02d:%02d",
+      "#y%02dh #y%02dm #y%02ds",
+      "#y%02dm #y%02ds",
+      "%01d:%02d:%02d"
     ]
   },
   "StatsScreen": {
@@ -137,7 +142,7 @@
       "#rEl #rBlindado",
       "#gLa #gSilenciosa",
       "#bEl #bDefectuoso",
-      "#pEl #pVigilante"
+      "#pLa #pVigilante"
     ],
     "TEXT": [
       "Volver"
