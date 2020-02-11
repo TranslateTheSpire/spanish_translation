@@ -1348,7 +1348,7 @@
     "UPGRADE_DESCRIPTION": "Cólera: Entra en Calma. NL Calma: Entra en cólera."
   },
   "Swivel": {
-    "NAME": "Volverse",
+    "NAME": "Pivotar",
     "DESCRIPTION": "Gana !B! de Bloqueo. NL El siguiente Ataque que juegues cuesta 0."
   },
   "Wish": {
@@ -1504,7 +1504,7 @@
     "DESCRIPTION": "Play the top X cards of your draw pile. If X is 3 or more, Retain X cards."
   },
   "CutThroughFate": {
-    "NAME": "Desafiar el Destino",
+    "NAME": "Desafiar al Destino",
     "DESCRIPTION": "Haz !D! de daño. NL Adivina !M!. NL Roba 1 carta."
   },
   "WaveOfTheHand": {
@@ -1690,7 +1690,7 @@
     "DESCRIPTION": "Retiene. NL Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy."
   },
   "BowlingBash": {
-    "NAME": "Bowling Bash",
+    "NAME": "Pleno",
     "DESCRIPTION": "Haz !D! de daño por cada enemigo en combate."
   },
   "Truth": {
@@ -1764,7 +1764,7 @@
     "DESCRIPTION": "Haz !D! de daño. NL Al Adivinar, devuelve esta carta de la pila de descartes a tu mano."
   },
   "CrushJoints": {
-    "NAME": "Aplastar Juntas",
+    "NAME": "Dislocar",
     "DESCRIPTION": "Haz !D! de daño. NL Si la última carta jugada este combate fue una Habilidad, aplica !M! de Vulnerable."
   },
   "Vengeance": {
