@@ -1471,7 +1471,7 @@
   },
   "Beta": {
     "NAME": "Beta",
-    "DESCRIPTION": "Añade un *Omega en tu pila de extracción. NL Agota.",
+    "DESCRIPTION": "Baraja un *Omega en tu pila de extracción. NL Agota.",
     "UPGRADE_DESCRIPTION": ""
   },
   "FearNoEvil": {
@@ -1660,7 +1660,7 @@
   "ForeignInfluence": {
     "NAME": "Influencia Externa",
     "DESCRIPTION": "Elige 1 entre 3 Ataques de cualquier color para añadir a tu mano. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Elige 1 entre 3 Ataques para añadir a tu mano. NL Cuesta 0 este turno. NL Agota."
+    "UPGRADE_DESCRIPTION": "Elige 1 entre 3 Ataques de cualquier color para añadir a tu mano. NL Cuesta 0 este turno. NL Agota."
   },
   "SignatureMove": {
     "NAME": "Movimiento Característico",
