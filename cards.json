@@ -1322,7 +1322,7 @@
     "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Causality": {
-    "NAME": "Causa",
+    "NAME": "Causalidad",
     "DESCRIPTION": "Roba cartas hasta que tu mano esté llena. NL Agota.",
     "UPGRADE_DESCRIPTION": "Retiene. NL Roba cartas hasta que tu mano esté llena. NL Agota."
   },
@@ -1631,7 +1631,7 @@
   },
   "ClearTheMind": {
     "NAME": "Tranquilidad",
-    "DESCRIPTION": "Entra en Calma. NL Agota."
+    "DESCRIPTION": "Retiene. NL Entra en Calma. NL Agota."
   },
   "Safety": {
     "NAME": "Seguridad",
@@ -1789,7 +1789,7 @@
     "DESCRIPTION": "Haz !D! de daño."
   },
   "Fasting": {
-    "NAME": "DEPRECATED Rápido",
+    "NAME": "DEPRECATED Ayuno",
     "DESCRIPTION": "DEPRECATED Gana !M! de Artefacto."
   },
   "Swipe": {
@@ -1859,11 +1859,11 @@
     "UPGRADE_DESCRIPTION": "Baraja un *Expiradora con X+1 en tu pila de extracción. NL Agota."
   },
   "WaveOfTheHand2": {
-    "NAME": "Gesto de Mano A",
+    "NAME": "Gesto de Mano",
     "DESCRIPTION": "Cuando cambies de Postura este turno, aplica !M! de Débil y !M! de Vulnerable a TODOS los enemigos."
   },
   "Fasting2": {
-    "NAME": "Rápido B",
+    "NAME": "Ayuno",
     "DESCRIPTION": "Gana !M! de Fuerza. NL Gana !M! de Destreza. NL Gana 1 menos de [W] al comienzo de cada turno."
   },
   "Discipline": {
