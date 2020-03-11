@@ -283,7 +283,7 @@
       "[Tomar] #gRecibir #gÍdolo #gDorado. #rActivar #runa #rtrampa.",
       "[Salir]",
       "[Adelantarse] #rMaldecirte #r- #rLesión.",
-      "[Destruir] #rTomar #r",
+      "[Destruir] #rRecibe #r",
       " #rde #rDaño.",
       "[Esconderse] #rPerder #r",
       " #rPV #rMáximos."
@@ -706,7 +706,7 @@
       "[Comprar 3 Pociones] #y",
       " #yOro.",
       "[Salir]",
-      "[Salir] #rTomar #r",
+      "[Salir] #rRecibe #r",
       " #rde #rDaño."
     ]
   },
