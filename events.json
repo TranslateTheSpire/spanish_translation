@@ -411,8 +411,8 @@
     "NAME": "¡Empareja y Quédatelas!",
     "DESCRIPTIONS": [
       "\" #b¡Doce cartas! ¡Emparéjalas para quedártelas! #bCinco intentos, sin reintentos. NL ¿Qué esperas? ¡Comencemos!\"",
-      "Completas el juego del gremlin y levantas la mirada. NL ¿Desapareció?",
-      "Un gremlin está barajando cartas en una mesa. Este monstruo parece ser inofensivo. Con curiosidad, te acercas a él."
+      "Completas el juego del gremlin y levantas la mirada. NL ¿Ha desaparecido?",
+      "Un gremlin está barajando cartas en una mesa. Este parece ser inofensivo. Con curiosidad, te acercas a él."
     ],
     "OPTIONS": [
       "[Continuar]",
@@ -791,11 +791,11 @@
       "Encuentras a un gremlin muy alegre y bien vestido. NL \"¡Es hora de girar la rueda! ¿Te sientes con ~S~ ~U~ ~E~ ~R~ ~T~ ~E~ ~?~ ¡Claro que sí!\"",
       "\"¡Ganaste algo de #yORO! NL YAY!!!!\"",
       "\"¡Ah, un #gregalo! NL ¡Disfruta!\"",
-      "\"Oooh, ¡una #gCuración gratis para ti!\"",
+      "\"Oooh, ¡Una #gCuración gratis para ti!\"",
       "\"¡Parece que has ganado una #pMaldición! NL Eso no es bueno. NL ¡Sin duda que no! ¡Más suerte para la próxima!\"",
       "\"Ohh, el poder de la #r~oscuridad...~ NL ¡Escoge una carta para eliminar de tu mazo!\"",
-      "\"Uh oh! NL ¡Perdiste!\" NL Ves que saca una navaja...",
-      "¡Atacas al gremlin pero es demasiado rápido! NL Te alcanza unas cuantas veces con una navaja. NL \"¡¡El precio ha sido pagado!!\" NL y con eso, el gremlin y la rueda desaparecen en una ráfaga de humo."
+      "\"¡Uh oh! NL ¡Perdiste!\" NL Le ves sacar una navaja...",
+      "Atacas al gremlin, ¡Pero es demasiado rápido! NL Te alcanza unas cuantas veces con una navaja. NL \"¡¡El precio se ha pagado!!\" NL Y con eso, el gremlin y la rueda desaparecen en una ráfaga de humo."
     ],
     "OPTIONS": [
       "[Jugar]",
