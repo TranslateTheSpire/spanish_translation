@@ -174,7 +174,7 @@
     "NAME": "Campana de Invocación",
     "FLAVOR": "Esta campana de hierros oscuros sonó 3 veces cuando la encontraste, pero ahora se mantiene en silencio.",
     "DESCRIPTIONS": [
-      "Obtén #b3 #rMaldiciones y #b3 #yReliquias.",
+      "Al cojerla, obtén una #rMaldición especial y #b3 #yReliquias.",
       "La Campana Suena...",
       "Omitir Recompensas",
       "Cerrar"
@@ -480,7 +480,7 @@
     "NAME": "Cometa Voladora",
     "FLAVOR": "La cometa flota a tu alrededor en combate, impulsada por una fuerza misteriosa.",
     "DESCRIPTIONS": [
-      "Descarta #b2 cartas y gana [G] al comienzo de cada turno."
+      "La primera vez de cada turno que descartes una carta, gana [G]."
     ]
   },
   "Ice Cream": {
@@ -1354,7 +1354,7 @@
     "NAME": "Cuchilla de Muñeca",
     "FLAVOR": "Útil para asesinatos.",
     "DESCRIPTIONS": [
-      "Las cartas de #yataque que cuestan #b0 infligen #b3 de daño adicional."
+      "Las cartas de #yataque que cuestan #b0 infligen #b4 de daño adicional."
     ]
   },
   "CeramicFish": {
@@ -1451,7 +1451,7 @@
     "FLAVOR": "Es muy muy pesada.",
     "DESCRIPTIONS": [
       "Cada vez que fueras a perder PV, pierde #b",
-      "menos."
+      " menos."
     ]
   },
   "PureWater": {
@@ -1469,7 +1469,7 @@
     ]
   },
   "HornCleat": {
-    "NAME": "Taco de Cuerno",
+    "NAME": "Cornamusa",
     "FLAVOR": "Es agradable tenerla en tu mano. ¿Para que sirve?",
     "DESCRIPTIONS": [
       "Al principio de tu segundo turno, gana #b",

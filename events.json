@@ -283,7 +283,7 @@
       "[Tomar] #gRecibir #gÍdolo #gDorado. #rActivar #runa #rtrampa.",
       "[Salir]",
       "[Adelantarse] #rMaldecirte #r- #rLesión.",
-      "[Destruir] #rTomar #r",
+      "[Destruir] #rRecibe #r",
       " #rde #rDaño.",
       "[Esconderse] #rPerder #r",
       " #rPV #rMáximos."
@@ -411,8 +411,8 @@
     "NAME": "¡Empareja y Quédatelas!",
     "DESCRIPTIONS": [
       "\" #b¡Doce cartas! ¡Emparéjalas para quedártelas! #bCinco intentos, sin reintentos. NL ¿Qué esperas? ¡Comencemos!\"",
-      "Completas el juego del gremlin y levantas la mirada. NL ¿Desapareció?",
-      "Un gremlin está barajando cartas en una mesa. Este monstruo parece ser inofensivo. Con curiosidad, te acercas a él."
+      "Completas el juego del gremlin y levantas la mirada. NL ¿Ha desaparecido?",
+      "Un gremlin está barajando cartas en una mesa. Este parece ser inofensivo. Con curiosidad, te acercas a él."
     ],
     "OPTIONS": [
       "[Continuar]",
@@ -550,7 +550,7 @@
       "#r~MIEDO.~ NL NL Una criatura demoníaca se alza ante ti, con sus alas desplegadas, y carcajadas aullantes. Los cuerpos sin vida de una tribu te rodean mientras el pueblo es sumido en terribles #p~llamas~ #p~oscuras.~ NL NL El demonio te llama, provocándote. NL NL \" #r@AHORA@ #r@SÍ@ #r@QUE@ #r@ERES@ #r@EL@ #r@MÁS@ #r@FUERTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Su risa resuena eternamente... ",
       "#g~TRIUNFO.~ NL NL Los restos de una #p~criatura~ #p~fantasmal~ se hunden en el fango ante ti, apenas visibles a la luz de la luna. Has demostrado tu valía entre tus hermanas. NL NL Irguiéndote victorioso, esperas en silencio mientras las otras colocan ceremonialmente la #ycalavera de la #ycriatura en tu cabeza. El ritual ha acabado. NL NL Te diriges hacia la Torre...",
       "#b~DESCONOCIDO.~ NL NL Aún sin implementar.",
-      "#p~SERENIDAD.~ NL NL Dos criaturas primitivas luchan por un cuerpo al lado del camino. Observas, sin ninguna emoción. NL #yObservar. #yRecordar. #yVivir. Esta es la misión del Vigilante. NL NL Hace poco, uno de tus compañeros ha dejado de informar en su misión: un Aguja de origen desconocido. NL NL Cuando la pelea termina, continuas tu camino, sin inmutarte por la sangrienta pelea que acaba de ocurrir."
+      "#p~SERENIDAD.~ NL NL Dos criaturas primitivas luchan por un cuerpo al lado del camino. Observas, sin ninguna emoción. NL #yObservar. #yRecordar. #yVivir. Esta es la misión de la Vigilante. NL NL Hace poco, uno de tus compañeros ha dejado de informar en su misión: un Aguja de origen desconocido. NL NL Cuando la pelea termina, continuas tu camino, sin inmutarte por la sangrienta pelea que acaba de ocurrir."
     ],
     "OPTIONS": [
       "[Recordar] #gAñade #g1 #gCartas #gincoloras #ga #gtu #gmazo.",
@@ -706,7 +706,7 @@
       "[Comprar 3 Pociones] #y",
       " #yOro.",
       "[Salir]",
-      "[Salir] #rTomar #r",
+      "[Salir] #rRecibe #r",
       " #rde #rDaño."
     ]
   },
@@ -791,11 +791,11 @@
       "Encuentras a un gremlin muy alegre y bien vestido. NL \"¡Es hora de girar la rueda! ¿Te sientes con ~S~ ~U~ ~E~ ~R~ ~T~ ~E~ ~?~ ¡Claro que sí!\"",
       "\"¡Ganaste algo de #yORO! NL YAY!!!!\"",
       "\"¡Ah, un #gregalo! NL ¡Disfruta!\"",
-      "\"Oooh, ¡una #gCuración gratis para ti!\"",
+      "\"Oooh, ¡Una #gCuración gratis para ti!\"",
       "\"¡Parece que has ganado una #pMaldición! NL Eso no es bueno. NL ¡Sin duda que no! ¡Más suerte para la próxima!\"",
       "\"Ohh, el poder de la #r~oscuridad...~ NL ¡Escoge una carta para eliminar de tu mazo!\"",
-      "\"Uh oh! NL ¡Perdiste!\" NL Ves que saca una navaja...",
-      "¡Atacas al gremlin pero es demasiado rápido! NL Te alcanza unas cuantas veces con una navaja. NL \"¡¡El precio ha sido pagado!!\" NL y con eso, el gremlin y la rueda desaparecen en una ráfaga de humo."
+      "\"¡Uh oh! NL ¡Perdiste!\" NL Le ves sacar una navaja...",
+      "Atacas al gremlin, ¡Pero es demasiado rápido! NL Te alcanza unas cuantas veces con una navaja. NL \"¡¡El precio se ha pagado!!\" NL Y con eso, el gremlin y la rueda desaparecen en una ráfaga de humo."
     ],
     "OPTIONS": [
       "[Jugar]",

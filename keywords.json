@@ -155,14 +155,14 @@
     },
     "RETAIN": {
       "NAMES": [
-        "mantiene",
         "retiene",
+        "mantiene",
         "retenido",
         "retén",
         "retenla",
         "retenlas"
       ],
-      "DESCRIPTION": "Las Cartas Mantenidas no son descartadas al final del turno."
+      "DESCRIPTION": "Las Cartas Retenidas no son descartadas al final del turno."
     },
     "SHIV": {
       "NAMES": [
