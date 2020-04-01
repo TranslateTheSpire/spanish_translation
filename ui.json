@@ -722,7 +722,7 @@
       "Option 6. DO NOT TRANSLATE",
       "Amigos",
       "Global",
-      "Vigilante"
+      "La Vigilante"
     ]
   },
   "LeaderboardsScreen": {
@@ -876,9 +876,9 @@
       "Gráficos",
       "Resolución: NL Framerate máximo:",
       "Pantalla completa NL Pantalla completa sin bordes (recomendado) NL Sacudir Pantalla",
-      "Sonido",
-      "Sonido Máster NL Volúmen de la Música NL Volúmen de Efectos",
-      "Sonidos de Fondo NL Silenciar al estar de fondo",
+      "Volumen",
+      "General NL Música NL Efectos",
+      "Sonidos Ambientales NL Silenciar al estar en el fondo",
       "Preferencias",
       "Mostrar suma de daño en dorado NL Mostrar daño bloqueado en azul NL Desactivar confirmación al escoger 1 carta",
       "Modo rápido",
