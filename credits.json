@@ -116,17 +116,20 @@
   "LOC_KOR": {
     "HEADER": "Traducción al Koreano",
     "NAMES": [
-      "Coordinador de Traducción:",
-      "Eteriny",
-      "Traducción:",
-      "Simcoding",
-      "DesFrog",
-      "Fissh",
-      "insight",
-      "K4lium",
-      "hina",
-      "Traducción de la Página en Steam:",
-      "GyeRyak"
+		"Coordinador de Traducción:",
+		"Eteriny",
+		"Fissh",
+		"GyeRyak",
+		"Traducción:",
+		"Simcoding",
+		"DesFrog",
+		"insight",
+		"K4lium",
+		"hina",
+		"Vekan",
+		"Fuente:",
+		"In-Game: GyeonggiCheonnyeon(Batang) by Gyeonggi-Do",
+		"Recursos de la tienda: NanumBrush, NanumPen by NAVER Corporation"
     ]
   },
   "LOC_NOR": {
@@ -233,10 +236,13 @@
   "LOC_TUR": {
     "HEADER": "Traducción al Turco",
     "NAMES": [
-      "Erdem Gürbüz",
-      "\"onparalelkenarag\"",
-      "\"onparalelkenarag\"",
-      "Berkan Çalıkoğlu"
+		"Traducción y Coordinación:",
+        "Ertürk Yılmaz",
+        "Traducción:",
+        "Erdem Gürbüz",
+        "Ege \"sLanKy\" Güçkıran",
+        "\"onparalelkenarag\"",
+        "Berkan Çalıkoğlu"
     ]
   },
   "LOC_UKR": {
@@ -323,7 +329,7 @@
       "Ryan Mathisen",
       "Anthony McMillian",
       "Brad Meine",
-      "Jacob Morris",
+      "Jade Wesley",
       "Alex Rockwell",
       "Greg Scheopner",
       "John \"Slide20xl\" Smith",
