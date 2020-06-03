@@ -1344,11 +1344,11 @@
   },
   "RichPresence": {
     "TEXT": [
-      "Diaria - Piso %s",
-      "Personalizada - Piso %s",
+      "Diaria P%s",
+      "Personalizada P%s",
       " P%s",
       "Menu Principal",
-      " (A%s)"
+      " A%s"
     ]
   },
   "MiscConsoleStrings": {
