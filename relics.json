@@ -480,7 +480,7 @@
     "NAME": "Cometa Voladora",
     "FLAVOR": "La cometa flota a tu alrededor en combate, impulsada por una fuerza misteriosa.",
     "DESCRIPTIONS": [
-      "La primera vez de cada turno que descartes una carta, gana [G]."
+      "La primera vez de cada turno que descartes una carta, gana [E]."
     ]
   },
   "Ice Cream": {
@@ -874,7 +874,7 @@
     "NAME": "Punta de Pluma",
     "FLAVOR": "Al sostener esta punta puedes ver a todos los abatidos por el dueño anterior de la pluma. Una violenta historia.",
     "DESCRIPTIONS": [
-      "Cada #b10mo #yataque que juegues hace doble daño."
+      "Cada #b10º #yataque que juegues hace doble daño."
     ]
   },
   "Philosopher's Stone": {
