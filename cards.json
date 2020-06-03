@@ -1850,7 +1850,8 @@
     "DESCRIPTION": "Haz !D! de daño X veces.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "Haz !D! de daño !M! veces."
+      "Haz !D! de daño !M! veces.",
+      "Haz !D! de daño !M! vez."
     ]
   },
   "ConjureBlade": {
