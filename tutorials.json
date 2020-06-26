@@ -81,13 +81,15 @@
       "Slay the Spire corre mejor en modo verdadero de pantalla completa. Recomendado para OSX ya que el Dock y la barra de menú estan escondidos. NL NOTA: En PC, usar Alt-Tab de vuelta a Slay the Spire puede que no funcione con modo pantalla completa.",
       "Ya que Slay the Spire no es un juego muy demandante, recomendamos Pantalla Completa sin Bordes para poder realizar Alt-Tab con rapidez. Funciona mejor en PC.",
       "Nota: Si el VSync esta activado, el Framerate Máximo no puede pasar por encima de la frecuencia de actualización de tu monitor.",
-      "El controlador está incompleto para esta pantalla."
+      "El controlador está incompleto para esta pantalla.",
+      "Cambia el monitor a usar en Pantalla Completa."
     ],
     "LABEL": [
       "Metricas",
       "Pantalla Completa",
       "Pantalla Completa sin Bordes",
-      "Framerate Máximo"
+      "Framerate Máximo",
+      "Monitor en Pantalla Completa"
     ]
   },
   "Player Tips": {
