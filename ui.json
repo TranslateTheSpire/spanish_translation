@@ -1196,17 +1196,17 @@
   },
   "SingleViewRelicPopup": {
     "TEXT": [
-      "Jefe",
-      "Común",
-      "Obsoleta",
-      "Rara",
-      "Tienda",
-      "Evento",
-      "Básica",
-      "Poco Común",
-      "Bloqueada",
-      "Desconocida",
-      "Reliquia ",
+      "Reliquia de Jefe",
+      "Reliquia Común",
+      "Deprecated",
+      "Reliquia Rara",
+      "Reliquia de Tienda",
+      "Reliquia de Evento",
+      "Reliquia Inicial",
+      "Reliquia Poco Común",
+      "Reliquia Bloqueada",
+      "Reliquia Desconocida",
+      "",
       "Esta reliquia aún no ha sido desbloqueada.",
       "Esta reliquia aún no se ha visto."
     ]
